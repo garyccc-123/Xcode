@@ -179,18 +179,18 @@ struct SubCategoryListView: View {
     @Binding var navigationPath: [Product]
     
     var body: some View {
-        List(mainCategory.subcategories) { subCat in
-            NavigationLink(
-                destination: ProductListingsView(
-                    mainCategoryName: mainCategory.name,
-                    subCategoryName: subCat.name,
-                    navigationPath: $navigationPath
-                )
-            ) {
-                Text(subCat.name)
-                    .font(.subheadline)
-            }
-        }
-        .navigationTitle(mainCategory.name)
-    }
-}
+                List(mainCategory.subcategories) { subCat in
+                    NavigationLink {
+                        ThirdCategoryListView(
+                            mainCategoryName: mainCategory.name,
+                            subCategoryName: subCat.name,
+                            navigationPath: $navigationPath
+                        )
+                    } label: {
+                        Text(subCat.name)
+                            .font(.subheadline)
+                    }
+                }
+                 .navigationTitle(mainCategory.name)
+             }
+         }

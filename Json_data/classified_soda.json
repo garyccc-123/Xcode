@@ -77,11 +77,13 @@
   },
   {
     "uid": "d4ee2d6a6e547d53322fdfc7db29df66",
-    "eng": "COCA-COLA Coca-cola Mini Can 200ml 6p (Random Pick)"
+    "eng": "COCA-COLA Coca-cola Mini Can 200ml 6p (Random Pick)",
+    "norm": "coca-cola lemon coke"
   },
   {
     "uid": "457d24c53c14a36b68e061ee1b2af956",
-    "eng": "VITA Sparkling Apple Green Tea Drink"
+    "eng": "VITA Sparkling Apple Green Tea Drink",
+    "norm": "coca-cola lemon coke"
   },
   {
     "uid": "f0ed64ff47fc765ac4debb3790d47b4b",
@@ -189,15 +191,18 @@
   },
   {
     "uid": "81570906c15fdbc4caa91b8c733d8929",
-    "eng": "VITA Zero Sugar Sparkling Lemon Tea Drink"
+    "eng": "VITA Zero Sugar Sparkling Lemon Tea Drink",
+    "norm": "coca-cola lemon coke"
   },
   {
     "uid": "ed55ddd57b9594bc5ca53d7b9ad02c27",
-    "eng": "HATA Hatasoda White Peach Flavour"
+    "eng": "HATA Hatasoda White Peach Flavour",
+    "norm": "coca-cola lemon coke"
   },
   {
     "uid": "2795a4d9ac2767fd9bd308f2ad621c5f",
-    "eng": "FANTA Orange Flavoured Soda Mini Can (Random Pick)"
+    "eng": "FANTA Orange Flavoured Soda Mini Can (Random Pick)",
+    "norm": "coca-cola lemon coke"
   },
   {
     "uid": "e9e35c3a3073b12a8569fbf1a2a56a1b",

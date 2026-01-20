@@ -83,6 +83,7 @@ struct HomeView: View {
                             ProductListingsView(
                                 mainCategoryName: nil,
                                 subCategoryName: nil,
+                                allowedUIDs: nil,
                                 navigationPath: $navigationPath
                             )
                         }

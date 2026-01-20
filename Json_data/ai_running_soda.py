@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # ai_running_soda.py
 
 import os
@@ -15,7 +16,7 @@ def main():
     if not data:
         raise ValueError("filtered_soda.json 为空！")
 
-    # 2️⃣ 选用聚类字段：优先使用 norm，否则使用 eng
+    # 2️⃣ 选用聚类字段：优先使用 norm，否则用 eng
     field = 'norm' if 'norm' in data[0] else 'eng'
     print(f"⚙️ 使用字段“{field}”进行汽水聚类。")
 
@@ -28,24 +29,26 @@ def main():
     payload = {
         "model": "llama3.2",
         "messages": [
+            # 系统角色：分层聚类指令
             {"role": "system", "content": (
                 "你是一个聚类助手，只返回纯 JSON，不要输出任何多余文字。\n"
-                "在分组时请遵循以下规则：\n"
-                "1. 按语义或拼写相似度分簇；\n"
-                "2. 为每个簇指定一个‘规范名称’；\n"
-                "**请仅返回纯 JSON，不要包含任何多余说明。**\n"
-                "JSON 格式：{\n"
+                "请按照以下优先级 分层聚类 汽水产品：\n"
+                "1. 品牌（如可口可乐、百事可乐）\n"
+                "2. 产品系列（如经典、无糖、樱桃）\n"
+                "3. 口味（如含糖、无糖）\n"
+                "4. 容量（如330ml、500ml、1L）\n"
+                "为每个簇指定一个“规范名称”（canonical），格式如下：\n"
+                "{\n"
                 "  \"1\": {\"canonical\": \"…\", \"members\": […]},\n"
                 "  …\n"
                 "}\n"
-                "请在思考部分和 JSON 部分之间，用一行 “----JSON----” 分隔。"
+                "请仅返回 JSON，不要包含任何思考或多余说明。\n"
+                "在思考部分和 JSON 部分之间，用一行 “----JSON----” 分隔。"
             )},
+            # 用户角色：列出待聚类项
             {"role": "user", "content": (
-                "下面是一组汽水名称列表，请帮我：\n"
-                "1. 按语义或拼写相似度分簇；\n"
-                "2. 为每个簇指定一个‘规范名称’；\n"
-                "**请仅返回纯 JSON，不要包含任何多余说明。**\n"
-                "汽水列表：\n" + soda_list
+                "下面是一组汽水名称列表，请帮我按照上述分层规则聚类，并返回纯 JSON：\n"
+                + soda_list
             )}
         ],
         "temperature": 0.0,
@@ -94,36 +97,28 @@ def main():
 
     # 6️⃣ 构建 name->canonical 的映射
     name2canon = {
-        nm: info.get("canonical", nm)
+        name: info.get("canonical", name)
         for info in clusters.values()
-        for nm in info.get("members", [])
+        for name in info.get("members", [])
     }
 
+    # 7️⃣ 将 canonical_name 写回原数据
     normalized = []
-    seen_canons = set()
     for item in data:
         raw = item.get(field, "")
-        # 1️⃣ 归一化为小写并去掉括号及其内容
-        norm = raw.lower()
-        norm = re.sub(r'\s*\([^)]*\)', '', norm).strip()
-
-        # 2️⃣ 对 Coca-Cola Zero / No Sugar 做特殊处理
-        if re.search(r"coca[- ]cola.*zero", norm) or re.search(r"coca[- ]cola.*no sugar", norm):
-            canon = "coca cola zero"
-        else:
-            # 3️⃣ 否则用聚类结果
-            canon = name2canon.get(norm, norm)
-
+        # 去括号内容并归一化小写
+        norm = re.sub(r'\s*\([^)]*\)', '', raw.lower()).strip()
+        # 查找映射
+        canon = name2canon.get(norm, norm)
         item['canonical_name'] = canon
         normalized.append(item)
-        seen_canons.add(canon)
 
-    # 打印所有 unique canonical_name，便于复核
-    print("🔍 所有 unique canonical_name 值：")
-    for c in sorted(seen_canons):
-        print(f"- {c}")
+    # 8️⃣ 打印所有 unique canonical_name 便于校验
+    print("🔍 聚类后的所有 unique canonical_name：")
+    for canon in sorted({it['canonical_name'] for it in normalized}):
+        print(f"- {canon}")
 
-    # 7️⃣ 输出 normalized_soda.json
+    # 9️⃣ 输出 normalized_soda.json
     output_path = os.path.join(BASE_DIR, 'normalized_soda.json')
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(normalized, f, ensure_ascii=False, indent=2)

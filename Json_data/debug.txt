@@ -1,0 +1,13 @@
+<think>
+好，我现在需要帮用户聚类即饮茶、咖啡和奶茶产品。用户给了详细的规则，优先级是品牌、系列口味、容量。我得先仔细看看这些产品名称，然后按照规则分组。
+
+首先，我会浏览所有产品名称，识别出品牌。比如ASAHI、AUTHENTIC TEA HOUSE、Asahi Wonda等等。有些品牌可能有拼写差异，比如“Authentic Tea House”和“Authentic Tea Houseyinhao”，我需要确认它们是否属于同一个品牌。
+
+接下来是系列或口味。每个品牌下有不同的产品线，比如冷泡、拿铁、抹茶等。我要注意这些关键词，并将相同口味的产品归为一类。例如，“Cold Brew Jp Deep-steamed Green Tea”和“Cold Brew Taiwan Jing-xuan Oolongtea”都属于冷泡系列。
+
+容量方面，我会提取出330ml、500ml、1L等规格，并确保同一品牌和口味下不同容量的产品被正确分类。比如，“Dahongpao Oolong Tea 250mlx6p”和“Dahongpao Oolong Tea 500ml”属于不同的容量，需要分开。
+
+在聚类过程中，可能会遇到一些挑战，比如产品名称中的变体或拼写错误。我需要仔细核对，确保每个产品都被正确归类。例如，“Asahi Wonda Black Coffee 400ML”和“ASAHI Wonda Kiwami Super Rich Cafe Au Lait”都属于ASAHI品牌，但口味不同，所以分到不同的簇。
+
+最后，我会按照用户的要求，为每个簇指定规范名称，并列出成员产品。确保JSON格式正确，不包含任何多余的文字或解释。
+</think>

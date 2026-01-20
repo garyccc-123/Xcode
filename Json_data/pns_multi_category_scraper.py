@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+import os
 import time
 import json
 import concurrent.futures
@@ -169,7 +171,7 @@ def main():
     以下將你提供的所有「大分類」→「子分類」與對應網址，整合成多層結構，
     並依序抓取各層級分類商品連結與商品資訊。
     """
-    # 每個大分類對應一個子分類字典
+   # 每個大分類對應一個子分類字典
     categories = {
  
     "水果/蔬菜": {
@@ -546,8 +548,6 @@ def main():
     }
 }
 
-    
-
     merged_products = {}
     all_links_collected = []
 
@@ -591,12 +591,7 @@ def main():
                     "product_eng_name": data["product_eng_name"]
                 }
                 merged_products[url]["history"].append(new_record)
-                merged_products[url]["name"] = data["name"]
-                merged_products[url]["price"] = data["price"]
-                merged_products[url]["offer"] = data["offer"]
-                merged_products[url]["date"] = data["date"]
-                merged_products[url]["image_url"] = data["image_url"]
-                merged_products[url]["product_eng_name"] = data["product_eng_name"]
+                merged_products[url].update(new_record)
             else:
                 fail_products.append({
                     "url": url,
@@ -605,6 +600,7 @@ def main():
                     "uid": hashlib.md5(url.encode("utf-8")).hexdigest()
                 })
 
+    # 加上每個商品的 uid
     for product in merged_products.values():
         product["uid"] = hashlib.md5(product["url"].encode("utf-8")).hexdigest()
 
@@ -613,14 +609,31 @@ def main():
         "products": list(merged_products.values())
     }
 
-    with open("combined_products_pns_with_eng.json", "w", encoding="utf-8") as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=4)
+    # ---- 除錯寫檔區域 ----
+    print("🛠️ 即將寫入 combined_products 檔案，working dir =", os.getcwd())
+    print("🔎 merged_products 長度:", len(merged_products))
+    print("🔎 前 3 筆產品範例:", output_data["products"][:3])
+    try:
+        with open("combined_products_pns_with_eng_05_06_25.json", "w", encoding="utf-8") as f:
+            json.dump(output_data, f, ensure_ascii=False, indent=4)
+        print("✅ combined_products 檔案寫入完成！")
+    except Exception as e:
+        print("❌ 寫入 combined_products 發生錯誤：", e)
 
-    with open("fail_products.json", "w", encoding="utf-8") as f:
-        json.dump(fail_products, f, ensure_ascii=False, indent=4)
+    print("🛠️ 即將寫入 fail_products 檔案，長度：", len(fail_products))
+    try:
+        with open("fail_products.json", "w", encoding="utf-8") as f:
+            json.dump(fail_products, f, ensure_ascii=False, indent=4)
+        print("✅ fail_products 檔案寫入完成！")
+    except Exception as e:
+        print("❌ 寫入 fail_products 發生錯誤：", e)
+    # -------------------------
 
     print(f"\n✅ 成功擷取 {len(all_links) - len(fail_products)} 筆商品")
     print(f"❌ 無法擷取 {len(fail_products)} 筆商品，請檢查 `fail_products.json`")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback; traceback.print_exc()

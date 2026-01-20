@@ -1,0 +1,1192 @@
+[
+  {
+    "uid": "5f7dd8df7b4f969677c6eb22b2cf137b",
+    "eng": "ASAHI Beer Can 12's",
+    "norm": "asahi"
+  },
+  {
+    "uid": "eaebc3f154ac4907fa76e199c6023784",
+    "eng": "ASAHI King Can Beer 4's",
+    "norm": "asahi"
+  },
+  {
+    "uid": "81e40f36d66d0161ca5b3acadc728819",
+    "eng": "Asahi Beer Can 12 X 330ML (Random Package Delivery)",
+    "norm": "asahi"
+  },
+  {
+    "uid": "d1260ce6c9599df4818bdb7635736dec",
+    "eng": "Asahi Can Beer 24 X 330ML (Random Package Delivery)",
+    "norm": "asahi"
+  },
+  {
+    "uid": "66cb7a9835a813469e9fadb6738fbfd0",
+    "eng": "ASAHI Clear Asahi",
+    "norm": "asahi"
+  },
+  {
+    "uid": "b011ac10437b60bf52951b42ea793d5e",
+    "eng": "Asahi Dry Crystal Can 4x500ML",
+    "norm": "asahi"
+  },
+  {
+    "uid": "dbcab02d9e02df3768414c189eca1543",
+    "eng": "ASAHI Japanese Version Super Dry",
+    "norm": "asahi"
+  },
+  {
+    "uid": "ce945691a17ff9a11fdf1593b48a33d2",
+    "eng": "ASAHI Kuronama Beer 6's Can",
+    "norm": "asahi"
+  },
+  {
+    "uid": "e143264401b2b649eb9bcf2404cc269e",
+    "eng": "Asahi Kuronama Beer 6 X 350ML",
+    "norm": "asahi"
+  },
+  {
+    "uid": "8a61f538f1ad80d7801f012aeff68556",
+    "eng": "ASAHI Nama Beer 6's Can",
+    "norm": "asahi"
+  },
+  {
+    "uid": "37b0f9cad07c0de04bc3b9e74f31e9f5",
+    "eng": "Asahi Nama Jokki King Can 4 x 485ML",
+    "norm": "asahi"
+  },
+  {
+    "uid": "651fbaefbf666aeeccff29d593a32e46",
+    "eng": "Super Dry Asahi Model Kit Edition Beer 4x500ML (Random Package Delivery)",
+    "norm": "asahi"
+  },
+  {
+    "uid": "b5aa09813f1d10f461fac709479a648a",
+    "eng": "Asahi Superdry Nama Beer 6 x 350ML",
+    "norm": "asahi"
+  },
+  {
+    "uid": "7eb009a47e96f652bb9a9437df7257f5",
+    "eng": "ASAHI The Rich",
+    "norm": "asahi"
+  },
+  {
+    "uid": "3c217953e266e6df0fc64a54ec198220",
+    "eng": "BLUE GIRL Beer L Bot",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "39043af4fefecc0a23dce5a2ee3a0249",
+    "eng": "BLUE GIRL Beer S Bot",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "060c3aff455be7654c751ddb6787d2ff",
+    "eng": "BLUE GIRL Beer 12's Can",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "adc0897ff6e1c49ab218fd9797f709da",
+    "eng": "BLUE GIRL Beer King 4 Can",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "eff8155a8c1d651592598e1712959aac",
+    "eng": "BLUE GIRL Beer 6's Can",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "8c087388c5f8fde7071bd2ae3b14181b",
+    "eng": "Blue Girl Large Bottle Case 12 x 640ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "27a943f7f194026553ea14027803d269",
+    "eng": "Blue Girl Can Beer 12 X 330ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "59da223a65238a7d861b9985d62dd6e6",
+    "eng": "Blue Girl King Can Beer Case 24 X 500ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "52e15fe2c81a71d00ac7a19451ed7fcb",
+    "eng": "Blue Girl Can Beer Case 24 x 330ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "4c399ec869ba2b6e398fac808fb4e2a5",
+    "eng": "Blue Girl Bottle Beer Case 24 x 330ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "6c032be1aa542833d902efa49eba9d1b",
+    "eng": "Blue Girl Imported Premium Beer 4x500ML",
+    "norm": "blue girl"
+  },
+  {
+    "uid": "50fd08d1b51d1fd945101ab25978165f",
+    "eng": "BLUE GIRL Light Beer Can Pack",
+    "norm": "blue girl light"
+  },
+  {
+    "uid": "96e5c353fdac49012eb899759278a7ca",
+    "eng": "Blue Girl Light Imported Premium Beer Can 4x500ML",
+    "norm": "blue girl light"
+  },
+  {
+    "uid": "b4897af41c4074ed19f74d157f866cd8",
+    "eng": "BLUE ICE Beer Can 4’s",
+    "norm": "blue ice"
+  },
+  {
+    "uid": "e52712a054a366d22dc22896832cbfe7",
+    "eng": "BLUE ICE Beer 12's Can",
+    "norm": "blue ice"
+  },
+  {
+    "uid": "fcb9f106ea257d96ab2df03612f4cd09",
+    "eng": "Blue Ice Can Beer Case 24 x 330ML",
+    "norm": "blue ice"
+  },
+  {
+    "uid": "7cb7ba7f701d86c930f89f42dfd5fa58",
+    "eng": "Blue Ice Beer King Can Case 24 x 500ML",
+    "norm": "blue ice"
+  },
+  {
+    "uid": "e675125f868d0b08fc99f6f5dcea701c",
+    "eng": "Blue Ice King Can Beer 4 X 500ML",
+    "norm": "blue ice"
+  },
+  {
+    "uid": "1f58db37442e88754813f07d88995a1f",
+    "eng": "Blue Ice Beer Ice Filtered 12x330ML",
+    "norm": "blue ice filtered"
+  },
+  {
+    "uid": "d7f12bf4694c0181eccf7434df943ef1",
+    "eng": "BODDINGTONS Pub Ale King Can",
+    "norm": "boddingtons pub ale"
+  },
+  {
+    "uid": "c2567963a8b76203fe624ab2ba252c0b",
+    "eng": "BREWDOG Elvis Juice Ipa",
+    "norm": "brewdog"
+  },
+  {
+    "uid": "d2f9e49113252feba9d355a3748abb25",
+    "eng": "BREWDOG Hazy Jane Ipa",
+    "norm": "brewdog"
+  },
+  {
+    "uid": "976994fdd1365740290955acbe0d5869",
+    "eng": "BREWDOG Punk Ipa",
+    "norm": "brewdog"
+  },
+  {
+    "uid": "582bdb321130ddd0ce5a378a0d8ddb03",
+    "eng": "Bruck Can Lager Case 24 X 330 ML",
+    "norm": "bruck lager"
+  },
+  {
+    "uid": "076fc733bad65e077ce2b736d414fba2",
+    "eng": "Bruck Can Lager 12 X 330ML",
+    "norm": "bruck lager"
+  },
+  {
+    "uid": "63a8a7f9bbb0281b2d995bd341678fc5",
+    "eng": "BUDWEISER Beer King Can",
+    "norm": "budweiser"
+  },
+  {
+    "uid": "736b626b7771cf748bd68d90155d8331",
+    "eng": "BUDWEISER Beer 12's Can",
+    "norm": "budweiser"
+  },
+  {
+    "uid": "c4c7c6891629d299ca04f7cb208865eb",
+    "eng": "Budweiser King Can Beer 4 X 500ML",
+    "norm": "budweiser"
+  },
+  {
+    "uid": "fc58ec21c80e92867f7786088c5df150",
+    "eng": "Budweiser Beer Can Case 24 x 330ML",
+    "norm": "budweiser"
+  },
+  {
+    "uid": "4725b573f62c5bb37d26fc88f8058f5b",
+    "eng": "Budweiser Beer Can 12 X 330ML",
+    "norm": "budweiser"
+  },
+  {
+    "uid": "73c5651edc39398d5e4d618432eeb7da",
+    "eng": "Carbon Brews Feels Good Man Wheat Beer Can 330ML",
+    "norm": "carbon brews feels good man wheat"
+  },
+  {
+    "uid": "a956b9e16bddc470d1f8f6937f34ac35",
+    "eng": "CARLSBERG 4's King Can Beer",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "dfa6a4b332fdabaeb176124144f504ab",
+    "eng": "CARLSBERG 12's Can Beer",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "9c28675cb87337c87127c3b737b0072e",
+    "eng": "Carlsberg Beer Can 12 X 330ML",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "902357762e8970c5632d89eb796aa3ea",
+    "eng": "Carlsberg Beer Can Case 24 x 330ML",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "97fa2f605b6302fe19014850de86ab4c",
+    "eng": "Carlsberg King Can Beer 4 X 500ML",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "9b95d103062e408fe19eacd574b3c060",
+    "eng": "Carlsberg Danish Pilsner King Can Case 24 x 500ML",
+    "norm": "carlsberg"
+  },
+  {
+    "uid": "3733c280c3f1922bd64ab87b93b6c066",
+    "eng": "Carlsberg Danish Special Brew Lager 4x500ML",
+    "norm": "carlsberg danish brew"
+  },
+  {
+    "uid": "c8ff3bd8429578fb558d6837e2d881e0",
+    "eng": "CARLSBERG Smooth Draught Beer 4's King Can",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "f584303c5580bbbaaa0d9a6efbf06107",
+    "eng": "CARLSBERG Smooth Draught 12-can",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "abe9651dd680013e3839a72e1a22e4fc",
+    "eng": "Carlsberg Smooth Draught King Can Case 24 x 500ML",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "8c217aa8585ee9007282bc78b261e45f",
+    "eng": "Carlsberg Smooth Draught 12 X 330ML",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "94253388032c3c10c0150d83e66b393b",
+    "eng": "Carlsberg Smooth Draught King Can 4 X 500ML",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "c444c1e84864aa947dfada70e62443ce",
+    "eng": "Carlsberg Smooth Draught Can Case 24 x 330ML",
+    "norm": "carlsberg smooth draft"
+  },
+  {
+    "uid": "a0fa1dc36e56e6c4b6046f3ad17ac9ad",
+    "eng": "CARLSBERG Special Brew 4 King Can",
+    "norm": "carlsberg danish brew"
+  },
+  {
+    "uid": "682ea7e95563b11e87b883ca8b949e72",
+    "eng": "Carlsberg Special Brew King Can Case 24 x 500ML",
+    "norm": "carlsberg danish brew"
+  },
+  {
+    "uid": "9292a9b91a63a57633e6d899cb0111f9",
+    "eng": "CHANG Chang Beer Can 6's",
+    "norm": "chang"
+  },
+  {
+    "uid": "0632ad493348ac10f4b11f035ba56187",
+    "eng": "CHANG Beer King Can",
+    "norm": "chang"
+  },
+  {
+    "uid": "14041d7677922cfe36cecf5670ac8e0d",
+    "eng": "CORONA EXTRA Extra Beer 6s",
+    "norm": "corona extra"
+  },
+  {
+    "uid": "9e74ab47dffbcce850e5d3c2d41b8c48",
+    "eng": "Corona Extra Bottle Case 24 x 355ML",
+    "norm": "corona extra"
+  },
+  {
+    "uid": "708f2a6bc8871591e5e1e2c0ffc47cb2",
+    "eng": "Corona Extra Beer Bottle 6 X 355ML",
+    "norm": "corona extra"
+  },
+  {
+    "uid": "2d1a7802e12b806dd3e7bd1df245c049",
+    "eng": "Erdinger Weissbier White 500ML",
+    "norm": "erdinger"
+  },
+  {
+    "uid": "c703a071bcd498914b01209690e6ac00",
+    "eng": "ERDINGER Yeast Beer Bot",
+    "norm": "erdinger"
+  },
+  {
+    "uid": "7b32f9af3c7be786ea26dac3cac97b12",
+    "eng": "GS RETAIL YOUUS Kyungbok Palace (craft Beer)",
+    "norm": "gs retail youus"
+  },
+  {
+    "uid": "30ba095a80149e108c294799045b7dbf",
+    "eng": "GS RETAIL YOUUS Namsan Mountain Ale",
+    "norm": "gs retail youus"
+  },
+  {
+    "uid": "749d813cb140679044155709bebac874",
+    "eng": "GS RETAIL YOUUS Seongsan Ilchulbong Ale",
+    "norm": "gs retail youus"
+  },
+  {
+    "uid": "df2c56269f000ecaf3b3b9dc5e539751",
+    "eng": "Guinness Draught In Can 4 X 440ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "2a00f2fd45dbf6e9f930fa044a753bb3",
+    "eng": "Guinness Draught Stout Can Case 24 x 440ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "130268425223bb620067c8ad9d878e3a",
+    "eng": "Guinness Quart 650ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "9464130b4f44513d0491f5c504c9ac94",
+    "eng": "Guinness Quart Case 12 x 650ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "5be184cb341de94cb2d9db3d82fd630c",
+    "eng": "Guinness Can Stout 4 X 330ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "757abacaeb3b346bb10fe7df17351a1d",
+    "eng": "Guinness Stout Can Case 24 x 330ML",
+    "norm": "guinness"
+  },
+  {
+    "uid": "73083449e4d4fa85a171eeddddae49ed",
+    "eng": "GWEILO BEER Pale Ale 4-pack Can",
+    "norm": "gweilo beer pale ale"
+  },
+  {
+    "uid": "c3ccb7107d77ec3e01f43cd347fa18e6",
+    "eng": "HARBIN Beer 500ml 4 King Can Pack",
+    "norm": "harbin"
+  },
+  {
+    "uid": "30e25148d54574b8d9ce488bc24be910",
+    "eng": "HEINEKEN Beer King Can 4s Heineken",
+    "norm": "heineken"
+  },
+  {
+    "uid": "60f232a8c2552a39c0258f54e15f0429",
+    "eng": "HEINEKEN Beer 12s Can Heineken",
+    "norm": "heineken"
+  },
+  {
+    "uid": "d9c64f55357dd8e6955567ca9b76c6cd",
+    "eng": "Heineken Can Beer Case 24 X 330ML",
+    "norm": "heineken"
+  },
+  {
+    "uid": "de81f77d4291e4656aebf91c9c62279c",
+    "eng": "Heineken Beer King Can 4x500ML",
+    "norm": "heineken"
+  },
+  {
+    "uid": "95c3530f47a506a8bb865aa56300327a",
+    "eng": "Heineken King Can Beer Case 24 x 500ML",
+    "norm": "heineken"
+  },
+  {
+    "uid": "0186fa84ecfd60bf21671667ffda4bf9",
+    "eng": "Heineken Pure Malt Lager Beer 12x330ML",
+    "norm": "heineken"
+  },
+  {
+    "uid": "09959a271da3400fc18bf3cdb9e428f9",
+    "eng": "HEINEKEN Silver Beer 4 King Can",
+    "norm": "heineken silver"
+  },
+  {
+    "uid": "dc45500b5b8e6d28a9f61b8ea06b90c0",
+    "eng": "HEINEKEN Silver Beer King Can",
+    "norm": "heineken silver"
+  },
+  {
+    "uid": "292378a53e5621435ed9f94fad32dd3b",
+    "eng": "Heineken Silver Beer King Can 500ML",
+    "norm": "heineken silver"
+  },
+  {
+    "uid": "9a72ed2831acf47a4048a3307332f1cc",
+    "eng": "HITE 1933 Beer 4's King Can",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "c39e9f8ab924e3a88e07bec6c9772c1a",
+    "eng": "Hite Black Beer Stout Can Case 24 x 355ML",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "3b3c0064c194644be69ec82b8f37b83f",
+    "eng": "Hite Black Beer Stout 6 X 355ML",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "67278bf30244f3fe7d3d4854cb7aeede",
+    "eng": "Hite Extra Cold King Can Case 24 x 500ML",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "ea5374b35274ca7cd093b923ac6ef5b4",
+    "eng": "HITE Kelly Beer 6's King Can",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "b5a33ef86c55ff03222a32f96427c1b5",
+    "eng": "Hite Lager King Can 4 X 500ML",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "12df0c8b4fcb9caecd19887a0a4632b2",
+    "eng": "HITE Terra Premium Beer",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "1eccd9c4f6a6e82dfa4c821de334b918",
+    "eng": "Hite Zero Non-Alcoholic Malt Beverage 6 x 350ML",
+    "norm": "hite 1933"
+  },
+  {
+    "uid": "55852c60d52f5232d4fb0391efa36b00",
+    "eng": "Hoegaarden Small Bottle Beer 4 X 330ML",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "6395b19f215fee90a03baabd4760c5e3",
+    "eng": "Hoegaarden Biere Blanche Can Beer 4x500ML",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "c5689df8f717a8b5f17eda6c0f3be1f0",
+    "eng": "Hoegaarden Biere Blanche Peach Can 4x500ML",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "285e9216f158e4689ab50f81ab3d15f4",
+    "eng": "HOEGAARDEN Shine Muscat Grape King Can",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "2ca15c928ffc8b74752b227af0fbe377",
+    "eng": "Hoegaarden Wheat Beer King Can Case 24 x 500ML",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "fc656bea908fdd8c17f54609aaa98b0e",
+    "eng": "HOEGAARDEN White Beer 4's King Can",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "99b5f84142465941df03f930bd09dd5c",
+    "eng": "HOEGAARDEN White Beer Bot 4s",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "3535d782341edd02a4b79ec088b18e41",
+    "eng": "HOEGAARDEN White Beer Bot 4s",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "57bafa3d79fe8ae53834b19d2d0938b8",
+    "eng": "Hoegaarden Witbier Bottle Case 24 x 330ML",
+    "norm": "hoegaarden"
+  },
+  {
+    "uid": "3855d002a6df43cee1adaad2f46b6477",
+    "eng": "Jolly Shandy Lemon Can 6 X 330ML",
+    "norm": "jolly shandy lemon"
+  },
+  {
+    "uid": "87115aa554d2cc5b39ddafa9877463f6",
+    "eng": "Jolly Shandy Lemon Can Case 24 x 330ML",
+    "norm": "jolly shandy lemon"
+  },
+  {
+    "uid": "1831f91e3fcc2adabfc0d94bf050fdc8",
+    "eng": "KINGWAY Beer 4 King Can",
+    "norm": "kingway"
+  },
+  {
+    "uid": "f60400d91d5c92be623644836f81b593",
+    "eng": "Kingway King Can Beer 4 X 500ML",
+    "norm": "kingway"
+  },
+  {
+    "uid": "aa0ec8338e72f18ac97cfd89032aca04",
+    "eng": "Kingway Beer King Can Case 24 x 500ML",
+    "norm": "kingway"
+  },
+  {
+    "uid": "5d905a280ea957f90d10612f5e45843b",
+    "eng": "KIRIN Ichiban",
+    "norm": "kirin ichiban"
+  },
+  {
+    "uid": "a048bf3e71a29dcc8fe0989fa699fc70",
+    "eng": "KIRIN Ichiban",
+    "norm": "kirin ichiban"
+  },
+  {
+    "uid": "58d453afe2da47e7daa717f3d2331d6f",
+    "eng": "Kirin Ichiban Beer Case 24 X 330ML",
+    "norm": "kirin ichiban"
+  },
+  {
+    "uid": "59cc10336bae22bd4591ab592851e526",
+    "eng": "Kirin Ichiban Beer Can 12 X 330ML",
+    "norm": "kirin ichiban"
+  },
+  {
+    "uid": "8089a8b697b9e03a01c778c1da385ce7",
+    "eng": "Kirin Ichiban King Can Case 24 x 500ML",
+    "norm": "kirin ichiban"
+  },
+  {
+    "uid": "85b300b7f88ae84971c466560f44aa35",
+    "eng": "Japan's Prime Brew Kirin Ichiban beer 4x500ML",
+    "norm": "kirin ichiban japan prime brew"
+  },
+  {
+    "uid": "b726a738edbc49b77546dfdb515bafc9",
+    "eng": "KNIGHT Beer",
+    "norm": "knight"
+  },
+  {
+    "uid": "b8d6905018140a121b997c722c5ebb25",
+    "eng": "Kronenbourg 1664 Beer Bottle Case 24 x 330ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "81ffe65823f020c057d20e94404ef212",
+    "eng": "KRONENBOURG1664 Blanc Bot (case)",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "75edbe796f2e79da932ab212bc255a20",
+    "eng": "KRONENBOURG1664 Blanc S Bot 4's",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "52f6422505a4a865d623344380b35363",
+    "eng": "KRONENBOURG1664 Blanc 4's King Can",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "238e3981af383eaa8ce8f0a6bb8a61e8",
+    "eng": "Kronenbourg 1664 Blanc Bottle Case 24 x 330ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "f54f722d8a2275b131a6ed55f12df891",
+    "eng": "Kronenbourg 1664 Blanc Bottle 4 x 330ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "f4faa1b685074859c98d0ec4f5442f1e",
+    "eng": "Kronenbourg 1664 Blanc Wheat Beer 4x500ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "b29a5f5c181a1b2a599217e8ce937b54",
+    "eng": "KRONENBOURG1664 Brut 4 King Can",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "764182d6b2232a1493a0e944a40eab0d",
+    "eng": "Kronenbourg 1664 Brut Beer 4x500ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "19409058016c51736a3843b5d50a26ad",
+    "eng": "KRONENBOURG1664 Lager Beer S Bot 4's",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "c492aec246299eb477a177e12bddba70",
+    "eng": "KRONENBOURG1664 Lager Beer S Bot 4's",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "95b39438f969096d6fc982ca08f9f750",
+    "eng": "KRONENBOURG1664 Kronenbourg1664 Lager 4's King Can",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "618e1be0f2cfdb918b77f35fafa355ed",
+    "eng": "Kronenbourg 1664 Lager Beer 4x500ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "fb32c267eec1692e1235f23d881aec94",
+    "eng": "Kronenbourg 1664 Lager Bottle 4 x 330ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "2a4ff93e4455651c0a4ba303f5f12929",
+    "eng": "Kronenbourg 1664 Lager King Can Case 24 x 500ML",
+    "norm": "kronenbourg 1664"
+  },
+  {
+    "uid": "b264a52f876fe353cc553dd896466206",
+    "eng": "LEFFE Blond Beer",
+    "norm": "leffe blond"
+  },
+  {
+    "uid": "8381c3dd741ca91e94bf0b29cc381e2c",
+    "eng": "Leffe Blonde Beer 330ML",
+    "norm": "leffe blond"
+  },
+  {
+    "uid": "876173e30bcc24a5b17d6f7642015b52",
+    "eng": "LITTLE CREATURES Little Hazy Lager",
+    "norm": "little creatures"
+  },
+  {
+    "uid": "24dda2f19217aa97022c345f8bbc93d0",
+    "eng": "LITTLE CREATURES Pale Ale.",
+    "norm": "little creatures"
+  },
+  {
+    "uid": "aee061fef8cbd329e189ac0898931599",
+    "eng": "LITTLE CREATURES Xpa",
+    "norm": "little creatures"
+  },
+  {
+    "uid": "800cd7a68970ff5d2b81ec26d32123e6",
+    "eng": "Murphy's Can Stout 500ML",
+    "norm": "murphy s stout"
+  },
+  {
+    "uid": "67103ae851e71084de66f57575d8e029",
+    "eng": "ORION BEER Orion Beer Draft Beer 6s",
+    "norm": "orion draft"
+  },
+  {
+    "uid": "b8c5baf865795b5d53399b9429773213",
+    "eng": "Orion Can Draft Beer 6 X 350ML",
+    "norm": "orion draft"
+  },
+  {
+    "uid": "5a06064d86c2215fbc4c87d147b28939",
+    "eng": "Paulaner Weissbier Dunkel (Dark Wheat Beer) King Can 4 x 500ML",
+    "norm": "paulaner"
+  },
+  {
+    "uid": "caff2afabc6d091573f8be7de8c1ee3f",
+    "eng": "Paulaner Weissbier (Munich Wheat Beer) Can 4 x 500ML",
+    "norm": "paulaner"
+  },
+  {
+    "uid": "bac32508f143deee4f81ee2878ea9758",
+    "eng": "PAULANER Wheat Can",
+    "norm": "paulaner"
+  },
+  {
+    "uid": "70390e05c1aeb6c065339206f3c388cd",
+    "eng": "PERONI Small Bottle Beer 6's",
+    "norm": "peroni"
+  },
+  {
+    "uid": "62fd832ec5a678deb46bdf22a29151bd",
+    "eng": "Peroni Small Bottle Beer 6 X 330ML",
+    "norm": "peroni"
+  },
+  {
+    "uid": "7d11bd6b030c0cfdfeb8c46024705d69",
+    "eng": "PERONI Premium King Can Beer (4 Pack)",
+    "norm": "peroni"
+  },
+  {
+    "uid": "7e0e1a3b29a7024d37fa5df915653c0b",
+    "eng": "Peroni Premium Italian Lager King Can 4 x 500ML",
+    "norm": "peroni"
+  },
+  {
+    "uid": "0a289a25f302cf2f50d19b2bd1d6ce6b",
+    "eng": "SAN MIGUEL Beer Can",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "77ab1837ad13a70d51c80c368e8a2cee",
+    "eng": "SAN MIGUEL Beer Can 4’s",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "ffd2d4c7f0205e4701d7959adc84b591",
+    "eng": "SAN MIGUEL San Miguel Cerveza Blanca King Can",
+    "norm": "san miguel blanca"
+  },
+  {
+    "uid": "f80ab43bff1ffaca888c688fdc8e0ec7",
+    "eng": "SAN MIGUEL San Miguel Cerveza Blanca King Can",
+    "norm": "san miguel blanca"
+  },
+  {
+    "uid": "96dcd1a13349bbd8ab2938c3b4ec0f22",
+    "eng": "San Miguel Cerveza Blanca 4 X 490ML",
+    "norm": "san miguel blanca"
+  },
+  {
+    "uid": "0a094b83933855e11374dd0da195bc0f",
+    "eng": "SAN MIGUEL Light Beer King Can 4's",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "351ea8bb0ec8244a6ff826090fd4bf44",
+    "eng": "SAN MIGUEL San Miguel Light Beer",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "9a5fa432e50d2e6e5a46a3d1a7cd9a2d",
+    "eng": "San Miguel Light King Can Case 24 x 500ML (Random Package Delivery)",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "60b907070f457d8418afb03837692595",
+    "eng": "San Miguel Light Beer Can Case 24 x 330ML",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "47d0d4657d7a8b6c8906cfd2d85716eb",
+    "eng": "San Miguel Light Beer Can 12 x 330ML (Random Package Delivery)",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "3ab8dd020454fa583f04cd1de93d4c33",
+    "eng": "San Miguel Light King Can Beer 4 X 500ML (Random Package Delivery)",
+    "norm": "san miguel light"
+  },
+  {
+    "uid": "37fc0724801a5f0afb884a0ae9dfe2ed",
+    "eng": "San Miguel Pale Pilsen Can 12 x 330ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "5edaf844534c232df1a31d48ccb10b7b",
+    "eng": "San Miguel Pale Pilsen Beer Bottle Case 24 x 320ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "39244e3e8799cbbc7e35c8c0f22cadbe",
+    "eng": "San Miguel Pale Pilsen Beer Bottle Case 12 x 640ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "299938a094db938ffc6f622fa0dd1dfe",
+    "eng": "San Miguel Pale Pilsen Can Case 24 x 330ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "227d9a405082f7881b1079a3ffbb53f5",
+    "eng": "San Miguel Pale Pilsen King Can 4 x 500ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "165ae5e09655bd4f14f97f9790fd43dd",
+    "eng": "San Miguel Pale Pilsen King Can Case 24 x 500ML",
+    "norm": "san miguel"
+  },
+  {
+    "uid": "abc6b3f4ef4d515d925851b1693b75d4",
+    "eng": "SAN MIGUEL Beer Philippines Bot",
+    "norm": "san miguel philippines"
+  },
+  {
+    "uid": "71042ce3c5e9f6e54625b3937fc231fd",
+    "eng": "SAPPORO Beer 6 Can",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "8c1d9ff0869d0f7681a709db3fb878be",
+    "eng": "SAPPORO Beer 12 Can",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "3cdfb2a3088f759e8beef964db2132b3",
+    "eng": "SAPPORO King Can",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "74df3e3289a932a9581618d8e1038fd0",
+    "eng": "SAPPORO Hokkaido Raw Squeezed Beer",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "b95245ceae263723095a876fbe78f80d",
+    "eng": "Sapporo Premium Beer Can 4x500ML",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "de60efb7c9dc192a7c751e46d227734a",
+    "eng": "SAPPORO Wheat And Hop Black Beer",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "439caa03c7836ef3b7259d8ef7c7bef7",
+    "eng": "SAPPORO Wheat And Hops The Gold",
+    "norm": "sapporo hokkaido"
+  },
+  {
+    "uid": "b8bc786721910c2cfa4c67e1e72e2c3d",
+    "eng": "Singha Small Bottle Beer 4 X 330ML",
+    "norm": "singha"
+  },
+  {
+    "uid": "95e215b4be97aaee08aa33e2f1a0fb0a",
+    "eng": "SINGHA Canned Beer",
+    "norm": "singha"
+  },
+  {
+    "uid": "c388dccf12c9f6f817446eb285d7c874",
+    "eng": "SINGHA Lager Beer 4-bottle Pack",
+    "norm": "singha"
+  },
+  {
+    "uid": "da7fbf7cb086a99c6523d032638a3101",
+    "eng": "SKOL 12's Can Beer",
+    "norm": "skol"
+  },
+  {
+    "uid": "da4f1375d95f88177a065bad7b46392b",
+    "eng": "SKOL 4's King Can Beer",
+    "norm": "skol"
+  },
+  {
+    "uid": "056dfaa47089f24dd88dbe8f881052f8",
+    "eng": "Skol Beer King Can Case 24 x 500ML",
+    "norm": "skol"
+  },
+  {
+    "uid": "72cad88286c1bc62a42867406bc20399",
+    "eng": "Skol Can Beer Case 24 X 330ML",
+    "norm": "skol"
+  },
+  {
+    "uid": "3d33f8ed30823ca2164d6df77dc8283a",
+    "eng": "Skol King Can Beer 4 X 500ML",
+    "norm": "skol"
+  },
+  {
+    "uid": "a49a342d499c8d075fc0699c3e946ba0",
+    "eng": "Skol Refreshing Can Beer 12x330ML",
+    "norm": "skol refreshing"
+  },
+  {
+    "uid": "603dff9d1c57f7bc0e17e9353a9529cf",
+    "eng": "SNOW Snow King Can Beer 4's",
+    "norm": "snow"
+  },
+  {
+    "uid": "4f47c37d5c372ea3e39c3211e36d14c9",
+    "eng": "Snow Beer King Can 4 X 500ML",
+    "norm": "snow"
+  },
+  {
+    "uid": "96aa2d02305b50cbfb0ba7e2bbbf192b",
+    "eng": "Snow Beer King Can Case 24 x 500ML",
+    "norm": "snow"
+  },
+  {
+    "uid": "bd782ba1e0d63f046c4bd969eb23c64f",
+    "eng": "SONDERBERG Beer",
+    "norm": "sonderberg"
+  },
+  {
+    "uid": "b9bfd82c143e3a35b5bc143519723fab",
+    "eng": "STELLA ARTOIS King Can",
+    "norm": "stella artois"
+  },
+  {
+    "uid": "2cb913abd7464d1843e8c71aa258f189",
+    "eng": "STELLA ARTOIS Beer Bot 6s",
+    "norm": "stella artois"
+  },
+  {
+    "uid": "ffb5e528b1289d306eb56ee41ab7277a",
+    "eng": "Stella Artois Small Bottle Beer 24 X 330ML",
+    "norm": "stella artois"
+  },
+  {
+    "uid": "efdff722a454033d0cb6ed106e5674a8",
+    "eng": "Stella Artois Small Bottle Beer 6 X 330ML",
+    "norm": "stella artois"
+  },
+  {
+    "uid": "b4391ee36c0175d466e3f9f77fe96d03",
+    "eng": "Stella Artois Belgium Can Beer 4x500ML",
+    "norm": "stella artois"
+  },
+  {
+    "uid": "a83de9854b2c49499bf851193effbe71",
+    "eng": "Suntory Premium Malt Can 6 X 350ML",
+    "norm": "suntory"
+  },
+  {
+    "uid": "9d575fa77c0e49896aea534016cbc941",
+    "eng": "SUNTORY The Premium Malt's",
+    "norm": "suntory"
+  },
+  {
+    "uid": "70f8a9a27e041ec11bda531b96d1ca6c",
+    "eng": "SUNTORY The Premium Malt's (Packaging random)",
+    "norm": "suntory"
+  },
+  {
+    "uid": "59937388b9b867da1caa6631b8031d3d",
+    "eng": "TAIWAN BEER Gold Medal Taiwan Beer",
+    "norm": "gold medal taiwan beer"
+  },
+  {
+    "uid": "15503704487325130a7dac2f5a5390dc",
+    "eng": "Taiwan Beer Gold Medal Can Case 24 x 330ML",
+    "norm": "gold medal taiwan beer"
+  },
+  {
+    "uid": "eaf10cee9e16f9f476f0657aa4f28616",
+    "eng": "Taiwan Beer Gold Medal Beer 330ML",
+    "norm": "gold medal taiwan beer"
+  },
+  {
+    "uid": "089be9ac0b70dcf72e3db2f4c21fa86d",
+    "eng": "Taiwan Beer Honey Lager Beer 330ML",
+    "norm": "taiwan beer fruit flv"
+  },
+  {
+    "uid": "e50ed4600d0215da7c866fd42746d074",
+    "eng": "Taiwan Beer Pineapple Beer 330ML",
+    "norm": "taiwan beer fruit flv"
+  },
+  {
+    "uid": "ef9c6a8e276829eee20818ab5d69908b",
+    "eng": "TAIWAN BEER Sweet Touch Fruit Beer - Grapefruit",
+    "norm": "taiwan beer sweet touch fruit beer"
+  },
+  {
+    "uid": "510814ea337232c50def752e9716f9b0",
+    "eng": "Taiwan Beer Sweet Touch Grapefruit Beer 330ML",
+    "norm": "taiwan beer sweet touch fruit beer"
+  },
+  {
+    "uid": "eb64c67393996ba2f814522740ca32c5",
+    "eng": "Taiwan Beer Sweet Touch Lychee Beer 330ML",
+    "norm": "taiwan beer sweet touch fruit beer"
+  },
+  {
+    "uid": "6b7004867f245e44806f99f602baf45a",
+    "eng": "Taiwan Beer Sweet Touch White Grape Beer 330ML",
+    "norm": "taiwan beer sweet touch fruit beer"
+  },
+  {
+    "uid": "788f1ea62a8abaaaf66c064974925c21",
+    "eng": "Takaha Chu-Hi Shine Muscat 350ML",
+    "norm": "takaha chu hi shine muscat"
+  },
+  {
+    "uid": "921c7b269c7aae495fa85c152262a714",
+    "eng": "TSING TAO Tsing Tao Beer King Can",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "07db0badcc79af6e7950d2616a14d450",
+    "eng": "TSING TAO Beer 6s Can Tsing Tao",
+    "norm": "tsing tao beer"
+  },
+  {
+    "uid": "7d7ae9528f44e1f61dd18da8333f472b",
+    "eng": "TSING TAO Tsing Tao Beer L Bot",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "96dd373e8a7fce5c7758a988dd0b12de",
+    "eng": "TSING TAO King Can Beer",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "7f774166330ed3c666b15e7043e0256c",
+    "eng": "TSING TAO Beer 12 Can",
+    "norm": "tsing tao beer"
+  },
+  {
+    "uid": "69fca39259791b962cdde4a22cd298f4",
+    "eng": "Tsing Tao Small Bottle Beer 6 X 355ML",
+    "norm": "tsing tao beer"
+  },
+  {
+    "uid": "87a5d94daa654155312aa2ec3c5fa9ab",
+    "eng": "Tsing Tao Can Beer 12 X 330ML",
+    "norm": "tsing tao beer"
+  },
+  {
+    "uid": "90ba8edc51a6a6b3ab0fd951c98d276b",
+    "eng": "Tsing Tao King Can Beer Case 24 x 500ML",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "65a1f7ad4f94edbdb290fce8fea8f4e0",
+    "eng": "Tsing Tao King Can Beer 4 X 500ML",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "1871cc7c9202dcaf0931cbf62a5e7b2d",
+    "eng": "TSING TAO King Draft Beer",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "2f7dc00b8b889b4e7801cbd544de501a",
+    "eng": "TSING TAO Draft L Bot",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "bf9b7287c885579c49f15691d6b26354",
+    "eng": "TSING TAO Tsing Tao Draft Can",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "f47e6641ca18b66142a54b84a25caa47",
+    "eng": "Tsing Tao Draft Beer 4 X 500ML",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "091ea3754881242d429a923ab53b9f64",
+    "eng": "Tsing Tao Large Bottle Draft Beer 640ML",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "9e7e46670c7d45ba86483701504ceff6",
+    "eng": "Tsing Tao Lager Beer Bottle Case 24 x 355ML",
+    "norm": "tsing tao king beer"
+  },
+  {
+    "uid": "4d77c037455ed6123320c8e73ddd33ae",
+    "eng": "TSING TAO Lemon Pilsner (non-alcholic)",
+    "norm": "tsing tao lemon pilsner non alcoholic"
+  },
+  {
+    "uid": "73562b9a71899a5abfd392365731d13c",
+    "eng": "TSING TAO Light King Can Beer 4's",
+    "norm": "tsing tao light"
+  },
+  {
+    "uid": "204f5ac12d22c4e1eda30c3b4332c487",
+    "eng": "Tsing Tao Light King Can Beer Case 24 x 500ML",
+    "norm": "tsing tao light"
+  },
+  {
+    "uid": "e75766b1afd413ba9ea38a1cbbd45aa1",
+    "eng": "Tsing Tao Light Beer 4X500Ml 4 X 500ML",
+    "norm": "tsing tao light"
+  },
+  {
+    "uid": "279ad50905b67cce16ba2e977cd8d1fe",
+    "eng": "Tsing Tao Pure Draft Beer 12x330ML",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "0d439a14541e837223bde560a237a40f",
+    "eng": "Tsing Tao Pure Draft Bottle Case 12 x 640ML",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "56ebc03e6364a5e468c70c21a6f262ad",
+    "eng": "Tsing Tao Pure Draft King Can Case 24 x 500ML",
+    "norm": "tsing tao draft"
+  },
+  {
+    "uid": "d5bbfb503aded9f53b5d9118b866bf29",
+    "eng": "TSING TAO Snake Beer Alum. Btl",
+    "norm": "tsing tao snake"
+  },
+  {
+    "uid": "5eeb315e01b828c1010e29ccd0973200",
+    "eng": "Tsing Tao Stout Can Case 24 x 330ML",
+    "norm": "tsing tao stout"
+  },
+  {
+    "uid": "b7bfcd377766b88e28484efa07506c6f",
+    "eng": "TSING TAO Wheat Beer King Can",
+    "norm": "tsing tao wheat"
+  },
+  {
+    "uid": "d684522d6c22d637bfd16b3d425d6501",
+    "eng": "TSING TAO 0.0% Can Beer",
+    "norm": "tsing tao zero"
+  },
+  {
+    "uid": "f88c65b8f9ed5ed58fc36b1154aa73e4",
+    "eng": "Wusu K/C Beer 500ML",
+    "norm": "wusu"
+  },
+  {
+    "uid": "2cd6fddfd9b7b6c1da0bab4d391a9750",
+    "eng": "Yanjing Can Draft Beer 12 X 330ML",
+    "norm": "yanjing draft"
+  },
+  {
+    "uid": "6c84d839dde071a0bfd6ac947a430a4f",
+    "eng": "Yebisu Japan Can Beer 6 x 350ML",
+    "norm": "yebisu"
+  },
+  {
+    "uid": "7df6c5b4cb23f4ca574c3fa65adb2186",
+    "eng": "YEBISU Premium Beer Can Pack",
+    "norm": "yebisu"
+  },
+  {
+    "uid": "e9c6cc7c5c788a9169f05405baaa2de9",
+    "eng": "Young Master 1842 Island Imperial IPA 330ML",
+    "norm": "young masterclass"
+  },
+  {
+    "uid": "bc32d8c46032744017b9a0eca720ca84",
+    "eng": "Young Master 1842 Island Imperial IPA Can Case 24 x 330ML",
+    "norm": "young masterclass"
+  },
+  {
+    "uid": "7baeade8a59f18487e6e32a2f14ad3ce",
+    "eng": "Young Master Another One All Day Session Ale Can Case 24 x 330ML",
+    "norm": "young masterclass"
+  },
+  {
+    "uid": "dfc7a2d0360a02b0257eb53cd62c7388",
+    "eng": "Young Master Classic Pale Ale Can Case 24 x 330ML",
+    "norm": "young masterclass"
+  },
+  {
+    "uid": "2f737a2bb7cdf5542892d0f583a3d79b",
+    "eng": "Young Master Contemporary Pilsner Can Case 24 x 330ML",
+    "norm": "young masterclass"
+  },
+  {
+    "uid": "6e6b4de7150aa05cc96a9cd9c17eeeb5",
+    "eng": "Young Masterclass Pale Ale 330ML",
+    "norm": "young masterclass"
+  }
+]

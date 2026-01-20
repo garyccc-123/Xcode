@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# ai_running_soda_extract.py   （只是做提取+去重+简单清洗）
-
 import json
 import logging
 import re
@@ -12,11 +8,11 @@ INPUT_FILES = [
     '/Users/gary/Documents/Supermarket1/Json_data/combined_products_pns_with_eng.json',
     '/Users/gary/Documents/Supermarket1/Json_data/combined_products_wellcom_with_eng.json'
 ]
-OUTPUT_FILE = '/Users/gary/Documents/Supermarket1/Json_data/filtered_soda.json'
+OUTPUT_FILE = '/Users/gary/Documents/Supermarket1/Json_data/filtered_wine.json'
 
 def load_products():
     """
-    读取两个 JSON，筛出「汽水」子分类的记录，仅保留 uid / eng 字段
+    读取两个 JSON，筛出「紅酒」子分类的记录，仅保留 uid / eng 字段
     """
     items = []
     for path in INPUT_FILES:
@@ -24,8 +20,8 @@ def load_products():
             wrapper = json.load(f)
 
         for p in wrapper.get('products', []):
-            # ❗️子分类里必须有 “汽水”
-            if '汽水' not in p.get('sub_categories', []):
+            # ❗️子分类里必须有 “紅酒”
+            if '紅酒' not in p.get('sub_categories', []):
                 continue
             uid = p.get('uid')
             eng = (p.get('product_eng_name') or '').strip()
@@ -33,7 +29,7 @@ def load_products():
             if uid and eng:
                 items.append({'uid': uid, 'eng': eng})
 
-    logging.info(f'载入汽水原始记录：{len(items)} 条')
+    logging.info(f'载入紅酒原始记录：{len(items)} 条')
     return items
 
 def dedupe(items, key):

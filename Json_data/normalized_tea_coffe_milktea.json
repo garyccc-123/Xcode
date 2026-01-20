@@ -1,0 +1,2712 @@
+[
+  {
+    "uid": "93eeb3ae1dd6dbb48edb8bea1f414466",
+    "eng": "Asahi Wonda Black Coffee 400ML",
+    "norm": "asahi wonda coffee"
+  },
+  {
+    "uid": "8268037bab9eaaf571fceefca9fb9be8",
+    "eng": "Asahi Wonda Cafe Au Lait 370GM",
+    "norm": "asahi wonda coffee"
+  },
+  {
+    "uid": "6048169fab46b9aaa8cb2dbd463dbb2d",
+    "eng": "ASAHI Wonda Kiwami Super Rich Cafe Au Lait",
+    "norm": "asahi wonda coffee"
+  },
+  {
+    "uid": "a629f0361f23a05bd6e99491b20d830f",
+    "eng": "Asahi Wonda Mirco Sugar Coffee 370GM",
+    "norm": "asahi wonda coffee"
+  },
+  {
+    "uid": "efc8618064ed7d111a2fbaee534cf624",
+    "eng": "ASAHI Wonda Sugar Free Black Coffee",
+    "norm": "asahi wonda coffee"
+  },
+  {
+    "uid": "9c14ae0e0bf6253d7234eac9d705a6ee",
+    "eng": "AUTHENTIC TEA HOUSE Authentic Tea House Dahongpao Oolong Tea 1.2l",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "a96098b6ada890f2b197b466e238b1fe",
+    "eng": "AUTHENTIC TEA HOUSE Authentic Tea House Dahongpao Oolong Tea 250mlx6p",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "cd5dab33a426d0eac4026192c20d7013",
+    "eng": "AUTHENTIC TEA HOUSE Authentic Tea House Dahongpao Oolong Tea 500ml",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "f41e6ab6d1885466ffb2729c45f8bf85",
+    "eng": "AUTHENTIC TEA HOUSE Authentic Tea Houseyinhao Jasmine Green Tea (no Sugar) 1.2l",
+    "norm": "authentic tea house jasmine green tea"
+  },
+  {
+    "uid": "c400b821e619ab9e1b68f23d7ff4f5b6",
+    "eng": "AUTHENTIC TEA HOUSE Authentic Tea Houseyinhao Jasmine Green Tea (no Sugar) 500ml",
+    "norm": "authentic tea house jasmine green tea"
+  },
+  {
+    "uid": "c18b0a3a89c651716206072ddf5c96c9",
+    "eng": "Authentic Tea House Cloudy Green Tea 1.2LT",
+    "norm": "authentic tea house cloudy green tea"
+  },
+  {
+    "uid": "9b048ee07779d08c715a20678b203e1f",
+    "eng": "Authentic Tea House Cloudy Green Tea Case 12 X 1.2 LT",
+    "norm": "authentic tea house cloudy green tea"
+  },
+  {
+    "uid": "0f219af8eb576dfc8ec92a10886f4dfc",
+    "eng": "Authentic Tea House Cloudy Green Tea Case 24 X 500 ML",
+    "norm": "authentic tea house cloudy green tea"
+  },
+  {
+    "uid": "fddaa9b82ef08fc5377ef51a64eff803",
+    "eng": "Authentic Tea House Cloudy Green Tea No Sugar 500ML",
+    "norm": "authentic tea house cloudy green tea"
+  },
+  {
+    "uid": "c3fdb6c06bef89b60a076f0c29fc590a",
+    "eng": "Authentic Tea House Cold Brew Japanese Deep Steamed Green Tea 500ML",
+    "norm": "authentic tea house cold brew green tea"
+  },
+  {
+    "uid": "065b21e15de083e2f2b9559b09e1c2a8",
+    "eng": "AUTHENTIC TEA HOUSE Cold Brew Jp Deep-steamed Green Tea",
+    "norm": "authentic tea house cold brew green tea"
+  },
+  {
+    "uid": "be9474187c10618455b17180afadeb51",
+    "eng": "Authentic Tea House Cold Brew Taiwan Jing Xuan Oolong Tea 500ML",
+    "norm": "authentic tea house taiwan jing-xuan oolongtea"
+  },
+  {
+    "uid": "b7c11bd2e4d270b7b70a8e29c1dc2975",
+    "eng": "AUTHENTIC TEA HOUSE Cold Brew Tw Honey Black Tea Bev(ns)",
+    "norm": "authentic tea house taiwan jing-xuan oolongtea"
+  },
+  {
+    "uid": "ae192ea8318a186a17f3668ab9aafce3",
+    "eng": "Authentic Tea House Dahongpao Oolong Tea 6 X 250ML",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "30a1f31ea9046895428fe4e6040cc39b",
+    "eng": "Authentic Tea House Dahongpao Oolong Tea No Sugar 500ML",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "81ef80960d2426538b1ffbb41cb49578",
+    "eng": "Authentic Tea House Dahongpao Tea 1.2LT",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "74a181a15bdfb04dd74bc952be43745f",
+    "eng": "Authentic Tea House Dahongpao Tea No Sugar Case 12 x 1.2LT",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "6a916c47c84beb09fc88a4eafea505de",
+    "eng": "Authentic Tea House Dahongpao Tea No Sugar Case 24 x 500ML",
+    "norm": "authentic tea house oolong tea"
+  },
+  {
+    "uid": "deb307338555ba9a0e7194ca476a087c",
+    "eng": "AUTHENTIC TEA HOUSE Gyokuro Green Tea",
+    "norm": "authentic tea house gyokuro green tea"
+  },
+  {
+    "uid": "e2c6675ea54d7a789e709acd9c95fe2f",
+    "eng": "Authentic Tea House Gyokuro Green Tea 500ML",
+    "norm": "authentic tea house gyokuro green tea"
+  },
+  {
+    "uid": "8ed1a1cb7fb7ba4a2430b55a06ad5706",
+    "eng": "Authentic Tea House Gyokuro Green Tea Case 24 X 500 ML",
+    "norm": "authentic tea house gyokuro green tea"
+  },
+  {
+    "uid": "065381e2f3e27af5dc7a7e31fb20168a",
+    "eng": "Authentic Tea House Jasmine Green Tea Case 12 x 1.2LT",
+    "norm": "authentic tea house jasmine green tea"
+  },
+  {
+    "uid": "83ae0305f1669beb13b7031ffbf2972b",
+    "eng": "Authentic Tea House Jasmine Green Tea Case 24 x 500ML",
+    "norm": "authentic tea house jasmine green tea"
+  },
+  {
+    "uid": "a94ee09f69af536aa316522f0db31f68",
+    "eng": "AUTHENTIC TEA HOUSE Puer Tea Bev With Fiber (no Sugar)",
+    "norm": "authentic tea house puer tea"
+  },
+  {
+    "uid": "e202b3067b7bb415c6938973bd198bac",
+    "eng": "Authentic Tea House Puer Tea with Fiber 1.2LT",
+    "norm": "authentic tea house puer tea"
+  },
+  {
+    "uid": "bc7c40ff67ae5b9f85625e370fb9faf8",
+    "eng": "Authentic Tea House Puer Tea with Fiber 500ML",
+    "norm": "authentic tea house puer tea"
+  },
+  {
+    "uid": "ab81bdfc0c9fca878d9b8a0ceaeef3c5",
+    "eng": "Authentic Tea House Yinhao Jasmine Green Tea 6 X 250ML",
+    "norm": "authentic tea house yinhao jasmine green tea"
+  },
+  {
+    "uid": "34ebc63b2615b0cb4572eb753e76dca7",
+    "eng": "AUTHENTIC TEA HOUSE Yinhao Jasmine Green Tea Bev(no Sugar)",
+    "norm": "authentic tea house yinhao jasmine green tea"
+  },
+  {
+    "uid": "9e21ff4ef3c0a3b571f1659aa41c1354",
+    "eng": "Authentic Tea House Yinhao Jasmine Green Tea No Sugar 500ML",
+    "norm": "authentic tea house yinhao jasmine green tea"
+  },
+  {
+    "uid": "4191526c481a7dabf657318dcb1cca14",
+    "eng": "Authentic Tea House Yinhao Jasmine Tea 1.2LT",
+    "norm": "authentic tea house yinhao jasmine green tea"
+  },
+  {
+    "uid": "e0744b7c1f40281224b1f24315c1b0a2",
+    "eng": "BLACK & WHITE Classic Milk Tea Beverage",
+    "norm": "black & white classic milk tea"
+  },
+  {
+    "uid": "ce20ebd0eeb7b6e85ef7c8f83994bc50",
+    "eng": "Black & Whiteclassic Milk Tea Beverage 260ML",
+    "norm": "black & white classic milk tea"
+  },
+  {
+    "uid": "7aa999b2181868ffc9b1b8ba42c8154f",
+    "eng": "BOSS Coffee Latte",
+    "norm": "boss coffee"
+  },
+  {
+    "uid": "26dbb3206e62f3fa892e6560f6860e5b",
+    "eng": "C'Estbon Chrysanthemum Tea 450ML",
+    "norm": "c'estbon chrysanthemum tea"
+  },
+  {
+    "uid": "77c0e42602e81be572c4cc19ae843b24",
+    "eng": "C'ESTBON Chrysanthemum Tea.",
+    "norm": "c'estbon chrysanthemum tea"
+  },
+  {
+    "uid": "4662ddaef054047955b0662acf0c6911",
+    "eng": "C'estbon Lemon Tea 450ML",
+    "norm": "c'estbon lemon tea"
+  },
+  {
+    "uid": "457027f0674e61faad14dfd7172ac195",
+    "eng": "C'ESTBON Lemon Tea Fruit Juice Tea",
+    "norm": "c'estbon lemon tea"
+  },
+  {
+    "uid": "0088b5cdc65527e5cb8844f765370284",
+    "eng": "C'ESTBON Oolong Tea Original Tea",
+    "norm": "c'estbon oolong tea original tea"
+  },
+  {
+    "uid": "5112e45dd0dcbd52dd80111ee2c222b7",
+    "eng": "CHA XIAO KAI Gardenia Snail Spring Green Tea Drinks (no Sugar)",
+    "norm": "cha xiao kai tea drinks"
+  },
+  {
+    "uid": "45786e7b09c04d27cce4d446915aab44",
+    "eng": "CHA XIAO KAI Jasmine Tea Drink (no Sugar)",
+    "norm": "cha xiao kai tea drinks"
+  },
+  {
+    "uid": "0f61014a7337e4dacc7812e3e6a1dc07",
+    "eng": "CHA XIAO KAI Osmanthus Longjing Tea Drink (no Sugar)",
+    "norm": "cha xiao kai tea drinks"
+  },
+  {
+    "uid": "6cf40a25e3b09c1a4fae3bbcd13bb759",
+    "eng": "Chai Li Won Sugarfree Green Tea 420ML",
+    "norm": "chai li won sugarfree tea"
+  },
+  {
+    "uid": "c2a8db734222bef642b0fa8ecbec7e13",
+    "eng": "Chai Li Won Sugarfree Jasmine Tea 420ML",
+    "norm": "chai li won sugarfree tea"
+  },
+  {
+    "uid": "9e0b8e9e6d42dac442d287293b68165d",
+    "eng": "Chai Li Won Sugarfree Oolong Tea 420ML",
+    "norm": "chai li won sugarfree tea"
+  },
+  {
+    "uid": "4484de07f0b89fc5c1b2432a182b40e2",
+    "eng": "CRYSTAL SPRING Green Mango Dancong (yashixiang) Tea Drink",
+    "norm": "crystal spring green tea drink"
+  },
+  {
+    "uid": "6193e8c3155d0bde5efb1115d8286885",
+    "eng": "CRYSTAL SPRING Lychee Dancong (yashixiang) Tea Drink",
+    "norm": "crystal spring green tea drink"
+  },
+  {
+    "uid": "7652f18f6eb1dff316bd1817cc0a0719",
+    "eng": "DAI PAI DONG Hk Style Black Coffee",
+    "norm": "dai pai dong hk style coffee"
+  },
+  {
+    "uid": "a0eb91126f298e036e9c87fa954ecc70",
+    "eng": "DAI PAI DONG Hk Style Lemon Tea",
+    "norm": "dai pai dong lemon tea"
+  },
+  {
+    "uid": "e1697a5a6631ecfdac218cecd6d9d106",
+    "eng": "DOUTOR Hinokiwami Black Sugar Free Coffee",
+    "norm": "doutor hinokiwami black sugar free coffee"
+  },
+  {
+    "uid": "23a6faeb7e92c280383f54b15dd1e162",
+    "eng": "DYDO Barista's Choice Low Sugar Coffee",
+    "norm": "dydo barista's choice low sugar coffee"
+  },
+  {
+    "uid": "f05139ed46907837b4127116c089edaf",
+    "eng": "DYDO Leaf Green Tea (hanocha)",
+    "norm": "dydo leaf green tea"
+  },
+  {
+    "uid": "9be5c8ccb9e0ca54f6b44206b6114ce2",
+    "eng": "FOUR SEAS Lemon Tea",
+    "norm": "four seas lemon tea"
+  },
+  {
+    "uid": "82ebbe97e80cf09cdf2433f34af8c20a",
+    "eng": "FOUR SEAS Premium Coffee Can",
+    "norm": "four seas premium coffee"
+  },
+  {
+    "uid": "4e74bef42f5c0c49401191cb950c5aed",
+    "eng": "GEORGIA European Scent Black Coffee",
+    "norm": "georgia coffee"
+  },
+  {
+    "uid": "11c33b9e3440e937420f8a01783e57bf",
+    "eng": "GEORGIA The Zero Coffee",
+    "norm": "georgia coffee"
+  },
+  {
+    "uid": "bac505b68ed98b4d74f97c326f655b00",
+    "eng": "GEORGIA Platinum Black Coffee",
+    "norm": "georgia coffee"
+  },
+  {
+    "uid": "666d4cc95630bf1fb5405120c8951e43",
+    "eng": "GEORGIA The Black Coffee",
+    "norm": "georgia coffee"
+  },
+  {
+    "uid": "bb99724f12089ce29946ae5855610a97",
+    "eng": "GEORGIA The Latte Coffee",
+    "norm": "georgia coffee"
+  },
+  {
+    "uid": "25db52a89859fb27d8885e5afa4496bf",
+    "eng": "HARUNA PRODUCE Haruna The Honey Black Tea",
+    "norm": "haruna produce haruna the honey black tea"
+  },
+  {
+    "uid": "c77d6b41f2f960275a8477c5d63ad5f7",
+    "eng": "HARUNA PRODUCE Lucafe Houjicha",
+    "norm": "haruna produce lucafe houjicha"
+  },
+  {
+    "uid": "13420e9685d1bfd226a0fa0b9c707d11",
+    "eng": "Healthworks Hawthorn Apple 6 X 250ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "72fa14e36c3e738206273b7a3264a45a",
+    "eng": "Healthworks Lemon Yiyiren Drink 500ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "0acf9475a5118cbd134713e817634bcb",
+    "eng": "Healthworks Lemon Yiyiren Drink Case 24 X 500 ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "997c7b7f2fd4acc0fbed315f66aae2df",
+    "eng": "Healthworks Self Heal Spike 500ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "9ac0c2da32552e46b83241c0452a6aef",
+    "eng": "Healthworks Self-Heal  Spike Case 24 X 500 ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "4c3feee63942a653736540b04724f841",
+    "eng": "Healthworks Sugarcane Sea Coconut 6 X 250ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "8904febe92a2997780037970d505f49e",
+    "eng": "Healthworks Sugarcane Seacoconut 500ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "1692dad7678ee049878cd92aae4759f8",
+    "eng": "Healthworks Sugarcane Seacoconut Case 24 X 500 ML",
+    "norm": "healthworks drink"
+  },
+  {
+    "uid": "c34fa7d0852559e8ab1f3bf34c1ed70d",
+    "eng": "HI-C Ceylon Lemon Tea Less Sweet (low Sugar)",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "dfdcb8ff96a00578be1aecd14b205d1d",
+    "eng": "Hi-C Ceylon Lemon Tea Low Sugar 6 X 250ML",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "230834aefb0e4667d1eb233900fdf5d7",
+    "eng": "Hi-C Chrystanthemum Tea 6 X 250ML",
+    "norm": "hi-c chrysanthemum tea"
+  },
+  {
+    "uid": "f7b91fb25abd544fa1c03f94eadcf20e",
+    "eng": "HI-C Hi-c Lemon Tea 250ml Tetrapack 6p",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "384ee6ccd2fac674dfd472cfb187fa15",
+    "eng": "HI-C Hi-c Lemon Tea 9's",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "c50f23c7e018f7e53547f59f4197e701",
+    "eng": "Hi-C Ice-Lemon Tea 6 X 250ML",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "84695450e183a98a466330354af18046",
+    "eng": "Hi-C Lemon Tea 6 X 250ML",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "e5d2567ba4828be24a71ca4879225888",
+    "eng": "Hi-C Lemon Tea 9 X 250ML",
+    "norm": "hi-c ceylon lemon tea "
+  },
+  {
+    "uid": "f6b51bc2c40244a07ccbfd86cd5a25d5",
+    "eng": "Hi-C Lychee Honey Tea 6 X 250ML",
+    "norm": "hi-c lychee honey tea"
+  },
+  {
+    "uid": "fe3f7407082da3eb9e84f716be3950e0",
+    "eng": "Hi-C Mandarin Tea 6 X 250ML",
+    "norm": "hi-c mandarin tea"
+  },
+  {
+    "uid": "3abec4c89614bbbf573b0baed90fec2f",
+    "eng": "Hoi Tin Tong 24Herbs Tea 510ML",
+    "norm": "hoi tin tong herbs tea"
+  },
+  {
+    "uid": "4f1ae74d94636d8e2deff3b3b6d144c6",
+    "eng": "Hoi Tin Tong Herbal Jelly Drink 350ML",
+    "norm": "hoi tin tong herbs tea"
+  },
+  {
+    "uid": "1c0ed9e2a4e8f4b123f1cb9a0a125c1b",
+    "eng": "Hoi Tin Tong Xia Ku Cao 510ML",
+    "norm": "hoi tin tong herbs tea"
+  },
+  {
+    "uid": "d9327e86d4dca10ced547fe115ec4526",
+    "eng": "Hung Fook Tong Can Lv-Pes Vin Case 24 X 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "5659dabb847018566a802e862e533d39",
+    "eng": "Hung Fook Tong Canton Love-Pea Vine Drink 1.5LT",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "4b3bd938a0dfb58a0da9b928973fda81",
+    "eng": "Hung Fook Tong Canton Love-Pes Vine 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "6014b4dfc15064bbcb2bd8d8757867d7",
+    "eng": "Hung Fook Tong Chrysanthemum With Honey 1.5LT",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "8dd58520b0b3ab0b13fd42042586e4ac",
+    "eng": "Hung Fook Tong Chrysanthemum with Honey 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "7107b66d9e46bb94e58b7c913519c54b",
+    "eng": "Hung Fook Tong Common Selfheal Fruit-Spike 1.5LT",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "b358c5677b01a01f4a083e712a55d7bf",
+    "eng": "Hung Fook Tong Ginseng With Honey 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "864dc6f9935a59bcf5137ca761c379c5",
+    "eng": "Hung Fook Tong Grosvenor Momordica 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "69f11ad4f6a10629521bc7155a2220a6",
+    "eng": "Hung Fook Tong Honey W Chuan Bei Loquat Leave 500Ml",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "635096f1bdfe91dd9acab080bf35f736",
+    "eng": "Hung Fook Tong Imperatae Cane 1.5LT",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "a4201aaea7b119067394ae52d068347a",
+    "eng": "Hung Fook Tong Imperatae Cane Case 24 X 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "49453177c3b3283628ffbe9116a512b5",
+    "eng": "Hung Fook Tong Imperatae Cane Drink 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "a2931213ea60b1a6311883e05f00d0d8",
+    "eng": "Hung Fook Tong Milk Tea 310ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "08141ea9418f0f06589af3b1a6074dbd",
+    "eng": "Hung Fook Tong Mix Flower Tea 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "adcf02d67bb2dc81f251293d37f7d1c5",
+    "eng": "Hung Fook Tong Pear Tea 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "7e621231da89355881ae710b61b651f9",
+    "eng": "Hung Fook Tong Salted Lime Drink 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "e6d2d32fda6c6b71f631c1017a40e238",
+    "eng": "Hung Fook Tong Salted Mandarin Drinks 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "545984ce769bd1e6090dc0fdc81a0c35",
+    "eng": "Hung Fook Tong Selfhe Frt-Spi Case 24 X 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "b775bab0ff618962432cd2c55586805a",
+    "eng": "Hung Fook Tong Selfheal Fruit-Spike 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "9ef82d6d4982736dabb99043414f31c4",
+    "eng": "Hung Fook Tong Sugarcane Carrot Drink 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "9b190722c5c64d0eb3d3fca23f067f79",
+    "eng": "Hung Fook Tong Tangerine Peel Mandarin 500ML",
+    "norm": "hung fook tong drink"
+  },
+  {
+    "uid": "8c118f3d8fdd29b183ad7687b0afe315",
+    "eng": "IF Thai Milk Tea",
+    "norm": "if thai milk tea"
+  },
+  {
+    "uid": "926cb749f06c53bb0bb502d885c6e87a",
+    "eng": "INABAEN Black Oolong Tea",
+    "norm": "inabaen black oolong tea"
+  },
+  {
+    "uid": "3410414ebd313a90c5d630b648b823d7",
+    "eng": "ITAMACHI Barley Tea (no Sugar)",
+    "norm": "itamachi barley tea"
+  },
+  {
+    "uid": "98183a10d15c53e0fedbbf2470f13d13",
+    "eng": "ITOEN Dark Green Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "47a1780736a20fd9c46f6a54f14108aa",
+    "eng": "ITOEN Delicious Soy Isoflav Black Bean Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "b713da2ebbf53642fe1d3aac4a21f3fa",
+    "eng": "Itoen Green Tea 2LT",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "5c094eb01ff1d0852562c979ce8d2b59",
+    "eng": "ITOEN Japan Green Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "c79366f92303b8c188d2f93e9b6db21e",
+    "eng": "ITOEN Oi Ocha Green Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "faec06b9564b6ce69365870c2957290d",
+    "eng": "ITOEN Oiocha Green Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "eebdde14dfd61509765be1829c011e69",
+    "eng": "ITOEN Tully's Coffee Barista's Black",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "3b922f860f3596417f6fb7d0fa763673",
+    "eng": "Jia Duo Bao Herbal Tea Original 6 x 310ML",
+    "norm": "jia duo bao herbal tea"
+  },
+  {
+    "uid": "76cec7d0dec057a3c94c89a76397ae72",
+    "eng": "Jia Duo Bao Herbal Tea Original Case 24 x 310ML",
+    "norm": "jia duo bao herbal tea"
+  },
+  {
+    "uid": "c2d9e9bc02e5947bd0fc33624ae872eb",
+    "eng": "Jia Duo Bao Herbal Tea Zero Sugar Case 24 x 310ML",
+    "norm": "jia duo bao herbal tea"
+  },
+  {
+    "uid": "9bd8407debaf57c03bc8dd607cb41a42",
+    "eng": "KAM CHA Hk Style Milk Tea",
+    "norm": "kam cha hk style milk tea"
+  },
+  {
+    "uid": "b5f7fdfee8f9e8cf8791f8f8793fe218",
+    "eng": "KIRIN Afternoon Lemon Tea",
+    "norm": "kirin afternoon lemon tea"
+  },
+  {
+    "uid": "84521e49f36155f5e6de48a60ab9f898",
+    "eng": "KIRIN Afternoon Tea Lemon",
+    "norm": "kirin afternoon tea lemon"
+  },
+  {
+    "uid": "51ec8edbbf31787e51fa10a66e006ce6",
+    "eng": "KIRIN Afternoon Tea Straight",
+    "norm": "kirin afternoon tea straight"
+  },
+  {
+    "uid": "a3843e2ceb607170643380f81800b778",
+    "eng": "KIRIN Afternoon Tea Straight",
+    "norm": "kirin afternoon tea straight"
+  },
+  {
+    "uid": "08e5188aec7cd3d6257d7e012e858a78",
+    "eng": "KIRIN Fire One Day Black Coffee",
+    "norm": "kirin fire one day coffee"
+  },
+  {
+    "uid": "9c7de05d4d4e890c4e79021a4b764596",
+    "eng": "KIRIN Fire One Day Latte Mild Sugar Coffee",
+    "norm": "kirin fire one day coffee"
+  },
+  {
+    "uid": "0ebe39c874836f11e12196ea8db5154a",
+    "eng": "KIRIN Fire One Day Unsweetened Latte",
+    "norm": "kirin fire one day unsweetened latte"
+  },
+  {
+    "uid": "ec198b77dde61580047af8a51fe1fea0",
+    "eng": "KIRIN Rich Green Tea",
+    "norm": "kirin rich green tea"
+  },
+  {
+    "uid": "d70ab3d96fd8350f419acb51505a5967",
+    "eng": "KIRIN Rich Green Tea",
+    "norm": "kirin rich green tea"
+  },
+  {
+    "uid": "f8ed2c8a09572979e88d8397a515ab40",
+    "eng": "Kirin Rich Green Tea Series Origin Flavor 525ML",
+    "norm": "kirin rich green tea"
+  },
+  {
+    "uid": "2434004f09e4e6272ac7f60d71768260",
+    "eng": "Kochakaden Craftea Lemon Tea 500ML",
+    "norm": "kochakaden craftea lemon tea"
+  },
+  {
+    "uid": "6ae8407c1bfe2587fb703f9b75cec696",
+    "eng": "Kochakaden Craftea Lemon Tea Case 24 x 500ML",
+    "norm": "kochakaden craftea lemon tea"
+  },
+  {
+    "uid": "501d095ae6d898746d5967a9448e7455",
+    "eng": "Kochakaden Craftea Orange Black Case 24 x 500ML",
+    "norm": "kochakaden craftea orange black case"
+  },
+  {
+    "uid": "d6283a7ebb4a5f1c799b885b570e6af4",
+    "eng": "Kochakaden Craftea Orange Black Tea 500ML",
+    "norm": "kochakaden craftea orange black case"
+  },
+  {
+    "uid": "a1a9097e3280ae564b9f97710b4637d7",
+    "eng": "Kochakaden Craftea Peach Tea 500ML",
+    "norm": "kochakaden craftea peach tea"
+  },
+  {
+    "uid": "cab1d83f05925c84e99c834d753780c5",
+    "eng": "Kochakaden Craftea Peach Tea Case 24 x 500ML",
+    "norm": "kochakaden craftea peach tea"
+  },
+  {
+    "uid": "29da5f62ba8a67fcd77546f463d601a5",
+    "eng": "Kochakaden Peach Tea Beverage 920ML",
+    "norm": "kochakaden craftea peach tea"
+  },
+  {
+    "uid": "171983a26fc0c73a665f36b8d1d0b797",
+    "eng": "LOTTE Burdock Tea (pet)",
+    "norm": "lotte tea"
+  },
+  {
+    "uid": "ac6484d20f747a0621d0289968c19826",
+    "eng": "LOTTE Ceylon Tea",
+    "norm": "lotte tea"
+  },
+  {
+    "uid": "1c2da05d6eff76432270322c74dc7300",
+    "eng": "LOTTE Corn Silk Tea (pet)",
+    "norm": "lotte tea"
+  },
+  {
+    "uid": "93413c686f9c8a6a73fabd1c9b62df58",
+    "eng": "Meadows Dahongpao Oolong Tea 500ML",
+    "norm": "meadows dahongpao oolong tea"
+  },
+  {
+    "uid": "d200a2a237d7d17709026cdd9e7d1930",
+    "eng": "Meadows Gold Milk Tea 330GM",
+    "norm": "meadows milk tea "
+  },
+  {
+    "uid": "aa8cc359132f6bd36df03bbe052a6acb",
+    "eng": "Meadows Grosvenor Momordica 500ML",
+    "norm": "meadows grosvenor momordica "
+  },
+  {
+    "uid": "0ad125259c68a00a2978928e0fbeb1ea",
+    "eng": "Meadows Imperatae Cane Drink 500ML",
+    "norm": "meadows imperatae cane drink "
+  },
+  {
+    "uid": "841587e6148394a2610233673e98db62",
+    "eng": "Meadows Jasmine Tea 1.5LT",
+    "norm": "meadows jasmine tea"
+  },
+  {
+    "uid": "961b9e441f7329561bce3db9e7fb7e5b",
+    "eng": "Meadows Jasmine Tea 500ML",
+    "norm": "meadows jasmine tea"
+  },
+  {
+    "uid": "0371ab00624b15fccfd71a44d302a6f4",
+    "eng": "Meadows Original Milk Tea 350GM",
+    "norm": "meadows milk tea "
+  },
+  {
+    "uid": "4b226a5fe8821b1b426d9deae871347b",
+    "eng": "MEKO Passion Fruit And Orange Fruit Tea",
+    "norm": "meko passion fruit and orange fruit tea"
+  },
+  {
+    "uid": "8f32497c04d8f5a63940fa4cdcb2882e",
+    "eng": "Mr Brown Blue Mountain Coffee 240ML",
+    "norm": "mr brown blue mountain coffee"
+  },
+  {
+    "uid": "75be9fcc7f5379c8b8c460c21f83c7ed",
+    "eng": "Mr Brown Blue Mountain Coffee 330ML",
+    "norm": "mr brown blue mountain coffee"
+  },
+  {
+    "uid": "07bef918b216f9e1e2de13b1116e97f0",
+    "eng": "MR. BROWN Black Coffee (no Sugar) 4 Can",
+    "norm": "mr. brown black coffee"
+  },
+  {
+    "uid": "d72feef3a1ad54d4c098df1c74590d9e",
+    "eng": "MR. BROWN Blue Mountain Coffee 4 Can",
+    "norm": "mr brown blue mountain coffee"
+  },
+  {
+    "uid": "873c91249a79e2fb47b28cd87c95c06a",
+    "eng": "MR. BROWN Blue Mountain Coffee 4s Pet",
+    "norm": "mr brown blue mountain coffee"
+  },
+  {
+    "uid": "7a01df0bb970f6590e43f14016bf8b01",
+    "eng": "MR. BROWN Deluxe Coffee",
+    "norm": "mr. brown deluxe coffee"
+  },
+  {
+    "uid": "8aaefa1d5d7b68bd2ce6cb3b69bd50c5",
+    "eng": "MR. KON Ice Tea",
+    "norm": "mr. kon ice tea"
+  },
+  {
+    "uid": "cb781dfcd917d66039663ec3efbbf3ec",
+    "eng": "MR. KON Ice Tea",
+    "norm": "mr. kon ice tea"
+  },
+  {
+    "uid": "7a3634fc576553fdfa6205cb1cb3ba43",
+    "eng": "MR. KON Ice Tea",
+    "norm": "mr. kon ice tea"
+  },
+  {
+    "uid": "3de0337ea3c761dc284b176642f3bf50",
+    "eng": "MZK Life Honey Sugar Fig Tea 1PC",
+    "norm": "mzk life honey sugar fig tea"
+  },
+  {
+    "uid": "1115f510851b66000fbcea2037e41717",
+    "eng": "MZK Life Osmanthus & Snow Pear Tea 1PC",
+    "norm": "mzk life osmanthus & snow pear tea"
+  },
+  {
+    "uid": "710566599b16cfce9257ca895cf86d4e",
+    "eng": "Nescafe Creme White Coffee 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "db438c34a63fe7fcc6de52606d4fc9df",
+    "eng": "Nescafe Extra Shot Coffee Beverage 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "85df6fa84ee310f4ed3417077e64547c",
+    "eng": "NESCAFE Full Roast Coffee",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "8564b48db193d135d89ec03875720aa9",
+    "eng": "Nescafe Full Roast Coffee 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "2c2c4d306cccb4b5add588fa928e0fca",
+    "eng": "Nescafe Instant Coffee Drink 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "b8cad202848b8148425827e32f1f30f5",
+    "eng": "NESCAFE Korean Cafe Collection Cafe Latte",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "619d91e5f5c7c7d9655047aa2dcef0b1",
+    "eng": "Nescafe Korean Cafe Collection Cafe Latte 370ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "06df7bf070615767bad4f7b5c6d520e2",
+    "eng": "Nescafe Korean Cafe Collection Cold Brew Black Coffee 370ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "ced31c8707bc30407cb6b77709743d81",
+    "eng": "NESCAFE Korean Cafe Collection Cold Brew Blk",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "ce441e6db5a27bd5356c93be51e8c4fd",
+    "eng": "Nescafe Rich Coffee 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "4757fd95663593ec20a6d03a79ebe729",
+    "eng": "NESCAFE Smoovlatte",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "563c17134e0ec12fd1d44a71be1b043e",
+    "eng": "Nescafe Smoovlatte Hazelnut Coffee 3 X 268ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "b4eca911c83a3f48453b21aec7108ba0",
+    "eng": "NESCAFE Cold Brew Black Aluminum Bottle (20 Bottles)",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "113f845ab8c5c65af7fb680e48e33135",
+    "eng": "NESCAFE Nescafe Coconut Americano",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "dd566180aeff850ca6277b4f86ca84da",
+    "eng": "NESCAFE Nescafe Rich Coffee 250ml 6p",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "92bf67d66c0659a1031ad7ee0303c7b9",
+    "eng": "NESCAFE Smoovlatte Hazelnut Flavour Coffee",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "c76f755734cce587b78d7f1fcfbc94d5",
+    "eng": "NESCAFE Cafe Latte Aluminum Bottle (20 Bottles)",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "62f82dfb71943202320385f3707e9849",
+    "eng": "NESCAFE Nescafe Milk & Sugar Coffee 250ml 6p",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "526cc025366108f70fcc75623e9b94c9",
+    "eng": "NESCAFE Creme White Coffee Beverage",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "29d887ba57acd8ee394f1844650085ba",
+    "eng": "NESCAFE Nescafe Coconut Latte",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "f6793a11b42a38f4a1c6bfb553ad175f",
+    "eng": "Nescafe Smoovlatte Mocha 3 X 268ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "8704f6817a5d1971f7e7b3a302991569",
+    "eng": "Nescafe Nanyang White Coffee 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "39a44e82aebb8ce37edefc75cff46d93",
+    "eng": "Nescafe Smoovlatte 3 x 268ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "35b938d84fa73455e98bf50e35f45aab",
+    "eng": "NESTEA Honey Pear Tea",
+    "norm": "nestea honey pear tea"
+  },
+  {
+    "uid": "f0386fbc3830ae66260d7d06c405c6d7",
+    "eng": "Nestea Honey Pear Tea 6 X 250ML",
+    "norm": "nestea honey pear tea"
+  },
+  {
+    "uid": "bcc44d15935750d99957567a171083c9",
+    "eng": "Nestea Honey Pear Tea 6 X 315ML",
+    "norm": "nestea honey pear tea"
+  },
+  {
+    "uid": "ea793f241d201cab4e378710ebf0833d",
+    "eng": "NESTEA Ice Rush Lemon Tea",
+    "norm": "nestea ice rush lemon tea"
+  },
+  {
+    "uid": "4b4e94e517a0d60aac8705eb0bb9c651",
+    "eng": "NESTEA Ice Rush Lemon Tea",
+    "norm": "nestea ice rush lemon tea"
+  },
+  {
+    "uid": "3d33e564489753b9f8b4b2fb4de27e9d",
+    "eng": "Nestea Ice Rush Lemon Tea 480ML",
+    "norm": "nestea ice rush lemon tea"
+  },
+  {
+    "uid": "f7b2c4ab4c27c85db3ac58c9de1b3bd5",
+    "eng": "Nestea Ice Rush Lemon Tea 6 X 250ML",
+    "norm": "nestea ice rush lemon tea"
+  },
+  {
+    "uid": "945100b44c59c4c7a17b271a853c9ce7",
+    "eng": "Nestea Ice Rush Lemon Tea 6 X 315ML",
+    "norm": "nestea ice rush lemon tea"
+  },
+  {
+    "uid": "76d580ae76975f0f48d6bd4289e1111b",
+    "eng": "NESTEA Lemon Tea",
+    "norm": "nestea lemon tea"
+  },
+  {
+    "uid": "a966a24c0fba67c16986a85835588f4f",
+    "eng": "NESTEA Lemon Tea",
+    "norm": "nestea lemon tea"
+  },
+  {
+    "uid": "982445731ca1abe171ea7690c9ddfa2d",
+    "eng": "Nestea Lemon Tea 480ML",
+    "norm": "nestea lemon tea"
+  },
+  {
+    "uid": "8245af65440aabc218341c2bee1043e6",
+    "eng": "Nestea Lemon Tea 6 X 250ML",
+    "norm": "nestea lemon tea"
+  },
+  {
+    "uid": "a582f59e8cf1649c3cbd8e079782cadb",
+    "eng": "Nestea Lemon Tea 6 X 315ML",
+    "norm": "nestea lemon tea"
+  },
+  {
+    "uid": "303b63c92ef9887e32e810a680dfb2af",
+    "eng": "NONGFU SPRING Oriental Leaf Black Oolong T Sugar Free",
+    "norm": "nongfu spring oriental leaf"
+  },
+  {
+    "uid": "b5003854d843db6d46c22c75b21c65cc",
+    "eng": "NONGFU SPRING Oriental Leaf Ganpu Tea Sugar Free",
+    "norm": "nongfu spring oriental leaf"
+  },
+  {
+    "uid": "78f6d19d7d1fd266d0d37b259ce461f3",
+    "eng": "NONGFU SPRING Tea Pi Green Grape Oolong Tea",
+    "norm": "nongfu spring tea pi tea"
+  },
+  {
+    "uid": "3d8ffd2318c7fd6ee80838f41622427e",
+    "eng": "NONGFU SPRING Tea Pi Pomelo Green Tea",
+    "norm": "nongfu spring tea pi tea"
+  },
+  {
+    "uid": "0a995a55977bacb3b4fd42623cd2c4de",
+    "eng": "OKF Black Coffee",
+    "norm": "okf coffee"
+  },
+  {
+    "uid": "d5ab5d74b12a3fec4039d2a83c745e50",
+    "eng": "OKF Caffe Latte",
+    "norm": "okf coffee"
+  },
+  {
+    "uid": "209db6e6c7bcae1a37bf5c16c6b7df44",
+    "eng": "Original Taste Carrot Pear Drink 1LT",
+    "norm": "original taste drink"
+  },
+  {
+    "uid": "340de0395175cb03d4e9a9a55d57f980",
+    "eng": "Original Taste Chrysanthemum W Honey 1LT",
+    "norm": "original taste drink"
+  },
+  {
+    "uid": "46dd8715ad281b2e705abdbf00b0b28e",
+    "eng": "Original Taste Fig Apple & Pear 1LT",
+    "norm": "original taste drink"
+  },
+  {
+    "uid": "6df0cde1520799cd10dc2d39c583346c",
+    "eng": "Original Taste Pear Sichuan Loquat 1LT",
+    "norm": "original taste drink"
+  },
+  {
+    "uid": "38488080e3f5ab8d6f8ae64310b4218b",
+    "eng": "POKKA Premium Milk Coffee",
+    "norm": "pokka premium milk coffee"
+  },
+  {
+    "uid": "391603aaaab7f05271968678e6cdc1ad",
+    "eng": "PURA_ Blended Oolong Tea",
+    "norm": "non-show"
+  },
+  {
+    "uid": "8bb1d15abd39e18f7870b3149bbe6380",
+    "eng": "PURE LIFE HK Leys Tea",
+    "norm": "non-show"
+  },
+  {
+    "uid": "e3d4ba0074f094d183e9e9a4ae69f84c",
+    "eng": "RIKYU CHASAKU Honey Green Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "be777f8e9a0c1d08caf3a797be829692",
+    "eng": "RIKYU CHASAKU Japanese Style Sencha Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "297ed1d3f2232a40255a52911ad439fd",
+    "eng": "RIKYU CHASAKU Japanese Style Sencha Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "ce33a2e9287b272e595ccb3ff23ba5e3",
+    "eng": "ROBIFF Oolong Tea",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "9c9554de741b70198f20815fead19bf8",
+    "eng": "ROBIFF Oolong Tea",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "1199bacf8b28460ed5cfc67400c6e618",
+    "eng": "Robiff Oolong Tea 500ML",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "ecea22c0e88ab18e0180bc12f6001709",
+    "eng": "Robiff Oolong Tea 900ML",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "82643df1f035cafaeb10df8b121699ea",
+    "eng": "Robiff Oolong Tea Case 12 x 900ML",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "7aff55fabd797c256d02b1df20826c89",
+    "eng": "Robiff Oolong Tea Case 24 x 500ML",
+    "norm": "robiff oolong tea"
+  },
+  {
+    "uid": "8252ee2279de7b3037019e08df18c78b",
+    "eng": "Royal T Garden Premium Oolong Tea Beverage 500ML",
+    "norm": "royal t garden premium oolong tea beverage"
+  },
+  {
+    "uid": "756b6271bd5cbffe00c24042c6edd320",
+    "eng": "RUHN CHAN Herbal Tea",
+    "norm": "ruhn chan herbal tea"
+  },
+  {
+    "uid": "424711b2adc2e5a4ed0192a39fc0c5f8",
+    "eng": "SANGARIA Mild Coffee Low Sugar",
+    "norm": "sangaria coffee"
+  },
+  {
+    "uid": "ec81a7a3f36a725bb3889309b23db573",
+    "eng": "SANGARIA Mild Sumiyaki Coffee",
+    "norm": "sangaria coffee"
+  },
+  {
+    "uid": "a85262df68c16ecd6744e99df0c98f01",
+    "eng": "SANGARIA Sumiyaki Coffee Low Sugar",
+    "norm": "sangaria coffee"
+  },
+  {
+    "uid": "60ff1bd18286243bec62504415361558",
+    "eng": "Sensa Cools Herbal Chrysanthemum 350ML",
+    "norm": "sensa cools herbal"
+  },
+  {
+    "uid": "6d6d408966e7e09bdb18a282f0bb2e86",
+    "eng": "Sensa Cools Herbal Green Tea 350ML",
+    "norm": "sensa cools herbal"
+  },
+  {
+    "uid": "487a8d442531edb34a2b6f9636ae9898",
+    "eng": "Sensa Cools Herbal Lemon Drink 350ML",
+    "norm": "sensa cools herbal"
+  },
+  {
+    "uid": "12aca7125bb63dc0b8b4b2107a1a2d29",
+    "eng": "Starbucks Coffee Frappuccino 281ML",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "bc4e6c6665f6f06c00ff6f9860d86a62",
+    "eng": "STARBUCKS Frappuccino Coffee",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "80abe21d2a2a7b45ab7323148e02c7ac",
+    "eng": "Starbucks Mocha Frappuccino 281ML",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "ec6e1fc12f810379020a992b1e8f48d9",
+    "eng": "STARBUCKS Protein Caffe Latte",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "ef74bb37399a7164bc1d4d8f12a4d677",
+    "eng": "STARBUCKS Protein Caramel Hazelnut Flavour",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "8b1e275891444c6765a10bfa8ee1169f",
+    "eng": "STARBUCKS Protein Chocolate Mocha",
+    "norm": "starbucks coffee"
+  },
+  {
+    "uid": "970698ea145a3687bffe5037c5b2a2fa",
+    "eng": "SUIHOUI Black Oolong Tea",
+    "norm": "non-show"
+  },
+  {
+    "uid": "c0954df24ad2ac9a4dfed3568eed8d0d",
+    "eng": "SUNTORY Craft Boss Black Coffee",
+    "norm": "boss coffee"
+  },
+  {
+    "uid": "284e0b2dc32567ce787144a97d8dc267",
+    "eng": "SUNTORY Craft Boss Cafe Mocha",
+    "norm": "boss coffee"
+  },
+  {
+    "uid": "e47c662807dbac2936584674c15681d5",
+    "eng": "SUNTORY Craft Boss Lemon Tea",
+    "norm": "non-show"
+  },
+  {
+    "uid": "397ae25b3a56a71e22f277363f943f7b",
+    "eng": "SUNTORY Double Impact Less Sgr Coffee",
+    "norm": "suntory double impact less sgr coffee"
+  },
+  {
+    "uid": "531858a85f3d75d02fcd51ad5294ab2a",
+    "eng": "SUNTORY Jasmine Oolong Tea",
+    "norm": "suntory jasmine oolong tea"
+  },
+  {
+    "uid": "93bf759638f6e07c7e877908e87a300f",
+    "eng": "Suntory Jasmine Oolong Tea 500ML",
+    "norm": "suntory jasmine oolong tea"
+  },
+  {
+    "uid": "19a90b211995bf64b0457e61be6ad01a",
+    "eng": "Suntory Oolong Tea 500ML",
+    "norm": "suntory oolong tea"
+  },
+  {
+    "uid": "5082363bcedcd812fa7bb19e24eb21f3",
+    "eng": "SUNTORY Suntory Iyemon Green Tea",
+    "norm": "non-show"
+  },
+  {
+    "uid": "c1938ab600362e0d96d4fb323afda9bb",
+    "eng": "Tai Hing Tai Hing HK Style Milk Tea 250ML",
+    "norm": "tai hing hk style milk tea"
+  },
+  {
+    "uid": "63186b43e8a87198f89eff02734d58bc",
+    "eng": "TAO TI Apple Green Tea",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "fe57e69bb6858c3397b2d9435b631697",
+    "eng": "TAO TI Apple Green Tea 250mlx6",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "796e7dfb9ac6402c2d792b94a31a6060",
+    "eng": "Tao Ti Apple Green Tea 500ML",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "335321628d178df841b6efda8c0b81ce",
+    "eng": "Tao Ti Apple Green Tea 6 X 250ML",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "55da60682e6e0e034794f5bc28a19a65",
+    "eng": "Tao Ti Apple Green Tea Case 24 x 250ML",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "42bf1efda7ea8d4ed3750766d61ae0bf",
+    "eng": "Tao Ti Apple Green Tea Case 24 X 500ML",
+    "norm": "tao ti apple green tea"
+  },
+  {
+    "uid": "492425a9e910e9c3cb0a47887aaabe37",
+    "eng": "TAO TI Green Tea (honey)",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "f0c1428b7b2eb2020cb3ed23ef00199d",
+    "eng": "Tao Ti Honey Green Tea 1.5LT",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "6862caa9e37c5f7412d10c91784dd43d",
+    "eng": "Tao Ti Honey Green Tea 24 X 500ML",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "8f1ae35e99dfff2358d2707dc1bef110",
+    "eng": "Tao Ti Honey Green Tea 500ML",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "028df106dd86651668d766184b6d79ba",
+    "eng": "Tao Ti Honey Green Tea 6 X 250ML",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "997b97baa92fcd2376a80ab24481a292",
+    "eng": "Tao Ti Honey Green Tea Case 24 x 250ML",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "3e66d2623d1a4ad7ad3be0c59c926b90",
+    "eng": "TAO TI Kyoho Grape Black Tea",
+    "norm": "tao ti kyoho grape black tea"
+  },
+  {
+    "uid": "f5ec83a31eb616812963a614855c9e06",
+    "eng": "Tao Ti Kyoho Grape Black Tea 500ML",
+    "norm": "tao ti kyoho grape black tea"
+  },
+  {
+    "uid": "583811371d28b0076a8cf591ae5fc658",
+    "eng": "Tao Ti Kyoho Grape Black Tea 6 x 250ML",
+    "norm": "tao ti kyoho grape black tea"
+  },
+  {
+    "uid": "642e4f285968346bf32cb74566cf1e06",
+    "eng": "Tao Ti Kyoho Grape Tea Case 24 x 250ML",
+    "norm": "tao ti kyoho grape black tea"
+  },
+  {
+    "uid": "cb9f01697d40c2a30e4e65f30fc1b012",
+    "eng": "Tao Ti Kyoho Grape Tea Case 24 x 500ML",
+    "norm": "tao ti kyoho grape black tea"
+  },
+  {
+    "uid": "303d0680529af45f2e232fad6dc8245b",
+    "eng": "Tao Ti Lemon Black Tea 6 X 250ML",
+    "norm": "tao ti lemon black tea"
+  },
+  {
+    "uid": "2838d48c5ff1671a55922d4852160420",
+    "eng": "Tao Ti Lemon Black Tea Case 24 x 250ML",
+    "norm": "tao ti lemon black tea"
+  },
+  {
+    "uid": "7a7797f9373d8b3a0502e64afb25247d",
+    "eng": "Tao Ti Lemon Green Tea Case 24 x 250ML",
+    "norm": "tao ti lemon black tea"
+  },
+  {
+    "uid": "d88950bf24bc60dc75e763dbdaa01834",
+    "eng": "Tao Ti Lemon With Honey Green Tea 6 X 250ML",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "1c012d5c5c795fa1c0e07e869bb21385",
+    "eng": "TAO TI Lychee Black Tea",
+    "norm": "tao ti lychee black tea"
+  },
+  {
+    "uid": "8650939d7c729c6bd45c2bb878848d5c",
+    "eng": "TAO TI Lychee Black Tea",
+    "norm": "tao ti lychee black tea"
+  },
+  {
+    "uid": "1db5512f7e4af9c4a73044cabc9c147e",
+    "eng": "Tao Ti Lychee Black Tea 500ML",
+    "norm": "tao ti lychee black tea"
+  },
+  {
+    "uid": "3480e28b7467b3153e43474f92ea05a0",
+    "eng": "Tao Ti Lychee Juice Drink Case 24 x 250ML",
+    "norm": "tao ti lychee black tea"
+  },
+  {
+    "uid": "00ab1581abe58e4935dfb871b4f73329",
+    "eng": "Tao Ti Mandarin Green Tea (With Honey) 500ML",
+    "norm": "tao ti mandarin green tea"
+  },
+  {
+    "uid": "12254ef9f757a67c24df98a820d830b4",
+    "eng": "Tao Ti Mandarin Lemon Case 24 x 250ML",
+    "norm": "tao ti mandarin lemon"
+  },
+  {
+    "uid": "f354b95644ba521540d219e094dc9fa6",
+    "eng": "Tao Ti Mandarin Lemon Drink 500ML",
+    "norm": "tao ti mandarin lemon"
+  },
+  {
+    "uid": "da6d750ba4ffe3da0f1c02067e5c9b2d",
+    "eng": "Tao Ti Mandarin Lemon Drink 6 X 250ML",
+    "norm": "tao ti mandarin lemon"
+  },
+  {
+    "uid": "b11c063b50b504193721da45247315fd",
+    "eng": "Tao Ti Mandarin Lemon Drink Case 24 X 500ML",
+    "norm": "tao ti mandarin lemon"
+  },
+  {
+    "uid": "05cd9ca15d6962e8d42d0031b1bd7c5a",
+    "eng": "TAO TI Orange Flavour Black Tea",
+    "norm": "tao ti orange flavour black tea"
+  },
+  {
+    "uid": "451892824384fc513cbeb6aa4a715c24",
+    "eng": "Tao Ti Pineapple Green Tea 6 X 250 ML",
+    "norm": "tao ti pineapple green tea"
+  },
+  {
+    "uid": "766ebc4ea13f9d03f3ab0fb487a57b58",
+    "eng": "Tao Ti Pineapple Green Tea Case 24 x 250ML",
+    "norm": "tao ti pineapple green tea"
+  },
+  {
+    "uid": "e790ebae301f743d7bd7aeefccb94759",
+    "eng": "TAO TI Sup Oolong Tea",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "e0e2dad1453a97c5a113b5741a8d73ea",
+    "eng": "Tao Ti Supreme Chrysanthemum Oolong Tea 6 x 250ML",
+    "norm": "tao ti supreme chrysanthemum oolong tea"
+  },
+  {
+    "uid": "e242a8198240db6ddf03bd0bd45b414e",
+    "eng": "Tao Ti Supreme Chrysanthemum Oolong Tea Case 24 x 250ML",
+    "norm": "tao ti supreme chrysanthemum oolong tea"
+  },
+  {
+    "uid": "c586d5c8843cbe5da58458b9f9f96ee5",
+    "eng": "Tao Ti Supreme Genmaicha 500ML",
+    "norm": "tao ti supreme genmaicha"
+  },
+  {
+    "uid": "27afb543877ac82692fa41a0a0f7e9a1",
+    "eng": "Tao Ti Supreme Genmaicha Case 24 X 500ML",
+    "norm": "tao ti supreme genmaicha"
+  },
+  {
+    "uid": "c21b96428622aa080d7189d1ed5db1bc",
+    "eng": "Tao Ti Supreme Jasmine Green Tea Case 24 x 250ML",
+    "norm": "tao ti supreme genmaicha"
+  },
+  {
+    "uid": "7a42bab6a991f81f8e80bb0609a8e1a6",
+    "eng": "Tao Ti Supreme Light Barley Tea 500ML",
+    "norm": "tao ti supreme light barley tea"
+  },
+  {
+    "uid": "27de9d23e491546636d34f5946d90611",
+    "eng": "Tao Ti Supreme Light Barley Tea Case 24 X 500ML",
+    "norm": "tao ti supreme light barley tea"
+  },
+  {
+    "uid": "66658291e3fc815cce279934f53aa98f",
+    "eng": "TAO TI Supreme Light Oolong Tea",
+    "norm": "tao ti supreme light oolong tea"
+  },
+  {
+    "uid": "c2df64fa64e1f97c128e636286ccc086",
+    "eng": "Tao Ti Supreme Light Oolong Tea 500ML",
+    "norm": "tao ti supreme light oolong tea"
+  },
+  {
+    "uid": "dc173d5611ad79ccef9c3e3c3d0c6752",
+    "eng": "Tao Ti Supreme Light Oolong Tea Case 24 X 500ML",
+    "norm": "tao ti supreme light oolong tea"
+  },
+  {
+    "uid": "08f0aa8b2239ceb8b82a5a337e7b5eef",
+    "eng": "TAO TI Supreme Meta Green Tea",
+    "norm": "tao ti supreme meta green tea"
+  },
+  {
+    "uid": "aaaaae552230ce40a61bc85cca549f19",
+    "eng": "Tao Ti Supreme Meta Green Tea 1.5LT",
+    "norm": "tao ti supreme meta green tea"
+  },
+  {
+    "uid": "5948f56b970b85db6cd2bfa5f01a6767",
+    "eng": "Tao Ti Supreme Meta Green Tea 500ML",
+    "norm": "tao ti supreme meta green tea"
+  },
+  {
+    "uid": "17c2b79a736ae3d6ccf3c39696f90c75",
+    "eng": "Tao Ti Supreme Meta Green Tea Case 24 X 500ML",
+    "norm": "tao ti supreme meta green tea"
+  },
+  {
+    "uid": "1caecaa976ddb0595c30be84caad0df6",
+    "eng": "TAO TI Supreme Meta Oolong Tea",
+    "norm": "tao ti supreme meta oolong tea"
+  },
+  {
+    "uid": "acdbd229c26c6ed470b706322c20f0c3",
+    "eng": "Tao Ti Supreme Meta Oolong Tea 500ML",
+    "norm": "tao ti supreme meta oolong tea"
+  },
+  {
+    "uid": "4600d7d507533df940d945d5ff5c4eae",
+    "eng": "Tao Ti Supreme Meta Oolong Tea Case 24 X 500ML",
+    "norm": "tao ti supreme meta oolong tea"
+  },
+  {
+    "uid": "6b646674884c1af6ac5452f7bdd613d7",
+    "eng": "TAO TI Supreme Meta Slim Tea",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "a975f40bc91aff53f29aca3f2f383c2f",
+    "eng": "Tao Ti Supreme Meta Slim Tea 1.5LT",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "a2f0893e8981abb75d2d6a05e0fd82a0",
+    "eng": "Tao Ti Supreme Meta Slim Tea 500ML",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "86d0159f3bc5f669f6d3d3f77c176082",
+    "eng": "Tao Ti Supreme Meta Slim Tea 6 X 250ML",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "55ab4c1fac5800115282777c6fa777c1",
+    "eng": "Tao Ti Supreme Meta Slim Tea Case 24 x 250ML",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "56f217f3f182413fdf4ad92a762efd93",
+    "eng": "Tao Ti Supreme Meta Slim Tea Case 24 x 500ML",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "1ff3c200c079895f42113f5f5e7a839f",
+    "eng": "TAO TI Supreme Meta Tea",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "57ad12565d561d6073a099e2792f6dd5",
+    "eng": "TAO TI Supreme Meta Tea",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "5321497b6bbbe821bac6fa049510331f",
+    "eng": "Tao Ti Supreme Meta Tea 1.5LT",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "9d4a706e37a44d973259d83ca89fc655",
+    "eng": "Tao Ti Supreme Meta Tea 500ML",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "90f2d952a03cf5f74c72dfcdc8964a18",
+    "eng": "Tao Ti Supreme Meta Tea 6 X 250ML",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "3ec57b5a3048b36a618d51457e5dbcf8",
+    "eng": "Tao Ti Supreme Meta Tea Case 24 x 250ML (Random Package Delivery)",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "6dcd5b5e5305edeaf3078ae8c4440722",
+    "eng": "Tao Ti Supreme Meta Tea Case 24 X 500ML",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "594b492557a327149d09fc76f39aff31",
+    "eng": "Tao Ti Supreme Oolong 6 X 250ML",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "5e710e52a662092b9f6d65ab2e6803d0",
+    "eng": "TAO TI Supreme Oolong Milk Tea",
+    "norm": "tao ti supreme oolong milk tea"
+  },
+  {
+    "uid": "1e4411ab12d9d6438bb7255d50dac2bf",
+    "eng": "Tao Ti Supreme Oolong Milk Tea 500ML",
+    "norm": "tao ti supreme oolong milk tea"
+  },
+  {
+    "uid": "a89c55f174ccd0fa66388be678780103",
+    "eng": "Tao Ti Supreme Oolong Milk Tea 6 x 250ML",
+    "norm": "tao ti supreme oolong milk tea"
+  },
+  {
+    "uid": "3881f9fca1eeb7cbc34280cf66fed829",
+    "eng": "Tao Ti Supreme Oolong Tea 1.5LT",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "a29d291dcc465bebd6dea9d6cf29f8c0",
+    "eng": "TAO TI Supreme Oolong Tea 1l",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "66cfa1f6ddd57171f77e1ab9b706d97b",
+    "eng": "Tao Ti Supreme Oolong Tea 500ML",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "75c5264b49abf995a7818b3c8036639a",
+    "eng": "Tao Ti Supreme Oolong Tea Case 24 x 250ML",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "0076dbc276dfe33e12191d170e4fbed0",
+    "eng": "Tao Ti Supreme Oolong Tea Case 24 X 500ML",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "581d90b8e9be6e67e2f6f3eba3a10b56",
+    "eng": "Tao Ti Supreme Osmanthus Green Tea 6 x 250ML",
+    "norm": "tao ti supreme osmanthus green tea"
+  },
+  {
+    "uid": "8d5864d3d2d6bef84a7ecf12726e10ad",
+    "eng": "Tao Ti Supreme Osmanthus Green Tea Case 24 x 250ML",
+    "norm": "tao ti supreme osmanthus green tea"
+  },
+  {
+    "uid": "0edfb7661aa5061854a46b8309e409b3",
+    "eng": "TAO TI Supreme Osmanthus Tea",
+    "norm": "tao ti supreme osmanthus green tea"
+  },
+  {
+    "uid": "213e6ba197c560ae903c8c0610c62266",
+    "eng": "TAO TI Supreme Tangerine Peel Tea",
+    "norm": "tao ti supreme tangerine peel tea"
+  },
+  {
+    "uid": "aefa6d314624505024c44065bd74ec31",
+    "eng": "TAO TI Supreme Tangerine Peel Tea",
+    "norm": "tao ti supreme tangerine peel tea"
+  },
+  {
+    "uid": "81bab833af6ff92af093c30ea0c09fed",
+    "eng": "Tao Ti Supreme Tangerine Peel Tea 6 x 250ML",
+    "norm": "tao ti supreme tangerine peel tea"
+  },
+  {
+    "uid": "58da8f410b58d59e84774c0dc5a95846",
+    "eng": "Tao Ti Supreme Tangerine Tea Case 24 x 250ML",
+    "norm": "tao ti supreme tangerine peel tea"
+  },
+  {
+    "uid": "d077b3da4a842e58ae7f98aa79cb73dc",
+    "eng": "Tao Ti Supreme Tangerine Tea Case 24 x 500ML",
+    "norm": "tao ti supreme tangerine peel tea"
+  },
+  {
+    "uid": "159f618c49bf1cae39a4d2ffe3ef17a2",
+    "eng": "TAO TI Tao Ti Green Tea 6s",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "1bc7ad13c3f626fab7cccc8ee77ab470",
+    "eng": "TAO TI Tao Ti Honey Green Tea 500ml",
+    "norm": "tao ti honey green tea"
+  },
+  {
+    "uid": "c8a66f45d4b0fc2eab577e7e36cad75d",
+    "eng": "TAO TI Tao Ti Supreme Genmaicha 500ml",
+    "norm": "tao ti supreme genmaicha"
+  },
+  {
+    "uid": "3c8e10739f00ba79cc8279c7506d1d65",
+    "eng": "TAO TI Tao Ti Supreme Light Barley 500ml",
+    "norm": "tao ti supreme light barley tea"
+  },
+  {
+    "uid": "428b2fbe26e0bf77384775f2b4579eea",
+    "eng": "TAO TI Tao Ti Supreme Meta Green Tea 500ml",
+    "norm": "tao ti supreme meta green tea"
+  },
+  {
+    "uid": "8fe413373f29234b0b1ffeecbc5deaed",
+    "eng": "TAO TI Tao Ti Supreme Meta Slim Tea 500ml",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "7c7ccd3527a0be39368178debd2bde50",
+    "eng": "TAO TI Tao Ti Supreme Meta Slim Tea 6x250ml",
+    "norm": "tao ti supreme meta slim tea"
+  },
+  {
+    "uid": "35169b01b5c6f861bacd9541f207c9dc",
+    "eng": "TAO TI Tao Ti Supreme Meta Tea 250mlx 6 (Random Pick)",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "0b1787f70314cc47dc13f38ee1d57810",
+    "eng": "TAO TI Tao Ti Supreme Meta Tea 500ml",
+    "norm": "tao ti supreme meta tea"
+  },
+  {
+    "uid": "5245a5c0f3d4f7f0a9abaa4532c53c05",
+    "eng": "TAO TI Tao Ti Supreme Oolong Tea 500ml",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "4a0aed358ff34fddd753a01bb4542cfa",
+    "eng": "TAO TI Tao Ti Yashi Xiang Lemon Tea",
+    "norm": "tao ti yashi xiang lemon tea"
+  },
+  {
+    "uid": "1ea36362821a4cc486bd17fa78375d77",
+    "eng": "TAO TI Yashi Xiang Peach Tea",
+    "norm": "tao ti yashi xiang lemon tea"
+  },
+  {
+    "uid": "b6057dfd5304656863d957282fbe7c8e",
+    "eng": "UCC Artisan's Coffee Less Sugar Pet",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "dbed34a72646c283c35796fb63568305",
+    "eng": "UCC Black Cold Brew Coffee 500ML",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "d8d9265f5e019d10c83084c36d8e06b6",
+    "eng": "UCC Black Sugar Less Can",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "f2745aa77be2c46b7d8b157511a99eb7",
+    "eng": "UCC Black Sugarfree Full Body",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "c4f396c0e9aa664df42a1fd3c168486f",
+    "eng": "UCC Blend Coffee (can)",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "b317e92e2bf403bafe7e4b34fb9f08ea",
+    "eng": "UCC Blend Coffee Slightly Sweet (can)",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "a8d85c93100f9e09eff401b5b5ec2b30",
+    "eng": "UCC Blended Cafe Au Lait 185GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "f320ba249a03d9afe634752f3361940c",
+    "eng": "UCC Cafe Au Lait Low Calorie",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "db6fe0dfcd31143a797901f9dc3cd1fa",
+    "eng": "UCC Craftsman Coffee Sugar Free 900ML",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "ad17021997bed27df076bdaec1a99c21",
+    "eng": "UCC Micro Sugar Coffee 185GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "7105aafd874656aa0daf546f438d8a7c",
+    "eng": "UCC Rich Black Coffee 375GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "75ef71bc4108486eb8a39ed68d90d26f",
+    "eng": "UCC The Blend No. 118 Coffee 90GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "6dad45a90a927a4d73d2ca3b31aac439",
+    "eng": "UCC The Blend Sumiyaki Coffee 90GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "d107fdb92d1a6463c85f2edd755c4df5",
+    "eng": "UCC Ueshima Coffee Store Milk Coffee",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "266625b0869d8c4cabaac7af3dc26189",
+    "eng": "UNI PRESIDENT Milk Tea",
+    "norm": "uni president milk tea"
+  },
+  {
+    "uid": "634ac4f74fd055e2d0e64cef8615867b",
+    "eng": "RUHN CHAN Chrysanthemum Tea",
+    "norm": "ruhn chan chrysanthemum tea"
+  },
+  {
+    "uid": "30cf49c2a68b648b7348834962f6727c",
+    "eng": "RUHN CHAN Water Chestnut & Sugar Cane",
+    "norm": "ruhn chan water chestnut & sugar cane"
+  },
+  {
+    "uid": "d8015a507a676bcf1fcb68ef9efac54e",
+    "eng": "RUHN CHAN Herbal Tea",
+    "norm": "ruhn chan herbal tea"
+  },
+  {
+    "uid": "df641b10bd4f178cddd32647b50ea469",
+    "eng": "RUHN CHAN Red Date Tea",
+    "norm": "ruhn chan red date tea"
+  },
+  {
+    "uid": "98c133146aad53790aa202b7a7d63f3a",
+    "eng": "RUHN CHAN Chrysanthemum Tea.",
+    "norm": "ruhn chan chrysanthemum tea"
+  },
+  {
+    "uid": "717881cb512ee3b30de3849980d888fd",
+    "eng": "BOSS Coffee Black",
+    "norm": "boss coffee"
+  },
+  {
+    "uid": "8cb5dab711ea0057b6105930b0af9666",
+    "eng": "SUNTORY Premium Boss Black Coffee",
+    "norm": "boss coffee"
+  },
+  {
+    "uid": "992d008759c1b8ccdd15ab08111b0fdb",
+    "eng": "UCC Black Cold Brew",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "4aef67460b55ab4596a570b50d5396c1",
+    "eng": "UCC Black Sugar Free Rich",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "b4885a05269c6a55e9d6fd3bc6e4e9b7",
+    "eng": "Nescafe Americano Coffee 6 X 250ML",
+    "norm": "nescafe coffee"
+  },
+  {
+    "uid": "f8b01ec59f106c53d02b998e3e73328b",
+    "eng": "UCC Black Full Body Coffee 375GM",
+    "norm": "ucc coffee"
+  },
+  {
+    "uid": "9b178f2172a3976f316ab33fca282c6b",
+    "eng": "C'ESTBON Black Tea Original Tea",
+    "norm": "c'estbon black tea original tea"
+  },
+  {
+    "uid": "0833de3c78968c384212fae2816279c9",
+    "eng": "ITOEN Green Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "c80a6cfe112247bdf86adec2d853346b",
+    "eng": "VITA Gor Yin Hai Icy Lemon Tea 250ml (6pack)",
+    "norm": "vita gor yin hai icy lemon tea"
+  },
+  {
+    "uid": "056a90348b20042de164dd0e1342cf7c",
+    "eng": "ITOEN Oi Ocha Genmaicha",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "493745d0158ecf1bd2f8256e2c38dce8",
+    "eng": "AUTHENTIC TEA HOUSE Cloudy Green Tea (no Sugar)",
+    "norm": "authentic tea house cloudy green tea"
+  },
+  {
+    "uid": "ce7a00e0855dd5f1e873a9085f193a8b",
+    "eng": "VITA Zero Sugar Lemon Tea Drink",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "9d786340a3a1c9c82454a6bcd66a21cc",
+    "eng": "NONGFU SPRING Tea Pi Peach Oolong Tea",
+    "norm": "nongfu spring tea pi tea"
+  },
+  {
+    "uid": "bc107ba2cdb645dc9cdd0f3801e9a8d0",
+    "eng": "RIKYU CHASAKU Jasmine Green Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "9fecc04b22d7fe782d0d1c13a8889a7a",
+    "eng": "RIKYU CHASAKU Jasmine Green Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "8928807b7a737d5da796cd5bd44e4875",
+    "eng": "VITA Honey Chrysanthemum Tea 250ml (9pack)",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "678f8d2030115a87ebe4620420e516e8",
+    "eng": "VITA LEMON TEA 6 PACK",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "9adfd98bd0941ea11d361bf3e6e536f3",
+    "eng": "KOCHAKADEN CRAFTEA Peach Tea Beverage",
+    "norm": "kochakaden craftea peach tea beverage"
+  },
+  {
+    "uid": "f37b918f729c414cb0d810ba444597f8",
+    "eng": "ITOEN Jasmine Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "72fa359d42a99ad08fce5c626dc27d31",
+    "eng": "VITA Low Sugar Chrys Tea 6p",
+    "norm": "vita low sugar tea"
+  },
+  {
+    "uid": "7d300e95ca25d285b27957bf4a9c92cc",
+    "eng": "RIKYU CHASAKU Oolong Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "1b98e74892c8993f25d9f57a30c5510c",
+    "eng": "VITA Ceylon Lemon Tea",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "7a146546723aa5a8e2130cb361ef1b12",
+    "eng": "RIKYU CHASAKU Oolong Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "d78775080d6ef30c56b65601f9b9482f",
+    "eng": "SANGARIA Anatano Ocha",
+    "norm": "sangaria anatano ocha"
+  },
+  {
+    "uid": "0ae78850b55413c6c042e55eef548e79",
+    "eng": "KOCHAKADEN CRAFTEA Orange Black Tea",
+    "norm": "kochakaden craftea orange black tea"
+  },
+  {
+    "uid": "a207a71e61040105fb827d94c8c39007",
+    "eng": "VITA Vita Low Sugar Lemon Tea 9p",
+    "norm": "vita low sugar tea"
+  },
+  {
+    "uid": "c5af104807a28013fefd392f06261f83",
+    "eng": "VITA Vita Lemon Tea",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "7afb2a044ab1919a092ad5204b416835",
+    "eng": "NONGFU SPRING Oriental Leaf Jasmine Tea Sugar Free",
+    "norm": "nongfu spring oriental leaf"
+  },
+  {
+    "uid": "674276a697c9b5e034c68713c73a41d2",
+    "eng": "ITOEN Green Tea W/ Roasted Rice Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "5c6dda8160f9ac49af0d06767008253f",
+    "eng": "RIKYU CHASAKU Peach Green Tea",
+    "norm": "rikyu chasaku tea"
+  },
+  {
+    "uid": "05e5711cf24295c9757de5f1dece47fa",
+    "eng": "VITA Vita japanese Style Peach Tea Drink 250ml*6",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "380c462a7f64f5ed4bacfa8e93566934",
+    "eng": "KOCHAKADEN CRAFTEA Lemon Tea Beverage",
+    "norm": "kochakaden craftea lemon tea"
+  },
+  {
+    "uid": "1a9d3c765bb3e57fc4ab879ac6b5c349",
+    "eng": "NONGFU SPRING Tea Pi Grapefruit Jasmine Tea",
+    "norm": "nongfu spring tea pi tea"
+  },
+  {
+    "uid": "4106712f5bcf72ee5d0f3d3b503b9eb9",
+    "eng": "TAO TI Yashi Xiang Lemon Tea",
+    "norm": "tao ti yashi xiang lemon tea"
+  },
+  {
+    "uid": "4dda8cfe69478fcf4a186a8a0bf201e4",
+    "eng": "KOCHAKADEN CRAFTEA Lemon Tea Beverage",
+    "norm": "kochakaden craftea lemon tea"
+  },
+  {
+    "uid": "c11bee99a3bbe2935ebd316263943aee",
+    "eng": "KOCHAKADEN CRAFTEA Peach Tea Beverage",
+    "norm": "kochakaden craftea peach tea"
+  },
+  {
+    "uid": "318fa070350d3a06b1aeb15264a99608",
+    "eng": "VITA Honey Chrysanthemum Tea 250ml (6pack)",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "23ed59e5051f85b0143434551acac5be",
+    "eng": "ITOEN Jasmine Tea",
+    "norm": "itoen tea"
+  },
+  {
+    "uid": "de50ccd4e1bc2b42b19377d14cb3d688",
+    "eng": "VITA Honey Lemon Tea 250ml (6pack)",
+    "norm": "vita honey lemon tea"
+  },
+  {
+    "uid": "e0c43581f77806f9907a4e497a9fbae2",
+    "eng": "VITA Ceylon Lemon Tea 250ml X 9packs",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "cd3725ae118c75ffacb99af2674eac2a",
+    "eng": "VITA Zero Sugar Lemon Tea Drink (case)",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "10e81c6bdf2c50e1fb72bce89c718cdb",
+    "eng": "VITA Supericy Lemon Tea 250ml (6pack)",
+    "norm": "vita supericy lemon tea"
+  },
+  {
+    "uid": "e5f6a2ac86caf422b4a41a392d42598d",
+    "eng": "VITA Lemon Tea Pet",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "52724584e274f84deb96fcb1aa1813a4",
+    "eng": "VITA Gor Yin Hai Icy Pink Grapefruit Tea 250ml (6pack)",
+    "norm": "vita gor yin hai icy pink grapefruit tea"
+  },
+  {
+    "uid": "d3e9ca29406715b1621d51e81e73f220",
+    "eng": "KOCHAKADEN CRAFTEA Lemon Tea Beverage",
+    "norm": "kochakaden craftea lemon tea"
+  },
+  {
+    "uid": "2850faaa3ec481ad258e616959e950ee",
+    "eng": "VITA Ya Shi Xiang Lemon Tea Drink 6 Packs",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "0b24d9b198341e1516264325d83dbe08",
+    "eng": "Vita Lemon Tea Case 24 x 250ML",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "3a810ee531f7080b2f94377d268a23f3",
+    "eng": "Tao Ti Supreme Osmanthus Tea Case 24 x 500ML",
+    "norm": "tao ti supreme osmanthus green tea"
+  },
+  {
+    "uid": "e206144999e321396d001160a044f294",
+    "eng": "TAI HING Hong Kong Style Milk Tea",
+    "norm": "tai hing hk style milk tea"
+  },
+  {
+    "uid": "b80f56f252d854e2ca6349a2c7c8903b",
+    "eng": "KIRIN Afternoon Milk Tea",
+    "norm": "kirin afternoon milk tea"
+  },
+  {
+    "uid": "4748c92f7e3b36aa00848b48b39e0860",
+    "eng": "VITA Hk Style Milk Tea 250ml (6pack)",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "9b1f2aaca6c441194bbb5ad453e613f6",
+    "eng": "DAI PAI DONG Hk Style Coffee",
+    "norm": "dai pai dong hk style coffee"
+  },
+  {
+    "uid": "9ccae68ef8d1fe2949d7505deb90deb5",
+    "eng": "VITA Hk Style (stronger Tea Taste) Milk Tea 250ml (6pack)",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "5c5caa171e3a07ee3b645c02600e1468",
+    "eng": "VITA Hong Kong Style Milk Tea",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "bf10f1946b8b4386971786b64cb9758f",
+    "eng": "DAI PAI DONG Hk Style Milk Tea (low Sugar)",
+    "norm": "dai pai dong hk style milk tea"
+  },
+  {
+    "uid": "40f679d3c5ee28206d67ea66802287fb",
+    "eng": "KIRIN Afternoon Milk Tea",
+    "norm": "kirin afternoon milk tea"
+  },
+  {
+    "uid": "c501af6ce76a7e685fbe9de0ce4ba281",
+    "eng": "VITA HK STYLE MILK TEA PET (CASE)",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "9e5a072d4998bcd3ad146f4422bc29bc",
+    "eng": "DAI PAI DONG Hk Style Milk Tea (milk Beverage)",
+    "norm": "dai pai dong hk style milk tea"
+  },
+  {
+    "uid": "71330e60ce9dc5a1858e1ed2253417a2",
+    "eng": "Vita HK Style Milk Tea Strong Case 24 x 250ML",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "fc03b4f7d9bf15dc7b111fac3b7945e1",
+    "eng": "VITA Cold Brew No Sugar Puerh Tea Drink (Random Packaging)",
+    "norm": "vita cold brew no sugar puerh tea drink"
+  },
+  {
+    "uid": "3f6484c672ac2d078245d4911c4f06b3",
+    "eng": "SUNTORY Oolong Tea",
+    "norm": "suntory oolong tea"
+  },
+  {
+    "uid": "e648d6ca5bb2cc8a598fc743caa74b4b",
+    "eng": "VITA Cold Brew No Sugar Jasmine Tea Drink (case)",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "11218977ec68e3edabb82cbd9f2fdb45",
+    "eng": "NONGFU SPRING Oriental Leaf Oolong Tea Sugar Free",
+    "norm": "nongfu spring oriental leaf"
+  },
+  {
+    "uid": "24374a022f8aa40c73ea848d6c23f659",
+    "eng": "VITA Cold Brew No Sugar Tie Guan Yin",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "9c96bcaa57243a296084d691d38f8107",
+    "eng": "AUTHENTIC TEA HOUSE Cold Brew Taiwan Jing-xuan Oolongtea",
+    "norm": "authentic tea house taiwan jing-xuan oolongtea"
+  },
+  {
+    "uid": "6509ac9079c599f0789ca4a538099f6c",
+    "eng": "VITA Cold Brew No Sugar Jasmine Tea Drink",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "ef070f39409253fb0f64ba925c22db52",
+    "eng": "VITA Cold Brew No Sugar Jasmine Tea Drink (Random Packaging)",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "37185d16493e6326f80b22068e277a50",
+    "eng": "SUNTORY Oolong Tea",
+    "norm": "suntory oolong tea"
+  },
+  {
+    "uid": "4e3359283fcdc991a54c141870695cac",
+    "eng": "TAO TI Supreme Oolong Tea",
+    "norm": "tao ti supreme oolong"
+  },
+  {
+    "uid": "cf6a18acf21260d5d54736935af569b2",
+    "eng": "VITA Cold Brew No Sugar Ceylon Lemon Tea Drink (case)",
+    "norm": "vita cold brew no sugar ceylon lemon tea"
+  },
+  {
+    "uid": "4038763e76d03273ef6a7373b1f8397f",
+    "eng": "SUNTORY Oolong Tea",
+    "norm": "suntory oolong tea"
+  },
+  {
+    "uid": "380d4a627bc66a6918693515a042aa43",
+    "eng": "VITA Cold Brew No Sugar Tie Guan Yin Tea 500ml",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "d652548207edfa58669467e37245ff55",
+    "eng": "VITA Cold Brew No Sugar Dong Ding Oolong (Random Packaging)",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "85be186fa0d544a661dd66ec57973a08",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea Case 24 X 500 ML",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "f7308879d679d79a9d9307ce85a55a89",
+    "eng": "Vita Cold Brew No Sugar Oolong Tea 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "6e0ced83b4d3be9a863aa38ba1e13056",
+    "eng": "Vita Cold Brew No Sugar Ceylon Lemon Tea 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar ceylon lemon tea"
+  },
+  {
+    "uid": "880dfc54f69bb800e3c2431e9d2d10f6",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea 500ML (Random Package Delivery)",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "87e4384209b2acf3d68a6cb2e9790082",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea 12 X 860ML",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "bbd6b7383bc8c1c00275870edd779148",
+    "eng": "Vita Cold Brew No Sugar Oolong Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "21dc320897caaca0634c922f87f1741b",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea Case 24 x 500ML",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "cb3ef46ab22f47259a63325f1516796c",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea 860ML",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "389c6d248accfaeed2829a751ed84597",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea 12 X 860ML",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "63e3f7ce0e8e224c50936aca22e2f33a",
+    "eng": "VITA Apple Green Tea",
+    "norm": "vita apple green tea"
+  },
+  {
+    "uid": "1660fc74119a631f4a5d657efc18c759",
+    "eng": "Vita Apple Green Tea 6 X 250ML",
+    "norm": "vita apple green tea"
+  },
+  {
+    "uid": "733afb638390dde3fcc3efc115b65840",
+    "eng": "Vita Apple Green Tea Full Case 24 X 250ML",
+    "norm": "vita apple green tea"
+  },
+  {
+    "uid": "2dd1f22fa8e07c7e5c86ce234ccf4af3",
+    "eng": "Vita Apple Jasmine Juice 6 X 250ML",
+    "norm": "vita apple jasmine"
+  },
+  {
+    "uid": "7095db4b796cd0c4f9fe5a579c3cb23b",
+    "eng": "Vita Ceylon Lemon Tea 500ML",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "8d50958790bd8dcf01a089b4ee649a85",
+    "eng": "Vita Ceylon Lemon Tea 6 X 250ML",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "f523e3679bd5fa46c5c51f1f0a40f5f6",
+    "eng": "Vita Ceylon Lemon Tea 9 X 250ML",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "0752910c8f579350f33ec57c7e9b2b1f",
+    "eng": "Vita Ceylon Lemon Tea Case 24 x 250ML",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "6be777ffff951c0105d8a12416592993",
+    "eng": "Vita Ceylon Lemon Tea Case 24 X 500Ml (Random Package Delivery)",
+    "norm": "vita ceylon lemon tea"
+  },
+  {
+    "uid": "e0f2e2cdc79fb801d262df625450f8ca",
+    "eng": "VITA Chrysanthemum Tea 250ml (9pack)",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "1de17aac19ab4fd1b8a69df35d7e1901",
+    "eng": "VITA Chrysanthemum Tea 500ml (1pack)",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "0a6cf548b5fc18d9c2306e90f5c5947b",
+    "eng": "Vita Chrysanthemum Tea 500ML",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "f0d542b939c33d19e7d3684021d85bfc",
+    "eng": "Vita Chrysanthemum Tea 6 X 250ML",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "36ac330157c2b5060341b04ad5acbfe9",
+    "eng": "Vita Chrysanthemum Tea 9 X 250ML",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "f5bce5b9ce189ebf4645ec12fc25eac3",
+    "eng": "Vita Chrysanthemum Tea Bottle Case 24 x 500ML",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "722c66f2172c6c69afae857d94dcb1b4",
+    "eng": "Vita Chrysanthemum Tea Full Case 24 X 250ML",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "6d224bf3fc4af4f42614d699bacd5929",
+    "eng": "Vita Cold Brew No Sugar Ceylon Lemon Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar ceylon lemon tea"
+  },
+  {
+    "uid": "51c5ab603d089008961b09cec008fac1",
+    "eng": "Vita Cold Brew No Sugar Da Hong Pao Oolong Case 24 x 500ML",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "75b60fbd86779983e2c86aa1082c30c7",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea 500ML (Random Package Delivery)",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "fae3e0fd0813123899912b466cecc826",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "06308796bf7ab0e1121adc3a355ce4eb",
+    "eng": "Vita Cold Brew No Sugar Jasmine Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "50afd1c67624080a398caf5a28d4817b",
+    "eng": "Vita Cold Brew No Sugar Oolong Tea 500ML (Random Package Delivery)",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "7aec605f33150c284ba875e6a497b685",
+    "eng": "Vita Cold Brew No Sugar Puer Tea Case 24 x 500ML",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "c46a0b81b3eeb373124f49eb211827a3",
+    "eng": "VITA Cold Brew No Sugar Puer Tea Drink (case)",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "a099da687fe13e1ad96b37d21ca36b34",
+    "eng": "Vita Cold Brew No Sugar Tea Puer 500ML (Random Package Delivery)",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "b503c5334505107620bc26e3f5b8a05b",
+    "eng": "Vita Cold Brew No Sugar Tea Puer 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "0cc1399d35dd8dbde5e4f4d78988d1b0",
+    "eng": "VITA COLD BREW NO SUGAR TEA PUER CASE 24 X 250ML (RANDOM PACKAGE DELIVERY)",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "4856998359806584db5f813a6c707322",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "ae31de08f0a5aefd85f3c6e81b1b50f0",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea 860ML",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "2a7b561a26e8e26e21fcf3a52d03c9c4",
+    "eng": "Vita Cold Brew No Sugar Tie Guan Yin Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "88e2945bc6ce1ed3631f141eec46d0ef",
+    "eng": "VITA Cold Brew Ns H Mountain Puer Tea Drk",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "d40d7a37853a1d1055424958df695682",
+    "eng": "VITA Coldbrew Ns Dahongpao Oolong Tea Drk",
+    "norm": "vita cold brew no sugar puer tea"
+  },
+  {
+    "uid": "a168cd8d44a3320d143e39c6a1a3fe1f",
+    "eng": "Vita Fresh Apple Black Tea 480ML",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "855f8ce7d4ca5813b5c7410ca7c8ab4a",
+    "eng": "Vita Fresh Honey Green Tea 480ML",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "93604eb74d6a53ae8c1a18b5706741d3",
+    "eng": "Vita Fresh Lemon Tea 480ML",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "2a2eb6a3486701e70f96127f0e9f8e67",
+    "eng": "Vita Fresh Peach Black Tea Drink 480ML",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "1dadd4341e783027e3bce52f2418f0c6",
+    "eng": "VITA Fresh Tea - Honey Green [hong Kong](chilled 0-4°c)",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "152e3d9d51f876fd34433c1769b964d5",
+    "eng": "VITA Fresh Tea - Lemon [hong Kong](chilled 0-4°c)",
+    "norm": "vita fresh lemon tea"
+  },
+  {
+    "uid": "205985b8e80354433cd9df842f4b4eaa",
+    "eng": "VITA Gor Yin Hai Apple & Mango Tea 250ml (6pack)",
+    "norm": "vita gor yin hai apple & mango tea"
+  },
+  {
+    "uid": "d4f6aaf150e9ec98d0b2b640489d1dec",
+    "eng": "Vita Gor Yin Hai Apple & Mango Tea 6 x 250ML",
+    "norm": "vita gor yin hai apple & mango tea"
+  },
+  {
+    "uid": "485899c1f8c918def3afe8755509f491",
+    "eng": "Vita Gor Yin Hai Apple Mango Tea Case 24 x 250ML",
+    "norm": "vita gor yin hai apple & mango tea"
+  },
+  {
+    "uid": "8f0120192683f5aa766531d8ca726dc0",
+    "eng": "Vita Gor Yin Hai Icy Lemon Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita gor yin hai icy lemon tea"
+  },
+  {
+    "uid": "c5a947e60014b5a51f0b0518d5357f97",
+    "eng": "Vita Gor Yin Hai Icy Peach Tea 6 X 250Ml (Random Package Delivery)",
+    "norm": "vita gor yin hai icy peach tea"
+  },
+  {
+    "uid": "c9863984fbd3e22a5ee608e6c9bbf96d",
+    "eng": "Vita Gor Yin Hai Icy Peach Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita gor yin hai icy peach tea"
+  },
+  {
+    "uid": "5e89d7acd5410cce124afe46acf7d7a8",
+    "eng": "Vita Gor Yin Hai Icy Pink Grapefruit Tea 6 x 250ML",
+    "norm": "vita gor yin hai icy pink grapefruit tea"
+  },
+  {
+    "uid": "d1405ff6e0a6ae8818d02478d6da1b14",
+    "eng": "Vita Gor Yin Hai Icy Pink Grapefruit Tea Case 24 x 250ML",
+    "norm": "vita gor yin hai icy pink grapefruit tea"
+  },
+  {
+    "uid": "46332a4563aefa9e0794fef2d513a046",
+    "eng": "Vita HK Style Milk Tea 480ML",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "8f5d41b8f3f694e9bc3fae645ce7aa93",
+    "eng": "Vita Hk Style Milk Tea Case 24 X 480Ml (Random Package Delivery)",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "7815ac8d15f29cd13078ae775ff0e015",
+    "eng": "Vita Honey Chrysanthemum Tea 500ML",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "959bca82ce9ebbc10ab09e7ea5578269",
+    "eng": "Vita Honey Chrysanthemum Tea 6 X 250ML",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "6a29b27af92d809462ccf24e23921531",
+    "eng": "Vita Honey Chrysanthemum Tea 9 X 250ML",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "c0adc9758f80b4c508c89df82309411e",
+    "eng": "Vita Honey Chrysanthemum Tea Case 24 X 500Ml (Random Package Delivery)",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "cd8c6c391477ce520c20fc1919b9f58e",
+    "eng": "Vita Honey Chrysanthemum Tea Full Case 24 X 250ML",
+    "norm": "vita honey chrysanthemum tea"
+  },
+  {
+    "uid": "ef6a4b53f987c9f1ea89f5fd382d6dee",
+    "eng": "Vita Honey Lemon Tea 6 X 250ML",
+    "norm": "vita honey lemon tea"
+  },
+  {
+    "uid": "13bb0d2a303562cac95a95f312f1301b",
+    "eng": "Vita Honey Lemon Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita honey lemon tea"
+  },
+  {
+    "uid": "1ae254bbe6f0c911def43a966a4ec8f3",
+    "eng": "Vita Hong Kong Milk Tea (Strong) 6 X 250ML",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "6b03680ad3d81e4ca96ce0bcd375d5a4",
+    "eng": "Vita Hong Kong Style Milk Tea 6 X 250ML",
+    "norm": "vita hk style milk tea"
+  },
+  {
+    "uid": "94bbc9f081511ac0870b2934bf8cb89e",
+    "eng": "Vita Icy Lemon Tea 6 X 250ML",
+    "norm": "vita gor yin hai icy lemon tea"
+  },
+  {
+    "uid": "2f644874289fdc13905b0d5be42297e0",
+    "eng": "Vita Japanese Peach Tea 500ML",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "ab4ab20f606f355230c65e13af9e5dde",
+    "eng": "Vita Japanese Peach Tea Case 24 X 500Ml (Random Package Delivery)",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "5510cea670eee7691e05a5682a443939",
+    "eng": "VITA Japanese Style Peach Tea Drink",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "81c64aba2619d241f0be752682d82be9",
+    "eng": "Vita Japanese Style Peach Tea Full Case 24 X 250ML",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "2e52e2b207eb8485062a0a2fe7b9cffa",
+    "eng": "Vita Lemon Tea 6 X 250ML",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "9575110928ef18a04113851e15a12955",
+    "eng": "Vita Lemon Tea 9 X 250ML",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "a1431a89059d2bec41671fbb511bfaca",
+    "eng": "Vita Lemon Tea Bottle 500ML",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "1ed76f3aaa178bc03d222ce72070324a",
+    "eng": "Vita Lemon Tea Case 24 x 500ML",
+    "norm": "vita lemon tea"
+  },
+  {
+    "uid": "0e21142873428f1741a01611c3c424bb",
+    "eng": "Vita Lemon Tea Low Sugar Case 24 x 250ML",
+    "norm": "vita lemon tea low sugar"
+  },
+  {
+    "uid": "50af3f4bcef05c38ec2cf136a02c5faa",
+    "eng": "Vita Lemon Tea Sparkling Zero Sugar Case 24 x 310ML",
+    "norm": "vita lemon tea sparkling zero sugar"
+  },
+  {
+    "uid": "b34e5e40a7b7231c9a016583509be9fe",
+    "eng": "Vita Lemon Tea Zero Sugar PET 500ML",
+    "norm": "vita lemon tea zero sugar"
+  },
+  {
+    "uid": "669878d2dd8584084491d346fcefb23d",
+    "eng": "Vita Lemon Tea Zero Sugar PET Case 24 x 500ML",
+    "norm": "vita lemon tea zero sugar"
+  },
+  {
+    "uid": "00d541d31d8c3a68f7c6112fa602bc37",
+    "eng": "VITA Lime Lemon Tea",
+    "norm": "vita lime lemon tea"
+  },
+  {
+    "uid": "d99a847827eb31978bbf4d30d25865c1",
+    "eng": "Vita Lime Lemon Tea 6 X 250ML",
+    "norm": "vita lime lemon tea"
+  },
+  {
+    "uid": "131afd9d07f6d22063b45fbebb1990fa",
+    "eng": "Vita Lime Lemon Tea Full Case 24 X 250ML",
+    "norm": "vita lime lemon tea"
+  },
+  {
+    "uid": "4221308dbb4fec158325fa16fb237b78",
+    "eng": "Vita Low Sugar Chrysanthemum 6 X 250ML",
+    "norm": "vita low sugar chrysanthemum"
+  },
+  {
+    "uid": "fb02466edb18bc9b3e8c04da28824fb3",
+    "eng": "Vita Low Sugar Chrysanthemum 9 X 250ML",
+    "norm": "vita low sugar chrysanthemum"
+  },
+  {
+    "uid": "5c2cf76e849d04e2349cd4abb1a624a0",
+    "eng": "Vita Low Sugar Chrysanthemum Case 24 x 250ML",
+    "norm": "vita low sugar chrysanthemum"
+  },
+  {
+    "uid": "e069800463e8fd75ca58ef26b386a558",
+    "eng": "VITA Low Sugar Chrysanthemum Tea 250ml (9pack)",
+    "norm": "vita low sugar chrysanthemum"
+  },
+  {
+    "uid": "4cef0a34531d92ef82baa321cf406617",
+    "eng": "Vita Low Sugar Lemon Tea 6 X 250ML",
+    "norm": "vita lemon tea low sugar"
+  },
+  {
+    "uid": "fc7374b1f6acba8ecbdefe3ffef2be64",
+    "eng": "Vita Low Sugar Lemon Tea 9 X 250ML",
+    "norm": "vita lemon tea low sugar"
+  },
+  {
+    "uid": "d11ed8e7b81c384c032b72d6c96cb11e",
+    "eng": "VITA No Sugar Tea Tie Guan Yin (Random Packaging)",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "08f731cee52c7b7216fa94ca7d8a8194",
+    "eng": "VITA No Sugar Tea Tie Guan Yin Drk (case)",
+    "norm": "vita cold brew no sugar tie guan yin"
+  },
+  {
+    "uid": "ed03e8fdac4d08c43bc453812e9c14a3",
+    "eng": "VITA Ns Dong Ding Oolong Tea Drk(case)",
+    "norm": "vita cold brew no sugar dong ding ooling"
+  },
+  {
+    "uid": "de9eb68d54fa90f8b984b63ef88dc910",
+    "eng": "Vita Peach Tea 6 X 250ML",
+    "norm": "vita japanese style peach tea"
+  },
+  {
+    "uid": "584920a4291c42d95773c18f1d847e55",
+    "eng": "Vita Sugar Cane Imperatae Drink 6 X 250ML",
+    "norm": "vita apple jasmine"
+  },
+  {
+    "uid": "aa17d658dd8cce3fec85abdcc45d207e",
+    "eng": "Vita SuperIcy Lemon Tea 6 X 250ML",
+    "norm": "vita supericy lemon tea"
+  },
+  {
+    "uid": "ed801d1c5185c18ec283e1fe7215ab58",
+    "eng": "Vita Supericy Lemon Tea Case 24 X 250Ml (Random Package Delivery)",
+    "norm": "vita supericy lemon tea"
+  },
+  {
+    "uid": "56bf4d38036cac6cf69c96cc7a6d45eb",
+    "eng": "Vita TSZ Apple Jasmine Case 24 x 250ML",
+    "norm": "vita apple jasmine"
+  },
+  {
+    "uid": "2acbd4c27d13a9fdbb917fa6bbee01d1",
+    "eng": "Vita TSZ Sugarcane & Imperatae Full Case 24 X 250ML",
+    "norm": "vita apple jasmine"
+  },
+  {
+    "uid": "6456ecd5218113ec86901632028f94ad",
+    "eng": "VITA Vita Chrysanthemum Tea 250ml*6",
+    "norm": "vita chrysanthemum tea"
+  },
+  {
+    "uid": "ea427782a1b265eed3aa7a5cb0713ff1",
+    "eng": "VITA Vita Cold Brew No Sugar Ceylon Lemon Tea (Random Packaging)",
+    "norm": "vita cold brew no sugar ceylon lemon tea"
+  },
+  {
+    "uid": "2873775636b071b25931e17a1770c8bb",
+    "eng": "VITA Vita Cold Brew No Sugar Jasmine Tea",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "468dd3ee619062d73805193e2fba5b08",
+    "eng": "VITA Vita Cold Brew No Sugar Jasmine Tea",
+    "norm": "vita cold brew no sugar jasmine tea"
+  },
+  {
+    "uid": "6d504d6aa4f4b69400ff5793c2a0a496",
+    "eng": "VITA Vita Gor Yin Hai Icy Peach Tea 250ml",
+    "norm": "vita gor yin hai icy peach tea"
+  },
+  {
+    "uid": "694854835ac436ae068cb105c7bbebea",
+    "eng": "VITA Vita Low Sugar Lemon Tea Drink 250ml X 6's",
+    "norm": "vita low sugar tea"
+  },
+  {
+    "uid": "0fb9579b66e02cc728d130bacf17c77d",
+    "eng": "VITA Vita Zero Sugar Lemon Tea 6p250",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "4f030c635e38f2fcbb57ad7a5ffedc72",
+    "eng": "Vita Ya Shi Xiang Lemon Tea 24 X 250ML",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "576c266b3de2374dcc4b4d436efbc1cf",
+    "eng": "Vita Ya Shi Xiang Lemon Tea 24 X 500ML",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "927fc682ec2f85adab948fda4507ea68",
+    "eng": "Vita Ya Shi Xiang Lemon Tea 500ML",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "87a469ef219d412131de423523b36cce",
+    "eng": "Vita Ya Shi Xiang Lemon Tea 6 X 250ML",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "38eb361493857d7adb015e2e17ff23ba",
+    "eng": "VITA Zero Lemon Tea Pet (case)",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "fc43379af49eef324d5411b868c9f567",
+    "eng": "Vita Zero Sugar Lemon Tea 6 x 250ML",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "b88a6f9c95f2845edba4b531eec39fc1",
+    "eng": "Vita Zero Sugar Lemon Tea Case 24 x 250ML",
+    "norm": "vita zero sugar lemon tea"
+  },
+  {
+    "uid": "f2fe592f34bb8582418ce3f4e0d43455",
+    "eng": "Vita Zero Sugar Sparkling Lemon Tea 6 x 310ML",
+    "norm": "vita lemon tea sparkling zero sugar"
+  },
+  {
+    "uid": "150461ecbc247d03713be0dbb6308d84",
+    "eng": "VITA Vita Ysx Lemon Tea Drink",
+    "norm": "vita ya shi xiang lemon tea"
+  },
+  {
+    "uid": "2b3511305ddf4bf342d31d05fc7d9ac8",
+    "eng": "YUSHAN Double Leaf Lemon Tea",
+    "norm": "yushan double leaf lemon tea"
+  }
+]

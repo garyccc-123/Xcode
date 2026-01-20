@@ -1,0 +1,777 @@
+[
+  {
+    "uid": "3c513fa6a3a5a3dd27dbb13f015938c7",
+    "eng": "Aboutea Gold Oolong Milk Tea 236ML",
+    "norm": "aboutea gold oolong milk tea"
+  },
+  {
+    "uid": "9fb130bae49ba88532ab40b88c85dbd1",
+    "eng": "ANCHOR Full Cream Uht Milk",
+    "norm": "anchor full cream uht milk"
+  },
+  {
+    "uid": "57ca313b1627e3d8a94024cad511f80d",
+    "eng": "ANLENE Black Sesame Hi-cal Low Fat Milk Bev",
+    "norm": "anlene hi-cal low fat milk"
+  },
+  {
+    "uid": "2bc1ae9ec7d80832bf0c288bd9ac8828",
+    "eng": "ANLENE Hi-calcium Low Fat Milk Drink",
+    "norm": "anlene hi-cal low fat milk"
+  },
+  {
+    "uid": "a60da7281e37be537f931bd17c0b2f45",
+    "eng": "AUS'MANIA Full Cream Uht Milk",
+    "norm": "aus'mania milk"
+  },
+  {
+    "uid": "210c49574be6e2b0f6373c0f469e838d",
+    "eng": "AUS'MANIA Skim Uht Milk",
+    "norm": "aus'mania milk"
+  },
+  {
+    "uid": "2a0bedef9f73fdaa8a8c17deee49832c",
+    "eng": "BENECOL Original Yogurt Drink [switzerland](chilled 0-4°c)",
+    "norm": "benecol original yogurt drink"
+  },
+  {
+    "uid": "397010aeaee917f678821b366b81cc92",
+    "eng": "BINGGRAE Strawberry Flavoured Milk Bev.",
+    "norm": "binggrae flavoured milk"
+  },
+  {
+    "uid": "f8864002689d05d2f1e2fa92aee944f6",
+    "eng": "BINGGRAE Banana Flavoured Milk Beverage",
+    "norm": "binggrae flavoured milk"
+  },
+  {
+    "uid": "b03c939f3e6e2d59615f21504969eb05",
+    "eng": "BINGGRAE Melon Flavoured Milk Drink",
+    "norm": "binggrae flavoured milk"
+  },
+  {
+    "uid": "22633ac1269d27afcb16996111814897",
+    "eng": "BLACK & GOLD Full Cream Uht Milk",
+    "norm": "black & gold full cream uht milk"
+  },
+  {
+    "uid": "1756d898c7ded41e2cfcc0e6fe99bcbf",
+    "eng": "CASINO BIO Organic Plain Rice Drink",
+    "norm": "casino organic plain rice drink"
+  },
+  {
+    "uid": "c5a1eb5834d2870ae892122a9694b53f",
+    "eng": "Cheer Organic Fresh Milk 946ML",
+    "norm": "cheer organic fresh milk"
+  },
+  {
+    "uid": "9dae03062036a6199a08a002771fb041",
+    "eng": "COW & GATE Milk Plus Milk Beverage",
+    "norm": "cow & gate milk"
+  },
+  {
+    "uid": "ff27902107822561d3fd95c9ccb3a096",
+    "eng": "DAIONI Organic Plain Whole Milk",
+    "norm": "daioni organic milk"
+  },
+  {
+    "uid": "b1b07c6f7a52d7e3f315d128944236c1",
+    "eng": "DAIONI Organic Whole Milk",
+    "norm": "daioni organic milk"
+  },
+  {
+    "uid": "faf79b71df1349b667a5c57c363f4240",
+    "eng": "DAIONI Organic Skimmed Milk",
+    "norm": "daioni organic milk"
+  },
+  {
+    "uid": "40dd63f5721359eef9712099b8cb18f1",
+    "eng": "DAIRY Kirishima Milk",
+    "norm": "dairy kirishima milk"
+  },
+  {
+    "uid": "036ea99fd0980ca2fdde959ccab52807",
+    "eng": "DAIRY Kirishima Milk",
+    "norm": "dairy kirishima milk"
+  },
+  {
+    "uid": "5b882ca537e0577255ea42dd4caed9a1",
+    "eng": "DEVONDALE Full Cream Uht Milk",
+    "norm": "devondale milk"
+  },
+  {
+    "uid": "5f713712dacbcd9316623fe9522b8aff",
+    "eng": "DEVONDALE Skim Uht Milk",
+    "norm": "devondale milk"
+  },
+  {
+    "uid": "eb8a64aa1b3147367c4a2316b6534a6c",
+    "eng": "DUTCH LADY Blueberry Flavour Drinking Yoghurt",
+    "norm": "dutch lday yogurt"
+  },
+  {
+    "uid": "b3cc7ee9ac446b6fa5e7c477c5a452ac",
+    "eng": "DUTCH LADY Chocolate Milk Beverage 6 X 225 Ml",
+    "norm": "dutch lady chocolate milk"
+  },
+  {
+    "uid": "91070bebf35df3c8e35951558e59b157",
+    "eng": "DUTCH LADY Full Cream Milk 470 Ml",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "5511fc3635ff55e7585f90121cc74815",
+    "eng": "DUTCH LADY Purefarm Hi-cal Less Fat Milk",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "88578bbb48a2c3fe13a2370523f539be",
+    "eng": "DUTCH LADY Purefarm Original Milk",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "b5160ecd50a604288f55e7104acc036b",
+    "eng": "DUTCH LADY Chocolate Milk Beverage 4 X 110 Ml",
+    "norm": "dutch lady chocolate milk"
+  },
+  {
+    "uid": "f3c094517a1e57d2dabf6232f3db4b5b",
+    "eng": "DUTCH LADY High Calcium Less Fat Milk Beverage 6 X 225 Ml",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "1fc55afdedafab56a26ab260d44ba58d",
+    "eng": "DUTCH LADY High Calcium Less Fat Milk Beverage 946 Ml",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "56bb4f11b74ad736bfd63903cb579989",
+    "eng": "DUTCH LADY Milky Chocolate Milk Bev",
+    "norm": "dutch lady chocolate milk"
+  },
+  {
+    "uid": "4f93ee05f9c564f6e83492bd494ebaea",
+    "eng": "DUTCH LADY Milky Original Milk Beverage",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "e044f2d30651e6b81f641189ae0192d8",
+    "eng": "DUTCH LADY Organic Pure Milk 1l",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "5699726e6e5f78b1a353426260f9c991",
+    "eng": "DUTCH LADY Purefarm Original Full Cream Milk Beverage",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "d60a497867b56d3fc62e765141db0c8c",
+    "eng": "DUTCH LADY Strawberry Flavour Milk Beverage 4 X 110 Ml",
+    "norm": "dutch lady milk"
+  },
+  {
+    "uid": "804c9ed5b2c9fec5e128cd79d36f306c",
+    "eng": "Dutch Lady Yoghurt Blueberry 4 X 110ML",
+    "norm": "dutch lday yogurt"
+  },
+  {
+    "uid": "934a30b8ff01b0fe7a704622822997fd",
+    "eng": "Dutch Lady Yoghurty Original 4 X 110ML",
+    "norm": "dutch lday yogurt"
+  },
+  {
+    "uid": "bb122e14e3478363b9be4fc7b683357f",
+    "eng": "Dutch Lady Yoghurty Strawberry 4 X 110ML",
+    "norm": "dutch lday yogurt"
+  },
+  {
+    "uid": "fcfd2f4fa9e8e039d5e6a8f9812610a0",
+    "eng": "EMMI Swiss Prem. Semi Skimmed Milk",
+    "norm": "emmi semi skimmed milk"
+  },
+  {
+    "uid": "4cfedc8843b424b06d6ff2f0f44abfa0",
+    "eng": "EMMI Swiss Premium Milk",
+    "norm": "emmi premium milk"
+  },
+  {
+    "uid": "6809b0fa95a7bb5e55deec33778342dc",
+    "eng": "EMMI Swiss Premium Milk Case",
+    "norm": "emmi premium milk"
+  },
+  {
+    "uid": "ec96b461af5dbc297e31d9e46e1f5ccb",
+    "eng": "EMMI Swiss Premium Milk Case",
+    "norm": "emmi premium milk"
+  },
+  {
+    "uid": "3ed0f4f658bc90a4ce957a7d18b8e394",
+    "eng": "EMMI Swiss Premium Whole Milk",
+    "norm": "emmi premium whole milk"
+  },
+  {
+    "uid": "96d5c88b057eb5876451f9a11d5a8d78",
+    "eng": "FRED & CHLOE Semi-skimmed Milk",
+    "norm": "fred & chloe milk"
+  },
+  {
+    "uid": "d9d1d675890e89327fbae0efd6af039f",
+    "eng": "FRED & CHLOE Full Cream Milk",
+    "norm": "fred & chloe milk"
+  },
+  {
+    "uid": "75e1d43be4f69e4a66999a289ab50a53",
+    "eng": "Freshjoy Fresh Milk 450ML",
+    "norm": "freshjoy fresh milk"
+  },
+  {
+    "uid": "3fddd892a4dee8a3e6273d85bc20e9fd",
+    "eng": "Freshjoy Fresh Milk 950ML",
+    "norm": "freshjoy fresh milk"
+  },
+  {
+    "uid": "d3fcd37e1828ab135642428bf75dc1ee",
+    "eng": "HARVEY FRESH Uht Full Cream Milk",
+    "norm": "harvey fresh milk"
+  },
+  {
+    "uid": "b7b6d8d67db58459941e02c359b3c586",
+    "eng": "HARVEY FRESH Uht Lactse Free Milk",
+    "norm": "harvey fresh milk"
+  },
+  {
+    "uid": "0dba23d67b32c8f6bb7962d6914def20",
+    "eng": "HARVEY FRESH Uht Skim Milk",
+    "norm": "harvey fresh milk"
+  },
+  {
+    "uid": "88e1f8407f1b30b111f14ce77f5a9ce1",
+    "eng": "JUST PURE Drinking Yoghurt Original Flavour",
+    "norm": "just pure drinking yoghurt"
+  },
+  {
+    "uid": "271516688c02cb3d2d8810529b78d07c",
+    "eng": "JUST PURE Live Probiotics Drk Ygt-oat&walnut(chilled 0-4°c)",
+    "norm": "just pure drinking yoghurt"
+  },
+  {
+    "uid": "1ed9aa9af6875b32ca416be61efa4700",
+    "eng": "Kokuaji 3.6 Fresh Milk 946ML",
+    "norm": "kokuaji 3.6 fresh milk"
+  },
+  {
+    "uid": "00916fc1fdc35d094178d04eb59e4389",
+    "eng": "Kowloon Dairy Black Sesame Milk Drink 236ML",
+    "norm": "kowloon dairy soya milk drink"
+  },
+  {
+    "uid": "cdd4a2d7aaadfed55e8e08f318a1bf68",
+    "eng": "Kowloon Dairy Coconut Milk Drink 236ML",
+    "norm": "kowloon dairy milk"
+  },
+  {
+    "uid": "ea924edb7f10a9b6127b5aa89e45741a",
+    "eng": "KOWLOON DAIRY Drinking Yogurt - Blueberry(chilled 0-4°c)",
+    "norm": "kowloon dairy yogurt"
+  },
+  {
+    "uid": "675d72827aa6ec146b49e2b8c272f91d",
+    "eng": "KOWLOON DAIRY Drinking Yogurt - Low Sugar(chilled 0-4°c)",
+    "norm": "kowloon dairy yogurt"
+  },
+  {
+    "uid": "ba130ba2e3b89014a4be32c1a24cd612",
+    "eng": "KOWLOON DAIRY Drinking Yogurt - Orginal(chilled 0-4°c)",
+    "norm": "kowloon dairy yogurt"
+  },
+  {
+    "uid": "7f868a697b54d1fd9da4addc54f2a30d",
+    "eng": "KOWLOON DAIRY Drinking Yogurt - White Peach(chilled 0-4°c)",
+    "norm": "kowloon dairy yogurt"
+  },
+  {
+    "uid": "db42807f7f8b4cc9c3119b7cd4d657ea",
+    "eng": "Kowloon Dairy Fresh Milk 1.5LT",
+    "norm": "kowloon dairy milk"
+  },
+  {
+    "uid": "61c0bad6d5382fa01d026037c5afb7cc",
+    "eng": "Kowloon Dairy Fresh Milk 946ML",
+    "norm": "kowloon dairy milk"
+  },
+  {
+    "uid": "181580f0c5cd74cb6358fa5a8ed7ce77",
+    "eng": "Kowloon Dairy Hi-Calcium Milk 946ML",
+    "norm": "kowloon dairy milk"
+  },
+  {
+    "uid": "e9e1f25d5229544f69f584155a6ffc5e",
+    "eng": "LACTEL Uht Semi-skimmed Milk",
+    "norm": "lactel uht semi skimmed milk"
+  },
+  {
+    "uid": "0d6eff6ffbe26511a2e36f448d828924",
+    "eng": "Macro Organic Oat Milk Unsweetened 1L",
+    "norm": "macro organic milk"
+  },
+  {
+    "uid": "0f893f87df1c6d2a94863fde012d2021",
+    "eng": "Macro Organic Almond Milk 1L",
+    "norm": "macro organic milk"
+  },
+  {
+    "uid": "434ae5f6b1ba9fde28913ef9d48135c7",
+    "eng": "Macro Organic Soy Milk Light 1L",
+    "norm": "macro organic milk"
+  },
+  {
+    "uid": "d7739a796182290a4ddcbcff4e52ca1c",
+    "eng": "MEADOW FRESH Full Cream Milk",
+    "norm": "meadow milk"
+  },
+  {
+    "uid": "f942b55a3d69ee6239252a67f71fe5eb",
+    "eng": "Meadows Full Cream Fresh Milk 1LT",
+    "norm": "meadow milk"
+  },
+  {
+    "uid": "f092a88f843f1a8ead7411ee7eb06a7b",
+    "eng": "Meadows High Calcium Low Fat Milk 1LT",
+    "norm": "meadow milk"
+  },
+  {
+    "uid": "e502a7b528dbc6882ad10b2044c239ac",
+    "eng": "MEIJI High Calcium Skimmed Milk(chilled 0-4°c) (consume Within 4 Days For Best Quality)",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "89aafb0bbd84d3cfaef9bd83480188ea",
+    "eng": "Meiji 100% Fresh Milk 946ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "cd02e5660765865b4b4976e5bc1b5d6d",
+    "eng": "Meiji Fresh Milk Beverage 236ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "b8264b2d34bf398557180269841b2d95",
+    "eng": "Meiji Hi-Calcium Skimmed Milk Beverage 236ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "cd6442c7310ff6de652f25e108dc93c2",
+    "eng": "Meiji Hi-Calcium Skimmed Milk 946ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "d7114bdc4a94ba27a17c792bc01c2d5d",
+    "eng": "Meiji High-Cal Low Fat Chocolate Milk Beverage 946ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "f8e7e5f2bb5209a5ec8ee3faa22ccc3f",
+    "eng": "Meiji Premium Milk 236ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "7c44c2f41470ba4ba0c414a207700d73",
+    "eng": "Meiji Premium Quality Milk 946ML",
+    "norm": "meiji milk"
+  },
+  {
+    "uid": "4600e7c3bd251f1d88fc4fefa76a2028",
+    "eng": "MENGNIU Low Fat High Calcium Milk",
+    "norm": "mengniu low fat high calcium milk"
+  },
+  {
+    "uid": "8bb179c2e5b214ce796afb9e77b156db",
+    "eng": "MENGNIU Low Fat High Calcium Milk",
+    "norm": "mengniu low fat high calcium milk"
+  },
+  {
+    "uid": "d6054affc356a4cf90f9d75ff7828d15",
+    "eng": "MONMILK Chewy Milk Beverage Peach",
+    "norm": "monmilk chewy milk beverage"
+  },
+  {
+    "uid": "8fad601e04164ee71bbc92702969cf0a",
+    "eng": "MONMILK Chewy Milk Beverage Strawberry",
+    "norm": "monmilk chewy milk beverage"
+  },
+  {
+    "uid": "29a116fa345bea94d40c3146be0d77b7",
+    "eng": "Nestle D.F. Skimmed Milk 946ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "1aff47cfade660bf2545c2c10f91a30a",
+    "eng": "Nestle D.F. Fresh Milk Pure 236ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "2d10d48bbe6aa513d8fd0b39ab6fef32",
+    "eng": "Nestle D.F. Fresh Milk 946ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "87e178b8545e70687fcc7e020c6a3076",
+    "eng": "Nestle D.F. Hi-Calcium Milk 946ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "7b342758c054408e4cdd1aecfeb384e4",
+    "eng": "Nestle Dairy Farm Hi-Calcium Milk 236ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "8d0ffa26219bcfddab5f2c4d324ca9f0",
+    "eng": "Nestle Dairy Farm Skimmed Milk 236ML",
+    "norm": "nestle milk"
+  },
+  {
+    "uid": "58553efa943b987769bec505732a30fb",
+    "eng": "OVALTINE Rich Chocolate Malted Milk Drink",
+    "norm": "ovaltine rich chocolate malted milk"
+  },
+  {
+    "uid": "3b302f3ade8e9afd5758d588257b9e3f",
+    "eng": "PAULS Low Fat Uht Milk Beverage",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "a50fdd57b9cbbfa06803bdb1c0335b00",
+    "eng": "PAULS Pauls Pure Milk Uht Export 4x3x1l Hk",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "40ab36670774dbc125d11688df61965c",
+    "eng": "PAULS Pauls Pure Milk Uht Export 4x6x250ml",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "ce8c3d0a85f0d3809cb28ac9f874e2d6",
+    "eng": "PAULS Pauls Skimmed Milk Uht Export 12x1l",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "f6b9d59191a929fc25d2c340913202a0",
+    "eng": "PAULS Pauls Uht Flav Milk Straw Exp 4x6x200ml",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "3943e0e366628724b8a1727b3a27b24d",
+    "eng": "PAULS Farmhouse Gold4.5 Full Cream Milk",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "3695659defc10e2e033427fbf1e49883",
+    "eng": "PAULS H-calcium Low Fat Uht Milk Beverage",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "21d6564bcce6c1eb7271ded44bc8d5b2",
+    "eng": "PAULS Lactose Free Full Cream Uht Milk Bev",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "89e9691ac8998f193f176d1052c3c01b",
+    "eng": "PAULS Organic Full Cream Uht Milk",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "0aec93498db55b6633661568f263af18",
+    "eng": "DAIONI Organic Semi-skimmed Milk",
+    "norm": "daioni organic milk"
+  },
+  {
+    "uid": "403048aa0139ad7e9f136daad2e78cd4",
+    "eng": "PAULS Pauls Skimmed Milk Uht Export 4x3x1l",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "f5a9828d24071285da3e856c9aca7a64",
+    "eng": "PAULS Skim Milk (case)",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "0d5f755c2f184a3ceec50498bcf03009",
+    "eng": "PAULS Skim Milk",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "9c4fe09e153cf6a258b797c7101ced6b",
+    "eng": "PAULS Uht Milk",
+    "norm": "pauls milk"
+  },
+  {
+    "uid": "1d75e92d953bb3f208801616cdcb321b",
+    "eng": "PURE HARVEST Organic Rice Milk",
+    "norm": "pure organic rice milk"
+  },
+  {
+    "uid": "1ef244f6cc12639183bc6ebd062fb5cf",
+    "eng": "Shiny Meadow 100% Fresh Milk 250ML",
+    "norm": "shiny milk"
+  },
+  {
+    "uid": "bac834b9b327578e2c6e80080a66213f",
+    "eng": "Shiny Meadow 100% Fresh Milk 720ML",
+    "norm": "shiny milk"
+  },
+  {
+    "uid": "01d1c9a9ebee02ff4b1e5d4379581f14",
+    "eng": "Shiny Meadow 4.0 Protein 100% Fresh Milk 720ML",
+    "norm": "shiny milk"
+  },
+  {
+    "uid": "094cd67de41cfcc7fae59a3f277715f9",
+    "eng": "\" SOYMILK\" Soymilk",
+    "norm": "soymilk"
+  },
+  {
+    "uid": "f8adb33ab7711b140eee06e9bc1c4801",
+    "eng": "THE BRIDGE Bio Rice Drink Natural",
+    "norm": "the bridge bio rice drink"
+  },
+  {
+    "uid": "ffa0b63c5684c77762bab69500f1c4bb",
+    "eng": "TRAPPIST DAIRY Organic Full Cream Milk",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "25743c4527bae184705025c8287dfbaf",
+    "eng": "Trappist Dairy Banana Milk Drink 236ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "ad85a7362e0dc85451b2da3c13c0fa12",
+    "eng": "Trappist Dairy Fresh Milk 236ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "d2dc75ca29c4044e85a351c2894f1174",
+    "eng": "Trappist Dairy Fresh Milk 946ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "f02b00afb47ec4ace14e84360ff7c612",
+    "eng": "Trappist Dairy Hi-Cal Low Fat Milk Drink 236ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "03aa362138ae6f64a31ea376a00f8043",
+    "eng": "Trappist Dairy Hi-Calcium Low Fat Milk Drink 946ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "cf3e57df7df5f665da50fe5cce1f3d7b",
+    "eng": "Trappist Dairy Hi-Calcium Skimmed Milk Drink 946ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "5eb2a2256c5d4680ebf7746ba3a1c992",
+    "eng": "Trappist Dairy Mango Papaya Milk Drink 236ML",
+    "norm": "trappist dairy milk"
+  },
+  {
+    "uid": "e8341bc460b86ed5cd5fd4ff332d9214",
+    "eng": "Vita Hi Calcium Skim Milk 946ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "46c675c189703a204649d8e5a03cfa23",
+    "eng": "Vita Hi-Calcium Skimmed Milk Beverage 236ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "2eec9a0a017ccd60a5803576f496c647",
+    "eng": "Vita Hi-Calcium Yoghurt Drink 4 X 125ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "8bb9f9071de41b7d2d5b3091daa5af7a",
+    "eng": "VITA Vita Hi-calcium Low Fat Milk Beverage 250ml*9",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "b6f2b78bb4bd61f3268ff389e40996ef",
+    "eng": "Vita Chocolate Milk 236ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "e0c095c5996574a4a9ccdbb0ca4fc62e",
+    "eng": "Vita Chocolate Milk 946ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "72b527ebd1c0d2316066327ce1982a7c",
+    "eng": "Vita Hi-Calcium Chocolate Milk 236ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "c372abb07eebf2873e0faac034f23004",
+    "eng": "Vita Hi-Calcium Chocolate Milk 946ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "014f33dd09affd339ef4c4bea535b8ca",
+    "eng": "VITA Hi-calcium Low Fat Milk Beverage 250ml (6pack)",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "332fb11cc0a2deefeebc5858d5fc987d",
+    "eng": "Vita Hi-Calcium Low Fat Milk 946ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "c69e06bdfb96287d146c6b84c0d72065",
+    "eng": "Vita Hi-Calcium Milk 236ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "6f60c29ce5a222af3f4570af188935a0",
+    "eng": "Vita Hi-Calcium Whole Milk 236ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "96b6c4f1b61fbba97f576204275375b8",
+    "eng": "Vita Hi-Calcium Whole Milk 946ML",
+    "norm": "vita milk"
+  },
+  {
+    "uid": "d18318c206cd783290b73ca65bb4a025",
+    "eng": "VITASOY Australia Soy Milky",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "2512cf981b3fbf190355fa5cb546d7ad",
+    "eng": "VITASOY Australia Oat Milk Unsweetened",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "2a902979bcbf399b98ddf74291a30e13",
+    "eng": "VITASOY Australia Rice Milk Unsweetened",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "0d8cc782cf6c81752f3b3602460b1585",
+    "eng": "VITASOY Australia Soy Milk Original",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "86f03ca09a682b4abd16a7bff06b6bee",
+    "eng": "VITASOY Cafe For Baristas Oat Milk-australia",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "bb777d01b8eeeedbc12fd43d82486a75",
+    "eng": "VITASOY Cafe For Baristas Soyamilk",
+    "norm": "vitasoy australia milk"
+  },
+  {
+    "uid": "4a62058fbabfc453c6f5be8d8baca7a4",
+    "eng": "VITASOY CALCI PLUS Calci Plus Hi-calcium Oat Soya Drink 250ml (6pack)",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "034a3f256c7c860cea7e0b699061e328",
+    "eng": "VITASOY CALCI PLUS Calci Plus Hi-calcium Original Soya Drink 1l (3pack)",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "0322b4dd0a9804f3124953e41d58b711",
+    "eng": "VITASOY CALCI PLUS Calci Plus Hi-calcium (unsweetened) Soya Drink 1l (1pack)",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "58634aa4d2db3f45bff6ab8db1dcdb35",
+    "eng": "VITASOY CALCI PLUS Calci Plus Plant Sterol",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "8bf770832bb0e590e83e285fd8926cb2",
+    "eng": "VITASOY CALCI PLUS Calci Plus Soya Hi-caloriginal Flavor",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "8d4fe72b4988f5c5ef7cb66d9480826f",
+    "eng": "VITASOY CALCI PLUS Soya Hi-cal Original Flavor",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "c0357cee7e343fbcb7a732f9c2e43b4a",
+    "eng": "VITASOY CALCI PLUS Vitasoy Calci Plus Soya Hi-cal-original Flavor",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "fdc2012c654ea390a449cd858bce4bed",
+    "eng": "VITASOY CALCI PLUS Hi-calcium Plant Sterol Soya Milk 250ml*6",
+    "norm": "vitasoy calci plus drink"
+  },
+  {
+    "uid": "907bc031b65d3ea15753c26209d0bb5c",
+    "eng": "VITASOY Low Sugar Soya Bean Milk 1l",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "69c446cd9fef4fa726b3e287a331ca32",
+    "eng": "VITASOY Vita Yoghurt Flavor Drink 125ml (4pack)",
+    "norm": "vitasoy vita yoghurt flavor drink"
+  },
+  {
+    "uid": "d44ed79d3dd1841c618f561f97d8d5af",
+    "eng": "VITASOY Vitasoy Low Malted Sugar Soya Bean Milk 250ml*6",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "b511ca39b693e9fa572bb645f0b4ad69",
+    "eng": "VITASOY Low Sugar Malted Soyabean Milk 1l (1pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "8b516edf50e832493e67186639299900",
+    "eng": "VITASOY Low Sugar Malted Soyabean Milk 250ml (9pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "da5d070bfa4c5fd00159a9da4f2e8a93",
+    "eng": "VITASOY Low Sugar Soyabean Milk 250ml (9pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "8c3e6dee203bbb2e21381d971c923035",
+    "eng": "VITASOY Malted Soyabean Milk 1l (1pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "28f74a741b6eedd1e9824ad2723b41c3",
+    "eng": "VITASOY Malted Soyabean Milk 125ml (4pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "709afe55508fd215a96c39a4e5e0bbf3",
+    "eng": "VITASOY Original Soyabean Milk 1l (3pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "46bfd6dce81c20b6c915d03ef8f009e4",
+    "eng": "VITASOY Original Soyabean Milk 125ml (4pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "4e54adfb3fc26688a80d02a1366ec23b",
+    "eng": "VITASOY Original Soyabean Milk 250ml (9pack)",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "20c75884c7bb56a90104bb0beff1fd50",
+    "eng": "VITASOY Soya Bean Milk 1l",
+    "norm": "vitasoy bean milk"
+  },
+  {
+    "uid": "248700322f8ee161c0dc588d598fe23e",
+    "eng": "WANT WANT Lactic Acid Drink",
+    "norm": "want want lactic acid drink"
+  }
+]

@@ -1,0 +1,473 @@
+[
+    {
+      "uid": "13420e9685d1bfd226a0fa0b9c707d11",
+      "eng": "Healthworks Hawthorn Apple 6 X 250ML",
+      "norm": "healthworks hawthorn apple"
+    },
+    {
+      "uid": "134f61c85c1055a09063a2a120300f01",
+      "eng": "HEALTHWORKS Healthworks Sugarcane Ri And Sea Coconut Drink Tetrapack 6p",
+      "norm": "healthworks sugarcane seacoconut"
+    },
+    {
+      "uid": "9ce991bb22970976e57e43b7462caf64",
+      "eng": "HEALTHWORKS Lemon Yiyiren Drink",
+      "norm": "healthworks lemon yiyiren"
+    },
+    {
+      "uid": "70d9ac8d140157bffc126985220282aa",
+      "eng": "HEALTHWORKS Lemon Yiyiren Drink",
+      "norm": "healthworks lemon yiyiren"
+    },
+    {
+      "uid": "72fa14e36c3e738206273b7a3264a45a",
+      "eng": "Healthworks Lemon Yiyiren Drink 500ML",
+      "norm": "healthworks lemon yiyiren"
+    },
+    {
+      "uid": "974287380176bdfd4e9ec977b8ea4da1",
+      "eng": "HEALTHWORKS Rock Sugar With Pear Drink",
+      "norm": "healthworks rock sugar with pear"
+    },
+    {
+      "uid": "b6b8f77774ef7afee782121684e1a7c9",
+      "eng": "HEALTHWORKS Self-heal Spike Drink",
+      "norm": "healthworks self heal spike"
+    },
+    {
+      "uid": "997c7b7f2fd4acc0fbed315f66aae2df",
+      "eng": "Healthworks Self Heal Spike 500ML",
+      "norm": "healthworks self heal spike"
+    },
+    {
+      "uid": "fc071d5ddb99dac805767658a9b422b1",
+      "eng": "HEALTHWORKS Sugarcane, Rhizoma Imperatae And Sea Coconut Drink",
+      "norm": "healthworks sugarcane seacoconut"
+    },
+    {
+      "uid": "4c3feee63942a653736540b04724f841",
+      "eng": "Healthworks Sugarcane Sea Coconut 6 X 250ML",
+      "norm": "healthworks sugarcane seacoconut"
+    },
+    {
+      "uid": "8904febe92a2997780037970d505f49e",
+      "eng": "Healthworks Sugarcane Seacoconut 500ML",
+      "norm": "healthworks sugarcane seacoconut"
+    },
+    {
+      "uid": "3abec4c89614bbbf573b0baed90fec2f",
+      "eng": "Hoi Tin Tong 24Herbs Tea 510ML",
+      "norm": "hoi tin tong drinks"
+    },
+    {
+      "uid": "4f1ae74d94636d8e2deff3b3b6d144c6",
+      "eng": "Hoi Tin Tong Herbal Jelly Drink 350ML",
+      "norm": "hoi tin tong drinks"
+    },
+    {
+      "uid": "1c0ed9e2a4e8f4b123f1cb9a0a125c1b",
+      "eng": "Hoi Tin Tong Xia Ku Cao 510ML",
+      "norm": "hoi tin tong drinks"
+    },
+    {
+      "uid": "c609ecab2276fd1be95c2b7aca9ccf97",
+      "eng": "HUNG FOOK TONG American Ginsing With Honey Drink",
+      "norm": "hung fook tong american ginsing with honey"
+    },
+    {
+      "uid": "37ea05e315acd69d3e7398ca2f517da2",
+      "eng": "HUNG FOOK TONG Brewing American Ginseng Drink",
+      "norm": "hung fook tong brewing american ginseng"
+    },
+    {
+      "uid": "5659dabb847018566a802e862e533d39",
+      "eng": "Hung Fook Tong Canton Love-Pea Vine Drink 1.5LT",
+      "norm": "hung fook tong canton love pea vine"
+    },
+    {
+      "uid": "ea31ffa2a1f885b162f8231bd4f473f1",
+      "eng": "HUNG FOOK TONG Canton Love-pes Vine Drink",
+      "norm": "hung fook tong canton love pea vine"
+    },
+    {
+      "uid": "4c192e5d381b70187fdc647daa50d4ea",
+      "eng": "HUNG FOOK TONG Canton Love-pes Vine Drink",
+      "norm": "hung fook tong canton love pea vine"
+    },
+    {
+      "uid": "4b3bd938a0dfb58a0da9b928973fda81",
+      "eng": "Hung Fook Tong Canton Love-Pes Vine 500ML",
+      "norm": "hung fook tong canton love pea vine"
+    },
+    {
+      "uid": "0f8bed902ddedbad819448c0e9961db0",
+      "eng": "HUNG FOOK TONG Chrysanthemum With Honey Drink",
+      "norm": "hung fook tong chrysanthemum with honey"
+    },
+    {
+      "uid": "787a55ad47c08527369ec5868ec8a020",
+      "eng": "HUNG FOOK TONG Chrysanthemum With Honey Drink",
+      "norm": "hung fook tong chrysanthemum with honey"
+    },
+    {
+      "uid": "6014b4dfc15064bbcb2bd8d8757867d7",
+      "eng": "Hung Fook Tong Chrysanthemum With Honey 1.5LT",
+      "norm": "hung fook tong chrysanthemum with honey"
+    },
+    {
+      "uid": "8dd58520b0b3ab0b13fd42042586e4ac",
+      "eng": "Hung Fook Tong Chrysanthemum with Honey 500ML",
+      "norm": "hung fook tong chrysanthemum with honey"
+    },
+    {
+      "uid": "d61d360af862d869641a33bc4d0cd9c8",
+      "eng": "HUNG FOOK TONG Common Selfheal Fruit-spike Drink",
+      "norm": "hung fook tong common selfheal fruit spike"
+    },
+    {
+      "uid": "e867c8c8b9a1f81cd92b35731f6e9f3d",
+      "eng": "HUNG FOOK TONG Common Selfheal Fruit-spike Drink",
+      "norm": "hung fook tong common selfheal fruit spike"
+    },
+    {
+      "uid": "7107b66d9e46bb94e58b7c913519c54b",
+      "eng": "Hung Fook Tong Common Selfheal Fruit-Spike 1.5LT",
+      "norm": "hung fook tong common selfheal fruit spike"
+    },
+    {
+      "uid": "846a0f4bf4d36f5dbe3177a24aae528f",
+      "eng": "HUNG FOOK TONG Fig Drink W/apple & Water Chestnut",
+      "norm": "hung fook tong fig w apple water chestnut"
+    },
+    {
+      "uid": "0360a4c142fcc987ddbe139793e2503f",
+      "eng": "HUNG FOOK TONG Floral Herbal Tea Drink.(chilled 0-4°c)",
+      "norm": "hung fook tong floral herbal"
+    },
+    {
+      "uid": "f410bcb16cfe3c89bd4b9bd37361dfe2",
+      "eng": "HUNG FOOK TONG Floral Herbal Tea Drink",
+      "norm": "hung fook tong floral herbal"
+    },
+    {
+      "uid": "b358c5677b01a01f4a083e712a55d7bf",
+      "eng": "Hung Fook Tong Ginseng With Honey 500ML",
+      "norm": "hung fook tong brewing american ginseng"
+    },
+    {
+      "uid": "864dc6f9935a59bcf5137ca761c379c5",
+      "eng": "Hung Fook Tong Grosvenor Momordica 500ML",
+      "norm": "hung fook tong grosvenor momordica fruit"
+    },
+    {
+      "uid": "341e8397218323a039ef61aba61cf953",
+      "eng": "HUNG FOOK TONG Grosvenor Momordica Fruit Drink",
+      "norm": "hung fook tong grosvenor momordica fruit"
+    },
+    {
+      "uid": "684c4fd0a4c50d8a16669e07967dd47d",
+      "eng": "HUNG FOOK TONG Honey Drk W/fritillary&loquat Leaves",
+      "norm": "hung fook tong honey drk w fritillary loquat leaves"
+    },
+    {
+      "uid": "062c948a1eb7d77a72a37c8f43da63e9",
+      "eng": "HUNG FOOK TONG Honey Drk W/mulberry & Mulberry Leaf",
+      "norm": "hung fook tong honey drk w mulberry mulberry leaf"
+    },
+    {
+      "uid": "69f11ad4f6a10629521bc7155a2220a6",
+      "eng": "Hung Fook Tong Honey W Chuan Bei Loquat Leave 500Ml",
+      "norm": "hung fook tong honey w chuan bei loquat leave"
+    },
+    {
+      "uid": "74eaede6ebc918d855cd863ee3b244f8",
+      "eng": "HUNG FOOK TONG Hung Fook Tong Pear And Chrysanthemum Drink",
+      "norm": "hung fook tong hung fook tong pear and chrysanthemum"
+    },
+    {
+      "uid": "309c0a52434c6be23449df9437190909",
+      "eng": "HUNG FOOK TONG Imperatae Cane Drink",
+      "norm": "hung fook tong imperatae cane"
+    },
+    {
+      "uid": "fc8c57492814f51ecbed1afbe45a324c",
+      "eng": "HUNG FOOK TONG Imperatae Cane Drink",
+      "norm": "hung fook tong imperatae cane"
+    },
+    {
+      "uid": "635096f1bdfe91dd9acab080bf35f736",
+      "eng": "Hung Fook Tong Imperatae Cane 1.5LT",
+      "norm": "hung fook tong imperatae cane"
+    },
+    {
+      "uid": "49453177c3b3283628ffbe9116a512b5",
+      "eng": "Hung Fook Tong Imperatae Cane Drink 500ML",
+      "norm": "hung fook tong imperatae cane"
+    },
+    {
+      "uid": "08141ea9418f0f06589af3b1a6074dbd",
+      "eng": "Hung Fook Tong Mix Flower Tea 500ML",
+      "norm": "hung fook tong floral herbal"
+    },
+    {
+      "uid": "adcf02d67bb2dc81f251293d37f7d1c5",
+      "eng": "Hung Fook Tong Pear Tea 500ML",
+      "norm": "hung fook tong pear"
+    },
+    {
+      "uid": "595764a86e6c49193400aab97eff2a0f",
+      "eng": "HUNG FOOK TONG Salted Lime Drink",
+      "norm": "hung fook tong salted lime"
+    },
+    {
+      "uid": "7e621231da89355881ae710b61b651f9",
+      "eng": "Hung Fook Tong Salted Lime Drink 500ML",
+      "norm": "hung fook tong salted lime"
+    },
+    {
+      "uid": "eb2f71e3bb317e1d640b0c4731f1287c",
+      "eng": "HUNG FOOK TONG Salted Mandarin Drink",
+      "norm": "hung fook tong salted mandarin"
+    },
+    {
+      "uid": "e6d2d32fda6c6b71f631c1017a40e238",
+      "eng": "Hung Fook Tong Salted Mandarin Drinks 500ML",
+      "norm": "hung fook tong salted mandarin"
+    },
+    {
+      "uid": "b775bab0ff618962432cd2c55586805a",
+      "eng": "Hung Fook Tong Selfheal Fruit-Spike 500ML",
+      "norm": "hung fook tong common selfheal fruit spike"
+    },
+    {
+      "uid": "51224ab0be1d86345e33c396d4a4af48",
+      "eng": "HUNG FOOK TONG Sour Plum Drink.(chilled 0-4°c)",
+      "norm": "hung fook tong sour plum"
+    },
+    {
+      "uid": "3b0cc2f6346662bb5e381bbbfb7ee2b1",
+      "eng": "HUNG FOOK TONG Sugarcane And Sea Coconut With Carrot Drink",
+      "norm": "hung fook tong sugarcane and sea coconut with carrot"
+    },
+    {
+      "uid": "9ef82d6d4982736dabb99043414f31c4",
+      "eng": "Hung Fook Tong Sugarcane Carrot Drink 500ML",
+      "norm": "hung fook tong sugarcane and sea coconut with carrot"
+    },
+    {
+      "uid": "2f9b1c763e2bf545050662a17d4d0bd6",
+      "eng": "HUNG FOOK TONG Sugarcane Juice Drink.(chilled 0-4°c)",
+      "norm": "hung fook tong sugarcane juice"
+    },
+    {
+      "uid": "96aaa002505939cf1a1408bbb9afbc52",
+      "eng": "HUNG FOOK TONG Sugarcane Juice Drink",
+      "norm": "hung fook tong sugarcane juice"
+    },
+    {
+      "uid": "9b190722c5c64d0eb3d3fca23f067f79",
+      "eng": "Hung Fook Tong Tangerine Peel Mandarin 500ML",
+      "norm": "hung fook tong tangerine peel mandarin"
+    },
+    {
+      "uid": "463a8836ebb12ecd34e23652b902d1d5",
+      "eng": "JIA DUO BAO Herbal Drink",
+      "norm": "jia duo bao herbal"
+    },
+    {
+      "uid": "3b922f860f3596417f6fb7d0fa763673",
+      "eng": "Jia Duo Bao Herbal Tea Original 6 x 310ML",
+      "norm": "jia duo bao herbal"
+    },
+    {
+      "uid": "c39a99adbb97c42c9adeb3d86b6a794b",
+      "eng": "JIADUOBAO Traditional Recipe Herbal Tea-0 Sugar",
+      "norm": "jia duo bao herbal"
+    },
+    {
+      "uid": "f8ed2c8a09572979e88d8397a515ab40",
+      "eng": "Kirin Rich Green Tea Series Origin Flavor 525ML",
+      "norm": "kirin rich green series origin flavor"
+    },
+    {
+      "uid": "aa8cc359132f6bd36df03bbe052a6acb",
+      "eng": "Meadows Grosvenor Momordica 500ML",
+      "norm": "meadows grosvenor momordica"
+    },
+    {
+      "uid": "0ad125259c68a00a2978928e0fbeb1ea",
+      "eng": "Meadows Imperatae Cane Drink 500ML",
+      "norm": "meadows imperatae cane"
+    },
+    {
+      "uid": "c9c11450784c9bca0824d6c09fd84623",
+      "eng": "MJ X HFT Lemon & Coix Seeds Drink",
+      "norm": "mj x hft lemon coix seeds"
+    },
+    {
+      "uid": "2e6531876c583abbc2cef9232b830d9c",
+      "eng": "MJ X HFT Mj X Hft Red Bean & Coix Seeds Drink",
+      "norm": "mj x hft mj x hft red bean coix seeds"
+    },
+    {
+      "uid": "6c05209532de0f53734377a8fa61e96a",
+      "eng": "MR. JUICY Honey Pear Juice Drink",
+      "norm": "mr juicy honey pear juice"
+    },
+    {
+      "uid": "adc1aaffbf36f44cb3176cc947aa758b",
+      "eng": "MR. JUICY Sugarcane Water Chestnut Juice Drink",
+      "norm": "mr juicy sugarcane water chestnut juice"
+    },
+    {
+      "uid": "3de0337ea3c761dc284b176642f3bf50",
+      "eng": "MZK Life Honey Sugar Fig Tea 1PC",
+      "norm": "mzk life honey sugar fig"
+    },
+    {
+      "uid": "1115f510851b66000fbcea2037e41717",
+      "eng": "MZK Life Osmanthus & Snow Pear Tea 1PC",
+      "norm": "mzk life osmanthus snow pear"
+    },
+    {
+      "uid": "209db6e6c7bcae1a37bf5c16c6b7df44",
+      "eng": "Original Taste Carrot Pear Drink 1LT",
+      "norm": "original taste carrot pear"
+    },
+    {
+      "uid": "340de0395175cb03d4e9a9a55d57f980",
+      "eng": "Original Taste Chrysanthemum W Honey 1LT",
+      "norm": "original taste chrysanthemum w honey"
+    },
+    {
+      "uid": "46dd8715ad281b2e705abdbf00b0b28e",
+      "eng": "Original Taste Fig Apple & Pear 1LT",
+      "norm": "original taste fig apple pear"
+    },
+    {
+      "uid": "51634eb5083039b15a818d5a4ea22dad",
+      "eng": "ORIGINAL TASTE Fresh Citrus With Coix Seed Drink",
+      "norm": "original taste fresh citrus with coix seed"
+    },
+    {
+      "uid": "8f8f6ce52dc155963e1349ebc84aa03c",
+      "eng": "ORIGINAL TASTE Fresh Lemon With Coix Seed Drink",
+      "norm": "original taste fresh lemon with coix seed"
+    },
+    {
+      "uid": "eb963668ef53d1c00a8d6f0fe3eba9b0",
+      "eng": "ORIGINAL TASTE Fresh Peach With Coix Seed Drink",
+      "norm": "original taste fresh peach with coix seed"
+    },
+    {
+      "uid": "6df0cde1520799cd10dc2d39c583346c",
+      "eng": "Original Taste Pear Sichuan Loquat 1LT",
+      "norm": "original taste pear sichuan loquat"
+    },
+    {
+      "uid": "10e8f649696c1fc39b44301e40f7f74f",
+      "eng": "SENSA COOLS Herbal Chrysanthemum",
+      "norm": "sensa cools herbal chrysanthemum"
+    },
+    {
+      "uid": "6c344113973b3901b954931e3a2ff7c1",
+      "eng": "SENSA COOLS Herbal Green Tea",
+      "norm": "sensa cools herbal green"
+    },
+    {
+      "uid": "c4313cbc85ff1499cd053b718c8f64aa",
+      "eng": "SENSA COOLS Herbal Lemon Drink",
+      "norm": "sensa cools herbal lemon"
+    },
+    {
+      "uid": "487a8d442531edb34a2b6f9636ae9898",
+      "eng": "Sensa Cools Herbal Lemon Drink 350ML",
+      "norm": "sensa cools herbal lemon"
+    },
+    {
+      "uid": "5321497b6bbbe821bac6fa049510331f",
+      "eng": "Tao Ti Supreme Meta Tea 1.5LT",
+      "norm": "tao ti supreme meta"
+    },
+    {
+      "uid": "9d4a706e37a44d973259d83ca89fc655",
+      "eng": "Tao Ti Supreme Meta Tea 500ML",
+      "norm": "tao ti supreme meta"
+    },
+    {
+      "uid": "90f2d952a03cf5f74c72dfcdc8964a18",
+      "eng": "Tao Ti Supreme Meta Tea 6 X 250ML",
+      "norm": "tao ti supreme meta"
+    },
+    {
+      "uid": "a2f0893e8981abb75d2d6a05e0fd82a0",
+      "eng": "Tao Ti Supreme Meta Slim Tea 500ML",
+      "norm": "tao ti supreme meta slim"
+    },
+    {
+      "uid": "a975f40bc91aff53f29aca3f2f383c2f",
+      "eng": "Tao Ti Supreme Meta Slim Tea 1.5LT",
+      "norm": "tao ti supreme meta slim"
+    },
+    {
+      "uid": "86d0159f3bc5f669f6d3d3f77c176082",
+      "eng": "Tao Ti Supreme Meta Slim Tea 6 X 250ML",
+      "norm": "tao ti supreme meta slim"
+    },
+    {
+      "uid": "58404f2b27338021eda7ff732a29bda5",
+      "eng": "VEDAN Winter Melon Drink",
+      "norm": "vedan winter melon"
+    },
+    {
+      "uid": "2dd1f22fa8e07c7e5c86ce234ccf4af3",
+      "eng": "Vita Apple Jasmine Juice 6 X 250ML",
+      "norm": "vita apple jasmine juice"
+    },
+    {
+      "uid": "584920a4291c42d95773c18f1d847e55",
+      "eng": "Vita Sugar Cane Imperatae Drink 6 X 250ML",
+      "norm": "vita sugar cane imperatae"
+    },
+    {
+      "uid": "8cbcf93b07b29f1265a09acc5559f584",
+      "eng": "VITA Tsing Sum Zhan Honey Lime Healthy Drink 250ml (6pack)",
+      "norm": "vita tsing sum zhan honey lime healthy"
+    },
+    {
+      "uid": "e422b6cf4681c2712fad25da487dd814",
+      "eng": "VITA Tsz Apple And Jasmine 250ml X 6",
+      "norm": "vita apple jasmine juice"
+    },
+    {
+      "uid": "abffbac56ae143f5bde353cdc18e957c",
+      "eng": "VITA Tsz Sugar Cane And Imperatae",
+      "norm": "vita sugar cane imperatae"
+    },
+    {
+      "uid": "fe01304b275cd1921226cfe7e4d5b0bf",
+      "eng": "YEO'S Grass Jelly 6 Cans",
+      "norm": "yeo s grass jelly"
+    },
+    {
+      "uid": "943868778ab915d37cfbc1c9b1cb3362",
+      "eng": "Yeo's Grass Jelly 6 X 300ML",
+      "norm": "yeo s grass jelly"
+    },
+    {
+      "uid": "a085c1684f5aacf61326537668e97199",
+      "eng": "YEO'S Yeo's Grass Jelly Drink (case)",
+      "norm": "yeo s grass jelly"
+    },
+    {
+      "uid": "344d4e6976f95ea2feb94999441e90dc",
+      "eng": "YEO'S Yeo's Herb Tea Set",
+      "norm": "yeo s yeo s herb set"
+    },
+    {
+      "uid": "3adebee053bdf5aed44d658323725a7c",
+      "eng": "YEO'S Yeo's White Gourd Drink (case)",
+      "norm": "yeo s yeo s white gourd"
+    }
+  ]
+  

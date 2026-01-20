@@ -1,0 +1,478 @@
+[
+  {
+    "uid": "ec47a4817310362e4fff8b7a0660a583",
+    "eng": "RED BULL Apple Muscat Sparkling Energy Drinks"
+  },
+  {
+    "uid": "ef0ca8ee8f07a2bef04a9514805a70bd",
+    "eng": "LUCOZADE Energy Drink-orange Flavour 4s"
+  },
+  {
+    "uid": "311c37dfb06d7a7668fb7b91a62aaea2",
+    "eng": "ALIENERGY Electrolyte Drk Sea Salt Lychee Flv"
+  },
+  {
+    "uid": "677bd66e0b9d1cc8c354a1f92b276a96",
+    "eng": "LUCOZADE Energy Drink-original Flavour"
+  },
+  {
+    "uid": "c9f944d50068d312fe23691b1ff071b8",
+    "eng": "LUCOZADE Lucozade Sport 750ml Orange"
+  },
+  {
+    "uid": "5837c312169afded4a4046a0ef480017",
+    "eng": "GATORADE Orange"
+  },
+  {
+    "uid": "5b39799f8a60da3ef8ed8f79a22b3ab4",
+    "eng": "CELSIUS Fitness Drink -sparkling White Peach"
+  },
+  {
+    "uid": "3463306b4ec094a6416c8d66b7dd5233",
+    "eng": "AQUARIUS Electrolytes Replenishment Drink"
+  },
+  {
+    "uid": "9e2e6e4d876af14344a11f00d8f06d5b",
+    "eng": "PRIME_ Ice Pop Hydration Drink"
+  },
+  {
+    "uid": "fba718db4b7e4034b8dcdb874d558d52",
+    "eng": "100 PLUS Isotonic Electrolyte Drink - Original(carbonated)"
+  },
+  {
+    "uid": "e4bb72b145e0da970dbf5519baff6066",
+    "eng": "PRIME_ Barcelona Hydration Drink"
+  },
+  {
+    "uid": "c86a75447f6ffdad15f2b79c903cdf0d",
+    "eng": "LABRADA Lean Body - Banana"
+  },
+  {
+    "uid": "5e7257586ecee70a3ecd308dd8500914",
+    "eng": "RED BULL Pomelo Sparkling Energy Drinks"
+  },
+  {
+    "uid": "d3c3e87ca12cad48bdcf7a687e3bf3c1",
+    "eng": "WEIDER IN JELLY Energy In"
+  },
+  {
+    "uid": "8ec8d22d2ddeb78c3894fb59ee4716fb",
+    "eng": "GATORADE Blueberry"
+  },
+  {
+    "uid": "09cd3c90d35926736e811bfeb089bdc7",
+    "eng": "EASTROC Vitamin Energy Drink"
+  },
+  {
+    "uid": "8d2087f4dfe8d44c432272be0ba85afd",
+    "eng": "AQUARIUS Electrolytes Replenish Drink Zero"
+  },
+  {
+    "uid": "883e2022743b11d92bca956d5a45e3c4",
+    "eng": "ALIENERGY Electrolyte Drink White Peach Flv"
+  },
+  {
+    "uid": "d53f4e714007365855998c20b2684371",
+    "eng": "YOU C1000 Vitamin Lemon 6's Pack"
+  },
+  {
+    "uid": "c55fcc1a11ce482e369a6cbd132feebe",
+    "eng": "RED BULL Purpleed Kyoho Grape Flv Energydrink"
+  },
+  {
+    "uid": "a50cfe2d68a248dd40a9f82572d9d6cc",
+    "eng": "POCARI Pocari Sweat Ion Supply Drink 6x350ml"
+  },
+  {
+    "uid": "f7d435f699f507c37d528c5723f5cb8e",
+    "eng": "LABRADA Lean Body - Strawberry"
+  },
+  {
+    "uid": "b1a3be1853be9314c839d18404a23dbb",
+    "eng": "PRIME_ Bayern Hydration Drink"
+  },
+  {
+    "uid": "8a9e3358c1f1bae5a34e3deca41d2878",
+    "eng": "PRIME_ Borussia Dortmund Hydration Drink"
+  },
+  {
+    "uid": "d9fc06cf22f080d7aa54e46002406e9b",
+    "eng": "POCARI Ion Supply Drink 1.5l"
+  },
+  {
+    "uid": "f0593d02ca974a03f510de5a27e7a786",
+    "eng": "YOU C1000 Vitamin Orange"
+  },
+  {
+    "uid": "bda1d907998f3ad508fb93de8cc7f65b",
+    "eng": "AQUARIUS Electrolytes Replenishment Drink (powder)"
+  },
+  {
+    "uid": "8084026c075193d92a340271aea82cc6",
+    "eng": "PRIME_ Lemonade Hydration Drink"
+  },
+  {
+    "uid": "d960ed8cf98c64831a612c921f2d501c",
+    "eng": "(尚未取得英文名稱)"
+  },
+  {
+    "uid": "df199fac04935293023e2f40a0967238",
+    "eng": "POCARI Ion Water (low Kcal)"
+  },
+  {
+    "uid": "c084f95c28272fbc01e176d77e384bcc",
+    "eng": "100 PLUS Isotonic Electrolyte Drink - Active(non Carbonated)"
+  },
+  {
+    "uid": "b6d938622de128bfea84bec8584bfc9d",
+    "eng": "POCARI Ion Supply Drink"
+  },
+  {
+    "uid": "deb97cf3cc8543fced203886aa856cdb",
+    "eng": "(尚未取得英文名稱)"
+  },
+  {
+    "uid": "cb0ec507897e2c812ce2a0a76808d972",
+    "eng": "AQUARIUS Electrolytes Replenish Drink"
+  },
+  {
+    "uid": "3f6108a125c8dbf2087ee17f4a2212d4",
+    "eng": "ORONAMIN C Oronamin C"
+  },
+  {
+    "uid": "6f61395e3d0139db949cdd23fbe649f8",
+    "eng": "(尚未取得英文名稱)"
+  },
+  {
+    "uid": "6939368469e2ad38cac66a5f1c7a2e7d",
+    "eng": "LUCOZADE Energy Drink-original Flavour 4s"
+  },
+  {
+    "uid": "8198e3f48f29fb35d4f65b92ccb814bd",
+    "eng": "PRIME_ Lemon Lime Hydration Drink"
+  },
+  {
+    "uid": "d152de232f259b6e333ba68cad3a175f",
+    "eng": "LUCOZADE Energy Regular"
+  },
+  {
+    "uid": "6c678ab38b60e16641491aa520b64508",
+    "eng": "POCARI Ion Water (low Kcal)"
+  },
+  {
+    "uid": "6b640a68aa6398f4b20dde8eee57923c",
+    "eng": "LUCOZADE Energy Drink-orange Flavour"
+  },
+  {
+    "uid": "d169f99013645401f503a043254ced65",
+    "eng": "YOU C1000 Vitamin Lemon"
+  },
+  {
+    "uid": "c91c56f919e14bdc38de12fb64362068",
+    "eng": "LUCOZADE Energy Orange"
+  },
+  {
+    "uid": "7bc1dc4cdef915ea9746cb647d92581b",
+    "eng": "POCARI Ion Supply Drink"
+  },
+  {
+    "uid": "be08f1e9ec9711b67d54168e0c831075",
+    "eng": "POCARI Ion Supply Drink"
+  },
+  {
+    "uid": "99518394c4e201e06d50dcb538f87d47",
+    "eng": "POCARI Ion Supply Drink Powder"
+  },
+  {
+    "uid": "fc96c194bd0ada5defcadc19422274cd",
+    "eng": "LUCOZADE Energy Drink-low Sugar Orange Fla."
+  },
+  {
+    "uid": "f2ab1f7cf7efbc4ce37b5d7a840e4107",
+    "eng": "PRIME_ Eling Haaland Hydration Drink"
+  },
+  {
+    "uid": "c66110c128c40013e23f273feba3a20e",
+    "eng": "POCARI Ion Supply Drink"
+  },
+  {
+    "uid": "5909e42562fd2456b134cdcdeb0a860b",
+    "eng": "AQUARIUS Electrolytes Replenish Drink Zero"
+  },
+  {
+    "uid": "ecbd238f2835e6cb467fdc5477dc38bd",
+    "eng": "GATORADE Lemon-lime"
+  },
+  {
+    "uid": "ba1043fc5d45cbfc76a48c623557a62f",
+    "eng": "AQUARIUS Electrolytes Replenish Drink"
+  },
+  {
+    "uid": "aafd3418304a9959bf8445ff895ec210",
+    "eng": "YOU C1000 Vitamin Orange 6's Pack"
+  },
+  {
+    "uid": "2430d3527c242d9e7e12206007840160",
+    "eng": "Pocari Sweat Ion Supply Drink 6 X 350ML"
+  },
+  {
+    "uid": "7afcb620e6e12bf7d009ee4186388b85",
+    "eng": "Pocari Sweat Ion Supply Drink 2 X 1.5L With UL·OS Facial Sheet (1 pack)"
+  },
+  {
+    "uid": "07933ee9104a43a43cc0d64bd9362821",
+    "eng": "Aquarius Zero Electrolyte Replenishment Drink 500ML"
+  },
+  {
+    "uid": "ae30fad8fa19ac1bb4394cedc2d05f6d",
+    "eng": "Drinkazine Energy Drink Case 20 X 800 ML"
+  },
+  {
+    "uid": "f63b30dd8f5fbb21848c047a15251501",
+    "eng": "Aquarius Electrolyte Replenishment Drink Case 24 x 500ML"
+  },
+  {
+    "uid": "cc4468c20ae2a7151bbe184d028836b5",
+    "eng": "Pocari Sweat Ion Supply Drink Case 24 X 500ML"
+  },
+  {
+    "uid": "4289bda8920374e0e9446bac0289ddc0",
+    "eng": "Prime Hydration Blue Raspberry Energy Drink 330ML"
+  },
+  {
+    "uid": "a25f7d9c017c1b34812f4680d64707df",
+    "eng": "Lucozade Sports Orange 750ML"
+  },
+  {
+    "uid": "d63f049e5f3a791e83e44f2297f2d23a",
+    "eng": "Lucozade Energy Orange Case 24 x 325ML"
+  },
+  {
+    "uid": "4c3c32f69b5d872ef07c11224584729e",
+    "eng": "V Energy Original 250Ml"
+  },
+  {
+    "uid": "c61b90c597cdf54f9f52593f86e36cbd",
+    "eng": "Lean Body Protein Shake-Choco Case 12 x 500ML"
+  },
+  {
+    "uid": "51971689b1410b520ff055f7bffcb130",
+    "eng": "Prime Hydration Ice Pop Hydration Drink 500ML"
+  },
+  {
+    "uid": "67df31c6550701a6eec78b94e6b0073f",
+    "eng": "100PLUS Active Electro Drink 500ML"
+  },
+  {
+    "uid": "3a5ffd5920e9c1709ae457fe29bb6c23",
+    "eng": "Prime Hydration X Hydration Drink 500ML (Random Package Delivery)"
+  },
+  {
+    "uid": "4cc634bb98cd482c3334dd57f654689a",
+    "eng": "Lean Body Protein Shake-Vanill Case 12 x 500ML"
+  },
+  {
+    "uid": "03b233a63f4b002eb0fe98ef4b3ba5c7",
+    "eng": "Red Bull Energy Drink 4 X 250ML"
+  },
+  {
+    "uid": "7f2770ce66859ab7ee91b3a1c02f8d53",
+    "eng": "GNC Whey Chocolate Case 12 X 414Ml"
+  },
+  {
+    "uid": "8b2a4d36f2733b48d610fac0252e3f3e",
+    "eng": "Monster Energy Drink Can Case 24 x 355ML"
+  },
+  {
+    "uid": "1acc0d0b1309ef8647729e932a32cd7f",
+    "eng": "Monster Energy Ultra Can Case 24 x 355ML"
+  },
+  {
+    "uid": "b0a783d95342b99c67a5aaa6a90bf8f7",
+    "eng": "SIS HYDRO STRAW & LIME 90GM"
+  },
+  {
+    "uid": "746565f9988a1a6a296caad69c20c8a1",
+    "eng": "Red Bull Sugar Free Energy Drink 4 X 250ML"
+  },
+  {
+    "uid": "a2edd875100a05220320f4456c6bbefc",
+    "eng": "Prime Hydration Strawberry Watermelon Hydration Drink Case 12 X 500ML"
+  },
+  {
+    "uid": "af493d47510d72bf1a9cbee4376b762f",
+    "eng": "Prime Hydration Lemonade Hydration Drink Case 12 X 500ML"
+  },
+  {
+    "uid": "a586bc1feb6e33009fe1af08a2b6dcc5",
+    "eng": "Monster Mango Loco 355ML"
+  },
+  {
+    "uid": "3bf7c173ec852289f80a5c64fd2e434e",
+    "eng": "Barebells Milk Shake Strawbery Case 8 X 330 ML"
+  },
+  {
+    "uid": "9adc19099a577cf512590fe6c37464da",
+    "eng": "Lucozade Sport Orange 500ML"
+  },
+  {
+    "uid": "01af0a5f40078ca6399eacf15b34670e",
+    "eng": "Aquarius Zero Electrolyte Replenishment Drink Case 24 x 500ML"
+  },
+  {
+    "uid": "7ec5701a5d09f4eed5c145593f4ab961",
+    "eng": "Pocari Sweat Ion Supply Drink Powder 5 X 66GM"
+  },
+  {
+    "uid": "6b04f31f8a1d17441f21120922b2ac92",
+    "eng": "Red Bull Energy Drink 4 X 355ML"
+  },
+  {
+    "uid": "e6fd29bc379ebb17a5b43c174c498647",
+    "eng": "Lean Body Protein Shake-Cookie Case 12 x 500ML"
+  },
+  {
+    "uid": "2f051b9ceea7cf8f71ea89197c13c485",
+    "eng": "Pocari Sweat Ion Supply Drink Case 12 X 1.5 LT"
+  },
+  {
+    "uid": "6a8739ddd4e4df68bb62358bbb32ef9c",
+    "eng": "GNC Lean Chocolate Case 12 X 414ML"
+  },
+  {
+    "uid": "0dabf8fdcb0087a4ce77073adede92fc",
+    "eng": "Gatorade Orange Flavour Drink 600ML"
+  },
+  {
+    "uid": "a478ba9bce02770d69c2edc392c96bf7",
+    "eng": "Red Bull Kyoho Grape Flavour 250ML"
+  },
+  {
+    "uid": "3f3eedd50d5500bb7b649fec03c6af46",
+    "eng": "Prime Hydration Ice Pop Hydration Drink Case 12 X 500ML"
+  },
+  {
+    "uid": "4e12aaff9022ac96d20dca6339554978",
+    "eng": "Lucozade Energy Drink - Original Flavour 4 x 325ML"
+  },
+  {
+    "uid": "dd0bc914e6bff83ab2cd11752ff1fcb2",
+    "eng": "Monster Energy Drink 4 x 355ML"
+  },
+  {
+    "uid": "f9cadf462b447ffcd8aa7d59b56994be",
+    "eng": "Pocari Sweat Ion Water 4 X 350ML"
+  },
+  {
+    "uid": "3731e4eb66c1f586fe1adb3a7c644786",
+    "eng": "Monster Peachy Keen 355ML 4P"
+  },
+  {
+    "uid": "ffff746f61f88af1482b4aeb1f05622d",
+    "eng": "Gatorade Lemon Flavour Drink 600ML"
+  },
+  {
+    "uid": "9fb12b1597a22b86103657f881eb1e0e",
+    "eng": "Barebells Milk Shake Chocolate Case 8 X 330 ML"
+  },
+  {
+    "uid": "2775c417283464aff58145e91b317aea",
+    "eng": "Pocari Sweat Ion Supply Drink 6 X 240ML"
+  },
+  {
+    "uid": "9567a4fbe66cf4c46c52560ae599c079",
+    "eng": "Aquarius Electrolyte Replenishment Drink 500ML"
+  },
+  {
+    "uid": "fe0b289ab2776ad691d9941225ef0517",
+    "eng": "Aquarius Powder Pack 5 x 51GM"
+  },
+  {
+    "uid": "a353baba56f0977d6e2be7fffcbbe3b2",
+    "eng": "Monster Ultra Energy Drink 4 X 355ML"
+  },
+  {
+    "uid": "28deac1403cce7b9cdc26b1c095c0bba",
+    "eng": "Lucozade Energy Drink – Orange Flavour 325ML"
+  },
+  {
+    "uid": "1f22ff6208bbee0f8ef58bf10c2e9d94",
+    "eng": "GNC Whey Vanilia Case 12 X 414ML"
+  },
+  {
+    "uid": "22fd1d69fe663b38cda774a732ab6e81",
+    "eng": "Lucozade Energy Drink - Orange Flavour 4 x 325ML"
+  },
+  {
+    "uid": "0400a90f3eae28ed201c759624c15aa2",
+    "eng": "Lucozade Lucozade Energy 900ML"
+  },
+  {
+    "uid": "e611b6b14eb352f2e45c8c858c8ccfe5",
+    "eng": "Aquarius Electroylte Replenishment Drink 1.2LT"
+  },
+  {
+    "uid": "b8afbfebabc7d1826d1d0e949b148b1c",
+    "eng": "Lucozade Energy Orange 900ML"
+  },
+  {
+    "uid": "391967720e6ffab9363511157642e8bf",
+    "eng": "Lucozade Energy Original Case 24 x 325ML"
+  },
+  {
+    "uid": "3be2f9df8e9a520eea51e03e1a24131a",
+    "eng": "Pocari Sweat Ion Supply Drink 500ML"
+  },
+  {
+    "uid": "0f284773fb4df2f97555b822d4c472bd",
+    "eng": "Pocari Sweat Ion Supply Drink 1.5LT"
+  },
+  {
+    "uid": "dbcc299da7f134e251f7e8c0c675786c",
+    "eng": "SIS HYDRO TABLET LEMON 90GM"
+  },
+  {
+    "uid": "63c8e4105c1422602acef3b876d9ebc4",
+    "eng": "Libogen Tonic Drink 150ML"
+  },
+  {
+    "uid": "cd830323b6b2bf9da37a41e7bfe4d779",
+    "eng": "Oronamin C Drink 6 X 120ML"
+  },
+  {
+    "uid": "266ec1f2054364de9a69f33933d4cac4",
+    "eng": "Pocari Sweat Ion Supply Drink Case 24 X 340 ML"
+  },
+  {
+    "uid": "594ebf7dedfc1b8120a6761323b2e4ac",
+    "eng": "Monster Ultra Peachy Keen Energy Drink 355ML"
+  },
+  {
+    "uid": "38affff68fe99d4dcc6c6186deed32c3",
+    "eng": "Red Bull (Purple Ed Kyoho Grape) 4 Pack 250ML"
+  },
+  {
+    "uid": "577ac0531eccc67dc6824dad62d24ff7",
+    "eng": "Prime Hydration Orange Mango Energy Drink 330ML"
+  },
+  {
+    "uid": "60a0cc927a3d19db2c947a4a10a1b992",
+    "eng": "Barebells Milk Shake Vanilla Case 8 X 330 ML"
+  },
+  {
+    "uid": "612a72ae9f7ff3688985fdf9b3afb49c",
+    "eng": "Monster Energy Ultra Paradise 4 x 355ML"
+  },
+  {
+    "uid": "2ad660dcddc95a42c4ad2a9e4b5e5202",
+    "eng": "Pocari Sweat Ion Supply Drink 6 X 340ML"
+  },
+  {
+    "uid": "43c56a7a931a6efd9b4a8dc00850bd33",
+    "eng": "Prime Hydration Lemonade Hydration Drink 500ML"
+  },
+  {
+    "uid": "2f64a386b8f5d55f86aac1d4227b5cf6",
+    "eng": "Lucozade Energy Drink – Original Flavour 325ML"
+  }
+]
