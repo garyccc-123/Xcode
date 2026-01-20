@@ -1,0 +1,817 @@
+[
+  {
+    "uid": "549b874419516758f0c12382f2996239",
+    "eng": "SUNKIST Large Orange",
+    "norm": "sunkist large orange"
+  },
+  {
+    "uid": "c1fcb8a3fc959a47143a8c4af335d524",
+    "eng": "Blueberry Family Pack",
+    "norm": "blueberry family"
+  },
+  {
+    "uid": "5f676ac0a138cd4cdce1a3237f346445",
+    "eng": "Lime (thai) 4's Pack",
+    "norm": "lime s"
+  },
+  {
+    "uid": "d1705534e08e6b076e9d4f656b97ef8e",
+    "eng": "FARMFRESH Oranges 5's (egypt)",
+    "norm": "farmfresh oranges s"
+  },
+  {
+    "uid": "19987d454bc79369bfa0cd701227428d",
+    "eng": "FARMFRESH Oranges 8's (pack)",
+    "norm": "farmfresh oranges s"
+  },
+  {
+    "uid": "22220965296d905450d2ec2bc910cb0a",
+    "eng": "Large Blueberries",
+    "norm": "large blueberries"
+  },
+  {
+    "uid": "ad1f79b7bf2e31fba6ca59c89e3071a3",
+    "eng": "Prepacked Avocado",
+    "norm": "prepacked avocado"
+  },
+  {
+    "uid": "55da3e62b240c9cb749d11d49af78de2",
+    "eng": "Taiwan Pineapple",
+    "norm": "taiwan pineapple"
+  },
+  {
+    "uid": "c2349e6b48618e5f0620136d997973c0",
+    "eng": "White Strawberry (china)",
+    "norm": "white strawberry"
+  },
+  {
+    "uid": "6531db993900b4a1e7a971868e2d9e98",
+    "eng": "Large Golden Mango",
+    "norm": "large golden mango"
+  },
+  {
+    "uid": "ad7fe5d48efbf25db8704b72ea2f6ad6",
+    "eng": "BEE SWEET Prepacked Mandarin",
+    "norm": "bee sweet prepacked mandarin"
+  },
+  {
+    "uid": "214b109a5e3f285864913e1732d69611",
+    "eng": "SUNKIST Prepack Mandarin.",
+    "norm": "sunkist prepack mandarin"
+  },
+  {
+    "uid": "a9835d6f585c21eb769a215715d0b851",
+    "eng": "Strawberry 250g",
+    "norm": "strawberry"
+  },
+  {
+    "uid": "7a015c41e5173de901d2110d2e493abc",
+    "eng": "Blackberries 125g",
+    "norm": "blackberries"
+  },
+  {
+    "uid": "cec3c6db1378024a3d8c77db48ba32a9",
+    "eng": "Strawberry 250g (korea)",
+    "norm": "strawberry"
+  },
+  {
+    "uid": "993f8458026724855d6d75b020c8633e",
+    "eng": "Hamimelon",
+    "norm": "hamimelon"
+  },
+  {
+    "uid": "02ef821423f8cb06544583cf6479c166",
+    "eng": "Orange - China 8's Pack",
+    "norm": "orange china s"
+  },
+  {
+    "uid": "e452edcfac070a8fe1a85bdbaee6de85",
+    "eng": "Blueberries",
+    "norm": "blueberries"
+  },
+  {
+    "uid": "eab83b23227f1e527a3a677f6fdc57d1",
+    "eng": "FARMFRESH 8424 Watermelon",
+    "norm": "farmfresh watermelon"
+  },
+  {
+    "uid": "ee5e85005a0c6a7f66e0ed39f6cacec0",
+    "eng": "Blueberry Tube (150g)",
+    "norm": "blueberry tube"
+  },
+  {
+    "uid": "5cb75cf6210955ab79c626b38a8592ac",
+    "eng": "ZESPRI Ruby Red Kiwi",
+    "norm": "zespri ruby red kiwi"
+  },
+  {
+    "uid": "5d1ba2fe01a290311d65c64987985cc8",
+    "eng": "Purespect Usa Orange",
+    "norm": "purespect usa orange"
+  },
+  {
+    "uid": "5ea739cfd9c31d86f158b3fd3d85939f",
+    "eng": "Little Sweet Heart Watermelon",
+    "norm": "little sweet heart watermelon"
+  },
+  {
+    "uid": "19dedf10f2658f226b3301719e3e19ba",
+    "eng": "Raspberries.",
+    "norm": "raspberries"
+  },
+  {
+    "uid": "0a82614f45c8bd2ad09537ea941f91d5",
+    "eng": "Grapefruit",
+    "norm": "grapefruit"
+  },
+  {
+    "uid": "edb3277a3fdbe35d2f05cbf112b31538",
+    "eng": "Envy Apple",
+    "norm": "envy apple"
+  },
+  {
+    "uid": "08b615e0f7c3c548fe82c949738c9d46",
+    "eng": "Kyoho Grape (taiwan)",
+    "norm": "kyoho grape"
+  },
+  {
+    "uid": "d57c9427c311e7460760797736e63a87",
+    "eng": "Golden Pineapple (each)",
+    "norm": "golden pineapple"
+  },
+  {
+    "uid": "b66ba1e4ab447d67e2932d3df84cfff2",
+    "eng": "Korean Pear 2s",
+    "norm": "korean pear s"
+  },
+  {
+    "uid": "ec89a15653819f993bfb89005bbce715",
+    "eng": "Mandarin",
+    "norm": "mandarin"
+  },
+  {
+    "uid": "06207b18849e02bf4ed809e08d6c866d",
+    "eng": "DRISCOLL'S Large Blueberries",
+    "norm": "driscoll s large blueberries"
+  },
+  {
+    "uid": "5b21f0489b584d037e3944fa3231b182",
+    "eng": "Rockit Apple",
+    "norm": "rockit apple"
+  },
+  {
+    "uid": "2382cffd0bd492c7a2dec74b44513016",
+    "eng": "Lemon (each)",
+    "norm": "lemon"
+  },
+  {
+    "uid": "c0939e2d773f4c8c0b6f4a6938ed1651",
+    "eng": "NG FUNG Black Beauty Melon",
+    "norm": "ng fung black beauty melon"
+  },
+  {
+    "uid": "df435b1757d66d71db126b78f0a6e94b",
+    "eng": "Xi Zhou Mi Melon (china) (Random Packing)",
+    "norm": "xi zhou mi melon"
+  },
+  {
+    "uid": "df4090ca34df770655848114a3b24dd8",
+    "eng": "DRISCOLL'S Blueberries",
+    "norm": "driscoll s blueberries"
+  },
+  {
+    "uid": "dfb75e2e4b0c0a823ace8be4ec1170b9",
+    "eng": "FRESH ITEM Rockit Apple Family Pack",
+    "norm": "fresh item rockit apple family"
+  },
+  {
+    "uid": "3f86b59382903cc6605a59141af1aec4",
+    "eng": "YUAN XIANG China Shandong Apple (each)",
+    "norm": "yuan xiang china shandong apple"
+  },
+  {
+    "uid": "c8197d3f9ee1832ae0a5cbbc4b4a041d",
+    "eng": "Xl Orange",
+    "norm": "xl orange"
+  },
+  {
+    "uid": "d2782eb86ea1e2a86db8798e59dd5bb8",
+    "eng": "Pluto Pomelo",
+    "norm": "pluto pomelo"
+  },
+  {
+    "uid": "5917a9cc86cb0e709cab660c38cd69b9",
+    "eng": "FARMFRESH Egypt Oranges 4's",
+    "norm": "farmfresh egypt oranges s"
+  },
+  {
+    "uid": "99cbfda3e0a06e10466c82196bed45a8",
+    "eng": "Avocado (each)",
+    "norm": "avocado"
+  },
+  {
+    "uid": "3db9ea79d9e0036b0cbcec2f8575d231",
+    "eng": "Ohrin Apples (japan)",
+    "norm": "ohrin apples"
+  },
+  {
+    "uid": "9c22cd4840238c96a5bbd5600fe8dbbc",
+    "eng": "Bollo Navel Orange",
+    "norm": "bollo navel orange"
+  },
+  {
+    "uid": "f6b12be6d3a7ccd5fb2b773e92668b94",
+    "eng": "DEL MONTE Banana (6 Pcs)",
+    "norm": "del monte banana"
+  },
+  {
+    "uid": "9b1e4be2685d539a313c616e6b64fbf2",
+    "eng": "BEE SWEET CITRUS Bee Sweet Orange (usa)",
+    "norm": "bee sweet citrus bee sweet orange"
+  },
+  {
+    "uid": "c878f994a2705640867fe0f22ffb8157",
+    "eng": "Red Delicious Apple (each)",
+    "norm": "red delicious apple"
+  },
+  {
+    "uid": "84d3d6b1a1333276989773bf7c2ff98d",
+    "eng": "FARMFRESH Gala Apple 8pcs",
+    "norm": "farmfresh gala apple"
+  },
+  {
+    "uid": "5c785dfd3d763678529f5d70edb97bec",
+    "eng": "SUNKIST Premium Sweet Oranges",
+    "norm": "sunkist premium sweet oranges"
+  },
+  {
+    "uid": "a27b6b5f20383babd897b8fdbb469d31",
+    "eng": "Pomelo (thailand)",
+    "norm": "pomelo"
+  },
+  {
+    "uid": "44546247e3d1602a5de9660a3c2de88d",
+    "eng": "PURESPECT Purespect Xl Orange (usa)",
+    "norm": "purespect purespect xl orange"
+  },
+  {
+    "uid": "b71fb92e0dfd18139533d58cfcc3047e",
+    "eng": "VIVA Instant Thai Coconut Water",
+    "norm": "viva instant thai coconut water"
+  },
+  {
+    "uid": "65c7f078dfcb384ffd5a052113be5f6b",
+    "eng": "ZESPRI Giant Gold Kiwi (gift Box)",
+    "norm": "zespri giant gold kiwi"
+  },
+  {
+    "uid": "be5611a9614130d99876e35a019ed38d",
+    "eng": "Jade Mango",
+    "norm": "jade mango"
+  },
+  {
+    "uid": "e69841d8b8a4fec336e305df500b26c0",
+    "eng": "Mango (philippine)",
+    "norm": "mango"
+  },
+  {
+    "uid": "62f13638914b66d2a0682f736def03da",
+    "eng": "Australia Jumbo Avocado",
+    "norm": "australia jumbo avocado"
+  },
+  {
+    "uid": "864986ab51c26720e6f3aff32a497c64",
+    "eng": "Strawberry 330g (korea)",
+    "norm": "strawberry"
+  },
+  {
+    "uid": "f148412565b8a91369b958023f224aa8",
+    "eng": "Dragon Fruit (vietnam)",
+    "norm": "dragon fruit"
+  },
+  {
+    "uid": "8e2b822f5a4739bb8c82fb7bb58ea5cc",
+    "eng": "DRISCOLL'S Blueberry Oval Punnet (china)",
+    "norm": "driscoll s blueberry oval punnet"
+  },
+  {
+    "uid": "e40d69c0337b49d4ef1dabe8b5ed7b19",
+    "eng": "Gong Pear",
+    "norm": "gong pear"
+  },
+  {
+    "uid": "b4339904763fa33181dd94996a77341b",
+    "eng": "Thailand Namdokmai Mango",
+    "norm": "thailand namdokmai mango"
+  },
+  {
+    "uid": "0e46f44d7e6108b3eaba5c14ace047ae",
+    "eng": "Blueberry Tube",
+    "norm": "blueberry tube"
+  },
+  {
+    "uid": "d9b75f9541621ef9a40cd9b856986fdd",
+    "eng": "AFRICAN BLUE Blueberry Jumbo Tube",
+    "norm": "african blue blueberry jumbo tube"
+  },
+  {
+    "uid": "fff0189afce596fd4ffc755f145c4232",
+    "eng": "Ya Pears (each)",
+    "norm": "ya pears"
+  },
+  {
+    "uid": "6a75bc85561a253dd5fde1b3141fc216",
+    "eng": "Qiu Yue Pear 2's (pack)",
+    "norm": "qiu yue pear s"
+  },
+  {
+    "uid": "41e643b2e330e0ce5659228d145dfcda",
+    "eng": "Jazz Apple 6pc",
+    "norm": "jazz apple"
+  },
+  {
+    "uid": "283a9beba375e0201f8371b683f01b21",
+    "eng": "Xl Gold Kiwi",
+    "norm": "xl gold kiwi"
+  },
+  {
+    "uid": "99db7cc7829c840b77a8561e091a4c93",
+    "eng": "European Green Kiwi",
+    "norm": "european green kiwi"
+  },
+  {
+    "uid": "7e1d75c35b34bbd7cc4c6344a7b95eff",
+    "eng": "Small Gala Apple",
+    "norm": "small gala apple"
+  },
+  {
+    "uid": "b43ba91cf53ad5376b6cd8c0ce74c2f7",
+    "eng": "DOLE Extra Sweet Banana (philippine)",
+    "norm": "dole extra sweet banana"
+  },
+  {
+    "uid": "4136e8a2151757e02a37ab0f9f95b42d",
+    "eng": "ZESPRI Zespri Gold Kiwi Fruit (each)",
+    "norm": "zespri zespri gold kiwi fruit"
+  },
+  {
+    "uid": "02a744d59314690974dbc285dfd4464d",
+    "eng": "Korea Air Flown Strawberry 250GM",
+    "norm": "korea air flown strawberry"
+  },
+  {
+    "uid": "a19567045dae2d3765f7431af84bc0f3",
+    "eng": "USA Red Apple Whole Carton, 88- 100pcs (Gross Weight: 20KG) 1CS",
+    "norm": "usa red apple whole carton"
+  },
+  {
+    "uid": "bb84736178e126f24bcdf5a9f17cbc32",
+    "eng": "Craftsman Red Strawberry Box 1BX",
+    "norm": "craftsman red strawberry"
+  },
+  {
+    "uid": "b2d783a7b36458583f208adfd864e4b9",
+    "eng": "Meadows Philippines Pineapple Whole Carton Approximately 7PCS (Gross Weight: 12KG) 1CS",
+    "norm": "meadows philippines pineapple whole carton approximately"
+  },
+  {
+    "uid": "5ac00e356dbc58837d3afa974dd6d9ee",
+    "eng": "Jumbo Blueberry Tube 200GM",
+    "norm": "jumbo blueberry tube"
+  },
+  {
+    "uid": "22d15d72acfe0a5f5f07b29dcfb92b98",
+    "eng": "Driscoll's Jumbo Blueberry Case 200g x 12 packs, approx. 18mm+ (Gross Weight: 2.4kg) 1CS",
+    "norm": "driscoll s jumbo blueberry x packs approx mm"
+  },
+  {
+    "uid": "049456e487197ca8065b5fe002d00180",
+    "eng": "Thailand Prepacked Lime 4EA",
+    "norm": "thailand prepacked lime"
+  },
+  {
+    "uid": "61a32463f4e296b429c2e2593234dd43",
+    "eng": "China Large Top Fragrant Pear 1EA",
+    "norm": "china large top fragrant pear"
+  },
+  {
+    "uid": "69ba344c0f1e22105b07638a45df93cd",
+    "eng": "Extra Large Orange 1EA",
+    "norm": "extra large orange"
+  },
+  {
+    "uid": "19e3fc62a709aaa658ec5e1b2c74d86a",
+    "eng": "RED GRAPE 800GM",
+    "norm": "red grape"
+  },
+  {
+    "uid": "b7fdf455a2c3f953cda30f9a4b52f78a",
+    "eng": "Australia Shepard Avocado Case 28-30pcs (Gross Weight: 4.9kg) 1 CS",
+    "norm": "australia shepard avocado"
+  },
+  {
+    "uid": "99cfac100ee92d7dd45fdf897d843412",
+    "eng": "Cherry Tomato On Vine Whole Carton, 10 Packs (Gross Weight: 2.5kg) 1CS",
+    "norm": "cherry tomato on vine whole carton packs"
+  },
+  {
+    "uid": "cc768f81126272c8f7fe341d443cc5dc",
+    "eng": "Large Top Fragrant Pear Whole Carton Approximately 36PC (Gross Weight: 11KG) 1CS",
+    "norm": "large top fragrant pear whole carton approximately"
+  },
+  {
+    "uid": "73ef9a29e942677a37d3e351951093d2",
+    "eng": "Vietnam Azalea Durian 1EA (Approx. 2KG)",
+    "norm": "vietnam azalea durian"
+  },
+  {
+    "uid": "625f507c943b738f71ca4878968739f6",
+    "eng": "Banana 6EA",
+    "norm": "banana"
+  },
+  {
+    "uid": "cb9df2bc79e38606c6961cec1bbe5138",
+    "eng": "H.K. White Mushroom Whole Carton 12 Packs (Gross Weight: 2.4KG) 1CS",
+    "norm": "h k white mushroom whole carton packs"
+  },
+  {
+    "uid": "02be050485f0aa7a1a38ad199f3cd464",
+    "eng": "DRISCOLL'S BLACKBERRY 125 GM",
+    "norm": "driscoll s blackberry"
+  },
+  {
+    "uid": "cc4f05e44ca79bd36124b3c3f15531f1",
+    "eng": "JAPAN OHRIN APPLE 1PC",
+    "norm": "japan ohrin apple"
+  },
+  {
+    "uid": "b32e5022fe278aaf77e92d5b66ee3494",
+    "eng": "Mini Avocado 4EA",
+    "norm": "mini avocado"
+  },
+  {
+    "uid": "b95c112c63c35d3744fcbc56d3d68d83",
+    "eng": "Ya Pear Case Approximately 72-80PC (Gross Weight: 18kg) 1CS",
+    "norm": "ya pear approximately"
+  },
+  {
+    "uid": "9ce49f89e5d0c00a07787797f53decef",
+    "eng": "CHINA WO ORANGE 1 EA",
+    "norm": "china wo orange"
+  },
+  {
+    "uid": "1ea581cdbb29f5bcf4d3eee9543e4c9f",
+    "eng": "Jumbo Jade Gold Pear 1PC",
+    "norm": "jumbo jade gold pear"
+  },
+  {
+    "uid": "88223b22777cf045459cbe96a9453a4a",
+    "eng": "Chongqing Sweet Navel Orange 1PK",
+    "norm": "chongqing sweet navel orange"
+  },
+  {
+    "uid": "8329aed344cede102c5edd60eba79243",
+    "eng": "Blueberry 125GM",
+    "norm": "blueberry"
+  },
+  {
+    "uid": "2076c067804260a8896cc832e63050bc",
+    "eng": "AUSTRALIA OCTOBER SUN PLUM 500 GM",
+    "norm": "australia october sun plum"
+  },
+  {
+    "uid": "8675f78a09165f5cb73cb7fbb4efb5a4",
+    "eng": "Autumn Crisp Grape 800GM",
+    "norm": "autumn crisp grape"
+  },
+  {
+    "uid": "224bd89ac1c1fed58ae3578b3ad5de0d",
+    "eng": "Driscoll'S Jumbo Blueberry 200GM",
+    "norm": "driscoll s jumbo blueberry"
+  },
+  {
+    "uid": "a7338a90f44c4d611f0b6eb32375e24a",
+    "eng": "Wo Orange Case, Approximately 36-40pcs (Gross Weight: 9kg) 1CS",
+    "norm": "wo orange approximately"
+  },
+  {
+    "uid": "f43fb6f43f8fab79c5b10fb056531bf0",
+    "eng": "Lemon 1EA",
+    "norm": "lemon"
+  },
+  {
+    "uid": "0025eb974efa125462b559903f76f67f",
+    "eng": "China Fuji Apple 1EA",
+    "norm": "china fuji apple"
+  },
+  {
+    "uid": "7236ca40fe6a3537ac69ffc169b60ee4",
+    "eng": "Thailand Coconut",
+    "norm": "thailand coconut"
+  },
+  {
+    "uid": "e7931d752bcee2d79a71e86a01b84c1e",
+    "eng": "Thailand Longan 550GM",
+    "norm": "thailand longan"
+  },
+  {
+    "uid": "fe1b067a4d21d818f85b39bb30eaad5a",
+    "eng": "Mandarin 1EA",
+    "norm": "mandarin"
+  },
+  {
+    "uid": "ace01f5730d296adb62ba754c10b2bfb",
+    "eng": "Zespri Jumble Gold Kiwifruit 1PC",
+    "norm": "zespri jumble gold kiwifruit"
+  },
+  {
+    "uid": "e35330ce1f39cf61d4d0209ba08faa12",
+    "eng": "H.K. Organic Portobello Mushroom Whole Carton 8 Packs (Gross Weight: 1.6KG) 1CS",
+    "norm": "h k organic portobello mushroom whole carton packs"
+  },
+  {
+    "uid": "c499299946249181d25efeed5ba48774",
+    "eng": "Australia Jumbo Shepard Avocado 1EA",
+    "norm": "australia jumbo shepard avocado"
+  },
+  {
+    "uid": "ff954d641660d5479cd8421137116206",
+    "eng": "Grapefruit 1EA",
+    "norm": "grapefruit"
+  },
+  {
+    "uid": "e80d13f249600a14a2711cbfa47a734c",
+    "eng": "Grapefruit Whole Carton Approximately 45-55PCS (Gross Weight: 14KG) 1CS",
+    "norm": "grapefruit whole carton approximately"
+  },
+  {
+    "uid": "e274e3d26ac53c66df98d7279952a90d",
+    "eng": "Philippines Jumbo Solo Papaya 1EA",
+    "norm": "philippines jumbo solo papaya"
+  },
+  {
+    "uid": "671e64e3d8ea3b3c21b312da82fcb13a",
+    "eng": "Ya Pear 1EA",
+    "norm": "ya pear"
+  },
+  {
+    "uid": "f3ceefa453364bba604f803e16e7fd4c",
+    "eng": "Lemon Case Approximately 100-140PCS (Gross Weight: 15KG) 1CS",
+    "norm": "lemon approximately"
+  },
+  {
+    "uid": "349f6dbffd4e9b136d8ffb237ef4dacb",
+    "eng": "The Netherlands No Wax Added Tessa Apple 1EA",
+    "norm": "the netherlands no wax added tessa apple"
+  },
+  {
+    "uid": "0619a2fb36590cd52281a975dcfc04df",
+    "eng": "Chongqing Sweet Mandarin 1PK",
+    "norm": "chongqing sweet mandarin"
+  },
+  {
+    "uid": "7a724368a25ddb6356d49b01324e0a4e",
+    "eng": "Giant Honey Pear Whole Carton, Approximately 12pcs (Gross Weight: 8.5KG) 1CS",
+    "norm": "giant honey pear whole carton approximately"
+  },
+  {
+    "uid": "d281a3fbc37a64d520ef8af686f59de8",
+    "eng": "OLD TREE POMELO 1PC",
+    "norm": "old tree pomelo"
+  },
+  {
+    "uid": "80f2b3d1b1d9b3da616ac7d629ded54d",
+    "eng": "Large Envy Apple 1EA",
+    "norm": "large envy apple"
+  },
+  {
+    "uid": "13bc1d36f878e8797942dded48883e7f",
+    "eng": "Peru Autumn Crisp Grape Case (Gross Weight: 4kg) (Package & Brand may vary)",
+    "norm": "peru autumn crisp grape"
+  },
+  {
+    "uid": "07917adc071a9851777bd7c4e142e782",
+    "eng": "Vietnam Dragon Fruit 1EA",
+    "norm": "vietnam dragon fruit"
+  },
+  {
+    "uid": "880693bf429e8b13d34d2111d476e434",
+    "eng": "Jumbo Fuji Apple 1EA",
+    "norm": "jumbo fuji apple"
+  },
+  {
+    "uid": "8d3cf4fab874ddca2952c2215934240e",
+    "eng": "Australia Shepard Avocado 1EA",
+    "norm": "australia shepard avocado"
+  },
+  {
+    "uid": "144cc65e159268c968e3735d84bbb3b6",
+    "eng": "Holland Conference Pear 1PC",
+    "norm": "holland conference pear"
+  },
+  {
+    "uid": "19ce4a5bde710285a7be8f2e78f6a994",
+    "eng": "India Sonaka Grape 500GM",
+    "norm": "india sonaka grape"
+  },
+  {
+    "uid": "5b92cab66087d9206802262e8380635c",
+    "eng": "New Zealand Posy Apple 1PK",
+    "norm": "new zealand posy apple"
+  },
+  {
+    "uid": "265a8c3033a51dad11d610aaff20d5a5",
+    "eng": "Jumbo Blueberry Tube Case 18mm+ 10 tubes x 200g (Gross weight: 2kg) (Package & Brand may vary)",
+    "norm": "jumbo blueberry tube mm tubes x"
+  },
+  {
+    "uid": "27f4e34948181296e1d1db4719f929f9",
+    "eng": "New Zealand Rockit Apple 1PK",
+    "norm": "new zealand rockit apple"
+  },
+  {
+    "uid": "feaf29523970b3babd0a13cb35a2c006",
+    "eng": "Netherlands No Wax Added Tessa Apple Carton Approximately 80-90pcs (Gross Weight: 14KG) 1CS",
+    "norm": "netherlands no wax added tessa apple carton approximately"
+  },
+  {
+    "uid": "1791854c84e904cc14df180fc636c9a3",
+    "eng": "Mini Watermelon 1EA",
+    "norm": "mini watermelon"
+  },
+  {
+    "uid": "a151353e001b06e7f4e0e0a0c6c55e4a",
+    "eng": "Tomato Whole Carton 12 Packs (Gross Weight: 5.4KG) 1CS",
+    "norm": "tomato whole carton packs"
+  },
+  {
+    "uid": "6d383ffc8500ad6aedf3cc323375a84d",
+    "eng": "Calamansi 1PK",
+    "norm": "calamansi"
+  },
+  {
+    "uid": "4fdc9b4030dafc25c51d145834887401",
+    "eng": "Extra Large Orange Whole Carton Approximately 56 PC (Gross Weight: 18kg) (Package & Brand may vary)",
+    "norm": "extra large orange whole carton approximately"
+  },
+  {
+    "uid": "aa1eed13a6182967934ea073c9c2bed1",
+    "eng": "Blueberry Case 12pk x 125g (Gross Weight: 1.5kg) (Package & Brand may vary)",
+    "norm": "blueberry x"
+  },
+  {
+    "uid": "d93a4621f984814e3be56f34372e9424",
+    "eng": "USA Sunkist High Brix Orange 1PK",
+    "norm": "usa sunkist high brix orange"
+  },
+  {
+    "uid": "416dc145990800f2ba7daf239502cc09",
+    "eng": "Dole Sweetio Banana 1 Pack",
+    "norm": "dole sweetio banana"
+  },
+  {
+    "uid": "8f0eea57c30f36f37300517f23d3e00b",
+    "eng": "SHATIN POMELO 1PC",
+    "norm": "shatin pomelo"
+  },
+  {
+    "uid": "d2cfe7130a5a7274353dadd6280ecaa1",
+    "eng": "USA Purespect Orange 2.8Lb 1PK",
+    "norm": "usa purespect orange"
+  },
+  {
+    "uid": "bb634ec0b50e3c2ed41aade3ac44bcd7",
+    "eng": "Hamimelon 1EA",
+    "norm": "hamimelon"
+  },
+  {
+    "uid": "449c16c525cc2f1e3cd064a25a329321",
+    "eng": "USA Purespect Orange Whole Carton, 2.8Lb X 8PK (Gross Weight: 10Kg)",
+    "norm": "usa purespect orange whole carton x"
+  },
+  {
+    "uid": "21d3f59f3d6f26984c4eb7be2ce903bc",
+    "eng": "H.K. Brown Mushroom Whole Carton 12 Packs (Gross Weight: 2.4KG) 1CS",
+    "norm": "h k brown mushroom whole carton packs"
+  },
+  {
+    "uid": "ff39e002d036a541aef35f2d6821bc0d",
+    "eng": "Granny Apple 1EA",
+    "norm": "granny apple"
+  },
+  {
+    "uid": "94f61cc3b9cc526e7179f619c0ad5f9b",
+    "eng": "Zespri Rubyred Kiwifruit 1PK",
+    "norm": "zespri rubyred kiwifruit"
+  },
+  {
+    "uid": "37f808e3a4cf16027ff34b2a1984756c",
+    "eng": "USA Bee Sweet Orange 2.8lb 1PK",
+    "norm": "usa bee sweet orange"
+  },
+  {
+    "uid": "23c0cf3268bbad4a492b29c498f13436",
+    "eng": "Australia Jumbo Shepard Avocado Whole Carton, Approximately 16-20PCS (Gross Weight: 5.25KG) 1CS",
+    "norm": "australia jumbo shepard avocado whole carton approximately"
+  },
+  {
+    "uid": "7253208a0f1cfb0f25b07d1667a382ac",
+    "eng": "France Organic Gala Apple 8PC",
+    "norm": "france organic gala apple"
+  },
+  {
+    "uid": "9524368c2ef9eadb33db98d73202c640",
+    "eng": "Italy Samboa Apple 600GM",
+    "norm": "italy samboa apple"
+  },
+  {
+    "uid": "9db80ba35642fa285521c4bf6d17ab46",
+    "eng": "Fresh Orange 4EA",
+    "norm": "fresh orange"
+  },
+  {
+    "uid": "abbbf250612913548c6b4c4535befb08",
+    "eng": "BANANA 1EA",
+    "norm": "banana"
+  },
+  {
+    "uid": "cd2c5f73aa4751c84988c8567d64208f",
+    "eng": "Sunkist Mandarin 700Gm 1PK",
+    "norm": "sunkist mandarin"
+  },
+  {
+    "uid": "3b94d4744e87286497bb22abd1ea342d",
+    "eng": "Gala Apple 1.8LB",
+    "norm": "gala apple"
+  },
+  {
+    "uid": "1f83a1d7901a3983447763d94c226b75",
+    "eng": "Jazz Apple 6PC",
+    "norm": "jazz apple"
+  },
+  {
+    "uid": "ff624390f1e57670cd13f243f0941b74",
+    "eng": "Meadows Philippines Honey Pineapple 1EA",
+    "norm": "meadows philippines honey pineapple"
+  },
+  {
+    "uid": "601b55f996a9b008d508095b65d8ef02",
+    "eng": "Driscoll's Raspberries 125GM",
+    "norm": "driscoll s raspberries"
+  },
+  {
+    "uid": "ce7abf1a07598b4baabc351fc572e667",
+    "eng": "Philippines Petite Kids Banana 1 Pack",
+    "norm": "philippines petite kids banana"
+  },
+  {
+    "uid": "5b00241f94396173683d2bab56ff1ffc",
+    "eng": "Fuji Apple Whole Carton Approximately 88-100PC (Gross Weight: 18kg)",
+    "norm": "fuji apple whole carton approximately"
+  },
+  {
+    "uid": "d1f81411cd55bb405777bda6ef18a27d",
+    "eng": "Vietnam Jumbo Red Dragon Fruit 1EA",
+    "norm": "vietnam jumbo red dragon fruit"
+  },
+  {
+    "uid": "3b0b61b81e1be66b2eda3a31e6077050",
+    "eng": "The Craftsman Orah Mandarin 1PK",
+    "norm": "the craftsman orah mandarin"
+  },
+  {
+    "uid": "f4793ace33996db6cb6a357ae0da66aa",
+    "eng": "8424 Watermelon 1EA",
+    "norm": "watermelon"
+  },
+  {
+    "uid": "d6ff0d2628691950ac0d42bd1ade5e56",
+    "eng": "Black Beauty Melon 1EA",
+    "norm": "black beauty melon"
+  },
+  {
+    "uid": "802f332eddf6c12a3e038ba13395647c",
+    "eng": "Orange 8EA",
+    "norm": "orange"
+  },
+  {
+    "uid": "8e7256c28ca8194e5fa4d68f7d27d232",
+    "eng": "Thailand Coconut Whole Case 9PC (Gross Weight: 9KG)",
+    "norm": "thailand coconut whole"
+  },
+  {
+    "uid": "7c15088105ae9dc6aedef67b13d8cef2",
+    "eng": "Giant Honey Pear 1EA",
+    "norm": "giant honey pear"
+  },
+  {
+    "uid": "5d81282a1602b2c34fd1935e90763089",
+    "eng": "USA Red Apple 1EA",
+    "norm": "usa red apple"
+  },
+  {
+    "uid": "9ea05a6e1f9d3e3c3e29219621262af4",
+    "eng": "Musk Melon 1EA",
+    "norm": "musk melon"
+  }
+]

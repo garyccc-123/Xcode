@@ -1,0 +1,1820 @@
+[
+  {
+    "uid": "549b874419516758f0c12382f2996239",
+    "name": "新奇士 大裝鮮橙 EACH",
+    "eng": "SUNKIST Large Orange",
+    "normalized_eng": "sunkist large orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c1fcb8a3fc959a47143a8c4af335d524",
+    "name": "家庭庄藍莓 PACK",
+    "eng": "Blueberry Family Pack",
+    "normalized_eng": "blueberry family",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5f676ac0a138cd4cdce1a3237f346445",
+    "name": "泰國青檸4個庄 PACK",
+    "eng": "Lime (thai) 4's Pack",
+    "normalized_eng": "lime s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d1705534e08e6b076e9d4f656b97ef8e",
+    "name": "FARMFRESH 鮮橙 5個裝（埃及） PACK",
+    "eng": "FARMFRESH Oranges 5's (egypt)",
+    "normalized_eng": "farmfresh oranges s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "22220965296d905450d2ec2bc910cb0a",
+    "name": "大裝藍莓 PKT",
+    "eng": "Large Blueberries",
+    "normalized_eng": "large blueberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ad1f79b7bf2e31fba6ca59c89e3071a3",
+    "name": "袋裝牛油果 PACK",
+    "eng": "Prepacked Avocado",
+    "normalized_eng": "prepacked avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "55da3e62b240c9cb749d11d49af78de2",
+    "name": "台灣金鑽鳳梨 PC",
+    "eng": "Taiwan Pineapple",
+    "normalized_eng": "taiwan pineapple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c2349e6b48618e5f0620136d997973c0",
+    "name": "淡雪士多啤梨（中國） PACK",
+    "eng": "White Strawberry (china)",
+    "normalized_eng": "white strawberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "6531db993900b4a1e7a971868e2d9e98",
+    "name": "黃皮金煌芒 PC",
+    "eng": "Large Golden Mango",
+    "normalized_eng": "large golden mango",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ad7fe5d48efbf25db8704b72ea2f6ad6",
+    "name": "BEE SWEET 袋裝柑 PACK",
+    "eng": "BEE SWEET Prepacked Mandarin",
+    "normalized_eng": "bee sweet prepacked mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "214b109a5e3f285864913e1732d69611",
+    "name": "新奇士 袋裝蜜柑 PACK",
+    "eng": "SUNKIST Prepack Mandarin.",
+    "normalized_eng": "sunkist prepack mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "a9835d6f585c21eb769a215715d0b851",
+    "name": "士多啤梨２５０克 (包裝隨機) 250G",
+    "eng": "Strawberry 250g",
+    "normalized_eng": "strawberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7a015c41e5173de901d2110d2e493abc",
+    "name": "黑桑子１２５克 PKT",
+    "eng": "Blackberries 125g",
+    "normalized_eng": "blackberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "993f8458026724855d6d75b020c8633e",
+    "name": "八六王哈密瓜 EACH",
+    "eng": "Hamimelon",
+    "normalized_eng": "hamimelon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "02ef821423f8cb06544583cf6479c166",
+    "name": "中國臍橙8個裝 PKT",
+    "eng": "Orange - China 8's Pack",
+    "normalized_eng": "orange china s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e452edcfac070a8fe1a85bdbaee6de85",
+    "name": "藍莓 (包裝隨機) 125G",
+    "eng": "Blueberries",
+    "normalized_eng": "blueberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "eab83b23227f1e527a3a677f6fdc57d1",
+    "name": "FARMFRESH ８４２４西瓜 EACH",
+    "eng": "FARMFRESH 8424 Watermelon",
+    "normalized_eng": "farmfresh watermelon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ee5e85005a0c6a7f66e0ed39f6cacec0",
+    "name": "筒裝藍莓１５０克 PACK",
+    "eng": "Blueberry Tube (150g)",
+    "normalized_eng": "blueberry tube",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5cb75cf6210955ab79c626b38a8592ac",
+    "name": "ZESPRI 寶石紅奇異果 EACH",
+    "eng": "ZESPRI Ruby Red Kiwi",
+    "normalized_eng": "zespri ruby red kiwi",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5d1ba2fe01a290311d65c64987985cc8",
+    "name": "美國黑牌橙 PACK",
+    "eng": "Purespect Usa Orange",
+    "normalized_eng": "purespect usa orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5ea739cfd9c31d86f158b3fd3d85939f",
+    "name": "小糖心西瓜 PC",
+    "eng": "Little Sweet Heart Watermelon",
+    "normalized_eng": "little sweet heart watermelon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "19dedf10f2658f226b3301719e3e19ba",
+    "name": "紅桑子 (包裝隨機) PACK",
+    "eng": "Raspberries.",
+    "normalized_eng": "raspberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "0a82614f45c8bd2ad09537ea941f91d5",
+    "name": "西柚 EACH",
+    "eng": "Grapefruit",
+    "normalized_eng": "grapefruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "edb3277a3fdbe35d2f05cbf112b31538",
+    "name": "艾菲蘋果 EACH",
+    "eng": "Envy Apple",
+    "normalized_eng": "envy apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "08b615e0f7c3c548fe82c949738c9d46",
+    "name": "巨峰提子（台灣） PACK",
+    "eng": "Kyoho Grape (taiwan)",
+    "normalized_eng": "kyoho grape",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d57c9427c311e7460760797736e63a87",
+    "name": "金菠蘿(每個) EACH",
+    "eng": "Golden Pineapple (each)",
+    "normalized_eng": "golden pineapple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b66ba1e4ab447d67e2932d3df84cfff2",
+    "name": "韓國梨兩個裝 PKT",
+    "eng": "Korean Pear 2s",
+    "normalized_eng": "korean pear s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ec89a15653819f993bfb89005bbce715",
+    "name": "柑 EACH",
+    "eng": "Mandarin",
+    "normalized_eng": "mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "06207b18849e02bf4ed809e08d6c866d",
+    "name": "DRISCOLL'S 大裝藍莓 PACK",
+    "eng": "DRISCOLL'S Large Blueberries",
+    "normalized_eng": "driscoll s large blueberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5b21f0489b584d037e3944fa3231b182",
+    "name": "樂淇蘋果 PACK",
+    "eng": "Rockit Apple",
+    "normalized_eng": "rockit apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "2382cffd0bd492c7a2dec74b44513016",
+    "name": "檸檬(每個) EACH",
+    "eng": "Lemon (each)",
+    "normalized_eng": "lemon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c0939e2d773f4c8c0b6f4a6938ed1651",
+    "name": "五豐 黑美人西瓜 EACH",
+    "eng": "NG FUNG Black Beauty Melon",
+    "normalized_eng": "ng fung black beauty melon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "df435b1757d66d71db126b78f0a6e94b",
+    "name": "西州蜜瓜 EACH",
+    "eng": "Xi Zhou Mi Melon (china) (Random Packing)",
+    "normalized_eng": "xi zhou mi melon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "df4090ca34df770655848114a3b24dd8",
+    "name": "DRISCOLL'S 藍莓 PACK",
+    "eng": "DRISCOLL'S Blueberries",
+    "normalized_eng": "driscoll s blueberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "dfb75e2e4b0c0a823ace8be4ec1170b9",
+    "name": "春日居 樂淇蘋果（家庭裝） PKT",
+    "eng": "FRESH ITEM Rockit Apple Family Pack",
+    "normalized_eng": "fresh item rockit apple family",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "3f86b59382903cc6605a59141af1aec4",
+    "name": "YUAN XIANG 中國山東蘋果(個) EACH",
+    "eng": "YUAN XIANG China Shandong Apple (each)",
+    "normalized_eng": "yuan xiang china shandong apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c8197d3f9ee1832ae0a5cbbc4b4a041d",
+    "name": "特大裝鮮橙 EACH",
+    "eng": "Xl Orange",
+    "normalized_eng": "xl orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d2782eb86ea1e2a86db8798e59dd5bb8",
+    "name": "葡萄蜜柚 PC",
+    "eng": "Pluto Pomelo",
+    "normalized_eng": "pluto pomelo",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5917a9cc86cb0e709cab660c38cd69b9",
+    "name": "FARMFRESH 埃及鮮橙4個裝 PACK",
+    "eng": "FARMFRESH Egypt Oranges 4's",
+    "normalized_eng": "farmfresh egypt oranges s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "99cbfda3e0a06e10466c82196bed45a8",
+    "name": "澳洲牛油果(每個) EACH",
+    "eng": "Avocado (each)",
+    "normalized_eng": "avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "3db9ea79d9e0036b0cbcec2f8575d231",
+    "name": "王林蘋果（日本） EACH",
+    "eng": "Ohrin Apples (japan)",
+    "normalized_eng": "ohrin apples",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9c22cd4840238c96a5bbd5600fe8dbbc",
+    "name": "寶露橙 PKT",
+    "eng": "Bollo Navel Orange",
+    "normalized_eng": "bollo navel orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "f6b12be6d3a7ccd5fb2b773e92668b94",
+    "name": "地捫 香蕉(6條) LB",
+    "eng": "DEL MONTE Banana (6 Pcs)",
+    "normalized_eng": "del monte banana",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9b1e4be2685d539a313c616e6b64fbf2",
+    "name": "BEE SWEET CITRUS 蜜蜂橙（美國） PKT",
+    "eng": "BEE SWEET CITRUS Bee Sweet Orange (usa)",
+    "normalized_eng": "bee sweet citrus bee sweet orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c878f994a2705640867fe0f22ffb8157",
+    "name": "紅蘋果(個) EACH",
+    "eng": "Red Delicious Apple (each)",
+    "normalized_eng": "red delicious apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "84d3d6b1a1333276989773bf7c2ff98d",
+    "name": "FARMFRESH 加拿蘋果８個裝 PKT",
+    "eng": "FARMFRESH Gala Apple 8pcs",
+    "normalized_eng": "farmfresh gala apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5c785dfd3d763678529f5d70edb97bec",
+    "name": "新奇士 超甜橙 PACK",
+    "eng": "SUNKIST Premium Sweet Oranges",
+    "normalized_eng": "sunkist premium sweet oranges",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "a27b6b5f20383babd897b8fdbb469d31",
+    "name": "蜜柚（泰國） EACH",
+    "eng": "Pomelo (thailand)",
+    "normalized_eng": "pomelo",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "44546247e3d1602a5de9660a3c2de88d",
+    "name": "PURESPECT 美國特大裝黑牌橙 EACH",
+    "eng": "PURESPECT Purespect Xl Orange (usa)",
+    "normalized_eng": "purespect purespect xl orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b71fb92e0dfd18139533d58cfcc3047e",
+    "name": "VIVA 泰國即飲椰青 PC",
+    "eng": "VIVA Instant Thai Coconut Water",
+    "normalized_eng": "viva instant thai coconut water",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "65c7f078dfcb384ffd5a052113be5f6b",
+    "name": "ZESPRI 巨型金奇異果（禮盒裝） BOX",
+    "eng": "ZESPRI Giant Gold Kiwi (gift Box)",
+    "normalized_eng": "zespri giant gold kiwi",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "be5611a9614130d99876e35a019ed38d",
+    "name": "玉芒 PC",
+    "eng": "Jade Mango",
+    "normalized_eng": "jade mango",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e69841d8b8a4fec336e305df500b26c0",
+    "name": "芒果（菲律賓） EACH",
+    "eng": "Mango (philippine)",
+    "normalized_eng": "mango",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "62f13638914b66d2a0682f736def03da",
+    "name": "澳洲珍寶牛油果 EACH",
+    "eng": "Australia Jumbo Avocado",
+    "normalized_eng": "australia jumbo avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "f148412565b8a91369b958023f224aa8",
+    "name": "大裝火龍果（越南） EACH",
+    "eng": "Dragon Fruit (vietnam)",
+    "normalized_eng": "dragon fruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "8e2b822f5a4739bb8c82fb7bb58ea5cc",
+    "name": "DRISCOLL'S 長盒藍莓（中國） PACK",
+    "eng": "DRISCOLL'S Blueberry Oval Punnet (china)",
+    "normalized_eng": "driscoll s blueberry oval punnet",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e40d69c0337b49d4ef1dabe8b5ed7b19",
+    "name": "貢梨 EACH",
+    "eng": "Gong Pear",
+    "normalized_eng": "gong pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b4339904763fa33181dd94996a77341b",
+    "name": "泰國水仙芒 EACH",
+    "eng": "Thailand Namdokmai Mango",
+    "normalized_eng": "thailand namdokmai mango",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d9b75f9541621ef9a40cd9b856986fdd",
+    "name": "AFRICAN BLUE 筒裝珍寶藍莓 PKT",
+    "eng": "AFRICAN BLUE Blueberry Jumbo Tube",
+    "normalized_eng": "african blue blueberry jumbo tube",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "fff0189afce596fd4ffc755f145c4232",
+    "name": "鴨梨(每個) EACH",
+    "eng": "Ya Pears (each)",
+    "normalized_eng": "ya pears",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "6a75bc85561a253dd5fde1b3141fc216",
+    "name": "秋月梨２個（盒） PKT",
+    "eng": "Qiu Yue Pear 2's (pack)",
+    "normalized_eng": "qiu yue pear s",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "41e643b2e330e0ce5659228d145dfcda",
+    "name": "爵士蘋果６個裝 PACK",
+    "eng": "Jazz Apple 6pc",
+    "normalized_eng": "jazz apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "283a9beba375e0201f8371b683f01b21",
+    "name": "珍寶金奇異果 EACH",
+    "eng": "Xl Gold Kiwi",
+    "normalized_eng": "xl gold kiwi",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "99db7cc7829c840b77a8561e091a4c93",
+    "name": "歐洲青奇異果 EACH",
+    "eng": "European Green Kiwi",
+    "normalized_eng": "european green kiwi",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7e1d75c35b34bbd7cc4c6344a7b95eff",
+    "name": "細裝加拿蘋果 EACH",
+    "eng": "Small Gala Apple",
+    "normalized_eng": "small gala apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b43ba91cf53ad5376b6cd8c0ce74c2f7",
+    "name": "都樂 超甜香蕉（菲律賓） PACK",
+    "eng": "DOLE Extra Sweet Banana (philippine)",
+    "normalized_eng": "dole extra sweet banana",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "4136e8a2151757e02a37ab0f9f95b42d",
+    "name": "ZESPRI 金奇異果(每個) EACH",
+    "eng": "ZESPRI Zespri Gold Kiwi Fruit (each)",
+    "normalized_eng": "zespri zespri gold kiwi fruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "84a6706217386aea34153f322f680852",
+    "name": "佳之選 熱帶雜果 850G",
+    "eng": "SELECT Tropical Fruit Mix",
+    "normalized_eng": "select tropical fruit mix",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "294e21e986da9db48a523984620e85da",
+    "name": "地捫 地捫南非切邊黃桃(中罐) 420G",
+    "eng": "DEL MONTE Del Monte S. Africa Peach Halves (m)",
+    "normalized_eng": "del monte del monte s africa peach halves",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "8ef4fa8ea211a29d99f49f567e443b3c",
+    "name": "NATURE'S CHARM 燒烤醬大樹菠蘿 200G",
+    "eng": "NATURE'S CHARM Bar-b-que Jackfruit",
+    "normalized_eng": "nature s charm bar b que jackfruit",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "62060850bf2f2645828479eacd031dcf",
+    "name": "地捫 地捫菠蘿片(中罐) 567G",
+    "eng": "DEL MONTE Del Monte Sliced Pineapple In Heavy Syrup (m)",
+    "normalized_eng": "del monte del monte sliced pineapple in heavy syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c53ac8e6afefbf8aa9b2d33c93c6e03f",
+    "name": "NATURE'S CHARM 清水青大樹菠蘿 565G",
+    "eng": "NATURE'S CHARM Young Green Jackfruit In Water",
+    "normalized_eng": "nature s charm young green jackfruit in water",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "237349d8f42fa2f810974cc82897f9fd",
+    "name": "佳之選 糖水菠蘿片 234G",
+    "eng": "SELECT Sliced Pineapple In Syrup",
+    "normalized_eng": "select sliced pineapple in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "4283178589301f999f994df2b9554a4a",
+    "name": "雙象地球牌 糖水荔枝 565G",
+    "eng": "TWIN ELEPHANTS Lychee In Syrup",
+    "normalized_eng": "twin elephants lychee in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "a5051cf13dbfb42757ae39046a46f5b4",
+    "name": "EPICURE 糖浸威廉梨 540G",
+    "eng": "EPICURE William Pear Halves In Syrup",
+    "normalized_eng": "epicure william pear halves in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c60aca19212113c52edfd0f0f74ab799",
+    "name": "地捫 地捫菠蘿粒(中罐) 567G",
+    "eng": "DEL MONTE Del Monte Pineapple Chunks In Heavy Syrup (m)",
+    "normalized_eng": "del monte del monte pineapple chunks in heavy syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "8963570c63aeca756b0de70007357485",
+    "name": "COMMUNITY CO. 果汁桃片 410G",
+    "eng": "COMMUNITY CO. Peach Slices In Juice",
+    "normalized_eng": "community co peach slices in juice",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "ddba2e617fc58fd0791a3deda08e8490",
+    "name": "NATURE'S CHARM 鹽水青大樹菠蘿 565G",
+    "eng": "NATURE'S CHARM Young Green Jackfruit In Brine",
+    "normalized_eng": "nature s charm young green jackfruit in brine",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "f89a787c6bf204204299562334161350",
+    "name": "NATURE'S CHARM 香蕉花蕾（已調味） 510G",
+    "eng": "NATURE'S CHARM Marinated Banana Blosssom",
+    "normalized_eng": "nature s charm marinated banana blosssom",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "be04f0872f2fbb7c20c5ad7a1b19701c",
+    "name": "COMMUNITY CO. 雜錦水果 410G",
+    "eng": "COMMUNITY CO. Fruit Salad In Juice",
+    "normalized_eng": "community co fruit salad in juice",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "5b8e7d0f9a74a73684fb8c393452a24b",
+    "name": "地捫 地捫椰纖果 439G",
+    "eng": "DEL MONTE Del Monte Nata De Coco",
+    "normalized_eng": "del monte del monte nata de coco",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "e6357483c552be1a4f9d4197f0b4c569",
+    "name": "特別好 熱帶雜果 850G",
+    "eng": "S&W Fiesta Fruit Cocktail",
+    "normalized_eng": "s w fiesta fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "9631f8ab7a4eb4881acc95d3e7d219c2",
+    "name": "NATURE'S CHARM 香草大樹菠蘿 200G",
+    "eng": "NATURE'S CHARM Young Green Jackfruit Confit",
+    "normalized_eng": "nature s charm young green jackfruit confit",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "aa6480ccb17c97f845df0751bc098c0f",
+    "name": "ESSENTIAL WAITROSE 雜果(糖水) 290G",
+    "eng": "ESSENTIAL WAITROSE Summer Fruits In Syrup",
+    "normalized_eng": "essential waitrose summer fruits in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "3b7bd7764bd3e6fa2c0edb9cc2e44ce3",
+    "name": "地捫 地捫蘆薈 380G",
+    "eng": "DEL MONTE Del Monte Aloe Vera In Light Syrup",
+    "normalized_eng": "del monte del monte aloe vera in light syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "a5dcc8c58c0aba91f509849e4f2fa966",
+    "name": "地捫 地捫切片黃桃(大罐) 825G",
+    "eng": "DEL MONTE Del Monte Peach Slices (l)",
+    "normalized_eng": "del monte del monte peach slices",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "b089588aa5e8f2d08bcf014bb846b425",
+    "name": "特別好 菠蘿片 836G",
+    "eng": "S&W Pineapple Slices In Syrup",
+    "normalized_eng": "s w pineapple slices in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "5a0aebab2ab5e1b872885268ae498aff",
+    "name": "都樂 糖水菠蘿粒 234G",
+    "eng": "DOLE Pineapple Chunks In Syrup",
+    "normalized_eng": "dole pineapple chunks in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "8dadba8b3c95a9b5f3b96a6b0f08c959",
+    "name": "雙象地球牌 糖水龍眼 565G",
+    "eng": "TWIN ELEPHANTS Longan In Syrup",
+    "normalized_eng": "twin elephants longan in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "d8e1f90d1c2a0598273af2cf1e0f7369",
+    "name": "地捫 地捫熱帶什果(大罐) 30OZ",
+    "eng": "DEL MONTE Del Monte Fiesta Tropical Fruit Cocktail (l)",
+    "normalized_eng": "del monte del monte fiesta tropical fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c76424aec62b18e9731550c74c2effe8",
+    "name": "EPICURE 糖浸梅子 560G",
+    "eng": "EPICURE Plum Halves In Syrup",
+    "normalized_eng": "epicure plum halves in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "635ef8be265de09d28a9cff0df4075a5",
+    "name": "地捫 地捫什果(中罐) 420G",
+    "eng": "DEL MONTE Del Monte Fruit Cocktail (m)",
+    "normalized_eng": "del monte del monte fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "bd3488c692a228706101d14445184315",
+    "name": "金冠牌 柑肉 11OZ",
+    "eng": "GOLDEN CROWN Mandarin Oranges",
+    "normalized_eng": "golden crown mandarin oranges",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c2b2bb6fb1742c52145f4c32c26cc1cb",
+    "name": "特別好 菠蘿片（細罐裝） 234G",
+    "eng": "S&W Pineapple Slice (s)",
+    "normalized_eng": "s w pineapple slice",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "e76d8b2d0b8b41b70e8a289d6925862d",
+    "name": "NATURE'S CHARM 辣醬大樹菠蘿 200G",
+    "eng": "NATURE'S CHARM Sriracha Jackfruit",
+    "normalized_eng": "nature s charm sriracha jackfruit",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "ad60a6401ff11c2311bd559f1865abf1",
+    "name": "NATURE'S CHARM 鹽水香蕉花蕾 510G",
+    "eng": "NATURE'S CHARM Banana Blosssom In Brine",
+    "normalized_eng": "nature s charm banana blosssom in brine",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "53bb80294853880909b67c76291de270",
+    "name": "特別好 半邊桃 825G",
+    "eng": "S&W Peach Halve In Heavy Syrup",
+    "normalized_eng": "s w peach halve in heavy syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c6f60287af153c186090843e880dbd6c",
+    "name": "都樂 菠蘿片 234G",
+    "eng": "DOLE Sliced Pineapple In Syrup",
+    "normalized_eng": "dole sliced pineapple in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "161b40bbff18f4ca5f3401d776422e78",
+    "name": "地捫 地捫菠蘿片(細罐) 234克 234G",
+    "eng": "DEL MONTE Dm Sliced Pineapple In Heavy Syrup (s) 234g",
+    "normalized_eng": "del monte dm sliced pineapple in heavy syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "38c0d7fa46042bc76f8efccb310e485d",
+    "name": "地捫 地捫原汁菠蘿片(細罐) 8OZ",
+    "eng": "DEL MONTE Del Monte Sliced Pineapple In Own Juice (s)",
+    "normalized_eng": "del monte del monte sliced pineapple in own juice",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "02a744d59314690974dbc285dfd4464d",
+    "name": "韓國空運士多啤梨 250GM",
+    "eng": "Korea Air Flown Strawberry 250GM",
+    "normalized_eng": "korea air flown strawberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "a19567045dae2d3765f7431af84bc0f3",
+    "name": "美國 原箱紅蘋果, 約88-100個 (總重量: 20公斤) 1CS",
+    "eng": "USA Red Apple Whole Carton, 88- 100pcs (Gross Weight: 20KG) 1CS",
+    "normalized_eng": "usa red apple whole carton",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "bb84736178e126f24bcdf5a9f17cbc32",
+    "name": "甜匠丹東紅鑽石士多啤梨-每盒兩包 1BX",
+    "eng": "Craftsman Red Strawberry Box 1BX",
+    "normalized_eng": "craftsman red strawberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b2d783a7b36458583f208adfd864e4b9",
+    "name": "Meadows菲律賓甜心菠蘿原箱約7PC (總重量: 12 公斤)1CS",
+    "eng": "Meadows Philippines Pineapple Whole Carton Approximately 7PCS (Gross Weight: 12KG) 1CS",
+    "normalized_eng": "meadows philippines pineapple whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5ac00e356dbc58837d3afa974dd6d9ee",
+    "name": "筒裝珍寶藍桑子 200GM",
+    "eng": "Jumbo Blueberry Tube 200GM",
+    "normalized_eng": "jumbo blueberry tube",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "22d15d72acfe0a5f5f07b29dcfb92b98",
+    "name": "原箱Driscoll's珍寶藍桑子 200g x 12盒, 約18mm+ (總重量: 2.4公斤) 1CS",
+    "eng": "Driscoll's Jumbo Blueberry Case 200g x 12 packs, approx. 18mm+ (Gross Weight: 2.4kg) 1CS",
+    "normalized_eng": "driscoll s jumbo blueberry x packs approx mm",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "049456e487197ca8065b5fe002d00180",
+    "name": "泰國包裝青檸 4EA",
+    "eng": "Thailand Prepacked Lime 4EA",
+    "normalized_eng": "thailand prepacked lime",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "61a32463f4e296b429c2e2593234dd43",
+    "name": "中國 大裝雪香梨 1EA",
+    "eng": "China Large Top Fragrant Pear 1EA",
+    "normalized_eng": "china large top fragrant pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "69ba344c0f1e22105b07638a45df93cd",
+    "name": "特大裝橙 1EA",
+    "eng": "Extra Large Orange 1EA",
+    "normalized_eng": "extra large orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "19e3fc62a709aaa658ec5e1b2c74d86a",
+    "name": "紅提子 800GM",
+    "eng": "RED GRAPE 800GM",
+    "normalized_eng": "red grape",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b7fdf455a2c3f953cda30f9a4b52f78a",
+    "name": "澳洲原箱長青牛油果約 28-30裝 (總重量: 4.9 公斤) 1CS",
+    "eng": "Australia Shepard Avocado Case 28-30pcs (Gross Weight: 4.9kg) 1 CS",
+    "normalized_eng": "australia shepard avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "99cfac100ee92d7dd45fdf897d843412",
+    "name": "原箱有枝車厘茄 10包 (總重量: 2.5公斤) 1CS",
+    "eng": "Cherry Tomato On Vine Whole Carton, 10 Packs (Gross Weight: 2.5kg) 1CS",
+    "normalized_eng": "cherry tomato on vine whole carton packs",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "cc768f81126272c8f7fe341d443cc5dc",
+    "name": "原箱大裝雪香梨約 36 個 (總重量: 11公斤) 1CS",
+    "eng": "Large Top Fragrant Pear Whole Carton Approximately 36PC (Gross Weight: 11KG) 1CS",
+    "normalized_eng": "large top fragrant pear whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "73ef9a29e942677a37d3e351951093d2",
+    "name": "越南原個紫鑽榴槤1EA (約2公斤)",
+    "eng": "Vietnam Azalea Durian 1EA (Approx. 2KG)",
+    "normalized_eng": "vietnam azalea durian",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "625f507c943b738f71ca4878968739f6",
+    "name": "香蕉 6EA",
+    "eng": "Banana 6EA",
+    "normalized_eng": "banana",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "cb9df2bc79e38606c6961cec1bbe5138",
+    "name": "香港生產 原箱白蘑菇 12包 (總重量: 2.4公斤) 1CS",
+    "eng": "H.K. White Mushroom Whole Carton 12 Packs (Gross Weight: 2.4KG) 1CS",
+    "normalized_eng": "h k white mushroom whole carton packs",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "02be050485f0aa7a1a38ad199f3cd464",
+    "name": "DRISCOLL'S 黑桑子 125 GM",
+    "eng": "DRISCOLL'S BLACKBERRY 125 GM",
+    "normalized_eng": "driscoll s blackberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "cc4f05e44ca79bd36124b3c3f15531f1",
+    "name": "日本王林蘋果 1PC",
+    "eng": "JAPAN OHRIN APPLE 1PC",
+    "normalized_eng": "japan ohrin apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b32e5022fe278aaf77e92d5b66ee3494",
+    "name": "袋裝迷你牛油果 4EA",
+    "eng": "Mini Avocado 4EA",
+    "normalized_eng": "mini avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "b95c112c63c35d3744fcbc56d3d68d83",
+    "name": "原箱鴨梨約72-80PC (總重量:18公斤) 1CS",
+    "eng": "Ya Pear Case Approximately 72-80PC (Gross Weight: 18kg) 1CS",
+    "normalized_eng": "ya pear approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9ce49f89e5d0c00a07787797f53decef",
+    "name": "中國 和橙 1 EA",
+    "eng": "CHINA WO ORANGE 1 EA",
+    "normalized_eng": "china wo orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "1ea581cdbb29f5bcf4d3eee9543e4c9f",
+    "name": "珍寶翡翠金梨 1PC",
+    "eng": "Jumbo Jade Gold Pear 1PC",
+    "normalized_eng": "jumbo jade gold pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "88223b22777cf045459cbe96a9453a4a",
+    "name": "重慶甜臍橙 1PK",
+    "eng": "Chongqing Sweet Navel Orange 1PK",
+    "normalized_eng": "chongqing sweet navel orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "8329aed344cede102c5edd60eba79243",
+    "name": "藍桑子 125GM",
+    "eng": "Blueberry 125GM",
+    "normalized_eng": "blueberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "2076c067804260a8896cc832e63050bc",
+    "name": "澳洲 盒裝胭脂布林 500 GM",
+    "eng": "AUSTRALIA OCTOBER SUN PLUM 500 GM",
+    "normalized_eng": "australia october sun plum",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "8675f78a09165f5cb73cb7fbb4efb5a4",
+    "name": "波子提子 800 GM",
+    "eng": "Autumn Crisp Grape 800GM",
+    "normalized_eng": "autumn crisp grape",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "224bd89ac1c1fed58ae3578b3ad5de0d",
+    "name": "珍寶藍桑子 200GM",
+    "eng": "Driscoll'S Jumbo Blueberry 200GM",
+    "normalized_eng": "driscoll s jumbo blueberry",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "a7338a90f44c4d611f0b6eb32375e24a",
+    "name": "原箱和橙, 約36- 40個 (總重量: 9公斤) 1CS",
+    "eng": "Wo Orange Case, Approximately 36-40pcs (Gross Weight: 9kg) 1CS",
+    "normalized_eng": "wo orange approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "0025eb974efa125462b559903f76f67f",
+    "name": "中國富士蘋果 1EA",
+    "eng": "China Fuji Apple 1EA",
+    "normalized_eng": "china fuji apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7236ca40fe6a3537ac69ffc169b60ee4",
+    "name": "泰國 椰青 1EA",
+    "eng": "Thailand Coconut",
+    "normalized_eng": "thailand coconut",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e7931d752bcee2d79a71e86a01b84c1e",
+    "name": "泰國包裝龍眼 550GM",
+    "eng": "Thailand Longan 550GM",
+    "normalized_eng": "thailand longan",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ace01f5730d296adb62ba754c10b2bfb",
+    "name": "ZESPRI 珍寶金奇偉果 1PC",
+    "eng": "Zespri Jumble Gold Kiwifruit 1PC",
+    "normalized_eng": "zespri jumble gold kiwifruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e35330ce1f39cf61d4d0209ba08faa12",
+    "name": "香港生產有機 原箱珍寶啡菇 8包 (總重量: 1.6公斤) 1CS",
+    "eng": "H.K. Organic Portobello Mushroom Whole Carton 8 Packs (Gross Weight: 1.6KG) 1CS",
+    "normalized_eng": "h k organic portobello mushroom whole carton packs",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "c499299946249181d25efeed5ba48774",
+    "name": "澳洲珍寶長青牛油果 1EA",
+    "eng": "Australia Jumbo Shepard Avocado 1EA",
+    "normalized_eng": "australia jumbo shepard avocado",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e80d13f249600a14a2711cbfa47a734c",
+    "name": "原箱西柚約45-55個(總重量:14公斤) 1CS",
+    "eng": "Grapefruit Whole Carton Approximately 45-55PCS (Gross Weight: 14KG) 1CS",
+    "normalized_eng": "grapefruit whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "e274e3d26ac53c66df98d7279952a90d",
+    "name": "菲律賓珍寶萬壽果 1EA",
+    "eng": "Philippines Jumbo Solo Papaya 1EA",
+    "normalized_eng": "philippines jumbo solo papaya",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "671e64e3d8ea3b3c21b312da82fcb13a",
+    "name": "鴨梨 1EA",
+    "eng": "Ya Pear 1EA",
+    "normalized_eng": "ya pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "f3ceefa453364bba604f803e16e7fd4c",
+    "name": "原箱檸檬約100-140PC (總重量: 15 公斤) 1CS",
+    "eng": "Lemon Case Approximately 100-140PCS (Gross Weight: 15KG) 1CS",
+    "normalized_eng": "lemon approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "349f6dbffd4e9b136d8ffb237ef4dacb",
+    "name": "荷蘭無蠟添加締莎蘋果 1EA",
+    "eng": "The Netherlands No Wax Added Tessa Apple 1EA",
+    "normalized_eng": "the netherlands no wax added tessa apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "0619a2fb36590cd52281a975dcfc04df",
+    "name": "重慶 糖果柑 1PK",
+    "eng": "Chongqing Sweet Mandarin 1PK",
+    "normalized_eng": "chongqing sweet mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7a724368a25ddb6356d49b01324e0a4e",
+    "name": "原箱巨型冰糖梨, 約12個 (總重量: 8.5公斤) 1CS",
+    "eng": "Giant Honey Pear Whole Carton, Approximately 12pcs (Gross Weight: 8.5KG) 1CS",
+    "normalized_eng": "giant honey pear whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d281a3fbc37a64d520ef8af686f59de8",
+    "name": "老樹沙田柚 1PC",
+    "eng": "OLD TREE POMELO 1PC",
+    "normalized_eng": "old tree pomelo",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "80f2b3d1b1d9b3da616ac7d629ded54d",
+    "name": "大裝艾菲蘋果 1EA",
+    "eng": "Large Envy Apple 1EA",
+    "normalized_eng": "large envy apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "13bc1d36f878e8797942dded48883e7f",
+    "name": "秘魯原箱波子提子 (總重量: 4公斤) (包裝及品牌隨機發放。)",
+    "eng": "Peru Autumn Crisp Grape Case (Gross Weight: 4kg) (Package & Brand may vary)",
+    "normalized_eng": "peru autumn crisp grape",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "07917adc071a9851777bd7c4e142e782",
+    "name": "越南火龍果 1EA",
+    "eng": "Vietnam Dragon Fruit 1EA",
+    "normalized_eng": "vietnam dragon fruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "880693bf429e8b13d34d2111d476e434",
+    "name": "珍寶富士蘋果 1EA",
+    "eng": "Jumbo Fuji Apple 1EA",
+    "normalized_eng": "jumbo fuji apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "144cc65e159268c968e3735d84bbb3b6",
+    "name": "荷蘭 長啤梨 1PC",
+    "eng": "Holland Conference Pear 1PC",
+    "normalized_eng": "holland conference pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "19ce4a5bde710285a7be8f2e78f6a994",
+    "name": "印度盒裝手指青提子 500 GM",
+    "eng": "India Sonaka Grape 500GM",
+    "normalized_eng": "india sonaka grape",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5b92cab66087d9206802262e8380635c",
+    "name": "紐西蘭 小花蘋果 1PK",
+    "eng": "New Zealand Posy Apple 1PK",
+    "normalized_eng": "new zealand posy apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "265a8c3033a51dad11d610aaff20d5a5",
+    "name": "原箱筒裝珍寶高甜藍桑子18mm+ 10筒 x 200克 (總重量: 2kg) (包裝及品牌隨機發放。)",
+    "eng": "Jumbo Blueberry Tube Case 18mm+ 10 tubes x 200g (Gross weight: 2kg) (Package & Brand may vary)",
+    "normalized_eng": "jumbo blueberry tube mm tubes x",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "27f4e34948181296e1d1db4719f929f9",
+    "name": "紐西蘭樂淇蘋果 1PK",
+    "eng": "New Zealand Rockit Apple 1PK",
+    "normalized_eng": "new zealand rockit apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "feaf29523970b3babd0a13cb35a2c006",
+    "name": "荷蘭原箱無蠟添加締莎蘋果約80-90個(總重量:14公斤) 1CS",
+    "eng": "Netherlands No Wax Added Tessa Apple Carton Approximately 80-90pcs (Gross Weight: 14KG) 1CS",
+    "normalized_eng": "netherlands no wax added tessa apple carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "1791854c84e904cc14df180fc636c9a3",
+    "name": "帥瞳西瓜 1EA",
+    "eng": "Mini Watermelon 1EA",
+    "normalized_eng": "mini watermelon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "a151353e001b06e7f4e0e0a0c6c55e4a",
+    "name": "包裝番茄原箱12包 (總重量: 5.4公斤) 1CS",
+    "eng": "Tomato Whole Carton 12 Packs (Gross Weight: 5.4KG) 1CS",
+    "normalized_eng": "tomato whole carton packs",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "6d383ffc8500ad6aedf3cc323375a84d",
+    "name": "小青柑桔 1 PK",
+    "eng": "Calamansi 1PK",
+    "normalized_eng": "calamansi",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "4fdc9b4030dafc25c51d145834887401",
+    "name": "原箱特大裝橙約56 個 1CS (總重量: 18公斤) (包裝及品牌隨機發放。)",
+    "eng": "Extra Large Orange Whole Carton Approximately 56 PC (Gross Weight: 18kg) (Package & Brand may vary)",
+    "normalized_eng": "extra large orange whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "aa1eed13a6182967934ea073c9c2bed1",
+    "name": "原箱藍桑子 12盒 x 125克 (總重量: 1.5kg) (包裝及品牌隨機發放。)",
+    "eng": "Blueberry Case 12pk x 125g (Gross Weight: 1.5kg) (Package & Brand may vary)",
+    "normalized_eng": "blueberry x",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d93a4621f984814e3be56f34372e9424",
+    "name": "美國新奇士 袋裝超甜橙 1PK",
+    "eng": "USA Sunkist High Brix Orange 1PK",
+    "normalized_eng": "usa sunkist high brix orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "416dc145990800f2ba7daf239502cc09",
+    "name": "都樂高地栽培 超甜香蕉 1 PK",
+    "eng": "Dole Sweetio Banana 1 Pack",
+    "normalized_eng": "dole sweetio banana",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "8f0eea57c30f36f37300517f23d3e00b",
+    "name": "沙田柚 1PC",
+    "eng": "SHATIN POMELO 1PC",
+    "normalized_eng": "shatin pomelo",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d2cfe7130a5a7274353dadd6280ecaa1",
+    "name": "美國 黑牌臍橙2.8磅 1PK",
+    "eng": "USA Purespect Orange 2.8Lb 1PK",
+    "normalized_eng": "usa purespect orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "449c16c525cc2f1e3cd064a25a329321",
+    "name": "原箱袋裝美國黑牌臍橙, 2.8磅 x 8袋 (總重量︰10公斤)",
+    "eng": "USA Purespect Orange Whole Carton, 2.8Lb X 8PK (Gross Weight: 10Kg)",
+    "normalized_eng": "usa purespect orange whole carton x",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "21d3f59f3d6f26984c4eb7be2ce903bc",
+    "name": "香港生產原箱啡蘑菇12包 (總重量: 2.4公斤) 1CS",
+    "eng": "H.K. Brown Mushroom Whole Carton 12 Packs (Gross Weight: 2.4KG) 1CS",
+    "normalized_eng": "h k brown mushroom whole carton packs",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ff39e002d036a541aef35f2d6821bc0d",
+    "name": "青蘋果 1EA",
+    "eng": "Granny Apple 1EA",
+    "normalized_eng": "granny apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "94f61cc3b9cc526e7179f619c0ad5f9b",
+    "name": "Zespri 寶石紅奇偉果 1PK",
+    "eng": "Zespri Rubyred Kiwifruit 1PK",
+    "normalized_eng": "zespri rubyred kiwifruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "37f808e3a4cf16027ff34b2a1984756c",
+    "name": "美國 袋裝蜜蜂臍橙2.8磅 1PK",
+    "eng": "USA Bee Sweet Orange 2.8lb 1PK",
+    "normalized_eng": "usa bee sweet orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "23c0cf3268bbad4a492b29c498f13436",
+    "name": "澳洲原箱珍寶長青牛油果約16-20裝 (總重量: 5.25 公斤) 1CS",
+    "eng": "Australia Jumbo Shepard Avocado Whole Carton, Approximately 16-20PCS (Gross Weight: 5.25KG) 1CS",
+    "normalized_eng": "australia jumbo shepard avocado whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7253208a0f1cfb0f25b07d1667a382ac",
+    "name": "法國 有機嘉拿蘋果 8PC",
+    "eng": "France Organic Gala Apple 8PC",
+    "normalized_eng": "france organic gala apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9524368c2ef9eadb33db98d73202c640",
+    "name": "意大利 波板糖蘋果 600GM",
+    "eng": "Italy Samboa Apple 600GM",
+    "normalized_eng": "italy samboa apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9db80ba35642fa285521c4bf6d17ab46",
+    "name": "Fresh 袋裝橙 4EA",
+    "eng": "Fresh Orange 4EA",
+    "normalized_eng": "fresh orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "cd2c5f73aa4751c84988c8567d64208f",
+    "name": "新奇士 美國柑700克 1PK",
+    "eng": "Sunkist Mandarin 700Gm 1PK",
+    "normalized_eng": "sunkist mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "3b94d4744e87286497bb22abd1ea342d",
+    "name": "袋裝嘉拿蘋果 1.8LB",
+    "eng": "Gala Apple 1.8LB",
+    "normalized_eng": "gala apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ff624390f1e57670cd13f243f0941b74",
+    "name": "Meadows菲律賓甜心菠蘿 1EA",
+    "eng": "Meadows Philippines Honey Pineapple 1EA",
+    "normalized_eng": "meadows philippines honey pineapple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "601b55f996a9b008d508095b65d8ef02",
+    "name": "DRISCOLL'S 紅桑子 125 GM",
+    "eng": "Driscoll's Raspberries 125GM",
+    "normalized_eng": "driscoll s raspberries",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "ce7abf1a07598b4baabc351fc572e667",
+    "name": "菲律賓迷你香蕉 1PK",
+    "eng": "Philippines Petite Kids Banana 1 Pack",
+    "normalized_eng": "philippines petite kids banana",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5b00241f94396173683d2bab56ff1ffc",
+    "name": "富士蘋果原箱約88-100PC (總重量: 18 公斤) 1CS",
+    "eng": "Fuji Apple Whole Carton Approximately 88-100PC (Gross Weight: 18kg)",
+    "normalized_eng": "fuji apple whole carton approximately",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d1f81411cd55bb405777bda6ef18a27d",
+    "name": "越南珍寶紅肉火龍果 1EA",
+    "eng": "Vietnam Jumbo Red Dragon Fruit 1EA",
+    "normalized_eng": "vietnam jumbo red dragon fruit",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "3b0b61b81e1be66b2eda3a31e6077050",
+    "name": "甜匠 沃柑 1PK",
+    "eng": "The Craftsman Orah Mandarin 1PK",
+    "normalized_eng": "the craftsman orah mandarin",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "f4793ace33996db6cb6a357ae0da66aa",
+    "name": "8424西瓜 1EA",
+    "eng": "8424 Watermelon 1EA",
+    "normalized_eng": "watermelon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "d6ff0d2628691950ac0d42bd1ade5e56",
+    "name": "黑美人西瓜 1EA",
+    "eng": "Black Beauty Melon 1EA",
+    "normalized_eng": "black beauty melon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "802f332eddf6c12a3e038ba13395647c",
+    "name": "袋裝橙 8EA",
+    "eng": "Orange 8EA",
+    "normalized_eng": "orange",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "8e7256c28ca8194e5fa4d68f7d27d232",
+    "name": "泰國即飲椰青原箱約9PC (總重量: 9 公斤) 1CS",
+    "eng": "Thailand Coconut Whole Case 9PC (Gross Weight: 9KG)",
+    "normalized_eng": "thailand coconut whole",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "7c15088105ae9dc6aedef67b13d8cef2",
+    "name": "巨型冰糖梨 1EA",
+    "eng": "Giant Honey Pear 1EA",
+    "normalized_eng": "giant honey pear",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "5d81282a1602b2c34fd1935e90763089",
+    "name": "美國紅蘋果 1EA",
+    "eng": "USA Red Apple 1EA",
+    "normalized_eng": "usa red apple",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "9ea05a6e1f9d3e3c3e29219621262af4",
+    "name": "網紋瓜 1 EA",
+    "eng": "Musk Melon 1EA",
+    "normalized_eng": "musk melon",
+    "sub_categories": [
+      "水果"
+    ]
+  },
+  {
+    "uid": "45d7b693c599085b72150a9704677467",
+    "name": "特別好菠蘿粒 234GM",
+    "eng": "S&W Pineapple Chunks 234GM",
+    "normalized_eng": "s w pineapple chunks",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "f7e73423ae9a3e0c1b1888ad578f90fe",
+    "name": "地捫菠蘿片 234GM",
+    "eng": "Del Monte Sliced Pineapple 234GM",
+    "normalized_eng": "del monte sliced pineapple",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c5bd9131d648cb82389ecfb331efa871",
+    "name": "地捫什果 825GM",
+    "eng": "Del Monte Fruit Cocktail 825GM",
+    "normalized_eng": "del monte fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c07f6f47a1984b0be0ed129b981fe103",
+    "name": "樹頂蘋果蓉 24OZ",
+    "eng": "Tree Top Apple Sauce 24OZ",
+    "normalized_eng": "tree top apple sauce",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c2cbf6163efaf686303fbeaed7aa817d",
+    "name": "地捫高纖椰果 439GM",
+    "eng": "Del Monte Nata De Coco 439GM",
+    "normalized_eng": "del monte nata de coco",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "038aa14de342c42ad93e0af390730350",
+    "name": "地捫原汁菠蘿片 227GM",
+    "eng": "Del Monte Sliced Pinapple 227GM",
+    "normalized_eng": "del monte sliced pinapple",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "dcf59bfad56f171c48a4db6908da0a03",
+    "name": "Meadows菠蘿粒 227GM",
+    "eng": "Meadows Pineapple Chunks In Syrup 227GM",
+    "normalized_eng": "meadows pineapple chunks in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "709d1855c89a1296cf6a0aa7c1ff4e19",
+    "name": "地捫半邊桃 825GM",
+    "eng": "Del Monte Halves Peaches 825GM",
+    "normalized_eng": "del monte halves peaches",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "c497e906f406a6ab656d3cff15bfe328",
+    "name": "地捫切邊黃桃 420GM",
+    "eng": "Del Monte Peach Halve In Syrup 420GM",
+    "normalized_eng": "del monte peach halve in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "fdd28eaa5bcf024f2eb4dfc76b974bd8",
+    "name": "特別好熱帶什果 850GM",
+    "eng": "S&W Fiesta Frt Cocktail 850GM",
+    "normalized_eng": "s w fiesta frt cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "fd257e30ddaecb8df1059cfecaeb6d3b",
+    "name": "地捫熱帶雜果 850GM",
+    "eng": "Del Monte Fiesta Fruit Cocktail 850GM",
+    "normalized_eng": "del monte fiesta fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "f6b6d48f974337c761e5f20b5d0babb4",
+    "name": "特別好半邊桃 825GM",
+    "eng": "S&W Peach Halves With Syrup 825GM",
+    "normalized_eng": "s w peach halves with syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "caed2637a481e2d131e6e727c1ac3697",
+    "name": "Meadows菠蘿片 836GM",
+    "eng": "Meadows Slice Pineapple In Light Syrup 836GM",
+    "normalized_eng": "meadows slice pineapple in light syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "bf236c52fca454b8c73ecb430d3b6bf3",
+    "name": "Meadows熱帶雜果 850GM",
+    "eng": "Meadows Tropic Fruit Cocktail 850GM",
+    "normalized_eng": "meadows tropic fruit cocktail",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "2b7d82a5f461d146306223d2ec719c0a",
+    "name": "特別好菠蘿片 234GM",
+    "eng": "S&W Pineapple Slices 234GM",
+    "normalized_eng": "s w pineapple slices",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "f38f73aac1cd61bb018678a1328cdf6e",
+    "name": "地捫蘆薈 380GM",
+    "eng": "Del Monte Tetra Pack Aloe 380GM",
+    "normalized_eng": "del monte tetra aloe",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  },
+  {
+    "uid": "1713012f96cbe7581893b0bef64f2564",
+    "name": "Meadows菠蘿片 227GM",
+    "eng": "Meadows Sliced Pineapple In Syrup 227GM",
+    "normalized_eng": "meadows sliced pineapple in syrup",
+    "sub_categories": [
+      "罐頭水果"
+    ]
+  }
+]

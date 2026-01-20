@@ -1,0 +1,554 @@
+[
+    {
+        "名称": "PARKnSHOP 百佳 (偉恆昌新邨)",
+        "地址": "Shop, G/F, of Arcade, Hang Chien Court - Wyler Gardens Block C, 九龍土瓜灣美景街108號偉恒昌新恒景閣地下 Portion, 108 Mei King St, To Kwa Wan, Hong Kong",
+        "电话": "2363 7913",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"
+            
+        ],
+        "latitude": 22.3180847,
+        "longitude": 114.1922226
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (大同新邨)",
+        "地址": "Nos, Cosmopolitan Estate, 九龍大角咀大角咀道107-127號大同新邨大公樓地下4號舖 Shop No. 4 on Ground Floor, Tai Kung Building, 107-127 Tai Kok Tsui Rd, Tai Kok Tsui, Hong Kong",
+        "电话": "2576 7067",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:00 PM"
+        ],
+        "latitude": 22.321692,
+        "longitude": 114.1617244
+    },
+    {
+        "名称": "PARKnSHOP 百佳(金馬大廈)",
+        "地址": "新界元朗鳳翔路45-67號金馬大廈地下6-8,16-26號 Shop 6-8 & 16-26 on G/F, Comet Mansion, Nos. 45-67 Fung Cheung Road, N.T, Yuen Long, Hong Kong",
+        "电话": "2477 1324",
+        "营业时间": [
+            "星期一至日: Open 24 hours"
+           ],
+        "latitude": 22.4425159,
+        "longitude": 114.0324707
+    },
+    {
+        "名称": "百佳 (銅鑼灣廣場店)",
+        "地址": "Hong Kong, Causeway Bay, Lockhart Rd, 463-483號HK 香港島 銅鑼灣 香港銅鑼灣駱克道463-483號銅鑼灣廣場2期地庫1 層部分 PortionPlaza 2of Basement1st Floor",
+        "电话": "2518 0661",
+        "营业时间": [
+            "星期一至日: 9:30 AM – 10:30 PM"
+        ],
+        "latitude": 22.2805414,
+        "longitude": 114.1821601
+    },
+    {
+        "名称": "Park'n Shop",
+        "地址": "Hong Kong, Prince Edward Rd W, No 171號Shop On 1/F Plus Entrance On G/F Bijou Court",
+        "电话": "2994 0082",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"
+        ],
+        "latitude": 22.3240076,
+        "longitude": 114.1692979
+    },
+    {
+        "名称": "PARKNSHOP",
+        "地址": "Hong Kong, Wan Chai, Queen's Rd E, 183號G層03、B層",
+        "电话": "2121 8346",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"
+         ],
+        "latitude": 22.274666,
+        "longitude": 114.171589
+    },
+    {
+        "名称": "PARKnSHOP 百佳(勝利道)",
+        "地址": "地下 G/F, Healthy House, 九龍旺角勝利道14-14A號, 14-14A Victory Ave, Yau Ma Tei, Hong Kong",
+        "电话": "2760 1969",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:00 PM"
+          ],
+        "latitude": 22.3190421,
+        "longitude": 114.1747987
+    },
+    {
+        "名称": "PARKnSHOP 百佳(兆康苑)",
+        "地址": "新界屯門兆康苑兆康商場1樓225號舖 Shop 225, 1/F, Siu Hong Shopping Centre, Siu Hong Court, Siu Hong Rd, Tuen Mun, Hong Kong",
+        "电话": "2464 2157",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"
+        ],
+        "latitude": 22.4124507,
+        "longitude": 113.9775314
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (天水圍 +WOO )",
+        "地址": "新界天水圍天恩路12-18號 +WOO 嘉湖1期2樓220號舖 Shop No 220, 2/F, Phase I of +WOO, Nos. 12-18 Tin Yan Road, N.T, Tin Shui Wai, Hong Kong",
+        "电话": "2617 0563",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"
+          ],
+        "latitude": 22.4575883,
+        "longitude": 114.002527
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (香港仔中心)",
+        "地址": "Nos. 13, ac1, 香港香港仔南寧街13-23號ac1地下1及9號舖 Shop Nos. 1 & 9, G/F, 23 Nam Ning St, Aberdeen, Hong Kong",
+        "电话": "2873 4105",
+        "营业时间": [
+            "星期一至日: 7:30 AM – 11:30 PM"
+            ],
+        "latitude": 22.249205,
+        "longitude": 114.153703
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (石圍角新城)",
+        "地址": "一樓229, 233 號 Centre, 新界荃灣石圍角路石圍角商場, Tsuen Wan, Hong Kong",
+        "电话": "2617 6316",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:00 PM"
+            ],
+        "latitude": 22.3752653,
+        "longitude": 114.1243678
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "Hong Kong, Hung Hom, Whampoa St, 3號黃埔花園第3期地下26號舖 Shop No. 26, G/F, Site",
+        "电话": "2334 1254",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3051681,
+        "longitude": 114.1862779
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "號, Western Garden Ivy Tower, 83 Second St, Sai Ying Pun, Hong Kong",
+        "电话": "2546 8503",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.2864601,
+        "longitude": 114.1414325
+    },
+    {
+        "名称": "PARKnSHOP 百佳(恒成大廈)",
+        "地址": "Nos. 363, 365, 367, 369, Hang Shing Building, 九龍油麻地彌敦道363,365,367,369,371&373號恒成大廈地庫高層B部分 Portion B on Upper Basement Floor, 371 & 373 Nathan Rd, Yau Ma Tei, Hong Kong",
+        "电话": "2374 6077",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:00 PM"],
+        "latitude": 22.3079182,
+        "longitude": 114.1711064
+    },
+    {
+        "名称": "百佳超級廣場 (創意無限)",
+        "地址": "Nos 36, Smartland, Shop No. F201 on 1/F, 60 Texaco Rd, Tsuen Wan, Hong Kong",
+        "电话": "2406 1525",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:00 PM"],
+        "latitude": 22.3686264,
+        "longitude": 114.1220108
+    },
+    {
+        "名称": "PARKnSHOP (沙田廣源邨)",
+        "地址": "Hong Kong, 香港沙田新界沙田廣源邨廣源商場第二座5B號舖 Shop 5B, G/F, Block 2, Kwong Yuen Shopping Centre, Kwong Yuen Estate",
+        "电话": "2144 5517",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:00 PM"],
+        "latitude": 22.3808307,
+        "longitude": 114.2148971
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "九龍何文田愛民廣場地下G23A號舖 Shop No. G23A, Ground Floor, Oi Man Plaza, Ho Man Tin, Hong Kong",
+        "电话": "3521 0120",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3117599,
+        "longitude": 114.1788208
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "Hong Kong, Tsz Wan Shan, Yuk Wah St, 23號23 Yuk Wah Street, Tsz Wan Shan, Kowloon慈雲山中心Shopping Centre5樓528-535號舖 Shop Nos. 528-535, 5/F",
+        "电话": "2725 5308",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3482096,
+        "longitude": 114.2005978
+    },
+    {
+        "名称": "PARKnSHOP 百佳(御豪門)",
+        "地址": "1, G/F, Billionnaire Royale, 九龍九龍城沙浦道83號御豪門地下1號舖 Shop No, 83 Sa Po Rd, Kowloon City, Hong Kong",
+        "电话": "2718 2083",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3305499,
+        "longitude": 114.1918968
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "一樓116號舖 Shop 116, 1/F, Po Tat Shopping Centre, 九龍秀茂坪寶達商場, Sau Mau Ping, Hong Kong",
+        "电话": "2190 4163",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3175995,
+        "longitude": 114.2363332
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "地下 Portion of G/F, Yan Oi Tong Jockey Club Community & Sports Centre, 新界屯門啟民徑18號仁愛堂賽馬會社區及體育中心, N.T, Tuen Mun, Hong Kong",
+        "电话": "2459 6682",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 9:30 PM"],
+        "latitude": 22.3965437,
+        "longitude": 113.976043
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (榮輝中心)",
+        "地址": "新界粉嶺聯捷街2-10號榮輝中心地下商舖 Portion of Commercial Units on the Ground Floor of the Commercial Block Wing Fai Centre, Nos. 2-10 Luen Chit Street, N.T, Fanling, Hong Kong",
+        "电话": "2706 7129",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.501518,
+        "longitude": 114.1423215
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (葵芳)",
+        "地址": "新界葵芳葵益路2-10號好爵中心地下16-37舖 Shop 16-37, G/F, Ho Chuck Centre, 2, 10 Kwai Yi Rd, Kwai Fong, Hong Kong",
+        "电话": "2428 7716",
+        "营业时间": [
+            "星期一至日: 7:00 AM – 11:30 PM"],
+        "latitude": 22.3571392,
+        "longitude": 114.1284532
+    },
+    {
+        "名称": "PARKnSHOP 百佳(寶琳邨)",
+        "地址": "新界將軍澳寶琳路18號寶琳邨寶琳商場地下101號地下 Shop No 101, Po Lam Shopping Centre, Po Lam Est, 18 Po Lam Road, N.T, Tseung Kwan O, Hong Kong",
+        "电话": "2701 4870",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3252878,
+        "longitude": 114.2558407
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (大浦清泉雅居)",
+        "地址": "新界大埔翠樂街6號清泉雅居地下9B舖 Shop No. 9B, G/F, Commercial Podium of La Fontaine, 6 Chui Lok St, N.T, Tai Po, Hong Kong",
+        "电话": "2664 7396",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.4525932,
+        "longitude": 114.1642557
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (慈正商場)",
+        "地址": "九龍慈雲山慈正邨慈正二期慈正商場地下1號舖 Shop No. 1, G/F, Tsz Ching Shopping Ctr II, Tsz Ching Est, Tsz Wan Shan, Hong Kong",
+        "电话": "2321 9734",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3502422,
+        "longitude": 114.2015922
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (翠林新城)",
+        "地址": "新界將軍澳翠琳路11號翠林邨翠林新城5樓132舖 Shop No 132, 5/F, Tsui Lam Square, Tsui Lam Est, 11 Tsui Lam Road, N.T, Tseung Kwan O, Hong Kong",
+        "电话": "2702 0231",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3226535,
+        "longitude": 114.2493481
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (TKO Gateway)",
+        "地址": "2 Sheung Ning Rd, Tseung Kwan O, Hong Kong",
+        "电话": "2392 4311",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3170942,
+        "longitude": 114.2660234
+    },
+    {
+        "名称": "PARKnSHOP 百佳(海灣花園)",
+        "地址": "新界荃灣永順街38號海灣花園商場地下G01-06號舖 Shop Nos. G01-06, Ground Floor, Phase 2, Waterside Plaza, 38 Wing Shun Street, N.T, Tsuen Wan, Hong Kong",
+        "电话": "2419 2913",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:00 PM"],
+        "latitude": 22.3638311,
+        "longitude": 114.1143008
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (長發廣場)",
+        "地址": "新界青衣担杆山路6號長發邨長發廣場3樓320號舖 Shop No. 320, Level 3, Cheung Fat Plaza, Cheung Fat Est, 6 Tam Kon Shan Road, N.T, Tsing Yi, Hong Kong",
+        "电话": "2433 4260",
+        "营业时间": [
+            "星期一至日: 7:30 AM – 10:00 PM"],
+        "latitude": 22.3622285,
+        "longitude": 114.1028738
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (新屯門中心)",
+        "地址": "Nos. 157-165, Level 3, Sun Tuen Mun, 新界屯門龍門路55-65號新屯門商場3樓157-165號舖 Shops, N.T, Tuen Mun, Hong Kong",
+        "电话": "2456 2040",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3810317,
+        "longitude": 113.9647034
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (彩盈邨)",
+        "地址": "2號舖 Shop, Choi Ying Place, Choi Ying Estate Ying Shun House, 九龍牛頭角彩盈邨, 2 Choi Ying Place, Ngau Tau Kok, Hong Kong",
+        "电话": "2641 2675",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.3278832,
+        "longitude": 114.214648
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (藍田德田廣場)",
+        "地址": "號舖 Shop No, Shopping Centre, Tak Tin Estate Block 1 Tak King House, 九龍藍田德田商場, 107 Tak Tin St, Lam Tin, Hong Kong",
+        "电话": "2772 5642",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3108448,
+        "longitude": 114.2380902
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "香港筲箕灣耀興道55號興東商場一樓101號舖 Shop No. 101, 1/F, Hing Tung ShoppingCentre, 55 Yiu Hing Rd, Shau Kei Wan, Hong Kong",
+        "电话": "2535 6779",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.280726,
+        "longitude": 114.2197998
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "Hong Kong, Cheung Sha Wan, Hang Cheung St, 8號No. 107, Level 1, Fortune Shopping Ctr, 8 Hang Tsueng St, Cheung Sha Wan, Kowloon幸福商場1樓107號舖 Shop",
+        "电话": "2361 8965",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:00 PM"],
+        "latitude": 22.3353368,
+        "longitude": 114.1543772
+    },
+    {
+        "名称": "PARKnSHOP 百佳(樂華邨)",
+        "地址": "Commercial Centre, Lok Wah North Estate Ping Wah House, 九龍牛頭角樂華北邨樂華商場316號舖 Shop 316, 3/F, Lok Wah, Ngau Tau Kok, Hong Kong",
+        "电话": "2756 4600",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3210604,
+        "longitude": 114.2210651
+    },
+    {
+        "名称": "PARKnSHOP 百佳(渡船街)",
+        "地址": "Nos. 32, Best-O-Best Comm'l Ctr, 九龍油麻地渡船街32-36號富利來商業大廈地下及1樓 Shops A, B & C on G/F and 1/F, 36 Ferry St, Yau Ma Tei, Hong Kong",
+        "电话": "2770 6102",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:30 PM"],
+        "latitude": 22.3075262,
+        "longitude": 114.1676462
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (元州街東蘭閣)",
+        "地址": "九龍深水埗元州街280-288號東蘭閣A座A,B,D號舖 Shops A,B&D, G/F, Eastland Towers 183-191 Castle Peak Road, 167B-E Pratas Street & 280-288, Un Chau St, Sham Shui Po, Hong Kong",
+        "电话": "2708 4063",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:30 PM"],
+        "latitude": 22.3356445,
+        "longitude": 114.1597485
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (穗禾苑)",
+        "地址": "新界沙田穗禾路13號穗禾商場地下G17號舖 Shop No. G17, G/F, Sui Wo Commercial Centre, 13 Sui Wo Rd, Sha Tin, Hong Kong",
+        "电话": "2606 0300",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3919738,
+        "longitude": 114.1944066
+    },
+    {
+        "名称": "PARKnSHOP 百佳(家維邨)",
+        "地址": "Ka Wai Chuen, 九龍紅磡馬頭圍道家維邨家義樓低層地下1-2號舖及家廉樓低層地下1-6號舖 Shop Nos. 1-2, LG/F, Ka Yee Lau, Ma Tau Wai Rd, Hung Hom, Hong Kong",
+        "电话": "2994 5368",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:00 PM"],
+        "latitude": 22.3075211,
+        "longitude": 114.1868973
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (竹園商場)",
+        "地址": "2/F, 九龍黃大仙竹園道15號竹園廣場2樓S229號舖 Shop No S229, 2/F, Chuk Yuen Plaza, 15 Chuk Yuen Rd, Chuk Un, Hong Kong",
+        "电话": "2726 2042",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:30 PM"],
+        "latitude": 22.3446731,
+        "longitude": 114.1935424
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (富泰商場)",
+        "地址": "新界屯門屯貴路9號富泰商場2樓220-226號舖 Shop Nos. 220-226, 2/F, Fu Tai Shopping Centre, 9 Tuen Kwai Rd, N.T, Tuen Mun, Hong Kong",
+        "电话": "3157 0510",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.4139738,
+        "longitude": 113.9832174
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (麗城薈)",
+        "地址": "Belvedere Square Market, Belvedere Garden Phase3 Block 4, 新界荃灣麗城花園三期麗城薈街市M22至M69 Stall No. M22-M69 on the Ground Floor, N.T, Tsuen Wan, Hong Kong",
+        "电话": "2350 4010",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3713705,
+        "longitude": 114.1017358
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "Hong Kong, Wang Tau Hom, Fu Mei St, Chun Yeung Shopping Centre, Chun Yeung Estate, Fo Tan, N.T Wang Tau Hom Estate Wang Fai House, 宏暉中心地下1號舖 Shop No. G02, G/F",
+        "电话": "3165 1431",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3412778,
+        "longitude": 114.1868044
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "G/F & 1/F, Nos, 長洲海傍街97A-99號地下及1樓, 97A & 99 Tai San Praya Rd, Cheung Chau, Hong Kong",
+        "电话": "2981 3169",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 11:00 PM"],
+        "latitude": 22.2070835,
+        "longitude": 114.0287911
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (長洲東灣路)",
+        "地址": "地下 G/F, Eastern Commercial Plaza, 長洲東灣路80號, 80 Tung Wan Rd, Cheung Chau, Hong Kong",
+        "电话": "2981 7169",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 9:00 PM"],
+        "latitude": 22.2084954,
+        "longitude": 114.0295438
+    },
+    {
+        "名称": "PARKnSHOP",
+        "地址": "204室 Rm 204, The University of, Chong Yuet Ming Amenities Centre, 香港薄扶林香港大學莊月明文娛中心, Pok Fu Lam Rd, Pok Fu Lam, Hong Kong",
+        "电话": "2540 6685",
+        "营业时间": [
+            "星期一至日: 9:00 AM – 7:00 PM"],
+        "latitude": 22.2826113,
+        "longitude": 114.1390585
+    },
+    {
+        "名称": "PARKnSHOP 百佳(恒景商場)",
+        "地址": "新界葵涌榮芳路9號恆景花園恒景商場1樓103-106號舖 Shop Nos. 103-106, First Floor, Hang King Shopping Arcade, Hang King Garden, 9 Wing Fong Road, N.T, Kwai Chung, Hong Kong",
+        "电话": "2405 1112",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3604769,
+        "longitude": 114.1278523
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (茘枝角道)",
+        "地址": "288號地下2號舖 地下2, 288 Lai Chi Kok Rd, Sham Shui Po, Hong Kong",
+        "电话": "2720 0631",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:00 PM"],
+        "latitude": 22.3279672,
+        "longitude": 114.161495
+    },
+    {
+        "名称": "PARKnSHOP 百佳(藍澄灣)",
+        "地址": "商場1樓3號舖 Shop No. 3, Level, 1 of the Podium of, Rambler Crest Tower 6, 新界青衣青衣路1號藍澄灣, N.T, Tsing Yi, Hong Kong",
+        "电话": "3520 2410",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 9:30 PM"],
+        "latitude": 22.3437083,
+        "longitude": 114.1103509
+    },
+    {
+        "名称": "PARKnSHOP 百佳(采頤花園)",
+        "地址": "Nos. 880-892, Ground Floor, 商舖 Shop, Rhythm Garden Block 6, 九龍新蒲崗彩虹道242號采頤花園地下880-892號, 242 Choi Hung Rd, San Po Kong, Hong Kong",
+        "电话": "2327 7638",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3357244,
+        "longitude": 114.2029199
+    },
+    {
+        "名称": "PARKnSHOP 百佳(結志街)",
+        "地址": "G/F, Lyndhurst Building, 香港中環擺花街23-39號中環大廈地下 Shop, 2A Gage St, Central, Hong Kong",
+        "电话": "2815 1450",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.2827177,
+        "longitude": 114.1537154
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (青怡薈)",
+        "地址": "新界青衣青綠街7-19號青怡花園青怡薈地下1號 Shop No. 1, G/F, Tsing Yi Square, Tsing Yi Garden, Nos. 7-19 Tsing Luk Street, N.T, Tsing Yi, Hong Kong",
+        "电话": "2495 1131",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3538059,
+        "longitude": 114.10443
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (祖堯邨)",
+        "地址": "N.T, 新界葵涌祖堯邨敬祖路6號D座地下3-8號舖 Shop Nos. 3-8, G/F, Blk D, Cho Yiu Chuen, 6 King Cho Rd, Kwai Chung, Hong Kong",
+        "电话": "2744 8045",
+        "营业时间": [
+            "星期一至日: 8:30 AM – 10:30 PM"],
+        "latitude": 22.3457481,
+        "longitude": 114.1284405
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (廣東道（油麻地）)",
+        "地址": "Nos. 24, 九龍油麻地廣東道831號金華大廈F及G座地下 Shop B2 on Ground Floor, Kam Wah Building, Nos. 831A - 831H & 831J - 831L Canton Road, 26 & 26A Pitt St, Yau Ma Tei, Hong Kong",
+        "电话": "2750 2898",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3131317,
+        "longitude": 114.1681803
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (美孚)",
+        "地址": "九龍荔枝角荔灣道10-16號美孚新邨第七期萬事達廣場地下N50B舖 Shop N50B, G/F, Mount Sterling Mall, Stage 7 Mei Foo Sun Chuen, Nos.10-16 Lai Wan Road, Lai Chi Kok, Kowloon, Hong Kong",
+        "电话": "2741 6578",
+        "营业时间": [
+            "星期一至日: 7:30 AM – 11:00 PM"],
+        "latitude": 22.337744,
+        "longitude": 114.138095
+    },
+    {
+        "名称": "PARKnSHOP (Chevalier Garden)",
+        "地址": "新界沙田馬鞍山恆信街2號富安花園1樓部份 Restaurant on the First Floor of the Commercial and Garage Block of Chevalier Garden, 2 Hang Shun Street, Sha Tin, N.T, Ma On Shan, Hong Kong",
+        "电话": "2702 4688",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.4048944,
+        "longitude": 114.2233169
+    },
+    {
+        "名称": "International (紅磡置富都會)",
+        "地址": "Level 7, Metropolis Mall, 九龍紅磡國際都會7樓729-735號舖 Shop Nos. 729-733, 6 Metropolis Dr, Hung Hom, Hong Kong",
+        "电话": "3162 3290",
+        "营业时间": [
+            "星期一至日: 9:30 AM – 10:30 PM"],
+        "latitude": 22.3027668,
+        "longitude": 114.1830425
+    },
+    {
+        "名称": "PARKnSHOP 百佳(衍慶街)",
+        "地址": "Nos 21, 23, 27 and 29, Foo Yuen Building, 九龍新蒲崗衍慶街21-29號富源樓地下 Portion of G/F, Yin Hing St, San Po Kong, Hong Kong",
+        "电话": "2320 1067",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.3356582,
+        "longitude": 114.1950502
+    },
+    {
+        "名称": "PARKnSHOP 百佳 (洪福商場)",
+        "地址": "14號舖 Shop, N.T, Hung Fuk Shopping Centre, 新界元朗洪水橋洪福邨, No. 14 Hung Fuk Estate, Hung Shui Kiu, Hong Kong",
+        "电话": "2427 7108",
+        "营业时间": [
+            "星期一至日: 8:00 AM – 10:30 PM"],
+        "latitude": 22.4362516,
+        "longitude": 113.9977878
+    }
+]
