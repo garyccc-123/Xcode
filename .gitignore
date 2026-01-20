@@ -1,7 +1,4 @@
-## OS X
 .DS_Store
-
-## Xcode
 build/
 DerivedData/
 *.model/
@@ -9,7 +6,5 @@ DerivedData/
 *.ipa
 *.dSYM.zip
 *.dSYM
-
-## User settings (非常重要，這是每台電腦獨有的設定)
 xcuserdata/
 *.xcuserstate
