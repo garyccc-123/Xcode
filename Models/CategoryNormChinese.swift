@@ -880,161 +880,543 @@ let subCategoryNormToChinese: [String: [String: String]] = [
     "yanjing draft":"燕京啤酒"
     
   ],
-  "紅酒": [
-    "19 crimes": "19 Crimes紅酒系列",
-    "abtei himmerod": "Abtei Himmerod紅酒系列",
-    "allees cante haut": "Allees Cante Haut紅酒系列",
-    "anakena nuna": "Anakena Nuna紅酒系列",
-    "aney haut": "Aney Haut紅酒系列",
-    "antu": "Antu紅酒系列",
-    "apothic": "Apothic紅酒系列",
-    "arrogant frog": "Arrogant Frog紅酒系列",
-    "avamposti piemonte": "Avamposti Piemonte紅酒系列",
-    "b père r mouton cadet rouge 12 x 750ml": "B Père R Mouton Cadet Rouge 12 X 750Ml紅酒系列",
-    "babich winemakers": "Babich Winemakers紅酒系列",
-    "banrock station": "Banrock Station紅酒系列",
-    "barefoot": "Barefoot紅酒系列",
-    "baron": "Baron紅酒系列",
-    "beefsteak club": "Beefsteak Club紅酒系列",
-    "beefsteakclub": "Beefsteakclub紅酒系列",
-    "beringer founders": "Beringer Founders紅酒系列",
-    "bodega norton 1895 coleccion": "Bodega Norton 1895 Coleccion紅酒系列",
-    "bodegas riojanas": "Bodegas Riojanas紅酒系列",
-    "bonpas": "Bonpas紅酒系列",
-    "calvet": "Calvet紅酒系列",
-    "campo viejo": "Campo Viejo紅酒系列",
-    "cape": "Cape紅酒系列",
-    "carlo rossi": "Carlo Rossi紅酒系列",
-    "carnivor": "Carnivor紅酒系列",
-    "cartillon haut": "Cartillon Haut紅酒系列",
-    "castelmaure corbieres": "Castelmaure Corbieres紅酒系列",
-    "castillo albai": "Castillo Albai紅酒系列",
-    "cel des": "Cel Des紅酒系列",
-    "chap moines saint": "Chap Moines Saint紅酒系列",
-    "chapel hill the parson": "Chapel Hill The Parson紅酒系列",
-    "chateau": "Chateau紅酒系列",
-    "chemin des papes": "Chemin Des Papes紅酒系列",
-    "château": "Château紅酒系列",
-    "circumference napa valley": "Circumference Napa Valley紅酒系列",
-    "clarendelle": "Clarendelle紅酒系列",
-    "clos dominique cuvée autrement": "Clos Dominique Cuvée Autrement紅酒系列",
-    "con de oriza ribera del duero": "Con De Oriza Ribera Del Duero紅酒系列",
-    "concha y": "Concha Y紅酒系列",
-    "confidences de": "Confidences De紅酒系列",
-    "cono sur": "Cono Sur紅酒系列",
-    "cote mas": "Cote Mas紅酒系列",
-    "croix montlabert saint": "Croix Montlabert Saint紅酒系列",
-    "darcins haut": "Darcins Haut紅酒系列",
-    "dark horse california": "Dark Horse California紅酒系列",
-    "dbr lafite": "Dbr Lafite紅酒系列",
-    "de bortoli noble one bot semil 375ml": "De Bortoli Noble One Bot Semil 375Ml紅酒系列",
-    "dom daussieres altan daussieres": "Dom Daussieres Altan Daussieres紅酒系列",
-    "don luciano": "Don Luciano紅酒系列",
-    "e guigal": "E Guigal紅酒系列",
-    "edmond de rothschild croix des laurets": "Edmond De Rothschild Croix Des Laurets紅酒系列",
-    "emalee": "Emalee紅酒系列",
-    "fam lapalu": "Fam Lapalu紅酒系列",
-    "frank family": "Frank Family紅酒系列",
-    "franzia": "Franzia紅酒系列",
-    "french cellars": "French Cellars紅酒系列",
-    "frescobaldi tenuta di castiglioni": "Frescobaldi Tenuta Di Castiglioni紅酒系列",
-    "genestras": "Genestras紅酒系列",
-    "george wyndham": "George Wyndham紅酒系列",
-    "gerard bertrand": "Gerard Bertrand紅酒系列",
-    "grant burge": "Grant Burge紅酒系列",
-    "h faugeres saint": "H Faugeres Saint紅酒系列",
-    "hahn": "Hahn紅酒系列",
-    "hahn slh": "Hahn Slh紅酒系列",
-    "hardys": "Hardys紅酒系列",
-    "ht branaire ducru haut": "Ht Branaire Ducru Haut紅酒系列",
-    "jacobs creek": "Jacobs Creek紅酒系列",
-    "jalousie beaulieu château jalousie beaulieu": "Jalousie Beaulieu Château Jalousie Beaulieu紅酒系列",
-    "jean bouchard": "Jean Bouchard紅酒系列",
-    "jj mcwilliam": "Jj Mcwilliam紅酒系列",
-    "jp chenet vdp doc": "Jp Chenet Vdp Doc紅酒系列",
-    "k": "K紅酒系列",
-    "kaiken by montes": "Kaiken By Montes紅酒系列",
-    "kangaroo ridge": "Kangaroo Ridge紅酒系列",
-    "kendall jackson": "Kendall Jackson紅酒系列",
-    "koyle": "Koyle紅酒系列",
-    "koyle royale": "Koyle Royale紅酒系列",
-    "la": "La紅酒系列",
-    "la roche": "La Roche紅酒系列",
-    "lafite": "Lafite紅酒系列",
-    "le haut médoc dissan 2016 750ml": "Le Haut Médoc Dissan 2016 750Ml紅酒系列",
-    "legende": "Legende紅酒系列",
-    "les": "Les紅酒系列",
-    "lescalle": "Lescalle紅酒系列",
-    "leydet valen saint": "Leydet Valen Saint紅酒系列",
-    "lindemans cawarra": "Lindemans Cawarra紅酒系列",
-    "little giant": "Little Giant紅酒系列",
-    "locations e spanish": "Locations E Spanish紅酒系列",
-    "los vascos": "Los Vascos紅酒系列",
-    "louis latour côte de beaune villages 750ml": "Louis Latour Côte De Beaune Villages 750Ml紅酒系列",
-    "m cellars": "M Cellars紅酒系列",
-    "mabalel": "Mabalel紅酒系列",
-    "maison castel": "Maison Castel紅酒系列",
-    "marjosse": "Marjosse紅酒系列",
-    "marques de": "Marques De紅酒系列",
-    "matua marlborough": "Matua Marlborough紅酒系列",
-    "mcguigan black label": "Mcguigan Black Label紅酒系列",
-    "michel lynch nature rouge": "Michel Lynch Nature Rouge紅酒系列",
-    "mission est hawkes bay": "Mission Est Hawkes Bay紅酒系列",
-    "mont": "Mont紅酒系列",
-    "montes": "Montes紅酒系列",
-    "motif": "Motif紅酒系列",
-    "moulin dissan md": "Moulin Dissan Md紅酒系列",
-    "mount peak": "Mount Peak紅酒系列",
-    "mouton cadet": "Mouton Cadet紅酒系列",
-    "mucho más": "Mucho Más紅酒系列",
-    "mud": "Mud紅酒系列",
-    "ox hardy mclaren vale grenach 750ml": "Ox Hardy Mclaren Vale Grenach 750Ml紅酒系列",
-    "oyster bay": "Oyster Bay紅酒系列",
-    "paloumey ailes de paloumey haut": "Paloumey Ailes De Paloumey Haut紅酒系列",
-    "penfolds": "Penfolds紅酒系列",
-    "pensees tour carnet haut": "Pensees Tour Carnet Haut紅酒系列",
-    "petaluma yellow": "Petaluma Yellow紅酒系列",
-    "peter max": "Peter Max紅酒系列",
-    "petit": "Petit紅酒系列",
-    "pio cesare": "Pio Cesare紅酒系列",
-    "raimat": "Raimat紅酒系列",
-    "rambeau lussac saint": "Rambeau Lussac Saint紅酒系列",
-    "rauzan gassies haut": "Rauzan Gassies Haut紅酒系列",
-    "rawson retreat": "Rawson Retreat紅酒系列",
-    "rawsons retreat": "Rawsons Retreat紅酒系列",
-    "ricossa": "Ricossa紅酒系列",
-    "riedel o to go": "Riedel O To Go紅酒系列",
-    "rupert & rothschild rupert & rothschild classique": "Rupert & Rothschild Rupert & Rothschild Classique紅酒系列",
-    "saga": "Saga紅酒系列",
-    "saint": "Saint紅酒系列",
-    "santa": "Santa紅酒系列",
-    "sarget de gruaud larose saint julien 750ml": "Sarget De Gruaud Larose Saint Julien 750Ml紅酒系列",
-    "second camensac haut": "Second Camensac Haut紅酒系列",
-    "sherwood": "Sherwood紅酒系列",
-    "stanley": "Stanley紅酒系列",
-    "stanley traditional": "Stanley Traditional紅酒系列",
-    "substance": "Substance紅酒系列",
-    "suntory antioxidant additive free": "Suntory Antioxidant Additive Free紅酒系列",
-    "terr baume": "Terr Baume紅酒系列",
-    "terra vega": "Terra Vega紅酒系列",
-    "terrunyo": "Terrunyo紅酒系列",
-    "tessellae old vines": "Tessellae Old Vines紅酒系列",
-    "the": "The紅酒系列",
-    "tierra de": "Tierra De紅酒系列",
-    "tilia": "Tilia紅酒系列",
-    "tommasi": "Tommasi紅酒系列",
-    "torres sangres de toro": "Torres Sangres De Toro紅酒系列",
-    "tread softly": "Tread Softly紅酒系列",
-    "trocard": "Trocard紅酒系列",
-    "unknown": "Unknown紅酒系列",
-    "vieux château": "Vieux Château紅酒系列",
-    "vina": "Vina紅酒系列",
-    "waitrose": "Waitrose紅酒系列",
-    "whistler barossa": "Whistler Barossa紅酒系列",
-    "wolf blass": "Wolf Blass紅酒系列",
-    "wynns": "Wynns紅酒系列",
-    "yalumba": "Yalumba紅酒系列",
-    "yellow tail": "Yellow Tail紅酒系列"
-  ],
+  "紅酒":
+    [
+      // 19 Crimes
+      "19 crimes blend red":                           "19 Crimes 紅混合酒",
+      "19 crimes cabernet sauvignon":                  "19 Crimes 赤霞珠",
+      "19 crimes shiraz":                              "19 Crimes 西拉",
+
+      // Abtei Himmerod
+      "abtei himmerod riesling spatlese":              "Abtei Himmerod 雷司令晚收甜白酒",
+
+      // Allees Cante
+      "allees cante haut medoc":                       "Allees de Cantemerle (康特梅爾副牌)",
+
+      // Anakena
+      "anakena nuna carmenere":                        "Anakena Nuna 佳美娜",
+      "anakena nuna malbec":                           "Anakena Nuna 馬爾貝克",
+
+      // Aney
+      "aney haut medoc":                               "Chateau Aney Haut Medoc",
+
+      // Antu
+      "antu cabernet sauvignon":                       "Antu 赤霞珠",
+      "antu shiraz":                                   "Antu 西拉",
+
+      // Apothic (耶波席)
+      "apothic blend red":                             "Apothic 紅混合酒",
+      "apothic cabernet sauvignon":                    "Apothic 赤霞珠",
+      "apothic crush":                                 "Apothic Crush",
+      "apothic dark":                                  "Apothic Dark",
+
+      // Arrogant Frog (傲蛙)
+      "arrogant frog cabernet sauvignon merlot cuvee": "Arrogant Frog 赤霞珠梅洛",
+      "arrogant frog tutti frutti":                    "Arrogant Frog Tutti Frutti",
+
+      // Avamposti
+      "avamposti piemonte pinot noir":                 "Avamposti 皮埃蒙特黑皮諾",
+
+      // Babich
+      "babich winemakers pinot noir reserve":          "Babich Winemakers 黑皮諾珍藏",
+
+      // Banrock Station (班洛克)
+      "banrock station shiraz":                        "Banrock Station 西拉",
+      "banrock station shiraz cabernet":               "Banrock Station 西拉赤霞珠",
+
+      // Barefoot
+      "barefoot cabernet sauvignon":                   "Barefoot 赤霞珠",
+      "barefoot merlot":                               "Barefoot 梅洛",
+      "barefoot rich blend red":                       "Barefoot 濃郁紅混合酒",
+
+      // Baron
+      "baron philippe rothschild bordeaux":            "Baron Philippe de Rothschild 波爾多紅酒",
+      "baron richemont bordeaux superieur":            "Baron Richemont 優質波爾多",
+
+      // Beefsteak Club
+      "beefsteak club malbec":                         "Beefsteak Club 馬爾貝克",
+      "beefsteak club shiraz":                         "Beefsteak Club 西拉",
+
+      // Beringer (貝靈哲)
+      "beringer founders estate pinot noir":           "Beringer Founders' Estate 黑皮諾",
+
+      // Bodega Norton (諾頓)
+      "bodega norton 1895 coleccion malbec":           "Bodega Norton 1895 馬爾貝克",
+
+      // Bodegas Riojanas
+      "bodegas riojanas monte real blanco":            "Monte Real 白酒",
+      "bodegas riojanas monte real crianza":           "Monte Real 陳釀紅酒",
+
+      // Bonpas
+      "bonpas cotes red rhone":                        "Bonpas 隆河谷紅酒",
+      "bonpas cotes rhone villages plan dieu":         "Bonpas 隆河谷村莊級紅酒",
+
+      // De Bortoli
+      "bortoli noble one":                             "De Bortoli Noble One 貴腐甜酒",
+
+      // Calvet (卡爾維特)
+      "calvet reserve bordeaux":                       "Calvet 珍藏波爾多紅酒",
+
+      // Campo Viejo (帝田)
+      "campo viejo rioja reserva":                     "Campo Viejo 里奧哈珍藏紅酒",
+
+      // Cape Kaki
+      "cape kaki marlborough pinot noir":              "Cape Kaki 馬爾堡黑皮諾",
+
+      // Carlo Rossi (加州樂事)
+      "carlo rossi california dark red":               "加州樂事 黑紅酒 (Dark Red)",
+      "carlo rossi california red":                    "加州樂事 紅酒 (Red)",
+      "carlo rossi moscato red":                       "加州樂事 莫斯卡托甜紅酒",
+
+      // Carnivor
+      "carnivor bourbon barrel aged cabernet sauvignon": "Carnivor 波本桶陳釀赤霞珠",
+      "carnivor zinfandel":                            "Carnivor 仙粉黛",
+
+      // Cartillon
+      "cartillon haut medoc":                          "Chateau Cartillon Haut Medoc",
+
+      // Castelmaure
+      "castelmaure corbieres":                         "Castelmaure Corbieres",
+
+      // Castillo Albai
+      "castillo albai rioja joven":                    "Castillo Albai 里奧哈新酒",
+      "castillo albai rioja reserva":                  "Castillo Albai 里奧哈珍藏",
+
+      // Cel Des Dauphins
+      "cel des dauphins red":                          "Cel Des Dauphins 紅酒",
+      "cel des dauphins white":                        "Cel Des Dauphins 白酒",
+
+      // Cellar Selection
+      "cellar selection ac bordeaux red":              "Cellar Selection 波爾多紅酒",
+      "cellar selection bergerac red":                 "Cellar Selection 貝傑拉克紅酒",
+
+      // Chateau (酒莊)
+      "ch belles eaux les coteaux":                    "Chateau Belles Eaux Les Coteaux",
+      "ch brandey aoc bordeaux":                       "Chateau Brandey 波爾多",
+      "ch ferrande graves":                            "Chateau Ferrande 格拉夫",
+      "ch fonpiqueyre haut medoc":                     "Chateau Fonpiqueyre 上梅多克",
+      "ch garat bel air bordeaux":                     "Chateau Garat Bel Air 波爾多",
+      "ch latour camblanes aoc 1res cotes bordeaux":   "Chateau Latour Camblanes 波爾多首丘",
+      "ch laville bertrou minervois":                  "Chateau Laville Bertrou",
+      "ch lieujean haut medoc cru bourgeois":          "Chateau Lieujean 上梅多克中級莊",
+      "ch liversan haut medoc cru bourgeois":          "Chateau Liversan 上梅多克中級莊",
+      "ch lynch bages":                                "Chateau Lynch Bages (靚次伯)",
+      "ch meaume bordeaux superieur":                  "Chateau Meaume 優質波爾多",
+      "ch montrose tertio montrose":                   "Le Tertio de Montrose (玫瑰山莊三牌)",
+      "ch rougi bordeaux":                             "Chateau Rougi 波爾多",
+      "ch ste michelle cabernet sauvignon":            "Chateau Ste Michelle 赤霞珠",
+      "ch tour prignac aoc medoc":                     "Chateau Tour Prignac 梅多克",
+      
+      // Famous Chateaus
+      "chateau bourdieu blaye cotes bordeaux":         "Chateau Bourdieu 布萊伊",
+      "chateau brane cantenac margaux":                "Chateau Brane-Cantenac (布朗康田)",
+      "chateau brown pessac leognan":                  "Chateau Brown 佩薩克-雷奧良",
+      "chateau camensac haut medoc":                   "Chateau Camensac (卡門薩克)",
+      "chateau carbonnieux pessac leognan":            "Chateau Carbonnieux (卡爾邦女)",
+      "chateau citran haut medoc":                     "Chateau Citran (西特蘭)",
+      "chateau clinet petit ronan bordeaux":           "Ronan by Clinet 波爾多",
+      "chateau conseillante duo pomerol":              "Duo de Conseillante (康賽揚副牌)",
+      "chateau daiguilhe castillon bordeaux":          "Chateau d'Aiguilhe (艾吉爾)",
+      "chateau ducru beaucaillou haut medoc":          "Chateau Ducru-Beaucaillou (寶嘉龍)",
+      "chateau faugeres saint emilion":                "Chateau Faugeres (福熱爾)",
+      "chateau fieuzal pessac leognan":                "Chateau de Fieuzal (菲熱爾)",
+      "chateau fleur bouard lalande pomerol":          "Chateau La Fleur de Bouard",
+      "chateau gemeillan medoc":                       "Chateau Gemeillan 梅多克",
+      "chateau giscours":                              "Chateau Giscours (美人魚)",
+      "chateau haut bergey pessac leognan":            "Chateau Haut-Bergey",
+      "chateau holden haut medoc":                     "Chateau Holden 上梅多克",
+      "chateau lanessan haut medoc":                   "Chateau Lanessan 上梅多克",
+      "chateau langoa barton saint julien":            "Chateau Langoa Barton (朗高巴頓)",
+      "chateau larrivet haut brion pessac leognan":    "Chateau Larrivet Haut-Brion",
+      "chateau les bertrands blaye bordeaux":          "Chateau Les Bertrands",
+      "chateau les vallees bordeaux":                  "Chateau Les Vallees",
+      "chateau lilian ladouys saint estephe":          "Chateau Lilian Ladouys (麗蓮)",
+      "chateau mareil medoc":                          "Chateau Mareil 梅多克",
+      "chateau pape clement pessac leognan":           "Chateau Pape Clement (黑教皇)",
+      "chateau puygueraud francs bordeaux":            "Chateau Puygueraud",
+      "chateau romefort haut medoc":                   "Chateau Romefort 上梅多克",
+      "chateau simard saint emilion":                  "Chateau Simard 聖埃美隆",
+      "chateau talbot connetable saint julien":        "Connetable Talbot (大寶副牌)",
+      "chateau tour carnet haut medoc":                "Chateau La Tour Carnet",
+      
+      // Others
+      "chap moines saint emilion":                     "Chapelle des Moines 聖埃美隆",
+      "chapel hill parson gsm":                        "Chapel Hill The Parson GSM",
+      "chemin des papes cotes rhone white":            "Chemin des Papes 隆河谷白酒",
+      "circumference napa cabernet sauvignon":         "Circumference 納帕谷赤霞珠",
+      
+      // Clarendelle
+      "clarendelle medoc":                             "Clarendelle 梅多克",
+      "clarendelle rouge":                             "Clarendelle 波爾多紅酒",
+      "clarendelle saint emilion":                     "Clarendelle 聖埃美隆",
+      
+      "clos dominique bordeaux superieur":             "Clos Dominique 優質波爾多",
+      "con de oriza ribera del duero":                 "Con de Oriza",
+      
+      // Concha y Toro (干露)
+      "concha y toro casillero del diablo cabernet sauvignon": "紅魔鬼 (Casillero del Diablo) 赤霞珠",
+      "concha y toro casillero del diablo merlot":     "紅魔鬼 (Casillero del Diablo) 梅洛",
+      "concha y toro marques de casa cabernet sauvignon": "Concha y Toro 麥卡斯赤霞珠",
+      
+      "confidences de prieure lichine margaux":        "Confidences de Prieure-Lichine (荔仙副牌)",
+      
+      // Cono Sur (單車)
+      "cono sur bicicleta cabernet":                   "Cono Sur Bicicleta 赤霞珠",
+      "cono sur bicicleta pinot noir":                 "Cono Sur Bicicleta 黑皮諾",
+      "cono sur single vineyard cabernet sauvignon":   "Cono Sur 單一葡萄園赤霞珠",
+      "cono sur single vineyard pinot noir":           "Cono Sur 單一葡萄園黑皮諾",
+      
+      "cote mas syrah grenache":                       "Cote Mas 西拉歌海娜",
+      "croix montlabert saint emilion":                "Croix de Montlabert 聖埃美隆",
+      "darcins haut medoc":                            "Chateau d'Arcins 上梅多克",
+      "dark horse california cabernet sauvignon":      "Dark Horse 加州赤霞珠",
+      
+      // DBR Lafite (拉菲羅斯柴爾德)
+      "dbr lafite aussieres rouge":                    "拉菲奧希耶 (Aussieres Rouge)",
+      "dbr lafite chateau paradis casseuil":           "拉菲凱薩天堂古堡",
+      "dom daussieres altan":                          "Altan d'Aussieres",
+      "lafite aussieres classique cabernet syrah":     "拉菲奧希耶經典",
+      "lafite terrasses d'aussieres corbieres":        "拉菲奧希耶泰瑞",
+      "legende medoc":                                 "Legende (拉菲傳奇) 梅多克",
+      "saga bordeaux":                                 "Saga (拉菲傳說) 波爾多",
+      
+      "don luciano tempranillo":                       "Don Luciano 丹魄",
+      
+      // E. Guigal
+      "e guigal cotes du rhone rouge":                 "E. Guigal 隆河谷紅酒",
+      "e guigal gigondas":                             "E. Guigal 吉貢達斯",
+      
+      "edmond de rothschild croix des laurets":        "Edmond de Rothschild 勞瑞得",
+      "emalee estate barossa shiraz":                  "Emalee Estate 巴羅薩西拉",
+      "emalee estate cabernet sauvignon":              "Emalee Estate 赤霞珠",
+      "emalee estate shiraz":                          "Emalee Estate 西拉",
+      "fam lapalu medoc":                              "Famille Lapalu 梅多克",
+      "frank family napa cabernet sauvignon":          "Frank Family 納帕谷赤霞珠",
+      "frank family napa zinfandel":                   "Frank Family 納帕谷仙粉黛",
+      "franzia red":                                   "Franzia 紅酒",
+      
+      // French Cellars
+      "french cellars cabernet sauvignon":             "French Cellars 赤霞珠",
+      "french cellars grenache shiraz":                "French Cellars 歌海娜西拉",
+      "french cellars merlot":                         "French Cellars 梅洛",
+      "french cellars pinot noir":                     "French Cellars 黑皮諾",
+      "french cellars shiraz":                         "French Cellars 西拉",
+      
+      "frescobaldi tenuta di castiglioni":             "Frescobaldi (花思蝶) Castiglioni",
+      "genestras medoc":                               "Chateau Genestras 梅多克",
+      
+      // George Wyndham (喬治雲咸)
+      "george wyndham bin 444 cabernet sauvignon":     "George Wyndham Bin 444 赤霞珠",
+      "george wyndham bin 555 shiraz":                 "George Wyndham Bin 555 西拉",
+      "george wyndham bin 888 cabernet merlot":        "George Wyndham Bin 888 赤霞珠梅洛",
+      
+      "gerard bertrand cotes du roussillon":           "Gerard Bertrand 魯西榮",
+      "gerard bertrand saint chinian":                 "Gerard Bertrand 聖席尼昂",
+      "grand bateau bordeaux rouge":                   "Grand Bateau (小龍船) 波爾多紅酒",
+      "grand meynau bordeaux":                         "Grand Meynau 波爾多",
+      
+      // Grant Burge
+      "grant burge abednego barossa gsm":              "Grant Burge Abednego GSM",
+      "grant burge balthasar shiraz":                  "Grant Burge Balthasar 西拉",
+      "grant burge barossa cabernet merlot 5th generation": "Grant Burge 第五代 赤霞珠梅洛",
+      "grant burge barossa ink cabernet sauvignon":    "Grant Burge Barossa Ink 赤霞珠",
+      "grant burge barossa ink shiraz":                "Grant Burge Barossa Ink 西拉",
+      "grant burge barossa shiraz 5th generation":     "Grant Burge 第五代 西拉",
+      "grant burge corryton park cabernet sauvignon":  "Grant Burge Corryton Park 赤霞珠",
+      "grant burge 5th generation cabernet merlot":    "Grant Burge 第五代 赤霞珠梅洛",
+      "grant burge 5th generation shiraz":             "Grant Burge 第五代 西拉",
+      "grant burge filsell old vine shiraz":           "Grant Burge Filsell 老藤西拉",
+      "grant burge gb51 cabernet shiraz":              "Grant Burge GB51 赤霞珠西拉",
+      "grant burge gb56 series shiraz":                "Grant Burge GB56 西拉",
+      "grant burge gb88 series cabernet sauvignon":    "Grant Burge GB88 赤霞珠",
+      "grant burge holy trinity gsm":                  "Grant Burge Holy Trinity GSM",
+      "grant burge ink coonawarra cabernet sauvignon": "Grant Burge Ink 庫納瓦拉赤霞珠",
+      "grant burge ink mclaren vale shiraz":           "Grant Burge Ink 麥拿倫谷西拉",
+      "grant burge miamba shiraz":                     "Grant Burge Miamba 西拉",
+      "grant burge nebu cabernet shiraz":              "Grant Burge Nebu 赤霞珠西拉",
+      "grant burge shadrach barossa cabernet sauvignon": "Grant Burge Shadrach 赤霞珠",
+      
+      "h faugeres saint emilion grand cru":            "Cap de Faugeres 聖埃美隆",
+      
+      // Hahn
+      "hahn cabernet sauvignon":                       "Hahn 赤霞珠",
+      "hahn gsm":                                      "Hahn GSM",
+      "hahn pinot noir":                               "Hahn 黑皮諾",
+      "hahn slh pinot noir":                           "Hahn SLH 黑皮諾",
+      
+      // St Hallett
+      "st hallett blackclay shiraz":                   "St Hallett Blackclay 西拉",
+      "st hallett blackwell shiraz":                   "St Hallett Blackwell 西拉",
+      "st hallett butchers cart shiraz":               "St Hallett Butchers Cart 西拉",
+      "st hallett faith shiraz":                       "St Hallett Faith 西拉",
+      "st hallett old block shiraz":                   "St Hallett Old Block 西拉",
+      
+      // Hardys (夏迪)
+      "hardys cabernet sauvignon":                     "Hardys 赤霞珠",
+      "hardys eileen hardys shiraz":                   "Hardys Eileen Hardy 西拉",
+      "hardys hrb cabernet sauvignon":                 "Hardys HRB 赤霞珠",
+      "hardys hrb pinot noir":                         "Hardys HRB 黑皮諾",
+      "hardys hrb shiraz":                             "Hardys HRB 西拉",
+      "hardys nottage hill cabernet shiraz":           "Hardys Nottage Hill 赤霞珠西拉",
+      "hardys nottage hill shiraz":                    "Hardys Nottage Hill 西拉",
+      "hardys shiraz cask":                            "Hardys 西拉 (盒裝)",
+      "hardys stamp shiraz cabernet":                  "Hardys Stamp 西拉赤霞珠",
+      "hardys thomas hardy cabernet sauvignon":        "Hardys Thomas Hardy 赤霞珠",
+      "hardys tintara reserve grenache":               "Hardys Tintara 歌海娜",
+      "hardys vr cabernet sauvignon":                  "Hardys VR 赤霞珠",
+      "hardys vr merlot":                              "Hardys VR 梅洛",
+      "hardys vr shiraz":                              "Hardys VR 西拉",
+      "hardys zero alcohol shiraz":                    "Hardys 無酒精西拉",
+      
+      "le haut medoc dissan":                          "Le Haut-Medoc d'Issan (迪仙副牌)",
+      "ht branaire ducru haut medoc":                  "Chateau Branaire-Ducru (周伯通)",
+      "st hugo cabernet sauvignon":                    "St Hugo 赤霞珠",
+      
+      // Jacob's Creek (傑卡斯)
+      "jacobs creek cabernet":                         "Jacob's Creek 赤霞珠",
+      "jacobs creek classic shiraz cabernet":          "Jacob's Creek 經典西拉赤霞珠",
+      "jacobs creek double barrel red":                "Jacob's Creek 雙桶紅酒",
+      "jacobs creek double barrel cabernet":           "Jacob's Creek 雙桶赤霞珠",
+      "jacobs creek double barrel shiraz":             "Jacob's Creek 雙桶西拉",
+      "jacobs creek reserve cabernet sauvignon":       "Jacob's Creek 珍藏赤霞珠",
+      "jacobs creek reserve shiraz":                   "Jacob's Creek 珍藏西拉",
+      "jacobs creek shiraz cabernet":                  "Jacob's Creek 西拉赤霞珠",
+      
+      "jalousie beaulieu chateau jalousie beaulieu":   "Chateau Jalousie Beaulieu",
+      "jean bouchard cote de beaune villages":         "Jean Bouchard 伯恩丘村莊級",
+      "jean bouchard savigny les beaune premier cru":  "Jean Bouchard 薩維尼一級園",
+      
+      // JJ McWilliam
+      "jj mcwilliam cabernet merlot":                  "JJ McWilliam 赤霞珠梅洛",
+      "jj mcwilliam shiraz":                           "JJ McWilliam 西拉",
+      "jj mcwilliam shiraz cabernet":                  "JJ McWilliam 西拉赤霞珠",
+      
+      "jp chenet cabernet syrah":                      "JP Chenet 赤霞珠西拉",
+      "k constantia red blend":                        "Klein Constantia 紅混合酒",
+      "k vintners milbrandt syrah":                    "K Vintners Milbrandt 西拉",
+      "kaiken by montes malbec":                       "Kaiken (by Montes) 馬爾貝克",
+      
+      // Kangaroo Ridge (袋鼠山)
+      "kangaroo ridge cabernet sauvignon":             "Kangaroo Ridge 赤霞珠",
+      "kangaroo ridge merlot":                         "Kangaroo Ridge 梅洛",
+      "kangaroo ridge shiraz":                         "Kangaroo Ridge 西拉",
+      
+      "kendall jackson reserve zinfandel":             "Kendall-Jackson 珍藏仙粉黛",
+      "koyle reserve cabernet sauvignon":              "Koyle 珍藏赤霞珠",
+      "koyle royale cabernet sauvignon":               "Koyle Royale 赤霞珠",
+      "koyle royale carmenere":                        "Koyle Royale 佳美娜",
+      "koyle royale syrah":                            "Koyle Royale 西拉",
+      
+      "les charmeuses bourgogne pinot noir":           "Les Charmeuses 勃艮第黑皮諾",
+      "les fiefs de lagrange saint julien":            "Les Fiefs de Lagrange (拉格朗日副牌)",
+      "les pelerins de lafon rochet saint estephe":    "Les Pelerins de Lafon-Rochet",
+      "les pensees de la tour carnet haut medoc":      "Les Pensees de La Tour Carnet",
+      "lescalle bordeaux superieur":                   "Lescalle 優質波爾多",
+      "leydet valentin saint emilion":                 "Chateau Leydet-Valentin",
+      
+      // Lindemans (利達民)
+      "lindemans cawarra cabernet merlot":             "Lindemans Cawarra 赤霞珠梅洛",
+      "lindemans cawarra shiraz cabernet":             "Lindemans Cawarra 西拉赤霞珠",
+      
+      // Little Giant
+      "little giant barossa shiraz":                   "Little Giant 巴羅薩西拉",
+      "little giant coonawarra cabernet sauvignon":    "Little Giant 庫納瓦拉赤霞珠",
+      "little giant pinot noir":                       "Little Giant 黑皮諾",
+      
+      "locations e spanish red":                       "Locations E 西班牙紅酒",
+      
+      // Los Vascos (巴斯克)
+      "los vascos cabernet sauvignon":                 "Los Vascos 赤霞珠",
+      "los vascos cromas cabernet sauvignon gran reserva": "Los Vascos Cromas 特級珍藏赤霞珠",
+      "los vascos cromas carmenere gran reserva":      "Los Vascos Cromas 特級珍藏佳美娜",
+      "los vascos cromas grande reserve":              "Los Vascos Cromas 特級珍藏紅酒",
+      
+      "louis latour cote de beaune villages":          "Louis Latour (路易拉圖) 伯恩丘村莊級",
+      
+      // M Cellars
+      "m cellars cabernet sauvignon":                  "M Cellars 赤霞珠",
+      "m cellars merlot":                              "M Cellars 梅洛",
+      "m cellars pinot noir":                          "M Cellars 黑皮諾",
+      "m cellars saint emilion":                       "M Cellars 聖埃美隆",
+      "m cellars shiraz":                              "M Cellars 西拉",
+      
+      "mabalel pinot noir":                            "Mabalel 黑皮諾",
+      "maison castel cabernet sauvignon":              "Maison Castel 赤霞珠",
+      "sainte marguerite rose":                        "Sainte Marguerite 玫瑰紅酒",
+      "marjosse bordeaux":                             "Marjosse 波爾多",
+      
+      // Marques de Riscal (瑞格爾侯爵)
+      "marques de riscal proximo rioja":               "Marques de Riscal Proximo",
+      "marques de riscal reserva rioja":               "Marques de Riscal 珍藏紅酒",
+      "marques de riscal rueda blanco":                "Marques de Riscal 白酒",
+      
+      "matua marlborough pinot noir":                  "Matua 馬爾堡黑皮諾",
+      "mcguigan black label cabernet merlot":          "McGuigan Black Label 赤霞珠梅洛",
+      "michel lynch nature rouge":                     "Michel Lynch Nature 紅酒",
+      "mission estate hawkes bay pinot gris":          "Mission Estate 灰皮諾",
+      "mont olivet lirac":                             "Mont-Olivet Lirac",
+      
+      // MontGras
+      "montgras day one cabernet sauvignon":           "MontGras Day One 赤霞珠",
+      "montgras day one carmenere":                    "MontGras Day One 佳美娜",
+      "montgras day one merlot":                       "MontGras Day One 梅洛",
+      "montgras quatro reserva":                       "MontGras Quatro 珍藏",
+      "montgras sauvignon blanc reserva":              "MontGras 珍藏長相思",
+      
+      // Montes
+      "montes classic series malbec":                  "Montes 經典馬爾貝克",
+      "montes classic series merlot":                  "Montes 經典梅洛",
+      
+      "motif cabernet sauvignon":                      "Motif 赤霞珠",
+      "moulin dissan bordeaux superieur":              "Moulin d'Issan 優質波爾多",
+      "mount peak gravity red blend":                  "Mount Peak Gravity 紅混合酒",
+      "mount peak rattlesnake zinfandel":              "Mount Peak Rattlesnake 仙粉黛",
+      
+      // Mouton Cadet (武當嘉棣)
+      "mouton cadet bordeaux":                         "Mouton Cadet (武當嘉棣) 波爾多",
+      "mouton cadet reserve medoc":                    "Mouton Cadet (武當嘉棣) 珍藏梅多克",
+      
+      "mucho mas red blend":                           "Mucho Mas 紅混合酒",
+      
+      // Mud House
+      "mud house central otago pinot noir":            "Mud House 中奧塔哥黑皮諾",
+      
+      "ox hardy mclaren vale grenache":                "Ox Hardy 歌海娜",
+      
+      // Oyster Bay (蠔灣)
+      "oyster bay pinot gris":                         "Oyster Bay 灰皮諾",
+      "oyster bay marlborough sauvignon blanc":        "Oyster Bay 馬爾堡長相思",
+      "oyster bay merlot":                             "Oyster Bay 梅洛",
+      
+      "paloumey ailes de paloumey haut medoc":         "Ailes de Paloumey (帕露美副牌)",
+      
+      // Penfolds (奔富)
+      "penfolds bin 128 coonawarra shiraz":            "Penfolds (奔富) Bin 128 庫納瓦拉西拉",
+      "penfolds bin 138 barossa shiraz grenache mataro": "Penfolds (奔富) Bin 138 巴羅薩西拉歌海娜",
+      "penfolds bin 2 shiraz mataro":                  "Penfolds (奔富) Bin 2 西拉慕合懷特",
+      "penfolds bin 21 grenache":                      "Penfolds (奔富) Bin 21 歌海娜",
+      "penfolds bin 23 pinot noir":                    "Penfolds (奔富) Bin 23 黑皮諾",
+      "penfolds bin 28 kalimna shiraz":                "Penfolds (奔富) Bin 28 卡琳娜西拉",
+      "penfolds bin 389 cabernet shiraz":              "Penfolds (奔富) Bin 389 赤霞珠西拉",
+      "penfolds bin 407 cabernet sauvignon":           "Penfolds (奔富) Bin 407 赤霞珠",
+      "penfolds bin 600 cabernet shiraz":              "Penfolds (奔富) Bin 600 赤霞珠西拉",
+      "penfolds bin 704 napa cabernet sauvignon":      "Penfolds (奔富) Bin 704 納帕谷赤霞珠",
+      "penfolds bin 8 cabernet shiraz":                "Penfolds (奔富) Bin 8 赤霞珠西拉",
+      "penfolds cwt 521 cabernet sauvignon marselan":  "Penfolds (奔富) CWT 521 赤霞珠馬瑟蘭",
+      "penfolds grange":                               "Penfolds (奔富) Grange",
+      "penfolds st henri shiraz":                      "Penfolds (奔富) St Henri 西拉",
+      "penfolds koonunga hill cabernet sauvignon":     "Penfolds 寇蘭山赤霞珠",
+      "penfolds koonunga hill shiraz":                 "Penfolds 寇蘭山西拉",
+      "penfolds koonunga hill shiraz cabernet":        "Penfolds 寇蘭山西拉赤霞珠",
+      "penfolds maxs cabernet sauvignon":              "Penfolds Max's 赤霞珠",
+      "penfolds maxs shiraz":                          "Penfolds Max's 西拉",
+      "penfolds maxs shiraz cabernet":                 "Penfolds Max's 西拉赤霞珠",
+      "penfolds reserve bin a chardonnay":             "Penfolds Reserve Bin A 霞多麗",
+      
+      "petaluma yellow label b v vineyard shiraz":     "Petaluma Yellow Label 西拉",
+      "petaluma yellow label coonawarra cabernet merlot": "Petaluma Yellow Label 赤霞珠梅洛",
+      "peter max pinot noir":                          "Peter Max 黑皮諾",
+      "petit lacoste pauillac":                        "Petit Lacoste 波亞克",
+      "petit vallon montagne saint emilion":           "Petit Vallon 聖埃美隆",
+      "pio cesare barbera d alba":                     "Pio Cesare Barbera d'Alba",
+      "raimat tempranillo":                            "Raimat 丹魄",
+      "rambeau lussac saint emilion":                  "Chateau Rambeau Lussac",
+      "rauzan gassies haut medoc":                     "Chateau Rauzan-Gassies",
+      
+      // Rawson's Retreat (洛神山莊)
+      "rawsons retreat cabernet sauvignon":            "Rawson's Retreat 赤霞珠",
+      "rawson retreat merlot":                         "Rawson's Retreat 梅洛",
+      "rawson retreat shiraz cabernet":                "Rawson's Retreat 西拉赤霞珠",
+      
+      "ricossa barbaresco":                            "Ricossa Barbaresco",
+      "ricossa barolo":                                "Ricossa Barolo",
+      "riedel o to go pinot noir tumbler":             "Riedel O To Go 黑皮諾酒杯",
+      "la roche l range merlot":                       "La Roche L Range 梅洛",
+      "la roche l range pinot noir":                   "La Roche L Range 黑皮諾",
+      "la rose de vit bordeaux":                       "La Rose de Vit 波爾多",
+      "rupert and rothschild classique":               "Rupert & Rothschild Classique",
+      
+      "saint clair origin sauvignon blanc":            "Saint Clair Origin 長相思",
+      "santa helena gran reserva cabernet sauvignon":  "Santa Helena 特級珍藏赤霞珠",
+      
+      // Santa Rita
+      "santa rita 120 reserva merlot":                 "Santa Rita 120 珍藏梅洛",
+      "santa rita 120 cabernet sauvignon":             "Santa Rita 120 赤霞珠",
+      
+      "sarget de gruaud larose saint julien":          "Sarget de Gruaud Larose (金玫瑰副牌)",
+      "second camensac haut medoc":                    "Le Second de Camensac (卡門薩克副牌)",
+      "sherwood estate stoney range pinot noir":       "Sherwood Estate Stoney Range 黑皮諾",
+      
+      "the shy pig shiraz cabernet merlot":            "The Shy Pig 西拉赤霞珠梅洛",
+      "the shy pig shiraz":                            "The Shy Pig 西拉",
+      "the stag shiraz":                               "The Stag 西拉",
+      "stanley shiraz cabernet":                       "Stanley 西拉赤霞珠",
+      "stanley traditional dry red":                   "Stanley 傳統乾紅",
+      "substance cabernet sauvignon":                  "Substance 赤霞珠",
+      "suntory antioxidant additive free red":         "三得利無添加抗氧化紅酒",
+      "terr baume st paul fitou":                      "Terr Baume St Paul Fitou",
+      "terr baume st paul muscat saint jean minervois": "Terr Baume St Paul Muscat",
+      
+      // Terra Vega
+      "terra vega reserva cabernet sauvignon":         "Terra Vega 珍藏赤霞珠",
+      "terra vega reserva carmenere":                  "Terra Vega 珍藏佳美娜",
+      "terra vega reserva merlot":                     "Terra Vega 珍藏梅洛",
+      
+      "terrunyo carmenere":                            "Terrunyo 佳美娜",
+      "tessellae old vines cotes du roussillon":       "Tessellae 老藤魯西榮",
+      "tierra de cubas dux imperial gran reserva":     "Tierra de Cubas 特級珍藏",
+      "tierra de cubas manadero":                      "Tierra de Cubas Manadero",
+      "tilia malbec":                                  "Tilia 馬爾貝克",
+      "tommasi merlot le prunee":                      "Tommasi Merlot Le Prunee",
+      "torres sangre de toro":                         "Torres Sangre de Toro (公牛血)",
+      "tread softly pinot noir":                       "Tread Softly 黑皮諾",
+      "trocard bordeaux superieur":                    "Trocard 優質波爾多",
+      "vieux chateau renaissance bordeaux":            "Vieux Chateau Renaissance 波爾多",
+      "vina gracia merlot":                            "Vina Gracia 梅洛",
+      "vina pomal reserva centenario":                 "Vina Pomal 珍藏紅酒",
+      
+      // Waitrose
+      "waitrose cava brut":                            "Waitrose Cava 氣泡酒",
+      "waitrose burgundy chardonnay":                  "Waitrose 勃艮第霞多麗",
+      "waitrose chianti tuscany":                      "Waitrose 基安蒂紅酒",
+      "waitrose dry riesling":                         "Waitrose 乾雷司令",
+      
+      "whistler barossa shiraz":                       "Whistler 巴羅薩西拉",
+      
+      // Wolf Blass (禾富)
+      "wolf blass black label cabernet shiraz malbec": "Wolf Blass 黑牌",
+      "wolf blass red label cabernet merlot":          "Wolf Blass 紅牌 赤霞珠梅洛",
+      "wolf blass eaglehawk shiraz merlot cabernet":   "Wolf Blass Eaglehawk (鷹標) 紅混合酒",
+      "wolf blass founders original blend":            "Wolf Blass Founders Original",
+      "wolf blass gold label cabernet sauvignon":      "Wolf Blass 金牌 赤霞珠",
+      "wolf blass gold label shiraz":                  "Wolf Blass 金牌 西拉",
+      "wolf blass grey label cabernet shiraz":         "Wolf Blass 灰牌 赤霞珠西拉",
+      "wolf blass grey label shiraz":                  "Wolf Blass 灰牌 西拉",
+      "wolf blass presidents selection gold label cabernet sauvignon": "Wolf Blass 總裁精選 赤霞珠",
+      "wolf blass presidents selection gold label shiraz": "Wolf Blass 總裁精選 西拉",
+      "wolf blass yellow label cabernet sauvignon":    "Wolf Blass 黃牌 赤霞珠",
+      "wolf blass yellow label merlot":                "Wolf Blass 黃牌 梅洛",
+      "wolf blass yellow label shiraz":                "Wolf Blass 黃牌 西拉",
+      
+      // Wynns (雲咸)
+      "wynns black label cabernet sauvignon":          "Wynns 黑牌 赤霞珠",
+      "wynns black label shiraz":                      "Wynns 黑牌 西拉",
+      "wynns red stripe cabernet shiraz merlot":       "Wynns 紅帶 赤霞珠西拉梅洛",
+      "wynns glengyle single vineyard coonawarra cabernet sauvignon": "Wynns Glengyle 單一葡萄園赤霞珠",
+      "wynns shiraz":                                  "Wynns 西拉",
+      "wynns the siding cabernet sauvignon":           "Wynns The Siding 赤霞珠",
+      "wynns v and a lane coonawarra cabernet shiraz": "Wynns V&A Lane 赤霞珠西拉",
+      "wynns v and a lane coonawarra shiraz":          "Wynns V&A Lane 西拉",
+      
+      // Yalumba
+      "yalumba y series cabernet sauvignon":           "Yalumba Y Series 赤霞珠",
+      "yalumba ym barossa shiraz":                     "Yalumba YM 巴羅薩西拉",
+      
+      // Yellow Tail (黃尾袋鼠)
+      "yellow tail cabernet sauvignon":                "Yellow Tail 赤霞珠",
+      "yellow tail merlot":                            "Yellow Tail 梅洛",
+      "yellow tail sangria":                           "Yellow Tail Sangria (桑格利亞)",
+      "yellow tail shiraz":                            "Yellow Tail 西拉"
+    ]
 
 ]

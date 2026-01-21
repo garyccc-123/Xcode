@@ -67,7 +67,7 @@
   {
     "uid": "f32e494648b7e53b4e0b5ed0bf3a9d26",
     "eng": "APOTHIC Red California Winemaker Blend (Packaging random pick)",
-    "norm": "apothic blend red california winemaker"
+    "norm": "apothic blend red"
   },
   {
     "uid": "3708aeb683d2541f97b613d3f6f0d741",
@@ -127,12 +127,12 @@
   {
     "uid": "f0ad7b36150876eb4993d9b0faef3d91",
     "eng": "BAREFOOT California Cabernet Sauvignon 18.7cl",
-    "norm": "barefoot california cabernet sauvignon"
+    "norm": "barefoot cabernet sauvignon"
   },
   {
     "uid": "8deefac2e0677991bafe63f7e2028ffa",
     "eng": "BAREFOOT California Cabernet Sauvignon",
-    "norm": "barefoot california cabernet sauvignon"
+    "norm": "barefoot cabernet sauvignon"
   },
   {
     "uid": "c465c2d8b6bffb026405795b03f654bc",
@@ -152,7 +152,7 @@
   {
     "uid": "a086d23b258845c347cc16ce0c6e2e1c",
     "eng": "Baron Philippe de Rothschild Bordeaux Rouge AOC 750ML",
-    "norm": "baron philippe rothschild bordeaux aoc"
+    "norm": "baron philippe rothschild bordeaux"
   },
   {
     "uid": "dfa4d6d7061a691b4da3f590db1c4754",
@@ -165,19 +165,19 @@
     "norm": "beefsteak club malbec"
   },
   {
+    "uid": "a71cc34b96de928c068b492d7e80e6e4",
+    "eng": "Beefsteakclub Malbec 750ML",
+    "norm": "beefsteak club malbec"
+  },
+  {
     "uid": "c6a1d3835e1238cd5206e598a88e510e",
     "eng": "Beefsteak Club Shiraz Case 6 X 750ML",
     "norm": "beefsteak club shiraz"
   },
   {
-    "uid": "a71cc34b96de928c068b492d7e80e6e4",
-    "eng": "Beefsteakclub Malbec 750ML",
-    "norm": "beefsteakclub malbec"
-  },
-  {
     "uid": "261187b742d99b421cd1e893ce11527c",
     "eng": "Beefsteakclub Shiraz 750ML",
-    "norm": "beefsteakclub shiraz"
+    "norm": "beefsteak club shiraz"
   },
   {
     "uid": "8decf0d4e66a61ddc37a8ec0137eec75",
@@ -217,17 +217,17 @@
   {
     "uid": "dce50cbca8eecc11700a2ca09ef6cc03",
     "eng": "De Bortoli Noble One Bot .Semil 375ML",
-    "norm": "bortoli noble one bot semil"
+    "norm": "bortoli noble one"
   },
   {
     "uid": "5b05afb2374b3b776077196c58e81b72",
     "eng": "CALVET Reserve Bordeaux Red",
-    "norm": "calvet red reserve bordeaux"
+    "norm": "calvet reserve bordeaux"
   },
   {
     "uid": "59c4c2c0c9d4e559f1424f950ada521b",
     "eng": "CALVET Reserve Bdx",
-    "norm": "calvet reserve bdx"
+    "norm": "calvet reserve bordeaux"
   },
   {
     "uid": "ce0479c06dcd3fc17723d3e389b5cb91",
@@ -237,7 +237,7 @@
   {
     "uid": "8fcf4933c2c4eabb125227f1f823b1c8",
     "eng": "Cape Caki Marlborough Pinot Noir 750ML",
-    "norm": "cape caki marlborough pinot noir"
+    "norm": "cape kaki marlborough pinot noir"
   },
   {
     "uid": "4a67d2acc260cc0e66dfb01b5753cad5",
@@ -247,7 +247,7 @@
   {
     "uid": "0c3c03b90e0eeada6197c29eefff452e",
     "eng": "Carlo Rossi California Dark Case 12 x 750ML",
-    "norm": "carlo rossi california dark"
+    "norm": "carlo rossi california dark red"
   },
   {
     "uid": "e8673d03ca42c885be86fd2ac28fe53f",
@@ -290,6 +290,16 @@
     "norm": "carlo rossi california red"
   },
   {
+    "uid": "b7945466c26093804e25ced289bd107b",
+    "eng": "CARLO ROSSI Red Wine",
+    "norm": "carlo rossi california red"
+  },
+  {
+    "uid": "c8e69b1e0b2a391187826759bfabcd44",
+    "eng": "CARLO ROSSI Red Wine",
+    "norm": "carlo rossi california red"
+  },
+  {
     "uid": "e866482c1845f8054b45b9d7dc220b5a",
     "eng": "Carlo Rossi Moscato Red Case 12 x 750ML",
     "norm": "carlo rossi moscato red"
@@ -298,16 +308,6 @@
     "uid": "8cd061f8fafa8adc46065f8aaad8c964",
     "eng": "Carlo Rossi Red Moscato Case 6 X 1.5LT",
     "norm": "carlo rossi moscato red"
-  },
-  {
-    "uid": "b7945466c26093804e25ced289bd107b",
-    "eng": "CARLO ROSSI Red Wine",
-    "norm": "carlo rossi red"
-  },
-  {
-    "uid": "c8e69b1e0b2a391187826759bfabcd44",
-    "eng": "CARLO ROSSI Red Wine",
-    "norm": "carlo rossi red"
   },
   {
     "uid": "afe3988ab85ed398ecf7c8f3af3db261",
@@ -392,7 +392,7 @@
   {
     "uid": "c1d1d19f3fc12850c49767aac980154b",
     "eng": "CH LATOUR CAMBLANES Ch Latour Camblanes Aoc 1res Cotes De Bordeaux",
-    "norm": "ch latour camblanes ch latour camblanes aoc 1res cotes bordeaux"
+    "norm": "ch latour camblanes aoc 1res cotes bordeaux"
   },
   {
     "uid": "a1e9c77546022c908cd3ec0778e6d25f",
@@ -427,7 +427,7 @@
   {
     "uid": "e8fb3a4dba0092bad77c2fbf89e502da",
     "eng": "Ch.Montrose Tertio De Montrose19 750ML",
-    "norm": "ch montrose tertio montrose19"
+    "norm": "ch montrose tertio montrose"
   },
   {
     "uid": "e955d62e6d01939d79b76390206753d7",
@@ -437,52 +437,52 @@
   {
     "uid": "137b8f68c6b393223f6132b643ef6648",
     "eng": "CH STE MICHELLE Csm Cabernet Sauvignon",
-    "norm": "ch ste michelle csm cabernet sauvignon"
+    "norm": "ch ste michelle cabernet sauvignon"
   },
   {
     "uid": "c062fb65573ce84cbfd1ee202ed653fa",
     "eng": "Château Brane-Cantenac Baron De Brane Margaux 750ML",
-    "norm": "ch teau brane cantenac baron brane margaux"
+    "norm": "ch teau brane cantenac margaux"
   },
   {
     "uid": "270376a42c8a6f4c141db883e015ab5f",
     "eng": "Château Brane-Cantenac Margaux de Brane 750ML",
-    "norm": "ch teau brane cantenac margaux brane"
+    "norm": "ch teau brane cantenac margaux"
   },
   {
     "uid": "c6d3dcfa2d58929cf2132edf4ebbfb50",
     "eng": "Château de Camensac Haut-Médoc 750ML",
-    "norm": "ch teau camensac haut m doc"
+    "norm": "ch teau camensac haut medoc"
   },
   {
     "uid": "64eb4544066c219befaf6d92369cbbbf",
     "eng": "Château Carbonnieux Pessac-Léognan (Grand Cru Classé de Graves) 750ML",
-    "norm": "ch teau carbonnieux pessac ognan"
+    "norm": "ch teau carbonnieux pessac leognan"
   },
   {
     "uid": "0ff4fe2b8ea090a1f62c7d891c0ae607",
     "eng": "Château Citran Haut-Médoc 750ML",
-    "norm": "ch teau citran haut m doc"
+    "norm": "ch teau citran haut medoc"
   },
   {
     "uid": "2397cbb4f594ec9dbcea00f3640eb6c9",
     "eng": "Château La Conseillante Duo de Conseillante Pomerol 750ML",
-    "norm": "ch teau conseillante duo conseillante pomerol"
+    "norm": "ch teau conseillante duo pomerol"
   },
   {
     "uid": "40b39abb02ad85d348360d4219744ad2",
     "eng": "Château d'Aiguilhe Castillon - Côtes de Bordeaux 750ML",
-    "norm": "ch teau daiguilhe castillon c tes bordeaux"
+    "norm": "ch teau daiguilhe castillon bordeaux"
   },
   {
     "uid": "05ddc501380d1eb0c13d428dc1720f78",
     "eng": "Château Ducru-Beaucaillou Madame de Beaucaillou Haut-Médoc 750ML",
-    "norm": "ch teau ducru beaucaillou madame beaucaillou haut m doc"
+    "norm": "ch teau ducru beaucaillou haut medoc"
   },
   {
     "uid": "e49f901b724c9b087afcbc93d1881367",
     "eng": "Château Faugères Saint-Émilion Grand Cru Classé 750ML",
-    "norm": "ch teau faug res saint milion grand cru class"
+    "norm": "ch teau faug res saint emilion"
   },
   {
     "uid": "066093957c8824702e898f9b06cb030f",
@@ -492,22 +492,37 @@
   {
     "uid": "a6f08bc098c95098a7d15405fe7cfdc7",
     "eng": "Château Giscours Haut-Médoc Giscours 750ML",
-    "norm": "ch teau giscours haut m doc giscours"
+    "norm": "ch teau giscours"
   },
   {
     "uid": "f1898d41db88c6b98b413bad56454416",
     "eng": "Château Giscours Margaux 750ML",
-    "norm": "ch teau giscours margaux"
+    "norm": "ch teau giscours"
   },
   {
     "uid": "11f3d08d52a55c419371317e06c4b2ae",
     "eng": "Château Haut-Bergey Pessac-Léognan 2007 750ML",
-    "norm": "ch teau haut bergey pessac ognan"
+    "norm": "ch teau haut bergey pessac leognan"
   },
   {
     "uid": "37c5034a5889a76c995847694d12f41f",
     "eng": "Château Haut-Bergey Pessac-Léognan 2014 750ML",
-    "norm": "ch teau haut bergey pessac ognan"
+    "norm": "ch teau haut bergey pessac leognan"
+  },
+  {
+    "uid": "17605bffa6623b4573e49736eb02cf58",
+    "eng": "Chateau Haut-Bergey Pessac-Lecgnan 2007 750ML",
+    "norm": "ch teau haut bergey pessac leognan"
+  },
+  {
+    "uid": "7b7615f4478af9c023ad18e8267f5450",
+    "eng": "Chateau Holden Haut-Medoc 750ML",
+    "norm": "ch teau holden haut medoc"
+  },
+  {
+    "uid": "fdcab7436c73b76fe0e3192a41b67d59",
+    "eng": "Chateau Holdenhaut-Medoc Case 12 X 750ML",
+    "norm": "ch teau holden haut medoc"
   },
   {
     "uid": "36c413547ce1b869c4567c0cdfd91846",
@@ -517,42 +532,47 @@
   {
     "uid": "6b92295aa7cdd0edb1dd8b2aea7ac5bb",
     "eng": "Château Larrivet Haut-Brion Pessac-Léognan 750ML",
-    "norm": "ch teau larrivet haut brion pessac ognan"
+    "norm": "ch teau larrivet haut brion pessac leognan"
   },
   {
     "uid": "918343ea9dd3e807b67bda40ed11e4b2",
     "eng": "Château Les Bertrands Cuvée Vieilles Vignes Blaye - Côtes de Bordeaux 750ML",
-    "norm": "ch teau les bertrands cuv e vieilles vignes blaye c tes bordeaux"
+    "norm": "ch teau les bertrands blaye bordeaux"
   },
   {
     "uid": "3e54fbc45b23653b950a0fbf3d6a311d",
     "eng": "Château Les Vallées Bordeaux Rouge AOC 750ML",
-    "norm": "ch teau les vall es bordeaux aoc"
+    "norm": "ch teau les vall es bordeaux"
+  },
+  {
+    "uid": "f9b427e918ec1566db7ca2d8ab8f7c84",
+    "eng": "Les Vallées Bordeaux Rouge AOC Case 6 x 750ML",
+    "norm": "ch teau les vall es bordeaux"
   },
   {
     "uid": "5aadaa5f1de8c8d3042e3bccdc16b0f1",
     "eng": "Château Lilian Ladouys Saint-Estèphe 750ML",
-    "norm": "ch teau lilian ladouys saint est phe"
+    "norm": "ch teau lilian ladouys saint estephe"
   },
   {
     "uid": "8a69c193b5bd2a94eef26d7bf615bc62",
     "eng": "Château Mareil Médoc 750ML",
-    "norm": "ch teau mareil m doc"
+    "norm": "ch teau mareil medoc"
   },
   {
     "uid": "46e0383118fd5a62a32f6084727e2eca",
     "eng": "Château Pape Clément Pessac-Léognan (Grand Cru Classé de Graves) 750ML",
-    "norm": "ch teau pape ment pessac ognan"
+    "norm": "ch teau pape clement pessac leognan"
   },
   {
     "uid": "d7fac9b519b733dd3f5277e4891f3df8",
     "eng": "Château Puygueraud Francs - Côtes de Bordeaux 750ML",
-    "norm": "ch teau puygueraud francs c tes bordeaux"
+    "norm": "ch teau puygueraud francs bordeaux"
   },
   {
     "uid": "01ab40dad8bff6d43643616287a9417e",
     "eng": "Château Romefort Haut Médoc Case 6 x 750ML",
-    "norm": "ch teau romefort haut m doc"
+    "norm": "ch teau romefort haut medoc"
   },
   {
     "uid": "0e5479677d09fb81a11f57a03e3517d0",
@@ -562,12 +582,12 @@
   {
     "uid": "7823b7827b510ef700db88bf85238a3f",
     "eng": "Château Talbot Connétable Talbot Saint-Julien 750ML",
-    "norm": "ch teau talbot conn table talbot saint julien"
+    "norm": "ch teau talbot connetable saint julien"
   },
   {
     "uid": "052865bae88a309b8565d3ce74e7d6cb",
     "eng": "Château La Tour Carnet Haut-Médoc (Grand Cru Classé) 750ML",
-    "norm": "ch teau tour carnet haut m doc"
+    "norm": "ch teau tour carnet haut medoc"
   },
   {
     "uid": "ddd2bb45cb32684888868e30fd11cc05",
@@ -577,7 +597,7 @@
   {
     "uid": "f3fc145e5e9c4dafbe8fa3c8a20e8485",
     "eng": "CHAP MOINES St Emilion Grand Cru",
-    "norm": "chap moines emilion grand cru"
+    "norm": "chap moines saint emilion"
   },
   {
     "uid": "3b1cae6cb521f4d0aa91e70919bc33f6",
@@ -607,22 +627,7 @@
   {
     "uid": "9e9c6060cea2903861394c3faabb27ed",
     "eng": "Chateau Gemeillan Médoc 750ML",
-    "norm": "chateau gemeillan m doc"
-  },
-  {
-    "uid": "17605bffa6623b4573e49736eb02cf58",
-    "eng": "Chateau Haut-Bergey Pessac-Lecgnan 2007 750ML",
-    "norm": "chateau haut bergey pessac lecgnan"
-  },
-  {
-    "uid": "7b7615f4478af9c023ad18e8267f5450",
-    "eng": "Chateau Holden Haut-Medoc 750ML",
-    "norm": "chateau holden haut medoc"
-  },
-  {
-    "uid": "fdcab7436c73b76fe0e3192a41b67d59",
-    "eng": "Chateau Holdenhaut-Medoc Case 12 X 750ML",
-    "norm": "chateau holdenhaut medoc"
+    "norm": "chateau gemeillan medoc"
   },
   {
     "uid": "b502eb591778b7eb17e446dc711aef4c",
@@ -632,22 +637,22 @@
   {
     "uid": "967b4773c005a607e774503d07bfb679",
     "eng": "CHEMIN DES PAPES Cotes Du Rhone White",
-    "norm": "chemin des papes cotes white rhone"
+    "norm": "chemin des papes cotes rhone white"
   },
   {
     "uid": "6aee6a84a85e2054a20f7fad21341211",
     "eng": "Circumference Napa Valley Cabernet Sauvignon 750ML",
-    "norm": "circumference napa valley cabernet sauvignon"
+    "norm": "circumference napa cabernet sauvignon"
   },
   {
     "uid": "a61c5b8b7a5d083466e88d203ae24dd7",
     "eng": "CLARENDELLE Rouge",
-    "norm": "clarendelle"
+    "norm": "clarendelle rouge"
   },
   {
     "uid": "45f689401f7e10d77b4ceb1e2d41d428",
     "eng": "CLARENDELLE St Emilion",
-    "norm": "clarendelle emilion"
+    "norm": "clarendelle saint emilion"
   },
   {
     "uid": "7fb4cd3da435777281034312d2a4e263",
@@ -657,42 +662,42 @@
   {
     "uid": "8eea311c2171a2081b14426ac7625d4a",
     "eng": "Clos Dominique Cuvée Autrement Bordeaux Supérieur 750ML",
-    "norm": "clos dominique cuv e autrement bordeaux sup rieur"
+    "norm": "clos dominique bordeaux superieur"
   },
   {
     "uid": "241920a28126dc9f91e81051b2ec8fb9",
     "eng": "CON DE ORIZA Ribera Del Duero Reserva",
-    "norm": "con oriza ribera del duero reserva"
+    "norm": "con de oriza ribera del duero"
   },
   {
     "uid": "86925de7840419b92aa22e36037fb2a0",
     "eng": "Concha Y Toro Casillero del Diablo Reserva Cabernet Sauvignon 750ML",
-    "norm": "concha y toro casillero del diablo cabernet sauvignon reserva"
+    "norm": "concha y toro casillero del diablo cabernet sauvignon"
   },
   {
     "uid": "3b7ed0a9e900484b13320658fc80a4de",
     "eng": "Concha Y Toro Casillero del Diablo Reserva Privada Cabernet Sauvignon 750ML",
-    "norm": "concha y toro casillero del diablo cabernet sauvignon reserva privada"
+    "norm": "concha y toro casillero del diablo cabernet sauvignon"
   },
   {
     "uid": "fb0b1d6a3c81ca8e566a15a85334523d",
     "eng": "Concha Y Toro Casillero del Diablo Reserva Merlot 750ML",
-    "norm": "concha y toro casillero del diablo merlot reserva"
+    "norm": "concha y toro casillero del diablo merlot"
   },
   {
     "uid": "682b66369b80ab0e45c81c7d81198d4f",
     "eng": "CONCHA Y TORO Marques De Casa Cabernet Sauvignon",
-    "norm": "concha y toro marques casa cabernet sauvignon"
+    "norm": "concha y toro marques de casa cabernet sauvignon"
   },
   {
     "uid": "37a08df8b6666ba39123ce6ed5a6c9f6",
     "eng": "Confidences de Prieuré-Lichine Margaux 750ML",
-    "norm": "confidences prieur lichine margaux"
+    "norm": "confidences de prieure lichine margaux"
   },
   {
     "uid": "4d51562280d344340b1855865e27d751",
     "eng": "Confidences de Prieuré-Lichine Margaux 750ML",
-    "norm": "confidences prieur lichine margaux"
+    "norm": "confidences de prieure lichine margaux"
   },
   {
     "uid": "df14f61f2dde409a003fccfbc898e029",
@@ -717,12 +722,12 @@
   {
     "uid": "edfc3740de7f88a766d54148e15764f6",
     "eng": "COTE MAS Syrah-grenache",
-    "norm": "cote mas grenache shiraz"
+    "norm": "cote mas syrah grenache"
   },
   {
     "uid": "32e4702ead078e3d23d42f1adce3c1d1",
     "eng": "CROIX MONTLABERT St Emilion 2nd Wine 2019",
-    "norm": "croix montlabert emilion"
+    "norm": "croix montlabert saint emilion"
   },
   {
     "uid": "aab60075ed347d7d6a3926c9ae14376a",
@@ -737,7 +742,7 @@
   {
     "uid": "983247c319ba641c89826a305b41f601",
     "eng": "DBR LAFITE Aussieres Rouge",
-    "norm": "dbr lafite aussieres"
+    "norm": "dbr lafite aussieres rouge"
   },
   {
     "uid": "d7a15ea9ee5dd781fdc3fb1d15f03357",
@@ -747,7 +752,7 @@
   {
     "uid": "dc922a34dc511c0c4700a1dcba6d46f8",
     "eng": "DOM D'AUSSIERES Altan D'aussieres",
-    "norm": "dom daussieres altan daussieres"
+    "norm": "dom daussieres altan"
   },
   {
     "uid": "a2c70b5588e4468969007ecb8a4d4095",
@@ -757,12 +762,12 @@
   {
     "uid": "7484ad96798b10d2a92d56abfc163c2b",
     "eng": "E. Guigal Côtes du Rhône Rouge 750ML",
-    "norm": "e guigal c tes rh ne"
+    "norm": "e guigal cotes du rhone rouge"
   },
   {
     "uid": "3eac3e3647d406033ff91e1cff0919de",
     "eng": "E.GUIGAL Cote Du Rhone Rouge",
-    "norm": "e guigal cote rhone"
+    "norm": "e guigal cotes du rhone rouge"
   },
   {
     "uid": "db2e61a0ff624dafa33860185652e597",
@@ -772,7 +777,7 @@
   {
     "uid": "f58b43dab007ce73c8c992ce63ea6cfd",
     "eng": "EDMOND DE ROTHSCHILD Croix Des Laurets",
-    "norm": "edmond rothschild croix des laurets"
+    "norm": "edmond de rothschild croix des laurets"
   },
   {
     "uid": "88504ce6ba73f5cb3f5abb1de31f1ac4",
@@ -787,7 +792,7 @@
   {
     "uid": "6ce9bc4714e00339dedff2df40602a7f",
     "eng": "Emalee Estate Coonawarra Cabernet Sauvignon Case 750ML X 12",
-    "norm": "emalee estate coonawarra cabernet sauvignon"
+    "norm": "emalee estate cabernet sauvignon"
   },
   {
     "uid": "ddf9cc684605a4939b6f85c1e6a7d7de",
@@ -885,6 +890,11 @@
     "norm": "george wyndham bin 555 shiraz"
   },
   {
+    "uid": "550e77ec0e481951bccccd2ad7a81bf6",
+    "eng": "George Wyndham Bin555 Shiraz Case 6 X 750ML",
+    "norm": "george wyndham bin 555 shiraz"
+  },
+  {
     "uid": "b3c017e3588249345d5994bde7565ff6",
     "eng": "GEORGE WYNDHAM Bin 888 Cabernet Merlot",
     "norm": "george wyndham bin 888 cabernet merlot"
@@ -900,14 +910,9 @@
     "norm": "george wyndham bin 888 cabernet merlot"
   },
   {
-    "uid": "550e77ec0e481951bccccd2ad7a81bf6",
-    "eng": "George Wyndham Bin555 Shiraz Case 6 X 750ML",
-    "norm": "george wyndham bin555 shiraz"
-  },
-  {
     "uid": "307a97793d46703a7528a585ae07f2ed",
     "eng": "GERARD BERTRAND Cotes Du Roussillon",
-    "norm": "gerard bertrand cotes roussillon"
+    "norm": "gerard bertrand cotes du roussillon"
   },
   {
     "uid": "a2ef54b5556ed461841fb2c760a534cf",
@@ -917,12 +922,12 @@
   {
     "uid": "d117f21867c2342a58947ffa5a44082a",
     "eng": "GRAND BATEAU Bordeaux Rouge",
-    "norm": "grand bateau bordeaux"
+    "norm": "grand bateau bordeaux rouge"
   },
   {
     "uid": "fc7723937295b6d4bc31ad7ac60d8714",
     "eng": "Grand Bateau Bordeaux Rouge Aoc 750ML",
-    "norm": "grand bateau bordeaux aoc"
+    "norm": "grand bateau bordeaux rouge"
   },
   {
     "uid": "aefcb8308dad6000a319d6cd864f2099",
@@ -942,11 +947,16 @@
   {
     "uid": "db88eedc5aa42b29e2211b4f11d90de7",
     "eng": "Grant Burge Barossa Cabernet Merlot 2018 Fifth Generation 750ML",
-    "norm": "grant burge barossa cabernet merlot fifth generation"
+    "norm": "grant burge barossa cabernet merlot 5th generation"
   },
   {
     "uid": "6fbaaaaa62606891fffbea954553c51e",
     "eng": "Grant Burge Barossa Ink Cabernet Sauvignon 750ML",
+    "norm": "grant burge barossa ink cabernet sauvignon"
+  },
+  {
+    "uid": "9cdfad2971aade457d33976cdf78baf5",
+    "eng": "GRANT BURGE Ink Barossa Cab Sauv",
     "norm": "grant burge barossa ink cabernet sauvignon"
   },
   {
@@ -955,9 +965,14 @@
     "norm": "grant burge barossa ink shiraz"
   },
   {
+    "uid": "ffde3ce1c3746469d9dee7e06fb5bb8b",
+    "eng": "GRANT BURGE Ink Barossa Shiraz",
+    "norm": "grant burge barossa ink shiraz"
+  },
+  {
     "uid": "b84dfd7f07c454a53c6aeaa8a2f4dc4c",
     "eng": "Grant Burge Barossa Shiraz Fifth Generation 750ML",
-    "norm": "grant burge barossa shiraz fifth generation"
+    "norm": "grant burge barossa shiraz 5th generation"
   },
   {
     "uid": "d5123752a76d7f6c9338ef262a7be92a",
@@ -967,12 +982,17 @@
   {
     "uid": "6a191ca7e2ef662ba377152cc5a17d23",
     "eng": "Grant Burge Fifth Generation Cabernet Merlot Case 6 x 750ML",
-    "norm": "grant burge fifth generation cabernet merlot"
+    "norm": "grant burge 5th generation cabernet merlot"
   },
   {
     "uid": "7ccc64ba88cffbcb61b69c232b6067f0",
     "eng": "Grant Burge Fifth Generation Shiraz Case 6 x 750ML",
-    "norm": "grant burge fifth generation shiraz"
+    "norm": "grant burge 5th generation shiraz"
+  },
+  {
+    "uid": "d31ad4fa94b5a2ea9ceb6b9e1ffa5c7e",
+    "eng": "GRANT BURGE 5th Gen Shiraz",
+    "norm": "grant burge 5th generation shiraz"
   },
   {
     "uid": "ebf88395b6e867e77c3f6d664885fc01",
@@ -992,12 +1012,12 @@
   {
     "uid": "a6e1583cd2c4c78e81206f10648ca808",
     "eng": "Grant Burge GB56 Shiraz Case 6 X 750ML",
-    "norm": "grant burge gb56 shiraz"
+    "norm": "grant burge gb56 series shiraz"
   },
   {
     "uid": "043ce9728cd9a0b269929c0a13fbdc0d",
     "eng": "Grant Burge GB88 Cabernet Sauvignon Case 6 x 750ML",
-    "norm": "grant burge gb88 cabernet sauvignon"
+    "norm": "grant burge gb88 series cabernet sauvignon"
   },
   {
     "uid": "23b75ca29c1e3f6db7e04f92b48cf4aa",
@@ -1005,24 +1025,9 @@
     "norm": "grant burge gb88 series cabernet sauvignon"
   },
   {
-    "uid": "d31ad4fa94b5a2ea9ceb6b9e1ffa5c7e",
-    "eng": "GRANT BURGE 5th Gen Shiraz",
-    "norm": "grant burge gen shiraz"
-  },
-  {
     "uid": "7c475da1e5560818c11463318ab55564",
     "eng": "Grant Burge The Holy Trinity GSM 750ML",
     "norm": "grant burge holy trinity gsm"
-  },
-  {
-    "uid": "9cdfad2971aade457d33976cdf78baf5",
-    "eng": "GRANT BURGE Ink Barossa Cab Sauv",
-    "norm": "grant burge ink barossa cabernet sauvignon"
-  },
-  {
-    "uid": "ffde3ce1c3746469d9dee7e06fb5bb8b",
-    "eng": "GRANT BURGE Ink Barossa Shiraz",
-    "norm": "grant burge ink barossa shiraz"
   },
   {
     "uid": "ace8dadbf252a39b96a9dbf22063ec13",
@@ -1077,47 +1082,47 @@
   {
     "uid": "25883d2576d0a18c73e88893b6de049b",
     "eng": "St Hallett Blackclay Shiraz 750ML",
-    "norm": "hallett blackclay shiraz"
+    "norm": "st hallett blackclay shiraz"
   },
   {
     "uid": "03cc602afee52ad38ac599bf9bcec3a5",
     "eng": "St Hallett Blackwell Shiraz Case 6 x 750ML",
-    "norm": "hallett blackwell shiraz"
+    "norm": "st hallett blackwell shiraz"
   },
   {
     "uid": "ee4e439749e0162c48c94ef7bd4e8248",
     "eng": "St Hallett Buthers Cart Shiraz Case 6 x 750ML",
-    "norm": "hallett buthers cart shiraz"
+    "norm": "st hallett butchers cart shiraz"
   },
   {
     "uid": "f92334eb350871b137f833d509a792b4",
     "eng": "St Hallett Buthers Cart Shiraz 750ML",
-    "norm": "hallett buthers cart shiraz"
+    "norm": "st hallett butchers cart shiraz"
   },
   {
     "uid": "15bf1b035af6a12eb33bd400e4970694",
     "eng": "St Hallett Faith Shiraz 750ML",
-    "norm": "hallett faith shiraz"
+    "norm": "st hallett faith shiraz"
   },
   {
     "uid": "8198cf6732ca927d3140c40089cd20a9",
     "eng": "St Hallett Faith Shiraz Case 6 x 750ML",
-    "norm": "hallett faith shiraz"
+    "norm": "st hallett faith shiraz"
   },
   {
     "uid": "a432f97b24e1ed6d7dc19acd584ef24b",
     "eng": "St Hallett Old Block Shiraz 750ML",
-    "norm": "hallett old block shiraz"
+    "norm": "st hallett old block shiraz"
   },
   {
     "uid": "b66bdb4db4919d593f6b35ba2555affe",
     "eng": "St Hallett Old Block Shiraz Case 6 x 750ML",
-    "norm": "hallett old block shiraz"
+    "norm": "st hallett old block shiraz"
   },
   {
     "uid": "d06b8c6ea998f2154d3dd17ec9343b54",
     "eng": "HARDY'S Cab Sauv 3l Cask",
-    "norm": "hardys cabernet sauvignon cask"
+    "norm": "hardys cabernet sauvignon"
   },
   {
     "uid": "212b1d0f9cd93673b8843ca933cddd56",
@@ -1157,17 +1162,17 @@
   {
     "uid": "455904bddf3036fcb444154d24857d0a",
     "eng": "Hardys N.Hl Shiraz Case 6 X 750ML",
-    "norm": "hardys n hl shiraz"
-  },
-  {
-    "uid": "614db9dc07957eadae481d83119c3328",
-    "eng": "Hardys Nottage Hill Cabernet Shiraz Case 6 x 750ML",
-    "norm": "hardys nottage hill cabernet shiraz"
+    "norm": "hardys nottage hill shiraz"
   },
   {
     "uid": "c346a02f60d2416cfba815d9a7e56e33",
     "eng": "Hardys Nottage Hill Shiraz 750ML",
     "norm": "hardys nottage hill shiraz"
+  },
+  {
+    "uid": "614db9dc07957eadae481d83119c3328",
+    "eng": "Hardys Nottage Hill Cabernet Shiraz Case 6 x 750ML",
+    "norm": "hardys nottage hill cabernet shiraz"
   },
   {
     "uid": "3972de40541e631dde43a0ff519cc238",
@@ -1187,11 +1192,16 @@
   {
     "uid": "c5656c678f0375ac92d1a7028a4114cd",
     "eng": "Hardys Tintara Reserve Grenache 750ML",
-    "norm": "hardys tintara grenache reserve"
+    "norm": "hardys tintara reserve grenache"
   },
   {
     "uid": "d2a91e04f308194d942445c4d5267fbc",
     "eng": "Hardys VR Cabernet Sauvignon Case 6 X 750ML",
+    "norm": "hardys vr cabernet sauvignon"
+  },
+  {
+    "uid": "8821139f276fac4b4c11c1f48873a95d",
+    "eng": "Hardys VR Varietal Range Cabernet Sauvignon 750ML",
     "norm": "hardys vr cabernet sauvignon"
   },
   {
@@ -1210,14 +1220,9 @@
     "norm": "hardys vr shiraz"
   },
   {
-    "uid": "8821139f276fac4b4c11c1f48873a95d",
-    "eng": "Hardys VR Varietal Range Cabernet Sauvignon 750ML",
-    "norm": "hardys vr varietal range cabernet sauvignon"
-  },
-  {
     "uid": "5af0bc6e82b45681dc8af57ccdbc2cec",
     "eng": "Hardys VR Varietal Range Shiraz 750ML",
-    "norm": "hardys vr varietal range shiraz"
+    "norm": "hardys vr shiraz"
   },
   {
     "uid": "8f79b8b647487a449ca27e28db24fca3",
@@ -1227,7 +1232,7 @@
   {
     "uid": "46a825eccdb106fca15ca80f6fbec6de",
     "eng": "Le Haut-Médoc d'Issan 2016 750ML",
-    "norm": "haut m doc dissan"
+    "norm": "le haut medoc dissan"
   },
   {
     "uid": "e3bb927293d4674f02cda60ebb1e77e5",
@@ -1237,17 +1242,12 @@
   {
     "uid": "fbe00245cba0df5e0ff03419e1e8ab94",
     "eng": "ST HUGO Cab Sauv",
-    "norm": "hugo cabernet sauvignon"
+    "norm": "st hugo cabernet sauvignon"
   },
   {
     "uid": "6ab11b6bea9d202295f052677f705b89",
     "eng": "JACOB'S CREEK Cabernet",
     "norm": "jacobs creek cabernet"
-  },
-  {
-    "uid": "1a86fe24af51145a3217cbc41ac073d8",
-    "eng": "JACOB'S CREEK Reserve Cabernet Sauvignon",
-    "norm": "jacobs creek cabernet sauvignon reserve"
   },
   {
     "uid": "b1676fc7a2bf4a07e659996f71d90ea2",
@@ -1257,7 +1257,7 @@
   {
     "uid": "c11d7c947be593ff48a0adbbb9fc9390",
     "eng": "Jacob's Creek Db Vsop Barrels/Red 750ML",
-    "norm": "jacobs creek db vsop barrels red"
+    "norm": "jacobs creek double barrel red"
   },
   {
     "uid": "af929939431ba1b6ebf55ed34e212935",
@@ -1268,6 +1268,11 @@
     "uid": "020c2d5028762a428c03572990247b07",
     "eng": "JACOB'S CREEK Double Barrel Shiraz",
     "norm": "jacobs creek double barrel shiraz"
+  },
+  {
+    "uid": "1a86fe24af51145a3217cbc41ac073d8",
+    "eng": "JACOB'S CREEK Reserve Cabernet Sauvignon",
+    "norm": "jacobs creek reserve cabernet sauvignon"
   },
   {
     "uid": "9644bfc37f4ebf47858e5f09d3073f9e",
@@ -1292,12 +1297,12 @@
   {
     "uid": "867e204624d94cacce77f8020c955eda",
     "eng": "JALOUSIE BEAULIEU Château Jalousie Beaulieu",
-    "norm": "jalousie beaulieu ch teau jalousie beaulieu"
+    "norm": "jalousie beaulieu chateau jalousie beaulieu"
   },
   {
     "uid": "a2e38c5f1760c772459e3ed0ba1b3454",
     "eng": "Jean Bouchard Côte de Beaune-Villages 750ML",
-    "norm": "jean bouchard c te beaune villages"
+    "norm": "jean bouchard cote de beaune villages"
   },
   {
     "uid": "3f2c70cc8123fa235e09fcf27a173c7a",
@@ -1322,17 +1327,17 @@
   {
     "uid": "7e6a25ca6bec4282a9f2af6b89b64a0b",
     "eng": "JP CHENET Vdp D'oc Cabernet Syrah",
-    "norm": "jp chenet vdp doc cabernet shiraz"
+    "norm": "jp chenet cabernet syrah"
   },
   {
     "uid": "996eba714a83e2daf4c9678b52fdef87",
     "eng": "K. Constantia Red Blend 750ML",
-    "norm": "k constantia blend red"
+    "norm": "k constantia red blend"
   },
   {
     "uid": "0f59a9cc3018be43a0a49b309f565e6e",
     "eng": "K Vintners Milbrandt Syrah 750ML",
-    "norm": "k vintners milbrandt shiraz"
+    "norm": "k vintners milbrandt syrah"
   },
   {
     "uid": "0f770cf30be8b7fc29f91740aa087bbd",
@@ -1362,7 +1367,7 @@
   {
     "uid": "6bd6d3f8632d4fb5db763b69d73ba7b3",
     "eng": "KOYLE Reserve Cabernet Sauvignon",
-    "norm": "koyle cabernet sauvignon reserve"
+    "norm": "koyle reserve cabernet sauvignon"
   },
   {
     "uid": "77257ea07813b7d6bbbd5d9e70aafc79",
@@ -1377,17 +1382,27 @@
   {
     "uid": "0989abb67060304bf7a1b21a27a1fe3b",
     "eng": "KOYLE ROYALE Syrah",
-    "norm": "koyle royale shiraz"
+    "norm": "koyle royale syrah"
+  },
+  {
+    "uid": "c9576fd12d6057f1be6a0b7c0255bf0b",
+    "eng": "LA ROCHE L Range Merlot",
+    "norm": "la roche l range merlot"
+  },
+  {
+    "uid": "0da2c80440eee83c93ff7c1c13d41ba8",
+    "eng": "LA ROCHE L Range Pinot Noir",
+    "norm": "la roche l range pinot noir"
   },
   {
     "uid": "fe75aae9c5d84e70611d58b79147de97",
     "eng": "Lafite Aussières Classique Cabernet Syrah 750ML",
-    "norm": "lafite aussi res classique cabernet shiraz"
+    "norm": "lafite aussieres classique cabernet syrah"
   },
   {
     "uid": "803fbcdfc72f7c7058c70b01aea05975",
     "eng": "Lafite Terrasses D'Aussières Corbières 750ML",
-    "norm": "lafite terrasses daussi res corbi res"
+    "norm": "lafite terrasses d'aussieres corbieres"
   },
   {
     "uid": "9b0823d6ed3982f24509149e9205ba3f",
@@ -1397,27 +1412,27 @@
   {
     "uid": "111d3fa8a6ca79e917384e69d9c122a3",
     "eng": "Les Charmeuses Bourgogne Pinot Noir Vieilles Vignes 2021 750ML",
-    "norm": "les charmeuses bourgogne pinot noir vieilles vignes"
+    "norm": "les charmeuses bourgogne pinot noir"
   },
   {
     "uid": "a8786e0def96387daaef565089f0a5b1",
     "eng": "LES FIEFS LAGRANGE St Julien 2nd Wine",
-    "norm": "les fiefs lagrange julien"
+    "norm": "les fiefs de lagrange saint julien"
   },
   {
     "uid": "db08d0e2e4016a44e7b71ed7e7d030d1",
     "eng": "Les Pélerins de Lafon-Rochet Saint-Estèphe 750ML",
-    "norm": "les p lerins lafon rochet saint est phe"
+    "norm": "les pelerins de lafon rochet saint estephe"
   },
   {
     "uid": "51da4ebe2e6124f799cd58f444f20317",
     "eng": "Les Pensées de La Tour Carnet Haut-Médoc 750ML",
-    "norm": "les pens es tour carnet haut m doc"
+    "norm": "les pensees de la tour carnet haut medoc"
   },
   {
-    "uid": "f9b427e918ec1566db7ca2d8ab8f7c84",
-    "eng": "Les Vallées Bordeaux Rouge AOC Case 6 x 750ML",
-    "norm": "les vall es bordeaux aoc"
+    "uid": "a88291110000bb92be898e415da4bfa5",
+    "eng": "PENSEES TOUR CARNET Haut Medoc 2nd Wine",
+    "norm": "les pensees de la tour carnet haut medoc"
   },
   {
     "uid": "e7ca4e2bff835177e73d391ef227821e",
@@ -1427,7 +1442,7 @@
   {
     "uid": "2a463f2624dcb9acec58900314c6cd8f",
     "eng": "LEYDET VALEN Saint Emilion",
-    "norm": "leydet valen saint emilion"
+    "norm": "leydet valentin saint emilion"
   },
   {
     "uid": "00d1034bdcb5436932f4f79b6b036cfb",
@@ -1447,17 +1462,17 @@
   {
     "uid": "689e6992c70e132559b3db65a57fb189",
     "eng": "Little Giant Lg Barossa Shiraz Case 6 x 750ML",
-    "norm": "little giant lg barossa shiraz"
+    "norm": "little giant barossa shiraz"
   },
   {
     "uid": "e73455963b65f3a31777561b4a653821",
     "eng": "Little Giant Lg Coonawara Cabsauv Case 6 x 750ML",
-    "norm": "little giant lg coonawara cabernet sauvignon"
+    "norm": "little giant coonawarra cabernet sauvignon"
   },
   {
     "uid": "4ecc0a02bafa7f301387aa3721d6adf1",
     "eng": "Little Giant Little Giant Pinot N Case 6 BT",
-    "norm": "little giant little giant pinot n bt"
+    "norm": "little giant pinot noir"
   },
   {
     "uid": "46c811e1b4b95b1d7e0fca5ad46fe675",
@@ -1467,7 +1482,7 @@
   {
     "uid": "bee201e72a9b47c1f9c0821ed7c98284",
     "eng": "LOS VASCOS Cabernet (Packaging random pick)",
-    "norm": "los vascos cabernet"
+    "norm": "los vascos cabernet sauvignon"
   },
   {
     "uid": "1ef915b980ab866b2eae68dd47959566",
@@ -1487,7 +1502,7 @@
   {
     "uid": "841b656a6dea4768408bddc3a4768c7f",
     "eng": "Los Vascos Cromas Carménère Gran Reserva 750ML",
-    "norm": "los vascos cromas carm n re gran reserva"
+    "norm": "los vascos cromas carmenere gran reserva"
   },
   {
     "uid": "15b8e85f1c7af93791e2fbf980bb2909",
@@ -1497,16 +1512,16 @@
   {
     "uid": "e69136cec4556c179fbb8008ace39159",
     "eng": "Louis Latour Côte De Beaune Villages 750ML",
-    "norm": "louis latour c te beaune villages"
-  },
-  {
-    "uid": "949afa4bf446fbe88741ada05d1793ab",
-    "eng": "M.Cellars Cabernet Sauvignon Case 6 X 750ML",
-    "norm": "m cellars cabernet sauvignon"
+    "norm": "louis latour cote de beaune villages"
   },
   {
     "uid": "ae1acda69f91e288f265dcc794396544",
     "eng": "M.Cellars Cabernet Sauvignon 750ML",
+    "norm": "m cellars cabernet sauvignon"
+  },
+  {
+    "uid": "949afa4bf446fbe88741ada05d1793ab",
+    "eng": "M.Cellars Cabernet Sauvignon Case 6 X 750ML",
     "norm": "m cellars cabernet sauvignon"
   },
   {
@@ -1532,16 +1547,16 @@
   {
     "uid": "30ea388b870c9c5ffe52ec0aabd2ea59",
     "eng": "M.Cellars Saint-Émilion 750M",
-    "norm": "m cellars saint milion 750m"
-  },
-  {
-    "uid": "8e8c2652d5d91c8dfbb155187b77cef2",
-    "eng": "M.Cellars Shiraz Case 6 X 750ML",
-    "norm": "m cellars shiraz"
+    "norm": "m cellars saint emilion"
   },
   {
     "uid": "6df7daa818a47670f010df8e38decd16",
     "eng": "M.Cellars Shiraz 750ML",
+    "norm": "m cellars shiraz"
+  },
+  {
+    "uid": "8e8c2652d5d91c8dfbb155187b77cef2",
+    "eng": "M.Cellars Shiraz Case 6 X 750ML",
     "norm": "m cellars shiraz"
   },
   {
@@ -1555,11 +1570,6 @@
     "norm": "maison castel cabernet sauvignon"
   },
   {
-    "uid": "a38c4e98d32634bba78d1193eb5fa3d1",
-    "eng": "St Marguerite Rose 75 CL",
-    "norm": "marguerite rose"
-  },
-  {
     "uid": "223b4f6c738065999088b30e8d730286",
     "eng": "MARJOSSE Bordeaux",
     "norm": "marjosse bordeaux"
@@ -1567,17 +1577,17 @@
   {
     "uid": "8dde26c109f9c74427ab2c6068ba3904",
     "eng": "MARQUES DE RISCAL Proximo Rioja",
-    "norm": "marques riscal proximo rioja"
+    "norm": "marques de riscal proximo rioja"
   },
   {
     "uid": "efe50e79a3bfced1322ef976d7d7a919",
     "eng": "MARQUES DE RISCAL Reserva Rioja",
-    "norm": "marques riscal reserva rioja"
+    "norm": "marques de riscal reserva rioja"
   },
   {
     "uid": "a6dd6cb5c4242620c50a590ea196d631",
     "eng": "MARQUES DE RISCAL Rueda Blanc- Verdejo",
-    "norm": "marques riscal rueda blanc verdejo"
+    "norm": "marques de riscal rueda blanco"
   },
   {
     "uid": "1e4a125bc737ad0b210e81412637ceae",
@@ -1592,42 +1602,42 @@
   {
     "uid": "2c4cd32ea8be4417283259efd4c3eeb2",
     "eng": "MICHEL LYNCH Nature Rouge",
-    "norm": "michel lynch nature"
+    "norm": "michel lynch nature rouge"
   },
   {
     "uid": "2421533efc20b56def6cbe759eed5eb4",
     "eng": "MISSION EST Hawkes Bay Pinot Gris",
-    "norm": "mission est hawkes bay gris pinot"
-  },
-  {
-    "uid": "2c61ade96ede681be90875d6888ad6e8",
-    "eng": "MONT GRAS Day One Cabernet Sauvignon",
-    "norm": "mont gras day one cabernet sauvignon"
-  },
-  {
-    "uid": "c4be64e346c31156116d134ccb1cac27",
-    "eng": "MONT GRAS Day One Carmenere",
-    "norm": "mont gras day one carmenere"
-  },
-  {
-    "uid": "f011c9ff95cc146b53c18314b29a2f49",
-    "eng": "MONT GRAS Day One Merlot",
-    "norm": "mont gras day one merlot"
-  },
-  {
-    "uid": "b3761e0c8411cc7e21a37d13e22ae4ec",
-    "eng": "MONT GRAS Quatro Reserva",
-    "norm": "mont gras quatro reserva"
-  },
-  {
-    "uid": "6aa5ad2e4b5f32287ad6e3de51241caa",
-    "eng": "MONT GRAS Sauvignon Blanc Reserva",
-    "norm": "mont gras reserva sauvignon blanc"
+    "norm": "mission estate hawkes bay pinot gris"
   },
   {
     "uid": "4b122fb5576b4fa041fdfeb68c1420b0",
     "eng": "MONT OLIVET Lirac",
     "norm": "mont olivet lirac"
+  },
+  {
+    "uid": "2c61ade96ede681be90875d6888ad6e8",
+    "eng": "MONT GRAS Day One Cabernet Sauvignon",
+    "norm": "montgras day one cabernet sauvignon"
+  },
+  {
+    "uid": "c4be64e346c31156116d134ccb1cac27",
+    "eng": "MONT GRAS Day One Carmenere",
+    "norm": "montgras day one carmenere"
+  },
+  {
+    "uid": "f011c9ff95cc146b53c18314b29a2f49",
+    "eng": "MONT GRAS Day One Merlot",
+    "norm": "montgras day one merlot"
+  },
+  {
+    "uid": "b3761e0c8411cc7e21a37d13e22ae4ec",
+    "eng": "MONT GRAS Quatro Reserva",
+    "norm": "montgras quatro reserva"
+  },
+  {
+    "uid": "6aa5ad2e4b5f32287ad6e3de51241caa",
+    "eng": "MONT GRAS Sauvignon Blanc Reserva",
+    "norm": "montgras sauvignon blanc reserva"
   },
   {
     "uid": "58bbfe4897e721d3b9f05a01cefaf1f7",
@@ -1647,12 +1657,12 @@
   {
     "uid": "35658e3e06d46447fb86500009d42478",
     "eng": "MOULIN D'ISSAN Md Bordeaux Superieur",
-    "norm": "moulin dissan md bordeaux superieur"
+    "norm": "moulin dissan bordeaux superieur"
   },
   {
     "uid": "ca040e58878753389bf31ef33e8cf0ce",
     "eng": "Mount Peak Gravity Red Blend 750ML",
-    "norm": "mount peak gravity blend red"
+    "norm": "mount peak gravity red blend"
   },
   {
     "uid": "754cffdc39b5617b26d03fb384175439",
@@ -1660,19 +1670,19 @@
     "norm": "mount peak rattlesnake zinfandel"
   },
   {
-    "uid": "b4c0799d1350d9d64c24779305e4e635",
-    "eng": "MOUTON CADET Bio Organic Bordeaux Red",
-    "norm": "mouton cadet bio organic bordeaux red"
-  },
-  {
     "uid": "0fd41803016bf7ed6ba7a3440599761a",
     "eng": "Mouton Cadet Bordeaux 750ML",
     "norm": "mouton cadet bordeaux"
   },
   {
+    "uid": "b4c0799d1350d9d64c24779305e4e635",
+    "eng": "MOULIN CADET Bio Organic Bordeaux Red",
+    "norm": "mouton cadet bordeaux"
+  },
+  {
     "uid": "251b7c86e412d89740cefa0f47ceed1d",
     "eng": "MOUTON CADET Bordeaux Aoc",
-    "norm": "mouton cadet bordeaux aoc"
+    "norm": "mouton cadet bordeaux"
   },
   {
     "uid": "b9995b980fa572d696dcb7861b686961",
@@ -1682,11 +1692,11 @@
   {
     "uid": "15c5dc2bd08bb720fc0c835001faf3f0",
     "eng": "Mucho Más Red Blend 750ML",
-    "norm": "mucho m s blend red"
+    "norm": "mucho mas red blend"
   },
   {
-    "uid": "0c26d61543b01953322bbe42cf53edb7",
-    "eng": "MUD HOUSE Central Otago Pinot Noir",
+    "uid": "a2fefb69d5a5a6ec6d4ca551f5cca987",
+    "eng": "Mud House Central Otago Pinot Noir 750ML",
     "norm": "mud house central otago pinot noir"
   },
   {
@@ -1695,29 +1705,24 @@
     "norm": "mud house central otago pinot noir"
   },
   {
-    "uid": "a2fefb69d5a5a6ec6d4ca551f5cca987",
-    "eng": "Mud House Central Otago Pinot Noir 750ML",
+    "uid": "0c26d61543b01953322bbe42cf53edb7",
+    "eng": "MUD HOUSE Central Otago Pinot Noir",
+    "norm": "mud house central otago pinot noir"
+  },
+  {
+    "uid": "60118a32c2f528086ffc345ffaa3f1cd",
+    "eng": "Mud House Claim 431 Central Otago Pinot Noir 750ML",
     "norm": "mud house central otago pinot noir"
   },
   {
     "uid": "86ba7f8f96aec4774254390f3518fb56",
     "eng": "Mud House Claim 431 Central Otago Pinot Noir Case 6 x 750ML",
-    "norm": "mud house claim central otago pinot noir"
-  },
-  {
-    "uid": "60118a32c2f528086ffc345ffaa3f1cd",
-    "eng": "Mud House Claim 431 Central Otago Pinot Noir 750ML",
-    "norm": "mud house claim central otago pinot noir"
+    "norm": "mud house central otago pinot noir"
   },
   {
     "uid": "2061d7295f8ac55a050cf5c8b4932e9f",
     "eng": "Ox Hardy Mclaren Vale Grenach 750ML",
-    "norm": "ox hardy mclaren vale grenach"
-  },
-  {
-    "uid": "78fbc1f53a6d36db06d5a0783d41dd50",
-    "eng": "OYSTER BAY Pinot Gris ( Case)",
-    "norm": "oyster bay gris pinot"
+    "norm": "ox hardy mclaren vale grenache"
   },
   {
     "uid": "8c9f5e52d0eb1928bb0e71795079d7e2",
@@ -1730,9 +1735,14 @@
     "norm": "oyster bay merlot"
   },
   {
+    "uid": "78fbc1f53a6d36db06d5a0783d41dd50",
+    "eng": "OYSTER BAY Pinot Gris ( Case)",
+    "norm": "oyster bay pinot gris"
+  },
+  {
     "uid": "6550a4b0bbf12b02bf0755b0fdf4d53a",
     "eng": "PALOUMEY Ailes De Paloumey Haut Medoc",
-    "norm": "paloumey ailes paloumey haut medoc"
+    "norm": "paloumey ailes de paloumey haut medoc"
   },
   {
     "uid": "74fce8323979613b26c8bff000a793ab",
@@ -1742,17 +1752,17 @@
   {
     "uid": "625ef74e40745a11ca91ac7740c2eee0",
     "eng": "Penfolds Bin 128 Shiraz Coonawarra 750ML",
-    "norm": "penfolds bin 128 shiraz coonawarra"
-  },
-  {
-    "uid": "3148d91f6af01afe2ad1dfba5700026a",
-    "eng": "Penfolds Bin 138 Barossa Shiraz Grenache Mataro 750ML",
-    "norm": "penfolds bin 138 barossa grenache shiraz mataro"
+    "norm": "penfolds bin 128 coonawarra shiraz"
   },
   {
     "uid": "a99ef9e409fb87a44e1105aee9c655fc",
     "eng": "PENFOLDS Bin 138 Shiraz Grenache Mataro",
-    "norm": "penfolds bin 138 grenache shiraz mataro"
+    "norm": "penfolds bin 138 barossa shiraz grenache mataro"
+  },
+  {
+    "uid": "3148d91f6af01afe2ad1dfba5700026a",
+    "eng": "Penfolds Bin 138 Barossa Shiraz Grenache Mataro 750ML",
+    "norm": "penfolds bin 138 barossa shiraz grenache mataro"
   },
   {
     "uid": "dad77ac2d30f7c81212ecc5585977ade",
@@ -1762,6 +1772,11 @@
   {
     "uid": "445ddc4777804c930ce8c150e7bd799e",
     "eng": "Penfolds Bin 2 Shiraz Mataro Case 6 x 750ML",
+    "norm": "penfolds bin 2 shiraz mataro"
+  },
+  {
+    "uid": "7580141ea252224f6770903ca608a638",
+    "eng": "PENFOLDS Bin2shiraz Mourvedre/ Mataro",
     "norm": "penfolds bin 2 shiraz mataro"
   },
   {
@@ -1787,7 +1802,7 @@
   {
     "uid": "4dd1c14ab112c45fc229e93684294451",
     "eng": "Penfolds Bin 28 Shiraz 750ML",
-    "norm": "penfolds bin 28 shiraz"
+    "norm": "penfolds bin 28 kalimna shiraz"
   },
   {
     "uid": "915e09ac6b4435a8cf19f83b2e01e638",
@@ -1797,7 +1812,7 @@
   {
     "uid": "bf15490b55080f7e446a27f2e982696f",
     "eng": "Penfolds Bin 407 750ML",
-    "norm": "penfolds bin 407"
+    "norm": "penfolds bin 407 cabernet sauvignon"
   },
   {
     "uid": "3b17a954022438b5a9245a6242785b74",
@@ -1807,7 +1822,17 @@
   {
     "uid": "a30feb8b0bca424c10e9cf81d11b27b6",
     "eng": "Penfolds Bin 704 Napa Valley Cabernet Sauvignon 750ML",
-    "norm": "penfolds bin 704 napa valley cabernet sauvignon"
+    "norm": "penfolds bin 704 napa cabernet sauvignon"
+  },
+  {
+    "uid": "a40b3483e6cc4a855f8accc87f37c639",
+    "eng": "Penfolds Bin 8 Shiraz Cabernet 2020 750ML",
+    "norm": "penfolds bin 8 cabernet shiraz"
+  },
+  {
+    "uid": "340d9281d12dfcb144a368b764e04375",
+    "eng": "PENFOLDS Bin 8 Shiraz Cabernet",
+    "norm": "penfolds bin 8 cabernet shiraz"
   },
   {
     "uid": "49f268466cdeb431af79ded80bcfa68c",
@@ -1815,24 +1840,9 @@
     "norm": "penfolds bin 8 cabernet shiraz"
   },
   {
-    "uid": "340d9281d12dfcb144a368b764e04375",
-    "eng": "PENFOLDS Bin 8 Shiraz Cabernet",
-    "norm": "penfolds bin 8 shiraz cabernet"
-  },
-  {
-    "uid": "a40b3483e6cc4a855f8accc87f37c639",
-    "eng": "Penfolds Bin 8 Shiraz Cabernet 2020 750ML",
-    "norm": "penfolds bin 8 shiraz cabernet"
-  },
-  {
-    "uid": "7580141ea252224f6770903ca608a638",
-    "eng": "PENFOLDS Bin2shiraz Mourvedre/ Mataro",
-    "norm": "penfolds bin2shiraz mourvedre mataro"
-  },
-  {
     "uid": "96197f39c4cd3e7ee26d9ac98f9f1648",
     "eng": "Penfolds CWT 521 China Cabernet Sauvignon Marselan 750ML",
-    "norm": "penfolds cwt china cabernet sauvignon marselan"
+    "norm": "penfolds cwt 521 cabernet sauvignon marselan"
   },
   {
     "uid": "8e0df0b5005fb78c11a1db4b9b5c4531",
@@ -1840,23 +1850,18 @@
     "norm": "penfolds grange"
   },
   {
-    "uid": "56fe4759ec11a24d0bace56669968305",
-    "eng": "Penfolds St Henri 750ML",
-    "norm": "penfolds henri"
-  },
-  {
     "uid": "07b03dc948cb50147744d3b5b8837d8b",
     "eng": "PENFOLDS Koonunga Hill Cab",
-    "norm": "penfolds koonunga hill cabernet"
-  },
-  {
-    "uid": "b50f6c5521aa55a22820e3beac12765e",
-    "eng": "Penfolds Koonunga Hill Cabernet Sauvignon Case 6 x 750ML",
     "norm": "penfolds koonunga hill cabernet sauvignon"
   },
   {
     "uid": "eb0d8ca09f723131bd932d28946d55a7",
     "eng": "Penfolds Koonunga Hill Cabernet Sauvignon 750ML",
+    "norm": "penfolds koonunga hill cabernet sauvignon"
+  },
+  {
+    "uid": "b50f6c5521aa55a22820e3beac12765e",
+    "eng": "Penfolds Koonunga Hill Cabernet Sauvignon Case 6 x 750ML",
     "norm": "penfolds koonunga hill cabernet sauvignon"
   },
   {
@@ -1875,13 +1880,13 @@
     "norm": "penfolds koonunga hill shiraz"
   },
   {
-    "uid": "5fe4ba8ca72a7d308537613c38b8dc43",
-    "eng": "PENFOLDS Koonunga Hill Shz Cab",
+    "uid": "77aedc8fb07c9c0f8f5c1ce7438d30c2",
+    "eng": "Penfolds Koonunga Hill Shiraz Cabernet 750ML",
     "norm": "penfolds koonunga hill shiraz cabernet"
   },
   {
-    "uid": "77aedc8fb07c9c0f8f5c1ce7438d30c2",
-    "eng": "Penfolds Koonunga Hill Shiraz Cabernet 750ML",
+    "uid": "5fe4ba8ca72a7d308537613c38b8dc43",
+    "eng": "PENFOLDS Koonunga Hill Shz Cab",
     "norm": "penfolds koonunga hill shiraz cabernet"
   },
   {
@@ -1900,6 +1905,16 @@
     "norm": "penfolds maxs shiraz"
   },
   {
+    "uid": "f9940b2ecd827d6d114c8af1fcda3e5b",
+    "eng": "Penfolds Max's Shiraz South Australia 750ML (Random Packaging)",
+    "norm": "penfolds maxs shiraz"
+  },
+  {
+    "uid": "a50eeea5e585cc752449d14b069e263f",
+    "eng": "Penfolds Max's Shiraz Cabernet 750ML (Random Packaging)",
+    "norm": "penfolds maxs shiraz cabernet"
+  },
+  {
     "uid": "b9b09a2da28e3e3d20c11259297d8c0c",
     "eng": "PENFOLDS Max's Shiraz Cabernet",
     "norm": "penfolds maxs shiraz cabernet"
@@ -1910,34 +1925,24 @@
     "norm": "penfolds maxs shiraz cabernet"
   },
   {
-    "uid": "a50eeea5e585cc752449d14b069e263f",
-    "eng": "Penfolds Max's Shiraz Cabernet 750ML (Random Packaging)",
-    "norm": "penfolds maxs shiraz cabernet"
-  },
-  {
-    "uid": "f9940b2ecd827d6d114c8af1fcda3e5b",
-    "eng": "Penfolds Max's Shiraz South Australia 750ML (Random Packaging)",
-    "norm": "penfolds maxs shiraz south australia"
-  },
-  {
     "uid": "89a131552a53d6bb253dbda9d8e7dde8",
     "eng": "Penfolds Reserve Bin A Chard 750ML",
-    "norm": "penfolds reserve bin a chard"
+    "norm": "penfolds reserve bin a chardonnay"
   },
   {
-    "uid": "a88291110000bb92be898e415da4bfa5",
-    "eng": "PENSEES TOUR CARNET Haut Medoc 2nd Wine",
-    "norm": "pensees tour carnet haut medoc"
+    "uid": "56fe4759ec11a24d0bace56669968305",
+    "eng": "Penfolds St Henri 750ML",
+    "norm": "penfolds st henri shiraz"
+  },
+  {
+    "uid": "8da35d2aafdf5b64e6bf51fc24e52317",
+    "eng": "Petaluma Yellow-Labelled Coonawarra Cabernet Merlot 750ML",
+    "norm": "petaluma yellow label coonawarra cabernet merlot"
   },
   {
     "uid": "dc64ac49d34ba1a21b4cf43479a954cb",
     "eng": "Petaluma Yellow Label B & V Vineyard Shiraz 750ML",
     "norm": "petaluma yellow label b v vineyard shiraz"
-  },
-  {
-    "uid": "8da35d2aafdf5b64e6bf51fc24e52317",
-    "eng": "Petaluma Yellow-Labelled Coonawarra Cabernet Merlot 750ML",
-    "norm": "petaluma yellow labelled coonawarra cabernet merlot"
   },
   {
     "uid": "fe9958cf87332fdfe74bd9a0f111db8e",
@@ -1952,12 +1957,12 @@
   {
     "uid": "c2d1a2a54292f674ad9cc967c0090f10",
     "eng": "PETIT VALLON Montagne St Emilion",
-    "norm": "petit vallon montagne emilion"
+    "norm": "petit vallon montagne saint emilion"
   },
   {
     "uid": "0dbf6fef1470e8d998d28ee62019e812",
     "eng": "PIO CESARE Barbera D Alba Doc",
-    "norm": "pio cesare barbera alba doc"
+    "norm": "pio cesare barbera d alba"
   },
   {
     "uid": "b3269b17a70ed4c142468dd11f39b155",
@@ -1975,6 +1980,11 @@
     "norm": "rauzan gassies haut medoc"
   },
   {
+    "uid": "ae41909813d73018324a62fc62e02d74",
+    "eng": "RAWSON'S RETREAT Cabernet Sauvignon",
+    "norm": "rawsons retreat cabernet sauvignon"
+  },
+  {
     "uid": "e42e71fc7688b7ce1c5d6111e8e4357c",
     "eng": "Rawson Retreat Merlot Case 6 X 750ML",
     "norm": "rawson retreat merlot"
@@ -1990,19 +2000,14 @@
     "norm": "rawson retreat shiraz cabernet"
   },
   {
-    "uid": "ae41909813d73018324a62fc62e02d74",
-    "eng": "RAWSON'S RETREAT Cabernet Sauvignon",
-    "norm": "rawsons retreat cabernet sauvignon"
-  },
-  {
     "uid": "a746af325887865c9512fbccdc61c4fd",
     "eng": "RAWSON'S RETREAT Shiraz Cabernet",
-    "norm": "rawsons retreat shiraz cabernet"
+    "norm": "rawson retreat shiraz cabernet"
   },
   {
     "uid": "d5e8862fa97430c83ba27f5a42852a3d",
     "eng": "RICOSSA Barbersco",
-    "norm": "ricossa barbersco"
+    "norm": "ricossa barbaresco"
   },
   {
     "uid": "ba12183456d6db2db4a179e5605f96c4",
@@ -2017,22 +2022,27 @@
   {
     "uid": "c9576fd12d6057f1be6a0b7c0255bf0b",
     "eng": "LA ROCHE L Range Merlot",
-    "norm": "roche range merlot"
+    "norm": "la roche l range merlot"
   },
   {
     "uid": "0da2c80440eee83c93ff7c1c13d41ba8",
     "eng": "LA ROCHE L Range Pinot Noir",
-    "norm": "roche range pinot noir"
+    "norm": "la roche l range pinot noir"
   },
   {
     "uid": "baf5e9b8c676175d4824040c1f88c371",
     "eng": "La Rose De Vit Bordeaux 750ML",
-    "norm": "rose vit bordeaux"
+    "norm": "la rose de vit bordeaux"
   },
   {
     "uid": "144c4ce4ed3d5e2d6ad6c01a3a46cb20",
     "eng": "RUPERT & ROTHSCHILD Rupert & Rothschild Classique",
-    "norm": "rupert rothschild rupert rothschild classique"
+    "norm": "rupert and rothschild classique"
+  },
+  {
+    "uid": "eb41a910774c1ebe04f07c944e2ec3c8",
+    "eng": "Saga Bordeaux Lafite Wine 750ML",
+    "norm": "saga bordeaux"
   },
   {
     "uid": "92e57004e4e58fe340a9bc9bf5912ee5",
@@ -2040,34 +2050,34 @@
     "norm": "saga bordeaux"
   },
   {
-    "uid": "eb41a910774c1ebe04f07c944e2ec3c8",
-    "eng": "Saga Bordeaux Lafite Wine 750ML",
-    "norm": "saga bordeaux lafite"
-  },
-  {
     "uid": "c66af690d3b2e40535c5b819bdbb30ca",
     "eng": "SAINT CLAIR Origin Sauvignon Blanc",
     "norm": "saint clair origin sauvignon blanc"
   },
   {
+    "uid": "a38c4e98d32634bba78d1193eb5fa3d1",
+    "eng": "St Marguerite Rose 75 CL",
+    "norm": "sainte marguerite rose"
+  },
+  {
     "uid": "0a570bf5d553a9c23a2c0921c755d6ad",
     "eng": "SANTA HELENA Gran Reserva Cabernet Sauvignon",
-    "norm": "santa helena cabernet sauvignon gran reserva"
+    "norm": "santa helena gran reserva cabernet sauvignon"
   },
   {
     "uid": "de54e1e55f0e328e6056683b2a4b234d",
     "eng": "SANTA RITA 120 Reserva Esp Merlot",
-    "norm": "santa rita merlot reserva esp"
+    "norm": "santa rita 120 reserva merlot"
   },
   {
     "uid": "d9bec313e08f852e5e80d23d56b6dc51",
     "eng": "SANTA RITA Santa Rita 120 Cabernet Sauvignon, Central Vally, Chile (750ml)",
-    "norm": "santa rita santa rita cabernet sauvignon central vally chile"
+    "norm": "santa rita 120 cabernet sauvignon"
   },
   {
     "uid": "263cbd33668661697e5fb03d934ea253",
     "eng": "Sarget de Gruaud Larose Saint-Julien 750ML",
-    "norm": "sarget gruaud larose saint julien"
+    "norm": "sarget de gruaud larose saint julien"
   },
   {
     "uid": "4c84d1db36c9dbb1c84c2aab49df5c38",
@@ -2080,29 +2090,24 @@
     "norm": "sherwood estate stoney range pinot noir"
   },
   {
-    "uid": "d9b009e67149e1e9af94e7c5595069dd",
-    "eng": "THE SHY PIG Shiraz Cabernet Merlot",
-    "norm": "shy pig merlot shiraz cabernet"
-  },
-  {
     "uid": "d6f24a17fbddc7bf9eb06efe01d3e432",
     "eng": "THE SHY PIG Shiraz",
-    "norm": "shy pig shiraz"
+    "norm": "the shy pig shiraz"
   },
   {
-    "uid": "81105a0c2f735c7409d7318f726a7ab7",
-    "eng": "THE STAG Shiraz.",
-    "norm": "stag shiraz"
-  },
-  {
-    "uid": "aa02726c00730a8550f43210f29ba482",
-    "eng": "Stanley Shiraz Cabernet 4LT",
-    "norm": "stanley shiraz cabernet"
+    "uid": "d9b009e67149e1e9af94e7c5595069dd",
+    "eng": "THE SHY PIG Shiraz Cabernet Merlot",
+    "norm": "the shy pig shiraz cabernet merlot"
   },
   {
     "uid": "1968a882ceed40cf69b42fa565a8d4be",
     "eng": "Stanley Traditional Dry Red 4LT",
     "norm": "stanley traditional dry red"
+  },
+  {
+    "uid": "aa02726c00730a8550f43210f29ba482",
+    "eng": "Stanley Shiraz Cabernet 4LT",
+    "norm": "stanley shiraz cabernet"
   },
   {
     "uid": "bbd2710b1024091d41b72f113d932ff5",
@@ -2117,37 +2122,37 @@
   {
     "uid": "9af325304fa139d17a783fc1d220cfb7",
     "eng": "TERR BAUME ST PAUL Aoc Fitou",
-    "norm": "terr baume paul aoc fitou"
+    "norm": "terr baume st paul fitou"
   },
   {
     "uid": "cc29f37e38fa9319c4e573565b06225c",
     "eng": "TERR BAUME ST PAUL Muscat St Jean Minervois",
-    "norm": "terr baume paul muscat jean minervois"
+    "norm": "terr baume st paul muscat saint jean minervois"
   },
   {
     "uid": "b589971961df696e7c33094456f8e367",
     "eng": "Terra Vega Reserva Cabernet Sauvignon 12 X 750ML",
-    "norm": "terra vega cabernet sauvignon reserva"
+    "norm": "terra vega reserva cabernet sauvignon"
   },
   {
     "uid": "42dfdbef758c49bc7dc0353a81bf7b33",
     "eng": "Terra Vega Reserva Cabernet Sauvignon 750ML",
-    "norm": "terra vega cabernet sauvignon reserva"
+    "norm": "terra vega reserva cabernet sauvignon"
   },
   {
     "uid": "ecf8a41118b964e88483746894999477",
     "eng": "Terra Vega Reserva Carmenere 12 X 750ML",
-    "norm": "terra vega carmenere reserva"
-  },
-  {
-    "uid": "8d6fabb81195e25da4b5f1b747085e1c",
-    "eng": "Terra Vega Reserva Merlot 12 X 750ML",
-    "norm": "terra vega merlot reserva"
+    "norm": "terra vega reserva carmenere"
   },
   {
     "uid": "f77988ab9fb37abf3647c144609a71ec",
     "eng": "Terra Vega Reserva Merlot 750ML",
-    "norm": "terra vega merlot reserva"
+    "norm": "terra vega reserva merlot"
+  },
+  {
+    "uid": "8d6fabb81195e25da4b5f1b747085e1c",
+    "eng": "Terra Vega Reserva Merlot 12 X 750ML",
+    "norm": "terra vega reserva merlot"
   },
   {
     "uid": "547ab7b8c606cb7e8558271b2911e234",
@@ -2157,17 +2162,22 @@
   {
     "uid": "c00d114a642659bdda393bc66e2f9919",
     "eng": "TESSELLAE Old Vines Cotes Du Roussillon",
-    "norm": "tessellae old vines cotes roussillon"
+    "norm": "tessellae old vines cotes du roussillon"
+  },
+  {
+    "uid": "81105a0c2f735c7409d7318f726a7ab7",
+    "eng": "THE STAG Shiraz.",
+    "norm": "the stag shiraz"
   },
   {
     "uid": "2598a7a3174f727cd3168e3171fbd55f",
     "eng": "Tierra de Cubas Dux Imperial Gran Reserva Case 6 x 750ML",
-    "norm": "tierra cubas dux imperial gran reserva"
+    "norm": "tierra de cubas dux imperial gran reserva"
   },
   {
     "uid": "2126fb61dcc732eca406eda471135816",
     "eng": "Tierra de Cubas Manadero Case 6 x 750ML",
-    "norm": "tierra cubas manadero"
+    "norm": "tierra de cubas manadero"
   },
   {
     "uid": "2dd89333ae4c93748d9e892fc9d01b6e",
@@ -2177,12 +2187,12 @@
   {
     "uid": "74d2505a29ee49b780c48d85ae196bc0",
     "eng": "TOMMASI Merlot Le Prunee",
-    "norm": "tommasi merlot prunee"
+    "norm": "tommasi merlot le prunee"
   },
   {
     "uid": "993740df9c9a7d072a60561ba3e62919",
     "eng": "TORRES Sangres De Toro Red Wine",
-    "norm": "torres sangres toro red"
+    "norm": "torres sangre de toro"
   },
   {
     "uid": "8cf729912e6c7ae1be93eabe1f384625",
@@ -2197,21 +2207,21 @@
   {
     "uid": "5fa29b30792a50299cf5a0b3647fb252",
     "eng": "Vieux Château Renaissance Bordeaux 750ML",
-    "norm": "vieux ch teau renaissance bordeaux"
+    "norm": "vieux chateau renaissance bordeaux"
   },
   {
     "uid": "e353f62f7b59597af3742f6c397a9785",
     "eng": "Vieux Château Renaissance Bordeaux Case 12 x 750ML",
-    "norm": "vieux ch teau renaissance bordeaux"
-  },
-  {
-    "uid": "e6da914ef610e616402cb42103fe1775",
-    "eng": "VINA GRACIA Merlot (case)",
-    "norm": "vina gracia merlot"
+    "norm": "vieux chateau renaissance bordeaux"
   },
   {
     "uid": "26a9b94bb5a1e9570821c5883e49a832",
     "eng": "VINA GRACIA Merlot",
+    "norm": "vina gracia merlot"
+  },
+  {
+    "uid": "e6da914ef610e616402cb42103fe1775",
+    "eng": "VINA GRACIA Merlot (case)",
     "norm": "vina gracia merlot"
   },
   {
@@ -2220,19 +2230,19 @@
     "norm": "vina pomal reserva centenario"
   },
   {
-    "uid": "0df4c9d220001792d75d4a045a73edf4",
-    "eng": "WAITROSE Cava Brut",
-    "norm": "waitrose brut cava"
-  },
-  {
     "uid": "636f6bebfd1b7b31a17a9af903525da6",
     "eng": "WAITROSE Burgundy Chardonnay",
     "norm": "waitrose burgundy chardonnay"
   },
   {
+    "uid": "0df4c9d220001792d75d4a045a73edf4",
+    "eng": "WAITROSE Cava Brut",
+    "norm": "waitrose cava brut"
+  },
+  {
     "uid": "bff63460a2ac0f893f8b072b486b7e11",
     "eng": "WAITROSE Chianti Tuscany Italy",
-    "norm": "waitrose chianti tuscany italy"
+    "norm": "waitrose chianti tuscany"
   },
   {
     "uid": "b5fbec00782fc97283c081f7a0ad6428",
@@ -2250,14 +2260,9 @@
     "norm": "wolf blass black label cabernet shiraz malbec"
   },
   {
-    "uid": "e7ea9e3662749c7627ddd45cd256ff6f",
-    "eng": "WOLF BLASS Red Label Cab Merlot",
-    "norm": "wolf blass cabernet merlot red label"
-  },
-  {
     "uid": "4030b34f48ce0acfdc1c771c7b6fe4c1",
     "eng": "WOLF BLASS Eaglehawk Shiraz Merlot Cabernet",
-    "norm": "wolf blass eaglehawk merlot cabernet shiraz"
+    "norm": "wolf blass eaglehawk shiraz merlot cabernet"
   },
   {
     "uid": "58cf1eb13e094e5a31a65d085d90014f",
@@ -2275,19 +2280,14 @@
     "norm": "wolf blass gold label shiraz"
   },
   {
-    "uid": "bc7a9d8565d9dc9b148dc1442c866f93",
-    "eng": "WOLF BLASS Grey Label Cabernet Shiraz",
-    "norm": "wolf blass grey label cabernet shiraz"
-  },
-  {
     "uid": "1674a22391c70e220c3680988fe12636",
     "eng": "Wolf Blass Grey Label Cabernet Shiraz 750ML",
     "norm": "wolf blass grey label cabernet shiraz"
   },
   {
-    "uid": "6f16d263658e62737e50167179cf5c8b",
-    "eng": "WOLF BLASS Grey Label Shiraz",
-    "norm": "wolf blass grey label shiraz"
+    "uid": "bc7a9d8565d9dc9b148dc1442c866f93",
+    "eng": "WOLF BLASS Grey Label Cabernet Shiraz",
+    "norm": "wolf blass grey label cabernet shiraz"
   },
   {
     "uid": "156a2a8f5eb6d751917d3b3a629c6e2f",
@@ -2295,24 +2295,24 @@
     "norm": "wolf blass grey label shiraz"
   },
   {
+    "uid": "6f16d263658e62737e50167179cf5c8b",
+    "eng": "WOLF BLASS Grey Label Shiraz",
+    "norm": "wolf blass grey label shiraz"
+  },
+  {
     "uid": "bf395e7f407b6bc0ea704c8994f05df2",
     "eng": "WOLF BLASS Ps Gold Label Cabernet Sauvignon",
-    "norm": "wolf blass ps gold label cabernet sauvignon"
+    "norm": "wolf blass presidents selection gold label cabernet sauvignon"
   },
   {
     "uid": "bbb0b4516d03db2c2e31325b2b871211",
     "eng": "WOLF BLASS Ps Gold Label Shiraz",
-    "norm": "wolf blass ps gold label shiraz"
+    "norm": "wolf blass presidents selection gold label shiraz"
   },
   {
-    "uid": "3a2130fdf4e2de652cd0d43cb0d19112",
-    "eng": "WOLF BLASS Yellow Label Cabernet",
-    "norm": "wolf blass yellow label cabernet"
-  },
-  {
-    "uid": "463bb1112ce6607d20db6427791497f3",
-    "eng": "Wolf Blass Yellow Label Cabernet Sauvignon Case 6 X 750ML",
-    "norm": "wolf blass yellow label cabernet sauvignon"
+    "uid": "e7ea9e3662749c7627ddd45cd256ff6f",
+    "eng": "WOLF BLASS Red Label Cab Merlot",
+    "norm": "wolf blass red label cabernet merlot"
   },
   {
     "uid": "a165768b3cc7107570351e021764cba8",
@@ -2320,13 +2320,23 @@
     "norm": "wolf blass yellow label cabernet sauvignon"
   },
   {
-    "uid": "aac0d707fb44514b363c97c4eb63c292",
-    "eng": "Wolf Blass Yellow Label Merlot Case 6 X 750ML",
-    "norm": "wolf blass yellow label merlot"
+    "uid": "463bb1112ce6607d20db6427791497f3",
+    "eng": "Wolf Blass Yellow Label Cabernet Sauvignon Case 6 X 750ML",
+    "norm": "wolf blass yellow label cabernet sauvignon"
+  },
+  {
+    "uid": "3a2130fdf4e2de652cd0d43cb0d19112",
+    "eng": "WOLF BLASS Yellow Label Cabernet",
+    "norm": "wolf blass yellow label cabernet sauvignon"
   },
   {
     "uid": "01af94d79a1bb90dd9ab16648e847415",
     "eng": "Wolf Blass Yellow Label Merlot 750ML (Packaging may vary)",
+    "norm": "wolf blass yellow label merlot"
+  },
+  {
+    "uid": "aac0d707fb44514b363c97c4eb63c292",
+    "eng": "Wolf Blass Yellow Label Merlot Case 6 X 750ML",
     "norm": "wolf blass yellow label merlot"
   },
   {
@@ -2342,7 +2352,7 @@
   {
     "uid": "7ea07068b995449c398c95ccf86e330c",
     "eng": "Wynns Black Label Cabernet 750ML",
-    "norm": "wynns black label cabernet"
+    "norm": "wynns black label cabernet sauvignon"
   },
   {
     "uid": "951ea10f08851684ffe8b11909f24a81",
@@ -2355,8 +2365,8 @@
     "norm": "wynns black label cabernet sauvignon"
   },
   {
-    "uid": "25d2a68f32fd351c3d27f724fa8e40b8",
-    "eng": "WYNNS Black Label Shiraz",
+    "uid": "aee0560d30994050419dd6b56cd05c7b",
+    "eng": "Wynns Black Label Shiraz 750ML",
     "norm": "wynns black label shiraz"
   },
   {
@@ -2365,19 +2375,19 @@
     "norm": "wynns black label shiraz"
   },
   {
-    "uid": "aee0560d30994050419dd6b56cd05c7b",
-    "eng": "Wynns Black Label Shiraz 750ML",
+    "uid": "25d2a68f32fd351c3d27f724fa8e40b8",
+    "eng": "WYNNS Black Label Shiraz",
     "norm": "wynns black label shiraz"
-  },
-  {
-    "uid": "f1e2cbd6f7a65e7e4854398ca6561488",
-    "eng": "WYNNS Red Stripe Cab Shiraz Merlot",
-    "norm": "wynns cabernet shiraz merlot red stripe"
   },
   {
     "uid": "5f4fcf7842121528f6d09fa3a475d186",
     "eng": "Wynns Glengyle Single Vineyard Coonawarra Cabenret Sauvignon 750ML",
-    "norm": "wynns glengyle single vineyard coonawarra cabenret sauvignon"
+    "norm": "wynns glengyle single vineyard coonawarra cabernet sauvignon"
+  },
+  {
+    "uid": "f1e2cbd6f7a65e7e4854398ca6561488",
+    "eng": "WYNNS Red Stripe Cab Shiraz Merlot",
+    "norm": "wynns red stripe cabernet shiraz merlot"
   },
   {
     "uid": "8a10f60c836b8a4be450577e464168ed",
@@ -2387,17 +2397,17 @@
   {
     "uid": "a24698c0e280055b3aa191fbdf909f4d",
     "eng": "WYNNS The Siding Cabernet Sauvignon",
-    "norm": "wynns siding cabernet sauvignon"
+    "norm": "wynns the siding cabernet sauvignon"
   },
   {
     "uid": "24f85a3f015a662c03c99b43a098696a",
     "eng": "Wynns V&A Lane Coonawarra Cabernet Shiraz 750ML",
-    "norm": "wynns v a lane coonawarra cabernet shiraz"
+    "norm": "wynns v and a lane coonawarra cabernet shiraz"
   },
   {
     "uid": "150db62e33d65552db9d75396e040e15",
     "eng": "Wynns V&A Lane Coonawarra Shiraz 750ML",
-    "norm": "wynns v a lane coonawarra shiraz"
+    "norm": "wynns v and a lane coonawarra shiraz"
   },
   {
     "uid": "4d2299e5d580576ff7121dc14ad5131e",
@@ -2420,13 +2430,13 @@
     "norm": "yellow tail cabernet sauvignon"
   },
   {
-    "uid": "0d2db596d6d145582dda7945811c8813",
-    "eng": "Yellow Tail Cabernet Sauvignon. Case 12 x 750ML",
+    "uid": "906b0e92dd3babe8ac0b6d641a017366",
+    "eng": "Yellow Tail Cabernet Sauvignon 750ML",
     "norm": "yellow tail cabernet sauvignon"
   },
   {
-    "uid": "906b0e92dd3babe8ac0b6d641a017366",
-    "eng": "Yellow Tail Cabernet Sauvignon 750ML",
+    "uid": "0d2db596d6d145582dda7945811c8813",
+    "eng": "Yellow Tail Cabernet Sauvignon. Case 12 x 750ML",
     "norm": "yellow tail cabernet sauvignon"
   },
   {

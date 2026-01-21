@@ -41,7 +41,7 @@ final class UIDMappingManager {
         "涼茶": "normalized_herbal_tea.json",
         "植物奶、大豆飲品": "normalized_plant_milk.json",
         "啤酒": "normalized_beer.json",
-        "紅酒": "normalized_red_wine.json",
+        "紅酒": "normalized_wine.json",
 
 
     
