@@ -1714,5 +1714,126 @@ let subCategoryNormToChinese: [String: [String: String]] = [
       "yellow tail pinot grigio":                      "黃尾袋鼠 (Yellow Tail) 灰皮諾",
 
       "unknown":                                       "其他/未分類"
+    ],
+  
+  "香檳、有氣酒": [
+      // Acquesi
+      "acquesi moscato":                               "Acquesi 莫斯卡托",
+
+      // Barons de Rothschild
+      "barons de rothschild brut":                     "Barons de Rothschild 天然香檳",
+
+      // Beaumont des Crayeres
+      "beaumont des crayeres grande reserve":          "Beaumont des Crayeres 珍藏香檳",
+
+      // Bottega
+      "bottega moscato":                               "Bottega 莫斯卡托",
+
+      // Chandon (香敦)
+      "chandon brut":                                  "香敦 (Chandon) 天然氣泡酒",
+      "chandon garden spritz":                         "香敦 (Chandon) Garden Spritz",
+      "chandon rose":                                  "香敦 (Chandon) 玫瑰氣泡酒",
+
+      // Codorniu
+      "codorniu cuvee barcelona":                      "Codorniu 巴塞羅那氣泡酒",
+
+      // Croser
+      "croser late disgorged":                         "Croser 遲除渣氣泡酒",
+
+      // Da Luca
+      "da luca prosecco":                              "Da Luca 普羅塞克",
+
+      // Ernest Rapeneau
+      "ernest rapeneau brut":                          "Ernest Rapeneau 天然香檳",
+
+      // Freixenet (菲斯奈特)
+      "freixenet cordon negro":                        "菲斯奈特 (Freixenet) 黑牌氣泡酒",
+      "freixenet ice":                                 "菲斯奈特 (Freixenet) 冰氣泡酒",
+
+      // G.H. Mumm (瑪姆)
+      "gh mumm cordon rouge":                          "瑪姆 (G.H. Mumm) 紅帶香檳",
+
+      // Grant Burge
+      "grant burge pinot noir chardonnay brut":        "Grant Burge 黑皮諾霞多麗氣泡酒",
+      "grant burge prosecco":                          "Grant Burge 普羅塞克",
+
+      // JP Chenet (香奈)
+      "jp chenet fashion litchi":                      "香奈 (JP Chenet) 荔枝味氣泡酒",
+      "jp chenet sparkling rose":                      "香奈 (JP Chenet) 玫瑰氣泡酒",
+
+      // JustBe
+      "justbe sparkling":                              "JustBe 氣泡酒",
+
+      // Katlenburger
+      "katlenburger sparkling pink grapefruit":        "Katlenburger 粉紅西柚氣泡酒",
+      "katlenburger sparkling strawberry":             "Katlenburger 士多啤梨氣泡酒",
+
+      // La Gioiosa
+      "la gioiosa prosecco":                           "La Gioiosa 普羅塞克",
+
+      // La Marca
+      "la marca prosecco":                             "La Marca 普羅塞克",
+
+      // Louis Seze
+      "louis seze champagne":                          "Louis Seze 香檳",
+
+      // Love Story
+      "love story prosecco":                           "Love Story 普羅塞克",
+
+      // Luc Belaire
+      "luc belaire gold":                              "Luc Belaire 金瓶氣泡酒",
+      "luc belaire luxe":                              "Luc Belaire 奢華氣泡酒",
+
+      // Maison Castel
+      "maison castel cuvee blanche":                   "Maison Castel 白氣泡酒",
+
+      // Martini (馬天尼)
+      "martini asti":                                  "馬天尼 (Martini) 阿斯蒂",
+
+      // Moet & Chandon (酩悅)
+      "moet & chandon imperial brut":                  "酩悅 (Moet & Chandon) 皇室香檳",
+      "moet & chandon rose imperial":                  "酩悅 (Moet & Chandon) 皇室玫瑰香檳",
+
+      // Mud House
+      "mud house sparkling brut":                      "Mud House 天然氣泡酒",
+
+      // Oyster Bay
+      "oyster bay sparkling brut":                     "Oyster Bay 天然氣泡酒",
+
+      // Pasqua
+      "pasqua prosecco":                               "Pasqua 普羅塞克",
+
+      // Pattini
+      "pattini prosecco":                              "Pattini 普羅塞克",
+
+      // Penfolds (奔富)
+      "penfolds bin 180 cabernet shiraz":              "奔富 (Penfolds) Bin 180 (紅酒)", // 註：原始數據混入的紅酒
+      "penfolds champagne cuvee brut":                 "奔富 (Penfolds) 香檳",
+
+      // Perrier Jouet (巴黎之花)
+      "perrier jouet belle epoque":                    "巴黎之花 (Perrier Jouet) 美麗時光",
+      "perrier jouet blanc de blancs":                 "巴黎之花 (Perrier Jouet) 白中白",
+      "perrier jouet grand brut":                      "巴黎之花 (Perrier Jouet) Grand Brut",
+
+      // Pol Gessner
+      "pol gessner brut":                              "Pol Gessner 天然香檳",
+
+      // Sacchetto
+      "sacchetto prosecco":                            "Sacchetto 普羅塞克",
+
+      // Vessier
+      "vessier brut":                                  "Vessier 天然氣泡酒",
+
+      // Veuve Clicquot (凱歌)
+      "veuve clicquot yellow label":                   "凱歌 (Veuve Clicquot) 皇牌香檳",
+
+      // Waitrose
+      "waitrose prosecco":                             "Waitrose 普羅塞克",
+
+      // Wolf Blass
+      "wolf blass yellow label sparkling":             "禾富 (Wolf Blass) 黃牌氣泡酒",
+      "wolf blass zero sparkling":                     "禾富 (Wolf Blass) 無酒精氣泡酒",
+
+      "unknown":                                       "其他/未分類"
     ]
 ]

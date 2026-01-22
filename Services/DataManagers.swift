@@ -43,6 +43,7 @@ final class UIDMappingManager {
         "啤酒": "normalized_beer.json",
         "紅酒": "normalized_wine.json",
         "白酒": "normalized_whilte_wine.json",
+        "香檳、有氣酒": "normalized_champagne_sparkling_wine.json",
 
 
     
