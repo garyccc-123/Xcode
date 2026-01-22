@@ -1417,6 +1417,302 @@ let subCategoryNormToChinese: [String: [String: String]] = [
       "yellow tail merlot":                            "Yellow Tail 梅洛",
       "yellow tail sangria":                           "Yellow Tail Sangria (桑格利亞)",
       "yellow tail shiraz":                            "Yellow Tail 西拉"
-    ]
+    ],
 
+  "白酒": [
+      // 19 Crimes
+      "19 crimes chardonnay":                          "19 Crimes 霞多麗",
+
+      // Antonin Rodet
+      "antonin rodet chablis":                         "Antonin Rodet 夏布利",
+
+      // Arrogant Frog (傲蛙)
+      "arrogant frog tutti fruitti white blend":       "傲蛙 (Arrogant Frog) Tutti Fruitti 白混合酒",
+
+      // Arthur Metz
+      "arthur metz pinot gris":                        "Arthur Metz 灰皮諾",
+      "arthur metz riesling":                          "Arthur Metz 雷司令",
+
+      // Babich (百祺)
+      "babich pinot gris":                             "百祺 (Babich) 灰皮諾",
+      "babich sauvignon blanc":                        "百祺 (Babich) 長相思",
+      "babich winemakers reserve sauvignon blanc":     "百祺 (Babich) 釀酒師珍藏 長相思",
+
+      // Banrock Station (班洛克)
+      "banrock station chardonnay":                    "班洛克 (Banrock Station) 霞多麗",
+
+      // Barefoot (貝爾富特)
+      "barefoot chardonnay":                           "貝爾富特 (Barefoot) 霞多麗",
+      "barefoot moscato":                              "貝爾富特 (Barefoot) 莫斯卡托",
+      "barefoot pinot grigio":                         "貝爾富特 (Barefoot) 灰皮諾",
+      "barefoot sauvignon blanc":                      "貝爾富特 (Barefoot) 長相思",
+
+      // Bonpas
+      "bonpas cotes du rhone white blend":             "Bonpas 隆河谷白酒",
+
+      // Bouchard Pere & Fils
+      "bouchard père pouilly-fuissé":                  "Bouchard Père & Fils 普伊-富塞",
+
+      // Brancott Estate (博蘭特)
+      "brancott estate sauvignon blanc":               "博蘭特 (Brancott Estate) 長相思",
+
+      // Cape Kaki
+      "cape kaki sauvignon blanc":                     "Cape Kaki 長相思",
+
+      // Carlo Rossi (加州樂事)
+      "carlo rossi moscato":                           "加州樂事 (Carlo Rossi) 莫斯卡托",
+      "carlo rossi white blend":                       "加州樂事 (Carlo Rossi) 白酒",
+
+      // Clarendelle
+      "clarendelle rouge":                             "Clarendelle (紅酒)",
+
+      // Cloudy Bay (雲霧之灣)
+      "cloudy bay chardonnay":                         "雲霧之灣 (Cloudy Bay) 霞多麗",
+      "cloudy bay sauvignon blanc":                    "雲霧之灣 (Cloudy Bay) 長相思",
+
+      // Concha y Toro (干露)
+      "concha y toro marques de casa concha chardonnay": "干露 (Concha y Toro) 麥卡斯 霞多麗",
+      "concha y toro reserva chardonnay":              "干露 (Concha y Toro) 珍藏 霞多麗",
+
+      // Cono Sur (柯諾蘇/單車)
+      "cono sur bicicleta chardonnay":                 "柯諾蘇 (Cono Sur) Bicicleta 霞多麗",
+      "cono sur bicicleta sauvignon blanc":            "柯諾蘇 (Cono Sur) Bicicleta 長相思",
+
+      // Cote Mas
+      "cote mas sauvignon blanc":                      "Cote Mas 長相思",
+
+      // Daou
+      "daou discovery chardonnay":                     "杜歐 (Daou) Discovery 霞多麗",
+
+      // Dom Moutard / Domaine Motte
+      "dom moutard chablis":                           "Dom Moutard 夏布利",
+      "domaine motte chablis":                         "Domaine Motte 夏布利",
+      "domaine motte premier cru chablis":             "Domaine Motte 一級園夏布利",
+
+      // E. Guigal
+      "eguigal cote du rhone white blend":             "E. Guigal 隆河谷白酒",
+
+      // Emalee Estate
+      "emalee estate chardonnay":                      "Emalee Estate 霞多麗",
+
+      // Ferrum
+      "ferrum chardonnay":                             "Ferrum 霞多麗",
+
+      // Francois Martenot
+      "francois martenot chablis":                     "Francois Martenot 夏布利",
+      "francois martenot chardonnay":                  "Francois Martenot 霞多麗",
+
+      // Frank Family
+      "frank family careros chardonnay":               "Frank Family Careros 霞多麗",
+
+      // Franzia
+      "franzia white chardonnay":                      "Franzia 霞多麗",
+
+      // French Cellars
+      "french cellars chardonnay":                     "French Cellars 霞多麗",
+      "french cellars sauvignon blanc":                "French Cellars 長相思",
+
+      // G M Goulaine
+      "g m goulaine pouilly fume sauvignon blanc":     "G M Goulaine 普伊-芙美",
+
+      // Grant Burge (格蘭特伯格)
+      "grant burge fifth generation chardonnay":       "格蘭特伯格 (Grant Burge) 第五代 霞多麗",
+      "grant burge gb19 sauvignon blanc":              "格蘭特伯格 (Grant Burge) GB19 長相思",
+      "grant burge gb19 semillon sauvignon blanc":     "格蘭特伯格 (Grant Burge) GB19 賽美蓉長相思",
+      "grant burge gb32 chardonnay":                   "格蘭特伯格 (Grant Burge) GB32 霞多麗",
+      "grant burge pearl chardonnay":                  "格蘭特伯格 (Grant Burge) Pearl 霞多麗",
+      "grant burge pearl sauvignon blanc":             "格蘭特伯格 (Grant Burge) Pearl 長相思",
+
+      // Gunderloch (貢德洛赫)
+      "gunderloch diva riesling":                      "貢德洛赫 (Gunderloch) Diva 雷司令",
+      "gunderloch riesling":                           "貢德洛赫 (Gunderloch) 雷司令",
+
+      // Hardys (夏迪)
+      "hardys chardonnay":                             "夏迪 (Hardys) 霞多麗",
+      "hardys eileen hardy chardonnay":                "夏迪 (Hardys) Eileen Hardy 霞多麗",
+      "hardys nottage hill chardonnay":                "夏迪 (Hardys) Nottage Hill 霞多麗",
+      "hardys stamp chardonnay":                       "夏迪 (Hardys) Stamp 霞多麗",
+      "hardys vr chardonnay":                          "夏迪 (Hardys) VR 霞多麗",
+      "hardys vr moscato":                             "夏迪 (Hardys) VR 莫斯卡托",
+      "hardys zero alcohol chardonnay":                "夏迪 (Hardys) 無酒精 霞多麗",
+
+      // Invivo X
+      "invivo x sauvignon blanc":                      "Invivo X SJP 長相思",
+
+      // Jacob's Creek (傑卡斯)
+      "jacobs creek chardonnay":                       "傑卡斯 (Jacob's Creek) 霞多麗",
+      "jacobs creek classic series chardonnay":        "傑卡斯 (Jacob's Creek) 經典 霞多麗",
+      "jacobs creek reserve chardonnay":               "傑卡斯 (Jacob's Creek) 珍藏 霞多麗",
+
+      // Jean Bouchard
+      "jean bouchard premier cru chablis":             "Jean Bouchard 一級園夏布利",
+
+      // JJ McWilliam
+      "jj mcwilliam chardonnay":                       "JJ McWilliam 霞多麗",
+
+      // JP Chenet (香奈)
+      "jp chenet colombard chardonnay":                "香奈 (JP Chenet) 哥倫巴 霞多麗",
+
+      // K1
+      "k1 sauvignon blanc":                            "K1 長相思",
+
+      // Kendall Jackson (肯德傑克遜)
+      "kendall jackson reserve chardonnay":            "肯德傑克遜 (Kendall-Jackson) 珍藏 霞多麗",
+
+      // Kim Crawford (金卡佛)
+      "kim crawford sauvignon blanc":                  "金卡佛 (Kim Crawford) 長相思",
+
+      // La Croix
+      "la croix white blend":                          "La Croix 白酒",
+
+      // Leeuwin Estate
+      "leeuwin estate art series riesling":            "Leeuwin Estate Art Series 雷司令",
+
+      // Les Charmeuses
+      "les charmeuses chardonnay":                     "Les Charmeuses 霞多麗",
+
+      // Little Giant
+      "little giant chardonnay":                       "Little Giant 霞多麗",
+
+      // Los Vascos (巴斯克)
+      "los vasco's sauvignon blanc":                   "巴斯克 (Los Vascos) 長相思",
+
+      // M Cellars
+      "m cellars chardonnay":                          "M Cellars 霞多麗",
+      "m cellars sauvignon blanc":                     "M Cellars 長相思",
+
+      // Maison Castel (卡思黛樂)
+      "maison castel sauvignon blanc":                 "卡思黛樂 (Maison Castel) 長相思",
+
+      // Matua (馬圖亞)
+      "matua marlborough sauvignon blanc":             "馬圖亞 (Matua) 馬爾堡 長相思",
+
+      // Mission Estate (教會莊園)
+      "mission estate chardonnay":                     "教會莊園 (Mission Estate) 霞多麗",
+      "mission estate sauvignon blanc":                "教會莊園 (Mission Estate) 長相思",
+
+      // MontGras (蒙格拉斯)
+      "mont gras day one chardonnay":                  "蒙格拉斯 (MontGras) Day One 霞多麗",
+      "mont gras day one sauvignon blanc":             "蒙格拉斯 (MontGras) Day One 長相思",
+
+      // Montes (蒙特斯)
+      "montes classic series chardonnay":              "蒙特斯 (Montes) 經典 霞多麗",
+
+      // Moselland (莫塞蘭)
+      "moselland divinum riesling":                    "莫塞蘭 (Moselland) Divinum 雷司令",
+
+      // Mouton Cadet (武當嘉棣)
+      "mouton cadet white blend":                      "武當嘉棣 (Mouton Cadet) 白酒",
+
+      // Mud House (泥房子)
+      "mud house chardonnay":                          "泥房子 (Mud House) 霞多麗",
+      "mud house home block vineyard pinot gris":      "泥房子 (Mud House) Home Block 灰皮諾",
+      "mud house pinot gris":                          "泥房子 (Mud House) 灰皮諾",
+      "mud house sauvignon blanc":                     "泥房子 (Mud House) 長相思",
+      "mud house the mound vineyard riesling":         "泥房子 (Mud House) The Mound 雷司令",
+      "mud house woolshed vineyard sauvignon blanc":   "泥房子 (Mud House) Woolshed 長相思",
+
+      // Muso
+      "muso marlborgh white blend":                    "Muso Marlborough 白酒",
+
+      // Nobilo (諾比羅)
+      "nobilo marlborough sauvignon blanc":            "諾比羅 (Nobilo) 馬爾堡 長相思",
+
+      // Oyster Bay (蠔灣)
+      "oyster bay chardonnay":                         "蠔灣 (Oyster Bay) 霞多麗",
+      "oyster bay pinot gris":                         "蠔灣 (Oyster Bay) 灰皮諾",
+      "oyster bay sauvignon blanc":                    "蠔灣 (Oyster Bay) 長相思",
+
+      // Penfolds (奔富)
+      "penfolds koonunga hill chardonnay":             "奔富 (Penfolds) 寇蘭山 霞多麗",
+      "penfolds max's chardonnay":                     "奔富 (Penfolds) Max's 霞多麗",
+
+      // Petaluma
+      "petaluma piccadilly chardonnay":                "Petaluma Piccadilly 霞多麗",
+
+      // Raimat (萊馬特)
+      "raimat albarino":                               "萊馬特 (Raimat) 阿爾巴利諾",
+
+      // Rawson's Retreat (洛神山莊)
+      "rawson's retreat chardonnay":                   "洛神山莊 (Rawson's Retreat) 霞多麗",
+      "rawson's retreat semillon sauvignon blanc":     "洛神山莊 (Rawson's Retreat) 賽美蓉長相思",
+
+      // Saint Clair (聖勁)
+      "saint clair origin sauvignon blanc":            "聖勁 (Saint Clair) Origin 長相思",
+      "saint clair unoaked chardonnay":                "聖勁 (Saint Clair) 未經橡木桶 霞多麗",
+
+      // Santa Helena (聖海倫娜)
+      "santa helena gran reserva chardonnay":          "聖海倫娜 (Santa Helena) 特級珍藏 霞多麗",
+
+      // Santa Rita (桑塔麗塔)
+      "santa rita 120 sauvignon blanc":                "桑塔麗塔 (Santa Rita) 120 長相思",
+
+      // Shaw and Smith
+      "shaw and smith sauvignon blanc":                "Shaw + Smith 長相思",
+
+      // Stanley (史丹利)
+      "stanley chardonnay":                            "史丹利 (Stanley) 霞多麗",
+
+      // Suntory (三得利)
+      "suntory antioxidant white blend":               "三得利 (Suntory) 無添加抗氧化白酒",
+
+      // Ta Ku
+      "ta ku sauvignon blanc":                         "Ta Ku 長相思",
+
+      // Tapestry
+      "tapestry central sauvignon blanc":              "Tapestry Central 長相思",
+
+      // Terra Vega
+      "terra vega reserva chardonnay":                 "Terra Vega 珍藏 霞多麗",
+      "terra vega reserva sauvignon blanc":            "Terra Vega 珍藏 長相思",
+
+      // The Agnes
+      "the agnes chardonnay":                          "The Agnes 霞多麗",
+
+      // The Shy Pig
+      "the shy pig sauvignon blanc":                   "The Shy Pig 長相思",
+
+      // The Stag
+      "the stag chardonnay":                           "The Stag 霞多麗",
+
+      // Trapiche (翠柏)
+      "trapiche oak cask chardonnay":                  "翠柏 (Trapiche) 橡木桶 霞多麗",
+
+      // Tread Softly
+      "tread softly sauvignon blanc":                  "Tread Softly 長相思",
+
+      // Villa Maria (新瑪利)
+      "villa maria private bin chardonnay":            "新瑪利 (Villa Maria) Private Bin 霞多麗",
+      "villa maria private bin sauvignon blanc":       "新瑪利 (Villa Maria) Private Bin 長相思",
+      "villa maria reserve sauvignon blanc":           "新瑪利 (Villa Maria) Reserve 長相思",
+
+      // Villa Mura
+      "villa mura pinot grigio":                       "Villa Mura 灰皮諾",
+
+      // Waitrose
+      "waitrose pinot grigio":                         "Waitrose 灰皮諾",
+
+      // William Fevre (威廉費爾)
+      "william fevre chablis":                         "威廉費爾 (William Fevre) 夏布利",
+
+      // Wolf Blass (禾富)
+      "wolf blass eaglehawk chardonnay":               "禾富 (Wolf Blass) Eaglehawk (鷹標) 霞多麗",
+      "wolf blass gold label chardonnay":              "禾富 (Wolf Blass) 金牌 霞多麗",
+      "wolf blass yellow label chardonnay":            "禾富 (Wolf Blass) 黃牌 霞多麗",
+      "wolf blass yellow label moscato":               "禾富 (Wolf Blass) 黃牌 莫斯卡托",
+      "wolf blass zero sauvignon blanc":               "禾富 (Wolf Blass) 無酒精 長相思",
+
+      // Wolfberger (沃爾夫伯格)
+      "wolfberger riesling":                           "沃爾夫伯格 (Wolfberger) 雷司令",
+
+      // Yalumba (御蘭堡)
+      "yalumba y series pinot grigio":                 "御蘭堡 (Yalumba) Y Series 灰皮諾",
+      "yalumba y series viognier":                     "御蘭堡 (Yalumba) Y Series 維歐尼",
+
+      // Yellow Tail (黃尾袋鼠)
+      "yellow tail moscato":                           "黃尾袋鼠 (Yellow Tail) 莫斯卡托",
+      "yellow tail pinot grigio":                      "黃尾袋鼠 (Yellow Tail) 灰皮諾",
+
+      "unknown":                                       "其他/未分類"
+    ]
 ]

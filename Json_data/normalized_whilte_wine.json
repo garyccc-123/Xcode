@@ -1,878 +1,58 @@
 [
   {
-    "uid": "c66af690d3b2e40535c5b819bdbb30ca",
-    "eng": "SAINT CLAIR Origin Sauvignon Blanc",
-    "norm": "saint clair"
-  },
-  {
-    "uid": "236675c59f5a84e1e5fed136e96a6a88",
-    "eng": "CLOUDY BAY Chardonnay (case)",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "c0c79f0e2c5fe1e51558f9c0999efeeb",
-    "eng": "WILLIAM FEVRE Chablis",
-    "norm": "william fevre"
-  },
-  {
-    "uid": "a41daeabc832d5f0e7277b987b51593a",
-    "eng": "WOLFBERGER Riesling",
-    "norm": "wolfberger"
-  },
-  {
-    "uid": "6f4b85dd04e2b895807bf5d09d93bc31",
-    "eng": "CONO SUR Bicicleta Sauvignon Blanc",
-    "norm": "cono sur"
-  },
-  {
-    "uid": "10770df77f6d5be31ca60b0fe810bfb5",
-    "eng": "BAREFOOT California Pinot Grigio",
-    "norm": "barefoot"
-  },
-  {
-    "uid": "cdc1f13e3e934702a55792a7552d2f14",
-    "eng": "YALUMBA Y Series Viognier",
-    "norm": "yalumba"
-  },
-  {
-    "uid": "bceceb2f611c52e5940c1b08db535f10",
-    "eng": "ARROGANT FROG Tutti Fruitti Blanc",
-    "norm": "arrogant frog"
-  },
-  {
-    "uid": "1c3ea75458756d7425ef83ad00aa1eda",
-    "eng": "THE SHY PIG Sauvignon Blanc",
-    "norm": "the shy pig"
-  },
-  {
-    "uid": "dcd26e6af4bd85a810920e4efce319ad",
-    "eng": "CONCHA Y TORO Marques De Casa Concha - Chardonnay",
-    "norm": "concha y toro"
-  },
-  {
-    "uid": "2859d75891b6819360c553a2e5620c9b",
-    "eng": "TREAD SOFTLY Sauvignon Blanc",
-    "norm": "tread softly"
-  },
-  {
-    "uid": "94015d13a89e7aad0a9b68095a37dac0",
-    "eng": "HARDY'S Chardonnay",
-    "norm": "hardys"
-  },
-  {
-    "uid": "19f067ba14d28df35beca47079a926dd",
-    "eng": "RAWSON'S RETREAT Semillion Sauv Blanc",
-    "norm": "rawson's retreat"
-  },
-  {
-    "uid": "f03f187d422946a1b03ce56a1b7f2258",
-    "eng": "BAREFOOT Chardonnay",
-    "norm": "barefoot"
-  },
-  {
-    "uid": "d2b386d7936db0c83e667b038fdd9cdc",
-    "eng": "CLOUDY BAY Sauvignon Blanc",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "f4e2c2983dee10b2ddcf61530c3a0040",
-    "eng": "KENDALL JACKSON Reserve Chardonnay",
-    "norm": "kendall jackson"
-  },
-  {
-    "uid": "22994ee4ed05f6dee82d86db63ab9637",
-    "eng": "HARDY'S Zero Alcohol Chardonnay",
-    "norm": "hardys"
-  },
-  {
-    "uid": "e9548a8f492144f146365acc15cc4eee",
-    "eng": "OYSTER BAY Marlborough Chardonnay",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "b97ba93dd324bb75e507310d6636f166",
-    "eng": "(尚未取得英文名稱)",
-    "norm": "unknown"
-  },
-  {
-    "uid": "03dc83fdfa04cc148b392925f238a9fe",
-    "eng": "BABICH Winemakers' Reserve Sauvignon Blanc",
-    "norm": "babich"
-  },
-  {
-    "uid": "4253b0c8b964d9bcd0677afff6a6bdbc",
-    "eng": "OYSTER BAY Pinot Gris",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "94b5a1675d4f97c10b50fb54aff0bd50",
-    "eng": "DOM MOUTARD Chablis",
-    "norm": "dom moutard"
-  },
-  {
-    "uid": "1552c0cff5f94502a66721515c14d7e9",
-    "eng": "ARTHUR METZ Riesling",
-    "norm": "arthur metz"
-  },
-  {
-    "uid": "bd3ddc0c2eaa705f236a8b0ea3fee6e6",
-    "eng": "BABICH Sauvignon Blanc",
-    "norm": "babich"
-  },
-  {
-    "uid": "5df85ad706a92c128ac12f84ff35cfbe",
-    "eng": "JP CHENET Colombard Chardonnay",
-    "norm": "jp chenet"
-  },
-  {
-    "uid": "5f2d401022f252c320e147fba61742de",
-    "eng": "LA CROIX Barton White",
-    "norm": "la croix"
-  },
-  {
-    "uid": "b77e84ab65601468399bf8dd9d12598b",
-    "eng": "FRANCOIS MARTENOT Chablis",
-    "norm": "francois martenot"
-  },
-  {
-    "uid": "d3e774de9177126390ad9b8fa01b74f5",
-    "eng": "WOLF BLASS Yellow Label Chardonnay",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "b0d66102fb33cd3928ffbee4677a9dea",
-    "eng": "JJ MCWILLIAM Chardonnay",
-    "norm": "jj mcwilliam"
-  },
-  {
-    "uid": "72e1fc207541eb3235441e9bc7434f4d",
-    "eng": "SANTA RITA Santa Rita 120 Sauvignon Blanc Central Vally, Chile (750ml)",
-    "norm": "santa rita"
-  },
-  {
-    "uid": "571009c91bc8156705f618a39cb3bf17",
-    "eng": "MATUA Marlborough Sauv Blanc",
-    "norm": "matua marlborough"
-  },
-  {
-    "uid": "ed46e02afa8b89f249be2c2572a3a444",
-    "eng": "SANTA HELENA Gran Reserva Chardonnay",
-    "norm": "santa helena"
-  },
-  {
-    "uid": "7eb25e5ca9096bcd4a88a5c3694de7bf",
-    "eng": "RAIMAT Albarino",
-    "norm": "raimat albarino"
-  },
-  {
-    "uid": "ce5640f7fe08b5ac05df71ea49fed0d8",
-    "eng": "HARDY'S Chardonnay 3l Cask",
-    "norm": "hardys"
-  },
-  {
-    "uid": "381b9855de0fad5c1d003cc78be6fc52",
-    "eng": "MISSION EST Hawke's Bay Chardonnay",
-    "norm": "mission estate"
-  },
-  {
-    "uid": "3eb8a815cbde6d90866c84ba49cb2aeb",
-    "eng": "(尚未取得英文名稱)",
-    "norm": "unknown"
-  },
-  {
-    "uid": "0a75b210720e5ca6a865883ad6b9c707",
-    "eng": "VILLA MURA Pinot Grigio",
-    "norm": "villa mura"
-  },
-  {
-    "uid": "fb0a03fda99a6a05907c516994b7825d",
-    "eng": "SAINT CLAIR Unoaked Chardonnay",
-    "norm": "saint clair"
-  },
-  {
-    "uid": "06fef10e8f01fd5aa53da14b5ceba79e",
-    "eng": "WOLF BLASS Eaglehawk Chardonnay",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "725319d28b39693ce86fe47281e3f7b8",
-    "eng": "JACOB'S CREEK Chardonnay",
-    "norm": "jacobs creek"
-  },
-  {
-    "uid": "4a519db8171dedba716810c7d5022667",
-    "eng": "MONT GRAS Day One Sauvblanc",
-    "norm": "mont gras"
-  },
-  {
-    "uid": "258c37e2c993bbe472f73c7d7ec51e3e",
-    "eng": "MUD HOUSE Marlborough Sauv Blanc",
-    "norm": "mud house"
-  },
-  {
-    "uid": "69d4c76eae546291650702a6dcace325",
-    "eng": "YALUMBA Y Series Pinot Grigio",
-    "norm": "yalumba"
-  },
-  {
-    "uid": "a1e478d365bab5679af78ed27fc9933d",
-    "eng": "CLOUDY BAY Chardonnay",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "4fa718a97436466cf9aaaa83ab538c85",
-    "eng": "THE STAG Chardonnay",
-    "norm": "the stag"
-  },
-  {
-    "uid": "64858ec849732925d32178a2bb73d8d1",
-    "eng": "CARLO ROSSI California White",
-    "norm": "carlo rossi"
-  },
-  {
-    "uid": "5ad89e4f9848dbbc08aef23173957e16",
-    "eng": "(尚未取得英文名稱)",
-    "norm": "unknown"
-  },
-  {
-    "uid": "09f724fff4f6b7331b49194d9e0cd26d",
-    "eng": "MONT GRAS Day One Chardonnay",
-    "norm": "mont gras"
-  },
-  {
-    "uid": "497ab3d3b9494a03fad916e5e337bc8b",
-    "eng": "MAISON CASTEL Sauvignon Blanc",
-    "norm": "maison castel"
-  },
-  {
-    "uid": "f4fec034e94bdaa36b7c54d5a767a9d9",
-    "eng": "MISSION EST Sauv Blanc",
-    "norm": "mission estate"
-  },
-  {
-    "uid": "ede61a83e47d975298147f168dc3f478",
-    "eng": "BRANCOTT ESTATE Sauvignon Blanc",
-    "norm": "brancott estate"
-  },
-  {
-    "uid": "66424b71ad862a91d7764b90d3eadc07",
-    "eng": "RAWSON'S RETREAT Chardonnay",
-    "norm": "rawson's retreat"
-  },
-  {
-    "uid": "b62dbb9b1ed9b7840d1ecaa33e8dbcb5",
-    "eng": "BANROCK STATION Chardonnay",
-    "norm": "banrock station"
-  },
-  {
-    "uid": "918eab7bb46f3dd44d09c2888a8f18bf",
-    "eng": "CLARENDELLE Rouge",
-    "norm": "clarendelle rouge"
-  },
-  {
-    "uid": "bd29034fd22cc1fef217072f7a08c821",
-    "eng": "FRANCOIS MARTENOT Bourgogne Chardonnay",
-    "norm": "francois martenot"
-  },
-  {
-    "uid": "4dd1710427f09a16c56bb1fe8b52a0a1",
-    "eng": "MOSELLAND Divinum Riesling",
-    "norm": "moselland divinum"
-  },
-  {
-    "uid": "4c00e2c49910a50e4a48ae0b4a7633f0",
-    "eng": "E.GUIGAL Cote Du Rhone Blanc",
-    "norm": "eguigal cote"
-  },
-  {
-    "uid": "ef7670214555c6013b4027b99b6554f4",
-    "eng": "TA KU Sauvignon Blanc",
-    "norm": "ta ku"
-  },
-  {
-    "uid": "29a40060b02e765afd6174be1bd82ff5",
-    "eng": "GUNDERLOCH Diva Riesling Spatlese",
-    "norm": "gunderloch diva"
-  },
-  {
-    "uid": "2165104f3ae12e841b42a1af6ec2bcd4",
-    "eng": "BABICH Pinot Gris",
-    "norm": "babich"
-  },
-  {
-    "uid": "710b3f974ba1c9638ebf0c2e05819fa2",
-    "eng": "GUNDERLOCH Riesling",
-    "norm": "gunderloch"
-  },
-  {
-    "uid": "90f6e6b27b394dcd973cf8ec62cd23ce",
-    "eng": "(尚未取得英文名稱)",
-    "norm": "unknown"
-  },
-  {
-    "uid": "d87bce8914665f3f6197c4cf79103da9",
-    "eng": "WOLF BLASS Yellow Label Moscato",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "d61b27dd4569701df4bcd2b5616f207b",
-    "eng": "(尚未取得英文名稱)",
-    "norm": "unknown"
-  },
-  {
-    "uid": "caea6b5bf311961542b7fed7373912c9",
-    "eng": "OYSTER BAY Marlborough Sauvignon Blanc",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "395abe875e8ee2cb6b3ef436618e7139",
-    "eng": "PENFOLDS Max's Chardonnay",
-    "norm": "penfolds"
-  },
-  {
-    "uid": "ed6b58b8f041a5a08c4bd28f90e53688",
-    "eng": "HARDY'S Stamp Chardonnay Semillon",
-    "norm": "hardys"
-  },
-  {
-    "uid": "8ae08d6f5fc21d74731352a7697ffeff",
-    "eng": "WOLF BLASS Ps Gold Label Chardonnay",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "28f86be56af3d611a81e287b69bd1a84",
-    "eng": "WAITROSE Pinot Grigio Veneto Italy",
-    "norm": "waitrose"
-  },
-  {
-    "uid": "175e8ae291b20f456131b71a2b210dd4",
-    "eng": "G M GOULAINE Mg Pouilly Fume \"le Champ Des Vognes\"",
-    "norm": "g m"
-  },
-  {
-    "uid": "949776c1b02503710a1e07c0cf911502",
-    "eng": "JACOB'S CREEK Reserve Chardonnay",
-    "norm": "jacobs creek"
-  },
-  {
-    "uid": "98d9599276af08d01dd80e211d75185b",
-    "eng": "ARTHUR METZ Pinot Gris",
-    "norm": "arthur metz"
-  },
-  {
-    "uid": "adb1d498bc6de4eaba1e968e8aa8c2a4",
-    "eng": "COTE MAS Sauvignon-vermentino",
-    "norm": "cote mas"
-  },
-  {
-    "uid": "afbc9e466ce41be6c5b9bc73d31ba316",
-    "eng": "FRANZIA White Chardonnay 3l",
-    "norm": "franzia white"
-  },
-  {
-    "uid": "ec94a2ebadbe6d2b63436583c1395a29",
-    "eng": "PENFOLDS Koonunga Hill Chardonnay",
-    "norm": "penfolds"
-  },
-  {
-    "uid": "fb6ae639cfa9bb18497db2c9034a2b18",
-    "eng": "BAREFOOT California Sauvignon Blanc",
-    "norm": "barefoot"
-  },
-  {
-    "uid": "52107f742bdb70d89b8308d10f748cab",
-    "eng": "MONTES Classic Series Chardonnay",
-    "norm": "montes classic"
-  },
-  {
-    "uid": "394eea38c1d545081c996b85b51e7896",
-    "eng": "SUNTORY Antioxidant Additive Free White",
-    "norm": "suntory antioxidant"
-  },
-  {
-    "uid": "b418a3c81c554c6d6ee06071038e4711",
-    "eng": "CONO SUR Bicicleta Chardonnay",
-    "norm": "cono sur"
-  },
-  {
-    "uid": "4f7e3c6ceb44a801d7afa6aab5c9e03d",
-    "eng": "Frank Family Careros Chardonnay 750ML",
-    "norm": "frank family"
-  },
-  {
-    "uid": "675ea07431587bc651775e3b29dfbf0e",
-    "eng": "Hardys Eileen Hardy Chardonnay 750ML",
-    "norm": "hardys eileen"
-  },
-  {
-    "uid": "f3d9a2b73d279b35387dba2751ebf7e0",
-    "eng": "Mud House South Island Pinot Gris 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "7ef3ae8755d718d1d465ee9f200493bf",
-    "eng": "Penfolds Max's Chardonnay 750ML",
-    "norm": "penfolds"
-  },
-  {
-    "uid": "25e1417c0452af91bc1676ae6eae8077",
-    "eng": "M.Cellars Chardonnay Case 6 X 750ML",
-    "norm": "m cellars"
-  },
-  {
-    "uid": "baf883579f9c1b63e1dc522b0481591b",
-    "eng": "Villa Maria Private Bin Sauvignon Blanc Case 6 X 750ML",
-    "norm": "villa maria"
-  },
-  {
-    "uid": "37341035cd0a5034f096bdc1ebe9dca2",
-    "eng": "Cloudy Bay Sauvignon Blanc Case 6 X 750ML",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "e227716141f9c65e6d8fb5e8cb1b4e3e",
-    "eng": "Hardys VR Moscato Case 6 X 750ML",
-    "norm": "hardys"
-  },
-  {
-    "uid": "beeba3370e4fdb25218fe983f733430d",
-    "eng": "Shaw and Smith Sauvignon Blanc 750ML",
-    "norm": "shaw and"
-  },
-  {
-    "uid": "aeb59d2cd86cb1355ccdf55a0f11bbe0",
-    "eng": "Little Giant Adelaide Hills Chardonnay Case 6 x 750ML",
-    "norm": "little giant"
-  },
-  {
-    "uid": "4338c9fe0123f971a4adfde99ee909cb",
-    "eng": "K1 by Geoff Hardy Adelaide Hills Sauvignon Blanc Case 6 x 750ML",
-    "norm": "k1"
-  },
-  {
-    "uid": "05673b0219d0f2ca7f9007dd5cd8b8b8",
-    "eng": "Ferrum Chardonnay 2022 750ML",
-    "norm": "ferrum"
-  },
-  {
-    "uid": "59db92dfd3f47e2b99cebbb4cad9b3ac",
-    "eng": "Rawson Retreat Chardonnay 750ML",
-    "norm": "rawson's retreat"
-  },
-  {
-    "uid": "9954638d6ef9fd3b767cef014a00c11f",
-    "eng": "Les Charmeuses Vieilles Vignes Bourgogne Chardonnay 750ML",
-    "norm": "les charmeuses"
-  },
-  {
-    "uid": "02827d54e78f51b57be128fe375a830b",
-    "eng": "Grant Burge GB32 Chardonnay Case 6 x 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "1d58d24bd7973cdffd112078e56817ed",
-    "eng": "Carlo Rossi California White Case 12 x 750ML",
-    "norm": "carlo rossi"
-  },
-  {
-    "uid": "4122ddae17aa0d33d0d1efb4bfb40a69",
-    "eng": "Hardys VR Chardonnay Case 6 X 750ML",
-    "norm": "hardys"
-  },
-  {
-    "uid": "d4d28c6704e93e257c0c28e4aa6e1ad2",
-    "eng": "The Agnes Chardonnay 2023 750ML",
-    "norm": "the agnes"
-  },
-  {
-    "uid": "3497fe9af2dc694abfffc739c2a33e43",
-    "eng": "Yellow Tail Moscato Case 12 x 750ML",
-    "norm": "yellow tail"
-  },
-  {
-    "uid": "66fc1c4fe062225cfd436a429bf59758",
-    "eng": "Mud House South Island Pinot Gris Case 6 x 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "bbaf437ec11578f2aacb151e30479cb6",
-    "eng": "Barefoot Pinot Grigio Case 12 X 750ML",
-    "norm": "barefoot"
-  },
-  {
-    "uid": "acd58b151b289650da6c927495afcd14",
-    "eng": "Carlo Rossi California Moscato Case 12 x 750ML",
-    "norm": "carlo rossi"
-  },
-  {
-    "uid": "00a72d63611a3c5c3e36e0d47e7283a5",
-    "eng": "Domaine Motte Chablis 750ML",
-    "norm": "domaine motte"
-  },
-  {
-    "uid": "07cb2c9ae69612378b2ca75a171e3540",
-    "eng": "Hardys VR Chardonnay 750ML",
-    "norm": "hardys"
-  },
-  {
-    "uid": "b503d0c70d97a4862d7557046fd00282",
-    "eng": "Mud House Woolshed Vineyard Marlborough Sauvignon Blanc 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "d283262291780f27f5c7bdb25d3a72f9",
-    "eng": "Leeuwin Estate Art Series Riesling 750ML",
-    "norm": "leeuwin estate"
-  },
-  {
-    "uid": "8a28a759f4458af03d47e70063f4da08",
-    "eng": "Penfolds Koonunga Hill Chardonnay 6 x 750ML",
-    "norm": "penfolds"
-  },
-  {
-    "uid": "1dab095fdcc5e9fe658ad89b2d799513",
-    "eng": "Cape Kaki Marlborough Sauvignon Blanc 750ML",
-    "norm": "cape kaki"
-  },
-  {
-    "uid": "83a0717f790afe86c6994a637663eb12",
-    "eng": "Carlo Rossi California White Case 6 X 1.5LT",
-    "norm": "carlo rossi"
-  },
-  {
-    "uid": "75fd0d7ced6d38769163852147e72476",
-    "eng": "Emalee Estate Langhore Creek Chardonnay Case 750ML X 12",
-    "norm": "emalee estate"
-  },
-  {
     "uid": "e492790c95ee6eda75813dcc497dfbc2",
     "eng": "19 Crimes Chardonnay 750ML",
-    "norm": "19 crimes"
-  },
-  {
-    "uid": "aef81f6f46268d015a765335905923db",
-    "eng": "Little Giant Adelaide Hills Chardonnay 750ML",
-    "norm": "little giant"
-  },
-  {
-    "uid": "414c87c9796b1a6e265547065e42a025",
-    "eng": "Tapestry Central Coast Sauvignon Blanc 750ML",
-    "norm": "tapestry central"
-  },
-  {
-    "uid": "9a32bc13f5a940437cde1d2c53423c1c",
-    "eng": "Antonin Rodet Chablis Aoc 750 ML",
-    "norm": "antonin rodet"
-  },
-  {
-    "uid": "2185cc4e25f825b094f8201479ad354d",
-    "eng": "Cloudy Bay Chardonnay 750ML",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "19a1bad159af8e0f294a9f3b419e556f",
-    "eng": "Hardys VR Moscato 750ML",
-    "norm": "hardys"
-  },
-  {
-    "uid": "24456618fbc307f329b491f1188e6865",
-    "eng": "Oyster Bay Marlborough Chardonnay Case 6 x 750ML",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "cef58c6adb258850553cbe388709ba3b",
-    "eng": "Bonpas Cotes Du Rhone White Case 6 X 750ML",
-    "norm": "bonpas cotes"
-  },
-  {
-    "uid": "a84d30028fbf9a860e0bf3b4b670adab",
-    "eng": "Oyster Bay Sauvignon Blanc 750ML",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "3dc2ae5c865181051f4e156469e94206",
-    "eng": "Petaluma Piccadilly Valley Chardonnay 750ML",
-    "norm": "petaluma piccadilly"
-  },
-  {
-    "uid": "451222e214de52298a210aae366b9ecb",
-    "eng": "Mud House Woolshed Vineyard Marlborough Sauvignon Blanc Case 6 x 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "599d8e0fa5d62c55d4c21626ac2ad112",
-    "eng": "Mud House New Zealand Marlborough 2021 Sauvignon Blanc 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "a927cf85625207dc2da56a9c82b557b3",
-    "eng": "Grant Burge Fifth Generation Chardonnay Case 6 x 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "5d5d529b96e9a678bf1d685ab6348fd5",
-    "eng": "French Cellars Chardonnay 750ML",
-    "norm": "french cellars"
-  },
-  {
-    "uid": "e2bf3df8d2bb3a219ace9bad442ccb3f",
-    "eng": "Mud House The Mound Vineyard Waipara Valley Riesling Case 6 x 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "f18780dac93b4578821d7a0c3865b1e1",
-    "eng": "Oyster Bay Hawkes Bay Pinot Gris Case 6 x 750ML",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "05dd494b831d5dbbd9fc94bd02cf17e8",
-    "eng": "Jacob's Creek Reserve Chardonnay 750ML",
-    "norm": "jacobs creek"
-  },
-  {
-    "uid": "6130012533ea58959cd8e1471e500611",
-    "eng": "Terra Vega Reserva Chardonnay 12 X 750ML",
-    "norm": "terra vega"
-  },
-  {
-    "uid": "143e801ed0bdb99a0904e38631ab1adf",
-    "eng": "Concha Y Toro Casillero del Diablo Reserva Chardonnay 750ML",
-    "norm": "concha y toro"
-  },
-  {
-    "uid": "30ffa8f033cf83419a5d41829abae2f3",
-    "eng": "Mud House Home Block Vineyard Waipara Valley Pinot Gris 750ML",
-    "norm": "mud house"
+    "norm": "19 crimes chardonnay"
   },
   {
     "uid": "a2f7ce6dac6d3c6db3273e89d43dcc3e",
     "eng": "19 Crimes Chardonnay Case 6 x 750ML",
-    "norm": "19 crimes"
+    "norm": "19 crimes chardonnay"
   },
   {
-    "uid": "8868d7aa4048d529809c7295a2087f4a",
-    "eng": "Rawson Retreat Chardonnay Case 6 X 750ML",
-    "norm": "rawson's retreat"
+    "uid": "9a32bc13f5a940437cde1d2c53423c1c",
+    "eng": "Antonin Rodet Chablis Aoc 750 ML",
+    "norm": "antonin rodet chablis"
   },
   {
-    "uid": "9be4e669eaff43f4db56b5961eed1b2d",
-    "eng": "Penfolds Koonunga Hill Chardonnay 750ML",
-    "norm": "penfolds"
+    "uid": "bceceb2f611c52e5940c1b08db535f10",
+    "eng": "ARROGANT FROG Tutti Fruitti Blanc",
+    "norm": "arrogant frog tutti fruitti white blend"
   },
   {
-    "uid": "b606ee7610de3ab23efa1a86f2d2d790",
-    "eng": "Jean Bouchard Chablis Premier Cru 'Les Vaillons' 750ML",
-    "norm": "jean bouchard"
+    "uid": "1552c0cff5f94502a66721515c14d7e9",
+    "eng": "ARTHUR METZ Riesling",
+    "norm": "arthur metz riesling"
   },
   {
-    "uid": "3941ddbfbbf9fc69c035e0125f2a0926",
-    "eng": "Villa Maria Reserve Sauvignon Blanc 750ML",
-    "norm": "villa maria"
+    "uid": "98d9599276af08d01dd80e211d75185b",
+    "eng": "ARTHUR METZ Pinot Gris",
+    "norm": "arthur metz pinot gris"
   },
   {
-    "uid": "b94def21bb42ae6e7eca4f44691dd860",
-    "eng": "Grant Burge GB19 Series Semillon Sauvignon Blanc 750ML",
-    "norm": "grant burge"
+    "uid": "2165104f3ae12e841b42a1af6ec2bcd4",
+    "eng": "BABICH Pinot Gris",
+    "norm": "babich pinot gris"
   },
   {
-    "uid": "18a8adee453634324ff036f7d8b656d9",
-    "eng": "Mud House Marlborough Chardonnay 750ML",
-    "norm": "mud house"
+    "uid": "bd3ddc0c2eaa705f236a8b0ea3fee6e6",
+    "eng": "BABICH Sauvignon Blanc",
+    "norm": "babich sauvignon blanc"
   },
   {
-    "uid": "bb0ef65040efa04ce366ef08698e83b9",
-    "eng": "Muso Marlborgh 6 X 750ML",
-    "norm": "muso marlborgh"
+    "uid": "03dc83fdfa04cc148b392925f238a9fe",
+    "eng": "BABICH Winemakers' Reserve Sauvignon Blanc",
+    "norm": "babich winemakers reserve sauvignon blanc"
   },
   {
-    "uid": "616097deb489081bb3a1bb7fc41ba446",
-    "eng": "Mud House Marlborough Sauvignon Blanc Case 6 x 750ML",
-    "norm": "mud house"
+    "uid": "b62dbb9b1ed9b7840d1ecaa33e8dbcb5",
+    "eng": "BANROCK STATION Chardonnay",
+    "norm": "banrock station chardonnay"
   },
   {
-    "uid": "2adfe2e7d4ee01d71524aff2dd7fc1aa",
-    "eng": "Domaine Motte Chablis 1Er Cru Vaul 750ML",
-    "norm": "domaine motte"
-  },
-  {
-    "uid": "9e259bc79a281c17b768fbe82494e1a1",
-    "eng": "French Cellars Chardonnay Case 12 x 750ML",
-    "norm": "french cellars"
-  },
-  {
-    "uid": "b7645f8c3a6f7a4812492503f440d73a",
-    "eng": "Villa Maria Private Bin Chardonnay 750ML",
-    "norm": "villa maria"
-  },
-  {
-    "uid": "668a4447ad2ec4f4ecaa3261cf2a782b",
-    "eng": "Mud House Marlborough Chardonnay Case 6 x 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "9e8917095d870864bdf0eaf89c40a815",
-    "eng": "Wolf Blass Yellow Label Chardonnay 750ML (Packaging may vary)",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "73d43ae8f4c4efe9d4fd6dd16f3f34d8",
-    "eng": "M.Cellars Sauvignon Blanc Case 6 X 750ML",
-    "norm": "m cellars"
-  },
-  {
-    "uid": "6e50f10ac01d877a070f7c9ddeb0fa5e",
-    "eng": "Cloudy Bay Sauvignon Blanc 750ML",
-    "norm": "cloudy bay"
-  },
-  {
-    "uid": "b8546dca774173247911b55631e15ce8",
-    "eng": "Invivo x SJP Sauvignon Blanc 750ML",
-    "norm": "invivo x"
-  },
-  {
-    "uid": "5ad3c6ed2f352bbcfa69ed7d2bd98e02",
-    "eng": "Oyster Bay Chardonnay 750ML",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "9e170a3c28ce87946a0aca7651b9adbc",
-    "eng": "Jacob's Creek Classic Chardonnay Australia 750ML",
-    "norm": "jacobs creek"
-  },
-  {
-    "uid": "f374aff897bb04d5b1603adba1112619",
-    "eng": "Oyster Bay Sauvignon Blanc Case 6 X 750ML",
-    "norm": "oyster bay"
-  },
-  {
-    "uid": "c1da48d6efba7c2febe1b4158e8b21c7",
-    "eng": "Wolf Blass Gold Label Chardonnay Case 6 x 750ML",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "9248f61168de522227e4de4c49e1088a",
-    "eng": "Terra Vega Reserva Sauvignon Blanc 12 X 750ML",
-    "norm": "terra vega"
-  },
-  {
-    "uid": "621e740b6489bbb9bac1983eab7e1f79",
-    "eng": "Grant Burge Pearl Chardonnay 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "024674c3650b49ff2f34ddc36a6e7566",
-    "eng": "Hardys Nottage Hill Chardonnay Case 6 x 750ML",
-    "norm": "hardys nottage"
-  },
-  {
-    "uid": "e0b4ef8f57186bcfc53844d5d9971bc8",
-    "eng": "Grant Burge Fifth Generation Barossa Chardonnay 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "645c93703bc604662a6199c3cba982fc",
-    "eng": "Cape Kaki Marlborough Sauvignon Blanc Case 750ML X 12",
-    "norm": "cape kaki"
-  },
-  {
-    "uid": "80077c86f8fe83f7bdfa515d05057106",
-    "eng": "Kim Crawford Marlborough Sauvignon Blanc 750ML",
-    "norm": "kim crawford"
-  },
-  {
-    "uid": "75dc5fa2ab06fc2220db7c008792a99e",
-    "eng": "DAOU Discovery Paso Robles Chardonnay 750ML",
-    "norm": "daou discovery"
-  },
-  {
-    "uid": "61bfc172fb1993c4c7e32aa963251f9e",
-    "eng": "Stanley Chardonnay 4LT",
-    "norm": "stanley"
-  },
-  {
-    "uid": "86ead8429013067b91638e5ba22cb6ad",
-    "eng": "Grant Burge Pearl Sauvignon Blanc 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "273a108279e9169ad8c0187cf255be21",
-    "eng": "K1 by Geoff Hardy Adelaide Hills Sauvignon Blanc 750ML",
-    "norm": "k1"
-  },
-  {
-    "uid": "31684e319d29a3295777767beda65d3d",
-    "eng": "Nobilo Marlborough Sauvignon Blanc 750ML",
-    "norm": "nobilo marlborough"
-  },
-  {
-    "uid": "9596e073b46d2715ea4d95763dde013b",
-    "eng": "Mouton Cadet Bordeaux 2019 Wine 750ML",
-    "norm": "mouton cadet"
-  },
-  {
-    "uid": "a23f27fdea675733dd600294341ccf33",
-    "eng": "M.Cellars Sauvignon Blanc 750ML",
-    "norm": "m cellars"
-  },
-  {
-    "uid": "6122fbf8e986fb7a5c84a7e29a5c3b57",
-    "eng": "Grant Burge GB19 Sauvignon Blanc Case 6 x 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "6ee0ccdeb056823116c81072192e9d00",
-    "eng": "Mud House Home Block Vineyard Waipar Valley Pinot Gris Case 6 x 750ML",
-    "norm": "mud house"
-  },
-  {
-    "uid": "82dba7ddb22624062712652f0e923543",
-    "eng": "Jacob's Creek Chardonnay Case 6 X 750ML",
-    "norm": "jacobs creek"
-  },
-  {
-    "uid": "5cf2053c94fbf69d33f0442b0e70f366",
-    "eng": "Penfolds Max's Chardonnay Case 6 x 750ML",
-    "norm": "penfolds"
-  },
-  {
-    "uid": "adbcef5dfd3c12fd474c5d097a6afda2",
-    "eng": "Wolf Blass Zero Sauvignon Blanc 750ML",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "3d47ef56c719fc88ee81afc8d94416fd",
-    "eng": "Grant Burge GB32 Chardonnay 750ML",
-    "norm": "grant burge"
-  },
-  {
-    "uid": "e56433b1e4409eb8f6f1a43606257add",
-    "eng": "Los Vasco's Sauvignon Blanc 750ML",
-    "norm": "los vasco's"
-  },
-  {
-    "uid": "0262e3bf80adae7392011e55d3564363",
-    "eng": "Emalee Estate Chardonnay 750ML",
-    "norm": "emalee estate"
-  },
-  {
-    "uid": "211606fea5451aff44bbbe5c52cb7326",
-    "eng": "Wolf Blass Gold Label Chardonnay 750ML",
-    "norm": "wolf blass"
-  },
-  {
-    "uid": "4306e6f16fd56cd5d19984612ece082d",
-    "eng": "Bouchard Père & Fils Pouilly-Fuissé 750ML",
-    "norm": "bouchard père"
-  },
-  {
-    "uid": "ecf124508c54cd0c70c6e7c1977e5af3",
-    "eng": "M.Cellars Chardonnay 750ML",
-    "norm": "m cellars"
-  },
-  {
-    "uid": "9a7d48d973f98429a5c7b649544d755c",
-    "eng": "Yellow Tail Pinot Grigio Case 12 x 750ML",
-    "norm": "yellow tail"
+    "uid": "f03f187d422946a1b03ce56a1b7f2258",
+    "eng": "BAREFOOT Chardonnay",
+    "norm": "barefoot chardonnay"
   },
   {
     "uid": "32024610dec2d05275d88b6ed1c1d0d0",
@@ -880,13 +60,833 @@
     "norm": "barefoot moscato"
   },
   {
+    "uid": "10770df77f6d5be31ca60b0fe810bfb5",
+    "eng": "BAREFOOT California Pinot Grigio",
+    "norm": "barefoot pinot grigio"
+  },
+  {
+    "uid": "bbaf437ec11578f2aacb151e30479cb6",
+    "eng": "Barefoot Pinot Grigio Case 12 X 750ML",
+    "norm": "barefoot pinot grigio"
+  },
+  {
+    "uid": "fb6ae639cfa9bb18497db2c9034a2b18",
+    "eng": "BAREFOOT California Sauvignon Blanc",
+    "norm": "barefoot sauvignon blanc"
+  },
+  {
+    "uid": "cef58c6adb258850553cbe388709ba3b",
+    "eng": "Bonpas Cotes Du Rhone White Case 6 X 750ML",
+    "norm": "bonpas cotes du rhone white blend"
+  },
+  {
+    "uid": "4306e6f16fd56cd5d19984612ece082d",
+    "eng": "Bouchard Père & Fils Pouilly-Fuissé 750ML",
+    "norm": "bouchard père pouilly-fuissé"
+  },
+  {
+    "uid": "ede61a83e47d975298147f168dc3f478",
+    "eng": "BRANCOTT ESTATE Sauvignon Blanc",
+    "norm": "brancott estate sauvignon blanc"
+  },
+  {
+    "uid": "1dab095fdcc5e9fe658ad89b2d799513",
+    "eng": "Cape Kaki Marlborough Sauvignon Blanc 750ML",
+    "norm": "cape kaki sauvignon blanc"
+  },
+  {
+    "uid": "645c93703bc604662a6199c3cba982fc",
+    "eng": "Cape Kaki Marlborough Sauvignon Blanc Case 750ML X 12",
+    "norm": "cape kaki sauvignon blanc"
+  },
+  {
+    "uid": "acd58b151b289650da6c927495afcd14",
+    "eng": "Carlo Rossi California Moscato Case 12 x 750ML",
+    "norm": "carlo rossi moscato"
+  },
+  {
+    "uid": "64858ec849732925d32178a2bb73d8d1",
+    "eng": "CARLO ROSSI California White",
+    "norm": "carlo rossi white blend"
+  },
+  {
+    "uid": "1d58d24bd7973cdffd112078e56817ed",
+    "eng": "Carlo Rossi California White Case 12 x 750ML",
+    "norm": "carlo rossi white blend"
+  },
+  {
+    "uid": "83a0717f790afe86c6994a637663eb12",
+    "eng": "Carlo Rossi California White Case 6 X 1.5LT",
+    "norm": "carlo rossi white blend"
+  },
+  {
+    "uid": "918eab7bb46f3dd44d09c2888a8f18bf",
+    "eng": "CLARENDELLE Rouge",
+    "norm": "clarendelle rouge"
+  },
+  {
+    "uid": "236675c59f5a84e1e5fed136e96a6a88",
+    "eng": "CLOUDY BAY Chardonnay (case)",
+    "norm": "cloudy bay chardonnay"
+  },
+  {
+    "uid": "a1e478d365bab5679af78ed27fc9933d",
+    "eng": "CLOUDY BAY Chardonnay",
+    "norm": "cloudy bay chardonnay"
+  },
+  {
+    "uid": "2185cc4e25f825b094f8201479ad354d",
+    "eng": "Cloudy Bay Chardonnay 750ML",
+    "norm": "cloudy bay chardonnay"
+  },
+  {
+    "uid": "d2b386d7936db0c83e667b038fdd9cdc",
+    "eng": "CLOUDY BAY Sauvignon Blanc",
+    "norm": "cloudy bay sauvignon blanc"
+  },
+  {
+    "uid": "37341035cd0a5034f096bdc1ebe9dca2",
+    "eng": "Cloudy Bay Sauvignon Blanc Case 6 X 750ML",
+    "norm": "cloudy bay sauvignon blanc"
+  },
+  {
+    "uid": "6e50f10ac01d877a070f7c9ddeb0fa5e",
+    "eng": "Cloudy Bay Sauvignon Blanc 750ML",
+    "norm": "cloudy bay sauvignon blanc"
+  },
+  {
+    "uid": "dcd26e6af4bd85a810920e4efce319ad",
+    "eng": "CONCHA Y TORO Marques De Casa Concha - Chardonnay",
+    "norm": "concha y toro marques de casa concha chardonnay"
+  },
+  {
+    "uid": "143e801ed0bdb99a0904e38631ab1adf",
+    "eng": "Concha Y Toro Casillero del Diablo Reserva Chardonnay 750ML",
+    "norm": "concha y toro reserva chardonnay"
+  },
+  {
+    "uid": "b418a3c81c554c6d6ee06071038e4711",
+    "eng": "CONO SUR Bicicleta Chardonnay",
+    "norm": "cono sur bicicleta chardonnay"
+  },
+  {
+    "uid": "6f4b85dd04e2b895807bf5d09d93bc31",
+    "eng": "CONO SUR Bicicleta Sauvignon Blanc",
+    "norm": "cono sur bicicleta sauvignon blanc"
+  },
+  {
+    "uid": "adb1d498bc6de4eaba1e968e8aa8c2a4",
+    "eng": "COTE MAS Sauvignon-vermentino",
+    "norm": "cote mas sauvignon blanc"
+  },
+  {
+    "uid": "75dc5fa2ab06fc2220db7c008792a99e",
+    "eng": "DAOU Discovery Paso Robles Chardonnay 750ML",
+    "norm": "daou discovery chardonnay"
+  },
+  {
+    "uid": "94b5a1675d4f97c10b50fb54aff0bd50",
+    "eng": "DOM MOUTARD Chablis",
+    "norm": "dom moutard chablis"
+  },
+  {
+    "uid": "2adfe2e7d4ee01d71524aff2dd7fc1aa",
+    "eng": "Domaine Motte Chablis 1Er Cru Vaul 750ML",
+    "norm": "domaine motte premier cru chablis"
+  },
+  {
+    "uid": "00a72d63611a3c5c3e36e0d47e7283a5",
+    "eng": "Domaine Motte Chablis 750ML",
+    "norm": "domaine motte chablis"
+  },
+  {
+    "uid": "4c00e2c49910a50e4a48ae0b4a7633f0",
+    "eng": "E.GUIGAL Cote Du Rhone Blanc",
+    "norm": "eguigal cote du rhone white blend"
+  },
+  {
+    "uid": "0262e3bf80adae7392011e55d3564363",
+    "eng": "Emalee Estate Chardonnay 750ML",
+    "norm": "emalee estate chardonnay"
+  },
+  {
+    "uid": "75fd0d7ced6d38769163852147e72476",
+    "eng": "Emalee Estate Langhore Creek Chardonnay Case 750ML X 12",
+    "norm": "emalee estate chardonnay"
+  },
+  {
+    "uid": "05673b0219d0f2ca7f9007dd5cd8b8b8",
+    "eng": "Ferrum Chardonnay 2022 750ML",
+    "norm": "ferrum chardonnay"
+  },
+  {
+    "uid": "bd29034fd22cc1fef217072f7a08c821",
+    "eng": "FRANCOIS MARTENOT Bourgogne Chardonnay",
+    "norm": "francois martenot chardonnay"
+  },
+  {
+    "uid": "b77e84ab65601468399bf8dd9d12598b",
+    "eng": "FRANCOIS MARTENOT Chablis",
+    "norm": "francois martenot chablis"
+  },
+  {
+    "uid": "4f7e3c6ceb44a801d7afa6aab5c9e03d",
+    "eng": "Frank Family Careros Chardonnay 750ML",
+    "norm": "frank family careros chardonnay"
+  },
+  {
+    "uid": "afbc9e466ce41be6c5b9bc73d31ba316",
+    "eng": "FRANZIA White Chardonnay 3l",
+    "norm": "franzia white chardonnay"
+  },
+  {
+    "uid": "5d5d529b96e9a678bf1d685ab6348fd5",
+    "eng": "French Cellars Chardonnay 750ML",
+    "norm": "french cellars chardonnay"
+  },
+  {
+    "uid": "9e259bc79a281c17b768fbe82494e1a1",
+    "eng": "French Cellars Chardonnay Case 12 x 750ML",
+    "norm": "french cellars chardonnay"
+  },
+  {
     "uid": "44986dc34d931f986db813d0d6b145c9",
     "eng": "French Cellars Sauvignon Blanc 750ML",
-    "norm": "french cellars"
+    "norm": "french cellars sauvignon blanc"
+  },
+  {
+    "uid": "175e8ae291b20f456131b71a2b210dd4",
+    "eng": "G M GOULAINE Mg Pouilly Fume \"le Champ Des Vognes\"",
+    "norm": "g m goulaine pouilly fume sauvignon blanc"
+  },
+  {
+    "uid": "e0b4ef8f57186bcfc53844d5d9971bc8",
+    "eng": "Grant Burge Fifth Generation Barossa Chardonnay 750ML",
+    "norm": "grant burge fifth generation chardonnay"
+  },
+  {
+    "uid": "a927cf85625207dc2da56a9c82b557b3",
+    "eng": "Grant Burge Fifth Generation Chardonnay Case 6 x 750ML",
+    "norm": "grant burge fifth generation chardonnay"
+  },
+  {
+    "uid": "6122fbf8e986fb7a5c84a7e29a5c3b57",
+    "eng": "Grant Burge GB19 Sauvignon Blanc Case 6 x 750ML",
+    "norm": "grant burge gb19 sauvignon blanc"
+  },
+  {
+    "uid": "b94def21bb42ae6e7eca4f44691dd860",
+    "eng": "Grant Burge GB19 Series Semillon Sauvignon Blanc 750ML",
+    "norm": "grant burge gb19 semillon sauvignon blanc"
+  },
+  {
+    "uid": "3d47ef56c719fc88ee81afc8d94416fd",
+    "eng": "Grant Burge GB32 Chardonnay 750ML",
+    "norm": "grant burge gb32 chardonnay"
+  },
+  {
+    "uid": "02827d54e78f51b57be128fe375a830b",
+    "eng": "Grant Burge GB32 Chardonnay Case 6 x 750ML",
+    "norm": "grant burge gb32 chardonnay"
+  },
+  {
+    "uid": "621e740b6489bbb9bac1983eab7e1f79",
+    "eng": "Grant Burge Pearl Chardonnay 750ML",
+    "norm": "grant burge pearl chardonnay"
+  },
+  {
+    "uid": "86ead8429013067b91638e5ba22cb6ad",
+    "eng": "Grant Burge Pearl Sauvignon Blanc 750ML",
+    "norm": "grant burge pearl sauvignon blanc"
+  },
+  {
+    "uid": "710b3f974ba1c9638ebf0c2e05819fa2",
+    "eng": "GUNDERLOCH Riesling",
+    "norm": "gunderloch riesling"
+  },
+  {
+    "uid": "29a40060b02e765afd6174be1bd82ff5",
+    "eng": "GUNDERLOCH Diva Riesling Spatlese",
+    "norm": "gunderloch diva riesling"
+  },
+  {
+    "uid": "94015d13a89e7aad0a9b68095a37dac0",
+    "eng": "HARDY'S Chardonnay",
+    "norm": "hardys chardonnay"
+  },
+  {
+    "uid": "ce5640f7fe08b5ac05df71ea49fed0d8",
+    "eng": "HARDY'S Chardonnay 3l Cask",
+    "norm": "hardys chardonnay"
+  },
+  {
+    "uid": "675ea07431587bc651775e3b29dfbf0e",
+    "eng": "Hardys Eileen Hardy Chardonnay 750ML",
+    "norm": "hardys eileen hardy chardonnay"
+  },
+  {
+    "uid": "024674c3650b49ff2f34ddc36a6e7566",
+    "eng": "Hardys Nottage Hill Chardonnay Case 6 x 750ML",
+    "norm": "hardys nottage hill chardonnay"
+  },
+  {
+    "uid": "ed6b58b8f041a5a08c4bd28f90e53688",
+    "eng": "HARDY'S Stamp Chardonnay Semillon",
+    "norm": "hardys stamp chardonnay"
+  },
+  {
+    "uid": "07cb2c9ae69612378b2ca75a171e3540",
+    "eng": "Hardys VR Chardonnay 750ML",
+    "norm": "hardys vr chardonnay"
+  },
+  {
+    "uid": "4122ddae17aa0d33d0d1efb4bfb40a69",
+    "eng": "Hardys VR Chardonnay Case 6 X 750ML",
+    "norm": "hardys vr chardonnay"
+  },
+  {
+    "uid": "19a1bad159af8e0f294a9f3b419e556f",
+    "eng": "Hardys VR Moscato 750ML",
+    "norm": "hardys vr moscato"
+  },
+  {
+    "uid": "e227716141f9c65e6d8fb5e8cb1b4e3e",
+    "eng": "Hardys VR Moscato Case 6 X 750ML",
+    "norm": "hardys vr moscato"
+  },
+  {
+    "uid": "22994ee4ed05f6dee82d86db63ab9637",
+    "eng": "HARDY'S Zero Alcohol Chardonnay",
+    "norm": "hardys zero alcohol chardonnay"
+  },
+  {
+    "uid": "b8546dca774173247911b55631e15ce8",
+    "eng": "Invivo x SJP Sauvignon Blanc 750ML",
+    "norm": "invivo x sauvignon blanc"
+  },
+  {
+    "uid": "725319d28b39693ce86fe47281e3f7b8",
+    "eng": "JACOB'S CREEK Chardonnay",
+    "norm": "jacobs creek chardonnay"
+  },
+  {
+    "uid": "82dba7ddb22624062712652f0e923543",
+    "eng": "Jacob's Creek Chardonnay Case 6 X 750ML",
+    "norm": "jacobs creek chardonnay"
+  },
+  {
+    "uid": "9e170a3c28ce87946a0aca7651b9adbc",
+    "eng": "Jacob's Creek Classic Chardonnay Australia 750ML",
+    "norm": "jacobs creek classic series chardonnay"
+  },
+  {
+    "uid": "949776c1b02503710a1e07c0cf911502",
+    "eng": "JACOB'S CREEK Reserve Chardonnay",
+    "norm": "jacobs creek reserve chardonnay"
+  },
+  {
+    "uid": "05dd494b831d5dbbd9fc94bd02cf17e8",
+    "eng": "Jacob's Creek Reserve Chardonnay 750ML",
+    "norm": "jacobs creek reserve chardonnay"
+  },
+  {
+    "uid": "b606ee7610de3ab23efa1a86f2d2d790",
+    "eng": "Jean Bouchard Chablis Premier Cru 'Les Vaillons' 750ML",
+    "norm": "jean bouchard premier cru chablis"
+  },
+  {
+    "uid": "b0d66102fb33cd3928ffbee4677a9dea",
+    "eng": "JJ MCWILLIAM Chardonnay",
+    "norm": "jj mcwilliam chardonnay"
+  },
+  {
+    "uid": "5df85ad706a92c128ac12f84ff35cfbe",
+    "eng": "JP CHENET Colombard Chardonnay",
+    "norm": "jp chenet colombard chardonnay"
+  },
+  {
+    "uid": "273a108279e9169ad8c0187cf255be21",
+    "eng": "K1 by Geoff Hardy Adelaide Hills Sauvignon Blanc 750ML",
+    "norm": "k1 sauvignon blanc"
+  },
+  {
+    "uid": "4338c9fe0123f971a4adfde99ee909cb",
+    "eng": "K1 by Geoff Hardy Adelaide Hills Sauvignon Blanc Case 6 x 750ML",
+    "norm": "k1 sauvignon blanc"
+  },
+  {
+    "uid": "f4e2c2983dee10b2ddcf61530c3a0040",
+    "eng": "KENDALL JACKSON Reserve Chardonnay",
+    "norm": "kendall jackson reserve chardonnay"
+  },
+  {
+    "uid": "80077c86f8fe83f7bdfa515d05057106",
+    "eng": "Kim Crawford Marlborough Sauvignon Blanc 750ML",
+    "norm": "kim crawford sauvignon blanc"
+  },
+  {
+    "uid": "5f2d401022f252c320e147fba61742de",
+    "eng": "LA CROIX Barton White",
+    "norm": "la croix white blend"
+  },
+  {
+    "uid": "d283262291780f27f5c7bdb25d3a72f9",
+    "eng": "Leeuwin Estate Art Series Riesling 750ML",
+    "norm": "leeuwin estate art series riesling"
+  },
+  {
+    "uid": "9954638d6ef9fd3b767cef014a00c11f",
+    "eng": "Les Charmeuses Vieilles Vignes Bourgogne Chardonnay 750ML",
+    "norm": "les charmeuses chardonnay"
+  },
+  {
+    "uid": "aef81f6f46268d015a765335905923db",
+    "eng": "Little Giant Adelaide Hills Chardonnay 750ML",
+    "norm": "little giant chardonnay"
+  },
+  {
+    "uid": "aeb59d2cd86cb1355ccdf55a0f11bbe0",
+    "eng": "Little Giant Adelaide Hills Chardonnay Case 6 x 750ML",
+    "norm": "little giant chardonnay"
+  },
+  {
+    "uid": "e56433b1e4409eb8f6f1a43606257add",
+    "eng": "Los Vasco's Sauvignon Blanc 750ML",
+    "norm": "los vasco's sauvignon blanc"
+  },
+  {
+    "uid": "ecf124508c54cd0c70c6e7c1977e5af3",
+    "eng": "M.Cellars Chardonnay 750ML",
+    "norm": "m cellars chardonnay"
+  },
+  {
+    "uid": "25e1417c0452af91bc1676ae6eae8077",
+    "eng": "M.Cellars Chardonnay Case 6 X 750ML",
+    "norm": "m cellars chardonnay"
+  },
+  {
+    "uid": "a23f27fdea675733dd600294341ccf33",
+    "eng": "M.Cellars Sauvignon Blanc 750ML",
+    "norm": "m cellars sauvignon blanc"
+  },
+  {
+    "uid": "73d43ae8f4c4efe9d4fd6dd16f3f34d8",
+    "eng": "M.Cellars Sauvignon Blanc Case 6 X 750ML",
+    "norm": "m cellars sauvignon blanc"
+  },
+  {
+    "uid": "497ab3d3b9494a03fad916e5e337bc8b",
+    "eng": "MAISON CASTEL Sauvignon Blanc",
+    "norm": "maison castel sauvignon blanc"
+  },
+  {
+    "uid": "571009c91bc8156705f618a39cb3bf17",
+    "eng": "MATUA Marlborough Sauv Blanc",
+    "norm": "matua marlborough sauvignon blanc"
+  },
+  {
+    "uid": "f4fec034e94bdaa36b7c54d5a767a9d9",
+    "eng": "MISSION EST Sauv Blanc",
+    "norm": "mission estate sauvignon blanc"
+  },
+  {
+    "uid": "381b9855de0fad5c1d003cc78be6fc52",
+    "eng": "MISSION EST Hawke's Bay Chardonnay",
+    "norm": "mission estate chardonnay"
+  },
+  {
+    "uid": "09f724fff4f6b7331b49194d9e0cd26d",
+    "eng": "MONT GRAS Day One Chardonnay",
+    "norm": "mont gras day one chardonnay"
+  },
+  {
+    "uid": "4a519db8171dedba716810c7d5022667",
+    "eng": "MONT GRAS Day One Sauvblanc",
+    "norm": "mont gras day one sauvignon blanc"
+  },
+  {
+    "uid": "52107f742bdb70d89b8308d10f748cab",
+    "eng": "MONTES Classic Series Chardonnay",
+    "norm": "montes classic series chardonnay"
+  },
+  {
+    "uid": "4dd1710427f09a16c56bb1fe8b52a0a1",
+    "eng": "MOSELLAND Divinum Riesling",
+    "norm": "moselland divinum riesling"
+  },
+  {
+    "uid": "9596e073b46d2715ea4d95763dde013b",
+    "eng": "Mouton Cadet Bordeaux 2019 Wine 750ML",
+    "norm": "mouton cadet white blend"
+  },
+  {
+    "uid": "18a8adee453634324ff036f7d8b656d9",
+    "eng": "Mud House Marlborough Chardonnay 750ML",
+    "norm": "mud house chardonnay"
+  },
+  {
+    "uid": "668a4447ad2ec4f4ecaa3261cf2a782b",
+    "eng": "Mud House Marlborough Chardonnay Case 6 x 750ML",
+    "norm": "mud house chardonnay"
+  },
+  {
+    "uid": "258c37e2c993bbe472f73c7d7ec51e3e",
+    "eng": "MUD HOUSE Marlborough Sauv Blanc",
+    "norm": "mud house sauvignon blanc"
+  },
+  {
+    "uid": "616097deb489081bb3a1bb7fc41ba446",
+    "eng": "Mud House Marlborough Sauvignon Blanc Case 6 x 750ML",
+    "norm": "mud house sauvignon blanc"
+  },
+  {
+    "uid": "599d8e0fa5d62c55d4c21626ac2ad112",
+    "eng": "Mud House New Zealand Marlborough 2021 Sauvignon Blanc 750ML",
+    "norm": "mud house sauvignon blanc"
+  },
+  {
+    "uid": "30ffa8f033cf83419a5d41829abae2f3",
+    "eng": "Mud House Home Block Vineyard Waipara Valley Pinot Gris 750ML",
+    "norm": "mud house home block vineyard pinot gris"
+  },
+  {
+    "uid": "6ee0ccdeb056823116c81072192e9d00",
+    "eng": "Mud House Home Block Vineyard Waipar Valley Pinot Gris Case 6 x 750ML",
+    "norm": "mud house home block vineyard pinot gris"
+  },
+  {
+    "uid": "f3d9a2b73d279b35387dba2751ebf7e0",
+    "eng": "Mud House South Island Pinot Gris 750ML",
+    "norm": "mud house pinot gris"
+  },
+  {
+    "uid": "66fc1c4fe062225cfd436a429bf59758",
+    "eng": "Mud House South Island Pinot Gris Case 6 x 750ML",
+    "norm": "mud house pinot gris"
+  },
+  {
+    "uid": "e2bf3df8d2bb3a219ace9bad442ccb3f",
+    "eng": "Mud House The Mound Vineyard Waipara Valley Riesling Case 6 x 750ML",
+    "norm": "mud house the mound vineyard riesling"
+  },
+  {
+    "uid": "b503d0c70d97a4862d7557046fd00282",
+    "eng": "Mud House Woolshed Vineyard Marlborough Sauvignon Blanc 750ML",
+    "norm": "mud house woolshed vineyard sauvignon blanc"
+  },
+  {
+    "uid": "451222e214de52298a210aae366b9ecb",
+    "eng": "Mud House Woolshed Vineyard Marlborough Sauvignon Blanc Case 6 x 750ML",
+    "norm": "mud house woolshed vineyard sauvignon blanc"
+  },
+  {
+    "uid": "bb0ef65040efa04ce366ef08698e83b9",
+    "eng": "Muso Marlborgh 6 X 750ML",
+    "norm": "muso marlborgh white blend"
+  },
+  {
+    "uid": "31684e319d29a3295777767beda65d3d",
+    "eng": "Nobilo Marlborough Sauvignon Blanc 750ML",
+    "norm": "nobilo marlborough sauvignon blanc"
+  },
+  {
+    "uid": "5ad3c6ed2f352bbcfa69ed7d2bd98e02",
+    "eng": "Oyster Bay Chardonnay 750ML",
+    "norm": "oyster bay chardonnay"
+  },
+  {
+    "uid": "f18780dac93b4578821d7a0c3865b1e1",
+    "eng": "Oyster Bay Hawkes Bay Pinot Gris Case 6 x 750ML",
+    "norm": "oyster bay pinot gris"
+  },
+  {
+    "uid": "e9548a8f492144f146365acc15cc4eee",
+    "eng": "OYSTER BAY Marlborough Chardonnay",
+    "norm": "oyster bay chardonnay"
+  },
+  {
+    "uid": "24456618fbc307f329b491f1188e6865",
+    "eng": "Oyster Bay Marlborough Chardonnay Case 6 x 750ML",
+    "norm": "oyster bay chardonnay"
+  },
+  {
+    "uid": "caea6b5bf311961542b7fed7373912c9",
+    "eng": "OYSTER BAY Marlborough Sauvignon Blanc",
+    "norm": "oyster bay sauvignon blanc"
+  },
+  {
+    "uid": "4253b0c8b964d9bcd0677afff6a6bdbc",
+    "eng": "OYSTER BAY Pinot Gris",
+    "norm": "oyster bay pinot gris"
+  },
+  {
+    "uid": "a84d30028fbf9a860e0bf3b4b670adab",
+    "eng": "Oyster Bay Sauvignon Blanc 750ML",
+    "norm": "oyster bay sauvignon blanc"
+  },
+  {
+    "uid": "f374aff897bb04d5b1603adba1112619",
+    "eng": "Oyster Bay Sauvignon Blanc Case 6 X 750ML",
+    "norm": "oyster bay sauvignon blanc"
+  },
+  {
+    "uid": "ec94a2ebadbe6d2b63436583c1395a29",
+    "eng": "PENFOLDS Koonunga Hill Chardonnay",
+    "norm": "penfolds koonunga hill chardonnay"
+  },
+  {
+    "uid": "9be4e669eaff43f4db56b5961eed1b2d",
+    "eng": "Penfolds Koonunga Hill Chardonnay 750ML",
+    "norm": "penfolds koonunga hill chardonnay"
+  },
+  {
+    "uid": "8a28a759f4458af03d47e70063f4da08",
+    "eng": "Penfolds Koonunga Hill Chardonnay 6 x 750ML",
+    "norm": "penfolds koonunga hill chardonnay"
+  },
+  {
+    "uid": "395abe875e8ee2cb6b3ef436618e7139",
+    "eng": "PENFOLDS Max's Chardonnay",
+    "norm": "penfolds max's chardonnay"
+  },
+  {
+    "uid": "7ef3ae8755d718d1d465ee9f200493bf",
+    "eng": "Penfolds Max's Chardonnay 750ML",
+    "norm": "penfolds max's chardonnay"
+  },
+  {
+    "uid": "5cf2053c94fbf69d33f0442b0e70f366",
+    "eng": "Penfolds Max's Chardonnay Case 6 x 750ML",
+    "norm": "penfolds max's chardonnay"
+  },
+  {
+    "uid": "3dc2ae5c865181051f4e156469e94206",
+    "eng": "Petaluma Piccadilly Valley Chardonnay 750ML",
+    "norm": "petaluma piccadilly chardonnay"
+  },
+  {
+    "uid": "7eb25e5ca9096bcd4a88a5c3694de7bf",
+    "eng": "RAIMAT Albarino",
+    "norm": "raimat albarino"
+  },
+  {
+    "uid": "66424b71ad862a91d7764b90d3eadc07",
+    "eng": "RAWSON'S RETREAT Chardonnay",
+    "norm": "rawson's retreat chardonnay"
+  },
+  {
+    "uid": "59db92dfd3f47e2b99cebbb4cad9b3ac",
+    "eng": "Rawson Retreat Chardonnay 750ML",
+    "norm": "rawson's retreat chardonnay"
+  },
+  {
+    "uid": "8868d7aa4048d529809c7295a2087f4a",
+    "eng": "Rawson Retreat Chardonnay Case 6 X 750ML",
+    "norm": "rawson's retreat chardonnay"
+  },
+  {
+    "uid": "19f067ba14d28df35beca47079a926dd",
+    "eng": "RAWSON'S RETREAT Semillion Sauv Blanc",
+    "norm": "rawson's retreat semillon sauvignon blanc"
+  },
+  {
+    "uid": "fb0a03fda99a6a05907c516994b7825d",
+    "eng": "SAINT CLAIR Unoaked Chardonnay",
+    "norm": "saint clair unoaked chardonnay"
+  },
+  {
+    "uid": "c66af690d3b2e40535c5b819bdbb30ca",
+    "eng": "SAINT CLAIR Origin Sauvignon Blanc",
+    "norm": "saint clair origin sauvignon blanc"
+  },
+  {
+    "uid": "ed46e02afa8b89f249be2c2572a3a444",
+    "eng": "SANTA HELENA Gran Reserva Chardonnay",
+    "norm": "santa helena gran reserva chardonnay"
+  },
+  {
+    "uid": "72e1fc207541eb3235441e9bc7434f4d",
+    "eng": "SANTA RITA Santa Rita 120 Sauvignon Blanc Central Vally, Chile (750ml)",
+    "norm": "santa rita 120 sauvignon blanc"
+  },
+  {
+    "uid": "beeba3370e4fdb25218fe983f733430d",
+    "eng": "Shaw and Smith Sauvignon Blanc 750ML",
+    "norm": "shaw and smith sauvignon blanc"
+  },
+  {
+    "uid": "61bfc172fb1993c4c7e32aa963251f9e",
+    "eng": "Stanley Chardonnay 4LT",
+    "norm": "stanley chardonnay"
+  },
+  {
+    "uid": "394eea38c1d545081c996b85b51e7896",
+    "eng": "SUNTORY Antioxidant Additive Free White",
+    "norm": "suntory antioxidant white blend"
+  },
+  {
+    "uid": "ef7670214555c6013b4027b99b6554f4",
+    "eng": "TA KU Sauvignon Blanc",
+    "norm": "ta ku sauvignon blanc"
+  },
+  {
+    "uid": "414c87c9796b1a6e265547065e42a025",
+    "eng": "Tapestry Central Coast Sauvignon Blanc 750ML",
+    "norm": "tapestry central sauvignon blanc"
+  },
+  {
+    "uid": "6130012533ea58959cd8e1471e500611",
+    "eng": "Terra Vega Reserva Chardonnay 12 X 750ML",
+    "norm": "terra vega reserva chardonnay"
+  },
+  {
+    "uid": "9248f61168de522227e4de4c49e1088a",
+    "eng": "Terra Vega Reserva Sauvignon Blanc 12 X 750ML",
+    "norm": "terra vega reserva sauvignon blanc"
+  },
+  {
+    "uid": "d4d28c6704e93e257c0c28e4aa6e1ad2",
+    "eng": "The Agnes Chardonnay 2023 750ML",
+    "norm": "the agnes chardonnay"
+  },
+  {
+    "uid": "1c3ea75458756d7425ef83ad00aa1eda",
+    "eng": "THE SHY PIG Sauvignon Blanc",
+    "norm": "the shy pig sauvignon blanc"
+  },
+  {
+    "uid": "4fa718a97436466cf9aaaa83ab538c85",
+    "eng": "THE STAG Chardonnay",
+    "norm": "the stag chardonnay"
   },
   {
     "uid": "c94e09178f8ca9f13517c39277a349ad",
     "eng": "Trapiche Oak Cask Chardonnay 750ML",
-    "norm": "trapiche oak"
+    "norm": "trapiche oak cask chardonnay"
+  },
+  {
+    "uid": "2859d75891b6819360c553a2e5620c9b",
+    "eng": "TREAD SOFTLY Sauvignon Blanc",
+    "norm": "tread softly sauvignon blanc"
+  },
+  {
+    "uid": "b97ba93dd324bb75e507310d6636f166",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "3eb8a815cbde6d90866c84ba49cb2aeb",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "5ad89e4f9848dbbc08aef23173957e16",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "90f6e6b27b394dcd973cf8ec62cd23ce",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "d61b27dd4569701df4bcd2b5616f207b",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "b7645f8c3a6f7a4812492503f440d73a",
+    "eng": "Villa Maria Private Bin Chardonnay 750ML",
+    "norm": "villa maria private bin chardonnay"
+  },
+  {
+    "uid": "baf883579f9c1b63e1dc522b0481591b",
+    "eng": "Villa Maria Private Bin Sauvignon Blanc Case 6 X 750ML",
+    "norm": "villa maria private bin sauvignon blanc"
+  },
+  {
+    "uid": "3941ddbfbbf9fc69c035e0125f2a0926",
+    "eng": "Villa Maria Reserve Sauvignon Blanc 750ML",
+    "norm": "villa maria reserve sauvignon blanc"
+  },
+  {
+    "uid": "0a75b210720e5ca6a865883ad6b9c707",
+    "eng": "VILLA MURA Pinot Grigio",
+    "norm": "villa mura pinot grigio"
+  },
+  {
+    "uid": "28f86be56af3d611a81e287b69bd1a84",
+    "eng": "WAITROSE Pinot Grigio Veneto Italy",
+    "norm": "waitrose pinot grigio"
+  },
+  {
+    "uid": "c0c79f0e2c5fe1e51558f9c0999efeeb",
+    "eng": "WILLIAM FEVRE Chablis",
+    "norm": "william fevre chablis"
+  },
+  {
+    "uid": "06fef10e8f01fd5aa53da14b5ceba79e",
+    "eng": "WOLF BLASS Eaglehawk Chardonnay",
+    "norm": "wolf blass eaglehawk chardonnay"
+  },
+  {
+    "uid": "211606fea5451aff44bbbe5c52cb7326",
+    "eng": "Wolf Blass Gold Label Chardonnay 750ML",
+    "norm": "wolf blass gold label chardonnay"
+  },
+  {
+    "uid": "c1da48d6efba7c2febe1b4158e8b21c7",
+    "eng": "Wolf Blass Gold Label Chardonnay Case 6 x 750ML",
+    "norm": "wolf blass gold label chardonnay"
+  },
+  {
+    "uid": "8ae08d6f5fc21d74731352a7697ffeff",
+    "eng": "WOLF BLASS Ps Gold Label Chardonnay",
+    "norm": "wolf blass gold label chardonnay"
+  },
+  {
+    "uid": "d3e774de9177126390ad9b8fa01b74f5",
+    "eng": "WOLF BLASS Yellow Label Chardonnay",
+    "norm": "wolf blass yellow label chardonnay"
+  },
+  {
+    "uid": "9e8917095d870864bdf0eaf89c40a815",
+    "eng": "Wolf Blass Yellow Label Chardonnay 750ML (Packaging may vary)",
+    "norm": "wolf blass yellow label chardonnay"
+  },
+  {
+    "uid": "d87bce8914665f3f6197c4cf79103da9",
+    "eng": "WOLF BLASS Yellow Label Moscato",
+    "norm": "wolf blass yellow label moscato"
+  },
+  {
+    "uid": "adbcef5dfd3c12fd474c5d097a6afda2",
+    "eng": "Wolf Blass Zero Sauvignon Blanc 750ML",
+    "norm": "wolf blass zero sauvignon blanc"
+  },
+  {
+    "uid": "a41daeabc832d5f0e7277b987b51593a",
+    "eng": "WOLFBERGER Riesling",
+    "norm": "wolfberger riesling"
+  },
+  {
+    "uid": "69d4c76eae546291650702a6dcace325",
+    "eng": "YALUMBA Y Series Pinot Grigio",
+    "norm": "yalumba y series pinot grigio"
+  },
+  {
+    "uid": "cdc1f13e3e934702a55792a7552d2f14",
+    "eng": "YALUMBA Y Series Viognier",
+    "norm": "yalumba y series viognier"
+  },
+  {
+    "uid": "3497fe9af2dc694abfffc739c2a33e43",
+    "eng": "Yellow Tail Moscato Case 12 x 750ML",
+    "norm": "yellow tail moscato"
+  },
+  {
+    "uid": "9a7d48d973f98429a5c7b649544d755c",
+    "eng": "Yellow Tail Pinot Grigio Case 12 x 750ML",
+    "norm": "yellow tail pinot grigio"
   }
 ]
