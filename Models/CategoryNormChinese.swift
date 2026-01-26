@@ -1835,5 +1835,416 @@ let subCategoryNormToChinese: [String: [String: String]] = [
       "wolf blass zero sparkling":                     "禾富 (Wolf Blass) 無酒精氣泡酒",
 
       "unknown":                                       "其他/未分類"
+    ],
+  
+  "蘋果酒、果酒、雞尾酒": [
+    "bacardi mojito":                                "百加得 (Bacardi) 莫希托",
+
+        // Brewguru
+        "brewguru jeju gn tan mojito highball":          "Brewguru 濟州甘橘莫希托 Highball",
+
+        // BubbleMe
+        "bubbleme hard seltzer lychee lime":             "BubbleMe 荔枝青檸氣泡酒",
+        "bubbleme hard seltzer mango peach":             "BubbleMe 芒果蜜桃氣泡酒",
+
+        // Casino
+        "casino bio organic cider":                      "Casino Bio 有機蘋果酒",
+
+        // Godo Shusei (合同酒精)
+        "godo shusei chu-hi aomori apple":               "合同酒精 青森蘋果 Chu-hi",
+        "godo shusei chu-hi okinawa pineapple":          "合同酒精 沖繩菠蘿 Chu-hi",
+
+        // Higherthan
+        "higherthan iron god whisky highball":           "Higherthan 鐵神威士忌 Highball",
+        "higherthan mala mule":                          "Higherthan 麻辣馬騾",
+        "higherthan salted lime highball":               "Higherthan 鹹檸 Highball",
+
+        // Jolly Shandy
+        "jolly shandy lemon":                            "樂怡仙地 (Jolly Shandy) 檸檬味",
+
+        // Katlenburger
+        "katlenburger alcoholic ice tea lemon":          "Katlenburger 檸檬冰茶酒",
+        "katlenburger alcoholic ice tea peach":          "Katlenburger 蜜桃冰茶酒",
+        "katlenburger alcoholic ice tea pomegranate":    "Katlenburger 石榴冰茶酒",
+
+        // Kirin (麒麟)
+        "kirin ice strong sicilian lemon":               "麒麟 (Kirin) 冰結 強烈西西里檸檬",
+
+        // Lolea
+        "lolea n1 sangria":                              "Lolea No.1 紅桑格利亞",
+        "lolea n5 rose":                                 "Lolea No.5 玫瑰桑格利亞",
+
+        // MG Spirit
+        "mg spirit mojito":                              "MG Spirit 莫希托",
+        "mg spirit vodka grapefruit":                    "MG Spirit 伏特加西柚",
+        "mg spirit vodka lime":                          "MG Spirit 伏特加青檸",
+        "mg spirit vodka passion fruit":                 "MG Spirit 伏特加熱情果",
+        "mg spirit vodka pineapple":                     "MG Spirit 伏特加菠蘿",
+
+        // Smirnoff
+        "smirnoff ice lemon":                            "斯米諾 (Smirnoff) 冰檸檬伏特加汽水",
+
+        // Somersby
+        "somersby apple cider":                          "Somersby 蘋果酒",
+        "somersby mango lime cider":                     "Somersby 芒果青檸蘋果酒",
+
+        // Suntory (三得利)
+        "suntory grape":                                 "三得利 (Suntory) 葡萄味",
+        "suntory grape orange":                          "三得利 (Suntory) 提子橙味",
+        "suntory highball lemon":                        "三得利 (Suntory) 角瓶 Highball 檸檬",
+        "suntory honey lemon":                           "三得利 (Suntory) 蜂蜜檸檬",
+        "suntory peach":                                 "三得利 (Suntory) 蜜桃味",
+        "suntory strong zero okinawa seikwasar":         "三得利 (Suntory) Strong Zero 沖繩香檸",
+        "suntory white":                                 "三得利 (Suntory) 白色沙瓦",
+
+        // Takara (寶酒造)
+        "takara shochu highball lemon":                  "寶酒造 (Takara) 燒酎 Highball 檸檬",
+
+        // Tanqueray
+        "tanqueray gin and tonic":                       "添加利 (Tanqueray) 金湯力",
+
+        // Three Oaks
+        "three oaks cider":                              "Three Oaks 蘋果酒",
+
+        "unknown":                                       "其他/未分類"
+      ],
+  "氈酒、甜酒": [
+      // Aperol
+      "aperol aperitif":                               "阿佩羅 (Aperol) 開胃酒",
+
+      // Bacardi (百加得)
+      "bacardi carta blanca rum":                      "百加得 (Bacardi) 白朗姆酒",
+
+      // Baileys (百利)
+      "baileys irish cream":                           "百利 (Baileys) 甜酒",
+
+      // Beefeater (必富達)
+      "beefeater london dry gin":                      "必富達 (Beefeater) 倫敦乾琴酒",
+      "beefeater pink gin":                            "必富達 (Beefeater) 粉紅琴酒",
+
+      // Bitter Truth
+      "bitter truth pink gin":                         "Bitter Truth 粉紅琴酒",
+
+      // Bombay (孟買)
+      "bombay dry gin":                                "孟買 (Bombay) 乾琴酒",
+      "bombay sapphire gin":                           "孟買藍寶石 (Bombay Sapphire) 琴酒",
+
+      // Campari
+      "campari bitter":                                "金巴利 (Campari) 苦酒",
+
+      // Cointreau
+      "cointreau liqueur":                             "君度 (Cointreau) 橙酒",
+
+      // Four Pillars
+      "four pillars rare dry gin":                     "Four Pillars 珍藏乾琴酒",
+
+      // Gordon's (哥頓)
+      "gordons london dry gin":                        "哥頓 (Gordon's) 倫敦乾琴酒",
+
+      // Havana Club
+      "havana club especial rum":                      "哈瓦那俱樂部 (Havana Club) 特別朗姆酒",
+
+      // Jagermeister (野格)
+      "jagermeister herbal liqueur":                   "野格 (Jagermeister) 草本利口酒",
+
+      // King Robert II
+      "king robert ii london dry gin":                 "King Robert II 倫敦乾琴酒",
+
+      // Malibu
+      "malibu coconut rum":                            "馬利寶 (Malibu) 椰子朗姆酒",
+
+      // Martini
+      "martini extra dry vermouth":                    "馬天尼 (Martini) 超乾威末酒",
+
+      // Monkey 47
+      "monkey 47 dry gin":                             "Monkey 47 乾琴酒",
+
+      // Monin
+      "monin curacao triple sec syrup":                "Monin 柑橘糖漿 (非酒精)", // 註：這通常是糖漿
+
+      // N.I.P (無名氏) - 香港本地琴酒品牌
+      "nip catnip gin no 1":                           "無名氏 (N.I.P) Catnip 琴酒 No.1",
+      "nip catnip gin no 2":                           "無名氏 (N.I.P) Catnip 琴酒 No.2",
+      "nip exotic city gin":                           "無名氏 (N.I.P) 異國風情琴酒",
+
+      // Royal Castle
+      "royal castle white rum":                        "Royal Castle 白朗姆酒",
+
+      // Sternthaler
+      "sternthaler mulled wine":                       "Sternthaler 熱紅酒",
+
+      // Suntory
+      "suntory roku gin":                              "三得利 六 (Roku) 琴酒",
+
+      // Tanqueray (添加利)
+      "tanqueray london dry gin":                      "添加利 (Tanqueray) 倫敦乾琴酒",
+      "tanqueray no ten gin":                          "添加利 (Tanqueray) No. Ten 琴酒",
+
+      // Tsukusu
+      "tsukusu japanese craft gin":                    "Tsukusu 日本手工琴酒",
+
+      // Warre's
+      "warres kings tawny port":                       "Warre's King's 茶色波特酒",
+      "warres ruby port":                              "Warre's 紅寶石波特酒",
+
+      "unknown":                                       "其他/未分類"
+    ],
+  
+        "白蘭地、干邑": [
+        // Courriere
+        "courriere vsop":                                "Courriere VSOP 白蘭地",
+
+        // Courvoisier (拿破崙)
+        "courvoisier xo":                                "拿破崙 (Courvoisier) XO",
+
+        // Hennessy (軒尼詩)
+        "hennessy vsop":                                 "軒尼詩 (Hennessy) VSOP",
+        "hennessy xo":                                   "軒尼詩 (Hennessy) XO",
+
+        // Jules Davet
+        "jules davet vsop":                              "Jules Davet VSOP 白蘭地",
+
+        // Martell (馬爹利)
+        "martell cordon bleu":                           "馬爹利 (Martell) 藍帶",
+        "martell noblige":                               "馬爹利 (Martell) 名仕",
+        "martell vsop":                                  "馬爹利 (Martell) VSOP",
+        "martell xo":                                    "馬爹利 (Martell) XO",
+
+        // Napoleon Colbert
+        "napoleon colbert vsop":                         "Napoleon Colbert VSOP 白蘭地",
+
+        // Remy Martin (人頭馬)
+        "remy martin club":                              "人頭馬 (Remy Martin) Club 特級",
+        "remy martin vsop":                              "人頭馬 (Remy Martin) VSOP",
+        "remy martin xo":                                "人頭馬 (Remy Martin) XO",
+
+        "unknown":                                       "其他/未分類"
+      ],
+      "清酒、燒酒、果味米酒": [
+      // Amabuki (天吹)
+      "amabuki kimoto junmai daiginjo":                "天吹 (Amabuki) 生酛純米大吟釀",
+      "amabuki teionbin chozo":                        "天吹 (Amabuki) 低溫瓶貯藏",
+      "amabuki ura daiginjo aiyama":                   "天吹 (Amabuki) 裏大吟釀 愛山",
+
+      // Chikumanishiki (千曲錦)
+      "chikumanishiki daiginjo sake no sei":           "千曲錦 大吟釀 酒之精",
+      "chikumanishiki ginjo":                          "千曲錦 吟釀",
+      "chikumanishiki junmai ginjo kizan":             "千曲錦 純米吟釀 歸山",
+
+      // Chiyokotobuki (千代壽)
+      "chiyokotobuki ginjo namachozo":                 "千代壽 吟釀生貯藏",
+      "chiyokotobuki toraya junmai ginjo genshu":      "千代壽 虎屋 純米吟釀原酒",
+
+      // Chiyomusubi (千代結)
+      "chiyomusubi junmai daiginjo gouriki 40":        "千代結 純米大吟釀 強力40",
+
+      // Choya (俏雅)
+      "choya jyuku rich umeshu":                       "俏雅 (Choya) 熟成梅酒",
+      "choya sarari yuzu":                             "俏雅 (Choya) Sarari 柚子酒",
+      "choya single year golden umeshu":               "俏雅 (Choya) 黃金梅酒",
+      "choya the black":                               "俏雅 (Choya) The Black 梅酒",
+      "choya uji green tea umeshu":                    "俏雅 (Choya) 宇治綠茶梅酒",
+      "choya yuzu":                                    "俏雅 (Choya) 柚子酒",
+
+      // Dan (旦)
+      "dan yamahai junmai ginjo":                      "旦 山廢純米吟釀",
+
+      // Dassai (獺祭)
+      "dassai 39 junmai daiginjo":                     "獺祭 (Dassai) 三割九分 純米大吟釀",
+      "dassai 45 junmai daiginjo":                     "獺祭 (Dassai) 45 純米大吟釀",
+
+      // Gekkeikan (月桂冠)
+      "gekkeikan kasen":                               "月桂冠 (Gekkeikan) 佳撰",
+      "gekkeikan kanjuku umeshu":                      "月桂冠 (Gekkeikan) 完熟梅酒",
+
+      // Hakutsuru (白鶴)
+      "hakutsuru daiginjo":                            "白鶴 (Hakutsuru) 大吟釀",
+      "hakutsuru josen":                               "白鶴 (Hakutsuru) 上撰",
+      "hakutsuru junmai daiginjo ukiyoe":              "白鶴 (Hakutsuru) 純米大吟釀 浮世繪",
+      "hakutsuru junmai ginjo yamada nishiki":         "白鶴 (Hakutsuru) 山田錦 純米吟釀",
+      "hakutsuru junmai yamada nishiki":               "白鶴 (Hakutsuru) 山田錦 純米酒",
+      "hakutsuru nigori sayuri":                       "白鶴 (Hakutsuru) 小百合 純米濁酒",
+      "hakutsuru tanrei junmai":                       "白鶴 (Hakutsuru) 淡麗純米",
+      "hakutsuru umeshu genshu":                       "白鶴 (Hakutsuru) 梅酒原酒",
+
+      // Hakutake (白岳)
+      "hakutake umepon":                               "白岳 Umepon (梅子柑橘酒)",
+
+      // Hallasan (漢拿山)
+      "hallasan premium soju":                         "漢拿山 (Hallasan) 特級燒酒",
+
+      // Hamada Syuzou (濱田酒造)
+      "hamada syuzou craft gin juju":                  "濱田酒造 Craft Gin 樹樹",
+
+      // Hana Kizakura (黃櫻)
+      "hana kizakura junmai ginjo":                    "黃櫻 (Kizakura) 花之純米吟釀",
+
+      // Harushika (春鹿)
+      "harushika junmai chokarakuchi":                 "春鹿 純米 超辛口",
+
+      // Jinro (真露)
+      "jinro chamisul fresh soju":                     "真露 (Jinro) Chamisul Fresh 燒酒",
+      "jinro chamisul soju":                           "真露 (Jinro) Chamisul 燒酒",
+      "jinro gold soju":                               "真露 (Jinro) Gold 燒酒",
+      "jinro grapefruit soju":                         "真露 (Jinro) 西柚味燒酒",
+      "jinro green grape soju":                        "真露 (Jinro) 青提味燒酒",
+      "jinro makgeolli":                               "真露 (Jinro) 米酒 (Makgeolli)",
+      "jinro newtro soju":                             "真露 (Jinro) Newtro 復古燒酒",
+      "jinro strawberry soju":                         "真露 (Jinro) 士多啤梨味燒酒",
+
+      // Kiku Masamune (菊正宗)
+      "kiku masamune sake":                            "菊正宗 (Kiku Masamune) 清酒",
+      "kiku masamune taru sake":                       "菊正宗 (Kiku Masamune) 樽酒",
+
+      // Kikusui (菊水)
+      "kikusui aragoshi momo":                         "菊水 (Kikusui) 粗濾白桃酒",
+
+      // King Brewing
+      "king sake sakura":                              "King Brewing 櫻花清酒",
+
+      // Kizakura (黃櫻)
+      "kizakura junmai daiginjo s":                    "黃櫻 (Kizakura) S 純米大吟釀",
+
+      // Kojima Sohoten (小嶋總本店)
+      "kojima sohoten junmai daiginjo retsu":          "小嶋總本店 洌 純米大吟釀",
+
+      // Kokushimuso (國士無雙)
+      "kokushimuso junmai":                            "國士無雙 (Kokushimuso) 純米酒",
+      "kokushimuso junmai daiginjo":                   "國士無雙 (Kokushimuso) 純米大吟釀",
+      "kokushimuso umeshu":                            "國士無雙 (Kokushimuso) 梅酒",
+
+      // Koshino Hakucho (越之白鳥)
+      "koshino hakucho junmai daiginjo":               "越之白鳥 純米大吟釀",
+      "koshino hakucho junmai ginjo":                  "越之白鳥 純米吟釀",
+      "koshino hakucho tokubetsu junmai":              "越之白鳥 特別純米",
+
+      // Koshinokanbai (越乃寒梅)
+      "koshinokanbai ginjo":                           "越乃寒梅 (Koshinokanbai) 吟釀",
+      "koshinokanbai junmai ginjo amane":              "越乃寒梅 (Koshinokanbai) 純米吟釀 灑",
+      "koshinokanbai junmai ginjo sai":                "越乃寒梅 (Koshinokanbai) 純米吟釀 灑",
+
+      // KSK
+      "ksk awamori":                                   "KSK 泡盛",
+
+      // Kunimare (國稀)
+      "kunimare ginfu shokan bijin":                   "國稀 (Kunimare) 吟風 暑寒美人",
+
+      // Maboroshinotaki (幻之瀧)
+      "maboroshinotaki daiginjo":                      "幻之瀧 (Maboroshinotaki) 大吟釀",
+      "maboroshinotaki ginjo namachozo":               "幻之瀧 (Maboroshinotaki) 吟釀生貯藏",
+      "maboroshinotaki junmai daiginjo shizuku yamada nishiki": "幻之瀧 (Maboroshinotaki) 雫 山田錦 純米大吟釀",
+
+      // Makai e no Izanai (魔界之誘惑)
+      "makai e no izanai yakiimo shochu":              "魔界之誘惑 燒番薯燒酎",
+
+      // Manotsuru (真野鶴)
+      "manotsuru karakuchi":                           "真野鶴 (Manotsuru) 辛口鶴",
+
+      // Michizakura (三千櫻)
+      "michizakura junmai daiginjo suisei 45":         "三千櫻 純米大吟釀 彗星45",
+      "michizakura junmai ginjo kitashizuku":          "三千櫻 純米吟釀 北雫",
+
+      // Muhak (舞鶴)
+      "muhak pineapple soju":                          "舞鶴 (Muhak) 菠蘿味燒酒",
+      "muhak soju":                                    "舞鶴 (Muhak) 燒酒",
+
+      // Nakata (中田食品)
+      "nakata hojun kishu no umeshu white":            "中田食品 (Nakata) 芳醇紀州梅酒 (白)",
+      "nakata kishu nanko":                            "中田食品 (Nakata) 紀州南高梅酒",
+
+      // Nanbu Shuzo (南部酒造)
+      "nanbu shuzo honjozo hanagaki":                  "南部酒造 花垣 本釀造",
+
+      // Nihonsakari (日本盛)
+      "nihonsakari daiginjo":                          "日本盛 (Nihonsakari) 大吟釀",
+      "nihonsakari josen":                             "日本盛 (Nihonsakari) 上撰",
+      "nihonsakari sake":                              "日本盛 (Nihonsakari) 清酒",
+
+      // Nishiyama (西山酒造場)
+      "nishiyama junmai daiginjo rojyohanaari":        "西山酒造場 路上有花 純米大吟釀 桃花",
+
+      // Ota (大田酒造)
+      "ota hanzo junmai daiginjo kaminoho":            "大田酒造 半藏 純米大吟釀 神之穗",
+      "ota hanzo yamada nishiki daiginjo":             "大田酒造 半藏 山田錦 大吟釀",
+
+      // Otokoyama (男山)
+      "otokoyama daiginjo kitano inaho":               "男山 (Otokoyama) 大吟釀 北之稻穗",
+      "otokoyama junmai hokkaido nama":                "男山 (Otokoyama) 北海道 生純米酒",
+      "otokoyama kimoto honjozo":                      "男山 (Otokoyama) 生酛 本釀造",
+
+      // Saika (雜賀)
+      "saika yuzushu":                                 "雜賀 (Saika) 柚子酒",
+
+      // Sawahime (澤姬)
+      "sawahime honjozo":                              "澤姬 (Sawahime) 本釀造",
+      "sawahime junmai ginjo":                         "澤姬 (Sawahime) 純米吟釀",
+      "sawahime sake":                                 "澤姬 (Sawahime) 清酒",
+
+      // Sawanotsuru (澤之鶴)
+      "sawanotsuru tancho wanosake":                   "澤之鶴 (Sawanotsuru) 丹頂 和之酒",
+
+      // Sekai Itto (世界一統)
+      "sekai itto daiginjo ichihomon":                 "世界一統 大吟釀 一方門",
+      "sekai itto ryujin no yuzushu":                  "世界一統 龍神之柚子酒",
+
+      // Shirataki (白瀧 / 上善如水)
+      "shirataki jozen mizuno gotoshi jukusei junmai ginjo": "白瀧 上善如水 熟成 純米吟釀",
+      "shirataki jozen mizuno gotoshi junmai daiginjo": "白瀧 上善如水 純米大吟釀",
+      "shirataki jozen mizuno gotoshi junmai ginjo":   "白瀧 上善如水 純米吟釀",
+
+      // Shirayuki (白雪)
+      "shirayuki daiginjo hiyashibori":                "白雪 (Shirayuki) 冷榨大吟釀",
+      "shirayuki josen blue":                          "白雪 (Shirayuki) 上撰 (藍盒)",
+      "shirayuki konishi ginjo hiyashibori":           "白雪小西 (Konishi) 冷榨吟釀",
+      "shirayuki konishi hiyashibori namachozo":       "白雪小西 (Konishi) 冷榨生貯藏",
+      "shirayuki konishi junmai namachozo":            "白雪小西 (Konishi) 純米生貯藏",
+      "shirayuki sake":                                "白雪 (Shirayuki) 清酒",
+      "shirayuki super red":                           "白雪 (Shirayuki) 超級紅盒",
+
+      // Suishin (醉心)
+      "suishin tokubetsu honjozo":                     "醉心 (Suishin) 特別本釀造",
+
+      // Taiheizan (太平山)
+      "taiheizan junmai daiginjo tenko":               "太平山 (Taiheizan) 純米大吟釀 天巧",
+      "taiheizan kimoto junmai":                       "太平山 (Taiheizan) 生酛純米",
+      "taiheizan tsugetsu junmai ginjo":               "太平山 (Taiheizan) 津月 純米吟釀",
+
+      // Takara (寶酒造)
+      "takara cooking sake":                           "寶酒造 (Takara) 料理酒",
+      "takara mio sparkling sake":                     "寶酒造 (Takara) 松竹梅白壁藏 澪 (Mio) 氣泡清酒",
+      "takara white peach":                            "寶酒造 (Takara) 山梨縣產白桃酒",
+
+      // Takeuchi (竹內酒造)
+      "takeuchi hiko mango sake":                      "竹內酒造 彥 芒果酒",
+
+      // Tamano Hikari (玉乃光)
+      "tamano hikari sake":                            "玉乃光 (Tamano Hikari) 清酒",
+      "tamano hikari tokusen":                         "玉乃光 (Tamano Hikari) 特撰",
+
+      // Tatsuriki (龍力)
+      "tatsuriki junmai ginjo dragon":                 "龍力 (Tatsuriki) 純米吟釀 Dragon",
+
+      // Tenryou (天領)
+      "tenryou sake":                                  "天領 (Tenryou) 清酒",
+
+      // Tsukasabotan (司牡丹)
+      "tsukasabotan yama yuzu":                        "司牡丹 (Tsukasabotan) 山柚子酒",
+
+      // Tsukinoi (月之井)
+      "tsukinoi junmai ginjo":                         "月之井 (Tsukinoi) 純米吟釀",
+
+      // Umenoyado (梅乃宿)
+      "umenoyado aragoshi momo":                       "梅乃宿 (Umenoyado) 果肉 桃酒",
+      "umenoyado yuzu shu":                            "梅乃宿 (Umenoyado) 柚子酒",
+
+      // Urakasumi (浦霞)
+      "urakasumi honjozo karakuchi":                   "浦霞 (Urakasumi) 本釀造 辛口",
+      "urakasumi junmai daiginjo yamada nishiki":      "浦霞 (Urakasumi) 山田錦 純米大吟釀",
+
+      // Wakatake (若竹)
+      "wakatake junmai daiginjo onna nakase":          "若竹 (Wakatake) 純米大吟釀 女泣",
+      "wakatake junmai ginjo onikoroshi":              "若竹 (Wakatake) 純米吟釀 鬼殺",
+
+      "unknown":                                       "其他/未分類"
     ]
 ]

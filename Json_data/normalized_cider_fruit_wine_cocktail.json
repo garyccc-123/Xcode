@@ -1,0 +1,212 @@
+[
+  {
+    "uid": "5107541f7e440db4f60c304bcb856e7c",
+    "eng": "Bacardi Mojito 1LT",
+    "norm": "bacardi mojito"
+  },
+  {
+    "uid": "66370e7fcf4ccb8b3eb33342477f890d",
+    "eng": "BREWGURU Jeju Gn Tan Mojito H/ball Abv 4.5%",
+    "norm": "brewguru jeju gn tan mojito highball"
+  },
+  {
+    "uid": "0d2902b3103ac47d7999cdf7efe2444b",
+    "eng": "BUBBLEME Hard Seltser Lychee Lime Flavor",
+    "norm": "bubbleme hard seltzer lychee lime"
+  },
+  {
+    "uid": "cb8728c4976f6d353487a5ef8a553add",
+    "eng": "BUBBLEME Hard Seltser Mango Peach Flavor",
+    "norm": "bubbleme hard seltzer mango peach"
+  },
+  {
+    "uid": "5c3e0e961274cc2ec239c809d6eeee39",
+    "eng": "CASINO BIO Org Cider",
+    "norm": "casino bio organic cider"
+  },
+  {
+    "uid": "fe49aed403e2f41d5693c13b5acdbb80",
+    "eng": "GODO SHUSEI Chu-hi Amomori Apple",
+    "norm": "godo shusei chu-hi aomori apple"
+  },
+  {
+    "uid": "ab7b4e017607092bfb47aedde412aea5",
+    "eng": "GODO SHUSEI Chu-hi Okinawa Pinapple",
+    "norm": "godo shusei chu-hi okinawa pineapple"
+  },
+  {
+    "uid": "e82af56afe424529d88bedcfc36b6342",
+    "eng": "Higherthan S/C Iron God Wishkey 300ML",
+    "norm": "higherthan iron god whisky highball"
+  },
+  {
+    "uid": "3392e52cf227ca06eec9e94002d6125d",
+    "eng": "HIGHERTHAN Mala Mule",
+    "norm": "higherthan mala mule"
+  },
+  {
+    "uid": "d5e3ee212fe281865c1a77c9b5f55960",
+    "eng": "Higherthan Mala Mule Hb 330ML",
+    "norm": "higherthan mala mule"
+  },
+  {
+    "uid": "dcf261842bcd2eaa50427f1659c51cdb",
+    "eng": "HIGHERTHAN Salted Lime Highball",
+    "norm": "higherthan salted lime highball"
+  },
+  {
+    "uid": "12bb5a284cd600a5e946505bfeff8ce9",
+    "eng": "Young Master HIGHERTHAN Salted Lime Highball 330ML",
+    "norm": "higherthan salted lime highball"
+  },
+  {
+    "uid": "2a5f1d44f54d32a4a66a6628e9cdf7b9",
+    "eng": "JOLLY SHANDY Lemon 6's Can",
+    "norm": "jolly shandy lemon"
+  },
+  {
+    "uid": "ae8ec0f8dca33086e2ba7e7ffaca9864",
+    "eng": "KATLENBURGER Alcoholic Ice Tea - Lemon",
+    "norm": "katlenburger alcoholic ice tea lemon"
+  },
+  {
+    "uid": "a6ac5db6bfa94ae7d4d48c8115d57715",
+    "eng": "KATLENBURGER Alcoholic Ice Tea - Peach",
+    "norm": "katlenburger alcoholic ice tea peach"
+  },
+  {
+    "uid": "1f4d6baac2f14b7aca120fe54f978719",
+    "eng": "KATLENBURGER Alcoholic Ice Tea - Pomegranate",
+    "norm": "katlenburger alcoholic ice tea pomegranate"
+  },
+  {
+    "uid": "e795d047ac849c1722262c78223861d4",
+    "eng": "KIRIN Ice Strong Sicilian Lemon",
+    "norm": "kirin ice strong sicilian lemon"
+  },
+  {
+    "uid": "c057fd4605e6d38659601fa5c5da91ce",
+    "eng": "LOLEA N1 Sangria",
+    "norm": "lolea n1 sangria"
+  },
+  {
+    "uid": "33dda39c763993f4639362829271b23d",
+    "eng": "LOLEA N5 Rose",
+    "norm": "lolea n5 rose"
+  },
+  {
+    "uid": "bc21347ed7addc611071bdb18beae4cb",
+    "eng": "MG Spirit Mojito 275ML",
+    "norm": "mg spirit mojito"
+  },
+  {
+    "uid": "970b236903f6df1c7e9c43728533ed64",
+    "eng": "MG SPIRIT Vodka Grapefruit",
+    "norm": "mg spirit vodka grapefruit"
+  },
+  {
+    "uid": "e7a042e194e7b8aee88e3db865d7716b",
+    "eng": "MG SPIRIT Vodka Lime",
+    "norm": "mg spirit vodka lime"
+  },
+  {
+    "uid": "e5da8de042176367a1d51a3b3dc43902",
+    "eng": "MG Spirit Vodka Lime 275ML",
+    "norm": "mg spirit vodka lime"
+  },
+  {
+    "uid": "168b1a48d712db2aeab77d2e036e591a",
+    "eng": "MG SPIRIT Vodka Passion Fruit",
+    "norm": "mg spirit vodka passion fruit"
+  },
+  {
+    "uid": "74c3a030f83ddfe50c517f419daeadd4",
+    "eng": "MG SPIRIT Vodka Pineapple",
+    "norm": "mg spirit vodka pineapple"
+  },
+  {
+    "uid": "afe161847cdbbc3c403692fd64a058f4",
+    "eng": "Smirnoff Ice Vodka Mixed Lemon Original 300ML",
+    "norm": "smirnoff ice lemon"
+  },
+  {
+    "uid": "ea3ce1df9f541ad60942ba3fb35e36a3",
+    "eng": "SOMERSBY Apple Cider Can 6's",
+    "norm": "somersby apple cider"
+  },
+  {
+    "uid": "fd7eaf52badd1be1c78290412a70c816",
+    "eng": "SOMERSBY Apple Cider S Bot",
+    "norm": "somersby apple cider"
+  },
+  {
+    "uid": "efb2822c1ba575729ababa864bf2ee66",
+    "eng": "SOMERSBY Apple Cider S Bot 4's",
+    "norm": "somersby apple cider"
+  },
+  {
+    "uid": "2d6a306564b5ae97c80d807f4bff8131",
+    "eng": "Somersby Bottle Apple Cider Case 24 X 330 ML",
+    "norm": "somersby apple cider"
+  },
+  {
+    "uid": "eb1e4a90ad786d41997c228229a59c90",
+    "eng": "Somersby Bottle Apple Cider 4 X 330ML",
+    "norm": "somersby apple cider"
+  },
+  {
+    "uid": "23ed5851b3ef6162499c7978d2cff34a",
+    "eng": "SOMERSBY Mango & Lime Flavoured Cider",
+    "norm": "somersby mango lime cider"
+  },
+  {
+    "uid": "76e53a83a3db7d84d6e19a74c3313da0",
+    "eng": "SUNTORY Grape Alcohol",
+    "norm": "suntory grape"
+  },
+  {
+    "uid": "02bf8421497b7fd3eee19f1110a50a6c",
+    "eng": "SUNTORY Grape Orange Alcohol",
+    "norm": "suntory grape orange"
+  },
+  {
+    "uid": "6a2478128f4953e0d675b773bf40b1aa",
+    "eng": "SUNTORY High Ball Lemon Alcohol",
+    "norm": "suntory highball lemon"
+  },
+  {
+    "uid": "5220afba68330a5253474a61220e12d0",
+    "eng": "SUNTORY Honey Lemon Alcohol",
+    "norm": "suntory honey lemon"
+  },
+  {
+    "uid": "1921e3ea6c5b676a83dc3edde52e0eea",
+    "eng": "SUNTORY Peach Alcohol",
+    "norm": "suntory peach"
+  },
+  {
+    "uid": "842a0c35b3fefc1326f9699ffb3202c1",
+    "eng": "SUNTORY Strong Zero Okinawa Seikwasar",
+    "norm": "suntory strong zero okinawa seikwasar"
+  },
+  {
+    "uid": "4e60e2e53766f7713f09bc5e0e432daa",
+    "eng": "SUNTORY White Alcohol",
+    "norm": "suntory white"
+  },
+  {
+    "uid": "2f98840699a23f6d1e6da54c9e77fd8e",
+    "eng": "\" TAKARA\" Shochu Highball Lemon",
+    "norm": "takara shochu highball lemon"
+  },
+  {
+    "uid": "75ecd7263d9223e801c9e12d02756d6e",
+    "eng": "Tanqueray London Dry Gin & Tonic Can 250ML",
+    "norm": "tanqueray gin and tonic"
+  },
+  {
+    "uid": "a324cee37baeac4dd980f2e8082aa03a",
+    "eng": "THREE OAKS Cider",
+    "norm": "three oaks cider"
+  }
+]

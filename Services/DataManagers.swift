@@ -44,6 +44,10 @@ final class UIDMappingManager {
         "紅酒": "normalized_wine.json",
         "白酒": "normalized_whilte_wine.json",
         "香檳、有氣酒": "normalized_champagne_sparkling_wine.json",
+        "蘋果酒、果酒、雞尾酒": "normalized_cider_fruit_wine_cocktail.json",
+        "氈酒、甜酒": "normalized_gin_dessert_wine.json",
+        "清酒、燒酒、果味米酒": "normalized_sake_shochu_fruit_sake.json",
+
 
 
     

@@ -1,0 +1,122 @@
+[
+  {
+    "uid": "1d48ed1c1876e46d644d6e954c6c3746",
+    "eng": "COURRIERE Vsop Brandy",
+    "norm": "courriere vsop"
+  },
+  {
+    "uid": "9885577c3a4361e531052f5049f92d3a",
+    "eng": "COURVOISIER Xo",
+    "norm": "courvoisier xo"
+  },
+  {
+    "uid": "d344438f77a6307ed1cd26d608b7f151",
+    "eng": "HENNESSY Hennessy Vsop (Packaging random pick)",
+    "norm": "hennessy vsop"
+  },
+  {
+    "uid": "69f7a04b256f7ba88191416d1a93ba67",
+    "eng": "HENNESSY V.s.o.p. Nba Limited Edition",
+    "norm": "hennessy vsop"
+  },
+  {
+    "uid": "c3b1a25372b912df698eeab5cf7515d4",
+    "eng": "Hennessy V.S.O.P. Cognac 350ML",
+    "norm": "hennessy vsop"
+  },
+  {
+    "uid": "90ad9d56cd4ea4752f6134f7b2f65a99",
+    "eng": "Hennessy VSOP Cognac 700ML",
+    "norm": "hennessy vsop"
+  },
+  {
+    "uid": "5594da81b1edb2df7bf6867345ef2ad7",
+    "eng": "HENNESSY Hennessy Xo",
+    "norm": "hennessy xo"
+  },
+  {
+    "uid": "1b0726d521534d652b272b2a0327a183",
+    "eng": "Hennessy XO The Original Extra Old Cognac 700ML",
+    "norm": "hennessy xo"
+  },
+  {
+    "uid": "55418274c1bfc16a1e2410b3411a5960",
+    "eng": "Jules Davet V.S.O.P Brandy 700ML",
+    "norm": "jules davet vsop"
+  },
+  {
+    "uid": "b5eeda9b5d6a63bb79797243c1bc4cd9",
+    "eng": "MARTELL Cordon Bleu Cognac (qt.)",
+    "norm": "martell cordon bleu"
+  },
+  {
+    "uid": "2c33335dce0f9f17c8bb583ad2a16f8a",
+    "eng": "Martell Cordon Bleu Extra Old Cognac 700ML",
+    "norm": "martell cordon bleu"
+  },
+  {
+    "uid": "616baa3da5e47e8eefac10b54f5a8fbc",
+    "eng": "MARTELL Noblige Cognac",
+    "norm": "martell noblige"
+  },
+  {
+    "uid": "89ca3eb3dda977a637c30f77731ed05d",
+    "eng": "Martell Noblige Cognac 700ML",
+    "norm": "martell noblige"
+  },
+  {
+    "uid": "7918dc1341e86b6c336128ba8daa7b46",
+    "eng": "MARTELL Vsop Aged In Red Barrel",
+    "norm": "martell vsop"
+  },
+  {
+    "uid": "45ade6ba36351142d55b007fd6bc8fa8",
+    "eng": "Martell VSOP Cognac 700ML",
+    "norm": "martell vsop"
+  },
+  {
+    "uid": "aeaa8c01a7ff779fda22e7d76e2144a9",
+    "eng": "MARTELL Martell Xo",
+    "norm": "martell xo"
+  },
+  {
+    "uid": "13e15b8ddc37c71bd1605b055e08216c",
+    "eng": "Martell XO Cognac 700ML",
+    "norm": "martell xo"
+  },
+  {
+    "uid": "691e96c790760b1e7297acbd60983ed1",
+    "eng": "NAPOLEON COLBERT Vsop Brandy",
+    "norm": "napoleon colbert vsop"
+  },
+  {
+    "uid": "64d17697fa14dbbf433e173486141b66",
+    "eng": "REMY MARTIN Club De Rémy Martin 70cl",
+    "norm": "remy martin club"
+  },
+  {
+    "uid": "0bb30e5502a7b9df84b5e87a1edfbe38",
+    "eng": "Remy Martin Cognac Fine Champagne Club 700ML",
+    "norm": "remy martin club"
+  },
+  {
+    "uid": "d6d80f72731db38ace79b9fb8440f403",
+    "eng": "REMY MARTIN V.s.o.p Cognac 70cl",
+    "norm": "remy martin vsop"
+  },
+  {
+    "uid": "61f4747888cece5ccdcaef43eeaabc16",
+    "eng": "Remy Martin VSOP Cognac Fine Champagne 700ML",
+    "norm": "remy martin vsop"
+  },
+  {
+    "uid": "362f558c0b8fed1c0e70b5bd0f746354",
+    "eng": "REMY MARTIN Xo Excellence Cognac 70cl",
+    "norm": "remy martin xo"
+  },
+  {
+    "uid": "ab6d3c83a53383602007876e4a38f662",
+    "eng": "Remy Martin XO Extra Old Cognac 700ML",
+    "norm": "remy martin xo"
+  }
+]
