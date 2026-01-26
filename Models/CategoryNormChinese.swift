@@ -2246,5 +2246,256 @@ let subCategoryNormToChinese: [String: [String: String]] = [
       "wakatake junmai ginjo onikoroshi":              "若竹 (Wakatake) 純米吟釀 鬼殺",
 
       "unknown":                                       "其他/未分類"
+    ],
+  
+      "米": [
+      // Aomori Masshigura (青森縣)
+      "aomori masshigura rice":                        "青森縣 Masshigura 米",
+
+      // Azai
+      "azai aichi musenmai":                           "Azai 愛知縣 無洗米",
+      "azai saitamakagayaki rice":                     "Azai 埼玉縣 彩之光米",
+
+      // Casino
+      "casino couscous":                               "Casino 古斯米",
+
+      // Chewy (超力)
+      "chewy thai hom mali rice":                      "超力 (Chewy) 特級泰國香米",
+
+      // Cherry Blossom (櫻城牌)
+      "cherry blossom japonica pearl rice":            "櫻城牌 (Cherry Blossom) 日本珍珠米",
+
+      // Double Ram (雙羊牌)
+      "double ram calrose rice":                       "雙羊牌 (Double Ram) 百搭米",
+
+      // Food Nation
+      "food nation organic brown rice":                "Food Nation 有機糙米",
+      "food nation organic red rice":                  "Food Nation 有機紅米",
+      "food nation organic riceberry":                 "Food Nation 有機紫莓米",
+      "food nation organic thai hom mali rice":        "Food Nation 有機泰國茉莉香米",
+
+      // Fukuine Tei (福稻亭)
+      "fukuine tei aomori masshigura rice":            "福稻亭 青森縣 Masshigura 米",
+
+      // Golden Castle (金壘)
+      "gold castle dong bei fragrant rice":            "金壘 (Golden Castle) 東北香米",
+
+      // Golden Elephant (金象牌)
+      "golden elephant cooked jasmine rice":           "金象牌 (Golden Elephant) 即食茉莉香米",
+      "golden elephant cooked japanese rice":          "金象牌 (Golden Elephant) 即食日本米",
+      "golden elephant pearl rice":                    "金象牌 (Golden Elephant) 珍珠米",
+      "golden elephant premium jasmine rice":          "金象牌 (Golden Elephant) 頂上茉莉香米",
+
+      // Golden Home (金源)
+      "golden home long grain rice":                   "金源 (Golden Home) 絲苗白米",
+      "golden home medium grain rice":                 "金源 (Golden Home) 珍珠白米",
+
+      // Golden Mali (金瑪莉)
+      "golden mali thai hom mali rice":                "金瑪莉 (Golden Mali) 泰國茉莉香米",
+
+      // Golden Phoenix (金鳳)
+      "golden phoenix black cargo rice":               "金鳳 (Golden Phoenix) 黑糙米",
+      "golden phoenix brown jasmine rice":             "金鳳 (Golden Phoenix) 糙米",
+      "golden phoenix organic mixed rice":             "金鳳 (Golden Phoenix) 有機健康雜米",
+      "golden phoenix red jasmine rice":               "金鳳 (Golden Phoenix) 紅糙米",
+      "golden phoenix thai brown rice":                "金鳳 (Golden Phoenix) 泰國糙米",
+      "golden phoenix thai hom mali rice":             "金鳳 (Golden Phoenix) 泰國茉莉香米",
+      "golden phoenix thai red cargo rice":            "金鳳 (Golden Phoenix) 泰國紅糙米",
+
+      // Golden Prosperous (金旺)
+      "golden prosperous premium fragrant rice":       "金旺 (Golden Prosperous) 特級香米",
+
+      // Golden Rice Castle (金御膳 - Note: Usually associated, but checking norm)
+      "golden rice castle germ brown rice":            "金御膳 胚芽糙米", // Check if brand matches directly
+
+      // Golden Thai (金泰)
+      "golden thai premium fragrant rice":             "金泰 (Golden Thai) 特級香米",
+
+      // Golden Tripod (金鼎)
+      "golden tripod thai hom mali rice":              "金鼎 (Golden Tripod) 泰國茉莉香米",
+
+      // Green Dot Dot (點點綠)
+      "green dot dot 15 grains rice":                  "點點綠 (Green Dot Dot) 十五穀米",
+      "green dot dot organic black rice":              "點點綠 (Green Dot Dot) 有機黑米",
+      "green dot dot organic brown rice":              "點點綠 (Green Dot Dot) 有機糙米",
+      "green dot dot organic jasmine white rice":      "點點綠 (Green Dot Dot) 有機茉莉白米",
+      "green dot dot organic millet":                  "點點綠 (Green Dot Dot) 有機小米",
+      "green dot dot organic red brown rice":          "點點綠 (Green Dot Dot) 有機紅糙米",
+      "green dot dot organic red rice":                "點點綠 (Green Dot Dot) 有機紅米",
+      "green dot dot organic rice trio":               "點點綠 (Green Dot Dot) 有機三色米",
+      "green dot dot organic ten grains rice":         "點點綠 (Green Dot Dot) 有機十穀米",
+
+      // Green Farm
+      "green farm mixed grains":                       "Green Farm 雜穀米",
+
+      // Hokuren
+      "hokuren hokkaido yumepirika musenmai":          "Hokuren 北海道 夢美人 無洗米",
+
+      // Honest to Goodness
+      "honest to goodness organic brown basmati rice": "Honest to Goodness 有機巴斯馬蒂糙米",
+      "honest to goodness organic jasmine rice":       "Honest to Goodness 有機茉莉香米",
+      "honest to goodness organic tricolour quinoa":   "Honest to Goodness 有機三色藜麥",
+      "honest to goodness organic white basmati rice": "Honest to Goodness 有機巴斯馬蒂白米",
+
+      // Honokaori
+      "honokaori premium japonica rice":               "Honokaori 特級日本米",
+
+      // Imperial Banquet (金御膳)
+      "imperial banquet brown rice":                   "金御膳 (Imperial Banquet) 糙米",
+      "imperial banquet pearl rice":                   "金御膳 (Imperial Banquet) 珍珠米",
+      "imperial banquet premium thai fragrant rice":   "金御膳 (Imperial Banquet) 泰國香米",
+      "imperial banquet red rice":                     "金御膳 (Imperial Banquet) 紅米",
+      "imperial banquet thai brown rice":              "金御膳 (Imperial Banquet) 泰國糙米",
+      "imperial banquet thai healthy mixed rice":      "金御膳 (Imperial Banquet) 泰國健康雜米",
+      "supreme imperial banquet thai hom mali rice":   "金御膳 (Imperial Banquet) 極品泰國茉莉香米",
+
+      // Iwate (岩手縣)
+      "iwate esashi japanese rice":                    "岩手縣 江刺金札米",
+
+      // JA Rice (全農)
+      "ja rice koshihikari japanese rice":             "全農 (JA) 越光米",
+      "ja rice niigata koshiibuki rice":               "全農 (JA) 新潟縣 越伊吹米",
+      "ja tajima stork natural rice":                  "全農 (JA) 但馬 鴻鸛天然米",
+
+      // Junjou
+      "junjou iwate hitomebore musenmai":              "純情 (Junjou) 岩手縣 一見鍾情 無洗米",
+
+      // Kam Heung (金香)
+      "kam heung premium jasmine rice":                "金香 (Kam Heung) 茉莉香米",
+      "kam heung supreme jasmine rice":                "金香 (Kam Heung) 極品茉莉香米",
+
+      // Kangaroo (袋鼠牌)
+      "kangaroo brand low gi rice":                    "袋鼠牌 (Kangaroo) 低升糖指數白米",
+      "kangaroo brand rice":                           "袋鼠牌 (Kangaroo) 精選絲苗",
+      "kangaroo jasmine rice":                         "袋鼠牌 (Kangaroo) 茉莉香米",
+      "kangaroo low gi rice":                          "袋鼠牌 (Kangaroo) 低升糖指數白米",
+      "kangaroo see mew rice":                         "袋鼠牌 (Kangaroo) 絲苗米",
+
+      // Kumai (谷米)
+      "kumai american pearl rice":                     "谷米 (Kumai) 美國珍珠米",
+      "kumai organic wild rice":                       "谷米 (Kumai) 有機野米",
+      "kumai premium american pearl rice":             "谷米 (Kumai) 特級美國珍珠米",
+
+      // Lucky Brand (幸運牌)
+      "lucky brand mixed rice":                        "幸運牌 (Lucky Brand) 雜米",
+      "lucky brand premium fragrant rice":             "幸運牌 (Lucky Brand) 特級香米",
+
+      // Lugu
+      "lugu mixed grains rice":                        "鹿谷 (Lugu) 雜穀米",
+
+      // Moon Seed (月種)
+      "moon seed fragrant rice":                       "月種 (Moon Seed) 香米",
+
+      // Ng Fung (五豐)
+      "ng fung pearl rice":                            "五豐 (Ng Fung) 珍珠米",
+      "ng fung premium jasmine rice":                  "五豐 (Ng Fung) 特級茉莉香米",
+
+      // Nihon no Homare
+      "nihon no homare koshihikari rice":              "日本之譽 越光米",
+
+      // Nishiki (錦)
+      "nishiki rice":                                  "錦 (Nishiki) 壽司米",
+
+      // Omi Shiga
+      "omi shiga rice":                                "近江 (Omi) 滋賀縣產米",
+
+      // Organic Garden (有機園)
+      "organic garden organic black chia seeds":       "有機園 (Organic Garden) 有機黑奇亞籽",
+      "organic garden organic brown rice":             "有機園 (Organic Garden) 有機糙米",
+      "organic garden organic jasmine rice":           "有機園 (Organic Garden) 有機茉莉香米",
+      "organic garden organic oat groat":              "有機園 (Organic Garden) 有機燕麥粒",
+      "organic garden organic red rice":               "有機園 (Organic Garden) 有機紅米",
+      "organic garden organic semi brown rice":        "有機園 (Organic Garden) 有機半糙米",
+      "organic garden organic wild rice":              "有機園 (Organic Garden) 有機野米",
+
+      // Ottogi (不倒翁)
+      "ottogi five grains rice":                       "不倒翁 (Ottogi) 五穀飯",
+
+      // Pik Heung To (碧香稻)
+      "pik heung to pearl rice":                       "碧香稻 珍珠米",
+
+      // Pureland
+      "pureland organic germinated brown rice":        "Pureland 有機發芽糙米",
+      "pureland organic whole in one":                 "Pureland 有機十穀米",
+
+      // Queenswood
+      "queenswood couscous":                           "Queenswood 古斯米",
+
+      // Rice House (米屋)
+      "rice house mixed grains rice":                  "米屋 (Rice House) 雜穀米",
+
+      // Royal Elephant (皇象)
+      "royal elephant premium thai hom mali rice":     "皇象 (Royal Elephant) 頂級泰國茉莉香米",
+
+      // Royal Umbrella (皇族)
+      "royal umbrella thai jasmine rice":              "皇族 (Royal Umbrella) 泰國茉莉香米",
+
+      // Sam Holl
+      "sam holl brown rice":                           "Sam Holl 糙米",
+      "sam holl sixteen cereal rice":                  "Sam Holl 十六穀米",
+
+      // San Hao (三好)
+      "san hao rice 5 cereal rice":                    "三好米 (San Hao) 五穀米",
+
+      // Savor (滋味)
+      "savor vietnam premium fragrant rice":           "滋味 (Savor) 越南特級香米",
+
+      // Silver Spoon (銀匙)
+      "silver spoon thai hom mali rice":               "銀匙 (Silver Spoon) 泰國茉莉香米",
+
+      // Silverblossom
+      "silverblossom quality rice":                    "Silverblossom 優質大米",
+
+      // Surin
+      "surin organic white rice":                      "Surin 有機白米",
+
+      // Taira Shouten
+      "taira shouten hokkaido rice":                   "平商店 (Taira Shouten) 北海道米",
+      "taira shouten nanatsuboshi rice":               "平商店 (Taira Shouten) 七星米",
+      "taira shouten takumi jitate rice":              "平商店 (Taira Shouten) 匠仕立米",
+
+      // Taiwan Rice
+      "taiwan brown rice":                             "台灣糙米",
+      "taiwan koshihikali ten grain rice":             "台灣越光十穀米",
+
+      // Thai Harvest (泰國收成)
+      "thai harvest premium thai fragrant rice":       "泰國收成 (Thai Harvest) 泰國特級香米",
+
+      // Tinnmi Sushi (天味壽司)
+      "tinnmi sushi pearl round rice":                 "天味壽司 (Tinnmi) 珍珠米",
+      "tinnmi sushi taiwan round rice":                "天味壽司 (Tinnmi) 台灣圓米",
+
+      // Tomita
+      "tomita brand iwate hitomebore rice":            "富田 (Tomita) 岩手縣 一見鍾情米",
+      "tomita brand niigata koshihikari rice":         "富田 (Tomita) 新潟縣 越光米",
+
+      // Treasure (珍寶牌)
+      "treasure fragrant rice":                        "珍寶牌 (Treasure) 香米",
+
+      // Waitrose
+      "waitrose basmati brown rice":                   "Waitrose 巴斯馬蒂糙米",
+      "waitrose basmati rice":                         "Waitrose 巴斯馬蒂白米",
+      "waitrose duchy organic couscous":               "Waitrose Duchy 有機古斯米",
+      "waitrose duchy organic long grain rice":        "Waitrose Duchy 有機長粒米",
+      "waitrose duchy organic wholegrain rice":        "Waitrose Duchy 有機全穀紅米",
+      "waitrose essential wholegrain rice":            "Waitrose Essential 全穀米",
+      "waitrose microwave long grain rice":            "Waitrose 微波即食長粒米",
+      "waitrose mixed rice":                           "Waitrose 混合雜米 (紅米/野米)",
+      "waitrose sushi rice":                           "Waitrose 壽司米",
+      "waitrose thai hom mali jasmine rice":           "Waitrose 泰國茉莉香米",
+      "waitrose wholewheat couscous":                  "Waitrose 全麥古斯米",
+
+      // Yu Pin King (御品皇)
+      "yu pin king healthy mixed rice":                "御品皇 (Yu Pin King) 健康雜米",
+      "yu pin king pure red rice":                     "御品皇 (Yu Pin King) 純紅米",
+      "yu pin king thai hom mali rice":                "御品皇 (Yu Pin King) 泰國茉莉香米",
+      "yu pin king thai jasmine rice":                 "御品皇 (Yu Pin King) 泰國香米",
+
+      // Zen-Noh (全農珍珠米)
+      "zen noh pearl rice akitakomachi":               "全農珍珠米 (Zen-Noh) 秋田小町",
+      "zen noh pearl rice koshihikari":                "全農珍珠米 (Zen-Noh) 越光米",
+      "zen noh pearl rice yamagata haenuki":           "全農珍珠米 (Zen-Noh) 山形縣 Haenuki",
+
+      "unknown":                                       "其他/未分類"
     ]
 ]

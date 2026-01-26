@@ -1,0 +1,952 @@
+[
+  {
+    "uid": "3dd45ee21c4fb1b4c8861ab2e75b4440",
+    "eng": "AOMORI MASSHIGURA Aomori Masshigura Rice",
+    "norm": "aomori masshigura rice"
+  },
+  {
+    "uid": "681f2be54ee4f756157c86fd66b9f06c",
+    "eng": "Azai Aichi Rica Musenmai 2KG",
+    "norm": "azai aichi musenmai"
+  },
+  {
+    "uid": "a0a6880d55fb56cd510aa7175b088d0e",
+    "eng": "Azai Saitamakagayaki Rice 2KG",
+    "norm": "azai saitamakagayaki rice"
+  },
+  {
+    "uid": "7ea2d41e414efa5e9067376d39459bd5",
+    "eng": "CASINO Couscous.",
+    "norm": "casino couscous"
+  },
+  {
+    "uid": "ba89b1244b0d4a3d71f71f93aa19c78f",
+    "eng": "Cherry Blossom Japonica Pearl Rice 5KG",
+    "norm": "cherry blossom japonica pearl rice"
+  },
+  {
+    "uid": "63707c24a51b2d6c3891f904ab5bf4e6",
+    "eng": "CHERRY BLOSSOM Japonica Species Pearl Rice",
+    "norm": "cherry blossom japonica pearl rice"
+  },
+  {
+    "uid": "f846b21ae24e680385d732d888aefee6",
+    "eng": "CHERRY BLOSSOM Japonica Species Pearl Rice",
+    "norm": "cherry blossom japonica pearl rice"
+  },
+  {
+    "uid": "3629046c19620e61e90291356e768078",
+    "eng": "CHEWY Superior Thai Hom Mali Rice",
+    "norm": "chewy thai hom mali rice"
+  },
+  {
+    "uid": "b3fd1a3bd9c7219df44c69a249170bc6",
+    "eng": "Chewy Golden Premium Thai Hom Mali Rice 8KG",
+    "norm": "chewy thai hom mali rice"
+  },
+  {
+    "uid": "a8ce5314ded228db606f632c98a1e1e3",
+    "eng": "Double Ram Calrose Rice 2KG",
+    "norm": "double ram calrose rice"
+  },
+  {
+    "uid": "33503fb2bb7122c92c8f43641c14ae3f",
+    "eng": "Double Ram Calrose Rice 5KG",
+    "norm": "double ram calrose rice"
+  },
+  {
+    "uid": "63ca808840f886961bd89f74af02c21e",
+    "eng": "DOUBLE RAM Aust. Calrose Rice",
+    "norm": "double ram calrose rice"
+  },
+  {
+    "uid": "ec8ab0457125ca004f72590d543a4213",
+    "eng": "\" CALIFORNIA SUNSHINE\" Calrose Rice White Medium Grain",
+    "norm": "double ram calrose rice"
+  },
+  {
+    "uid": "2e2ec139a5b9270ec3a4c0d557ab5687",
+    "eng": "\" CALIFORNIA SUNSHINE\" Calrose Rice White Medium Grain",
+    "norm": "double ram calrose rice"
+  },
+  {
+    "uid": "2d98cfe393f7f6ae8f3cf89740eba367",
+    "eng": "FOOD NATION Organic Brown Rice",
+    "norm": "food nation organic brown rice"
+  },
+  {
+    "uid": "9e27aac71daee0bd263cf1ee3e13d8c1",
+    "eng": "FOOD NATION Organic Red Rice",
+    "norm": "food nation organic red rice"
+  },
+  {
+    "uid": "2a90491f13708d791ad3f18dca5702f0",
+    "eng": "FOOD NATION Organic Riceberry Rice",
+    "norm": "food nation organic riceberry"
+  },
+  {
+    "uid": "5c5232d853b346708e6226620fb01bef",
+    "eng": "FOOD NATION Organic Thai Hom Mali Rice",
+    "norm": "food nation organic thai hom mali rice"
+  },
+  {
+    "uid": "8bde28c05359318bfa5709b5427be216",
+    "eng": "FUKUINE TEI Aomori Masshigura Rice",
+    "norm": "fukuine tei aomori masshigura rice"
+  },
+  {
+    "uid": "c4fe8a6be89d51df3b843e6696bbec3a",
+    "eng": "GOLD. CASTLE Premium Dong Bei Fragrant Rice",
+    "norm": "gold castle dong bei fragrant rice"
+  },
+  {
+    "uid": "66474e8c04ea9676b5d1c3bd9912a236",
+    "eng": "GOLD. CASTLE Premium Dong Bei Fragrant Rice",
+    "norm": "gold castle dong bei fragrant rice"
+  },
+  {
+    "uid": "99aa12484e10504cdca31f8eed7d9439",
+    "eng": "Golden Elephant Cooked Jasmine Rice 170GM",
+    "norm": "golden elephant cooked jasmine rice"
+  },
+  {
+    "uid": "8176e568594629622f0bbf2f9ec8b137",
+    "eng": "Golden Elephant Cooked Japanese Rice 170GM",
+    "norm": "golden elephant cooked japanese rice"
+  },
+  {
+    "uid": "9ff3475d9e9f3e18c25c7738aa0caa04",
+    "eng": "GOLDEN ELEPHANT Pearl Rice",
+    "norm": "golden elephant pearl rice"
+  },
+  {
+    "uid": "36686cdc8cada356e4f79ee9fbd74c69",
+    "eng": "GOLDEN ELEPHANT Premium Jasmine Rice",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "4f0173f03611a9fc7201d055032e9587",
+    "eng": "GOLDEN ELEPHANT Premium Jasmine Rice",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "177bed690056629df8b081e5bae1bf27",
+    "eng": "GOLDEN ELEPHANT Premium Jasmine Rice",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "8b95ade742bf765528263c13f2694c1c",
+    "eng": "Golden Elephant Premium Jasmine Rice 1KG",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "c660e58baf0dd30c4c2bdc1445bd3467",
+    "eng": "Golden Elephant Premium Jasmine Rice 5KG",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "353cf1933b56b39e5ce96abccebb8023",
+    "eng": "Golden Elephant Premium Jasmine Rice 15KG",
+    "norm": "golden elephant premium jasmine rice"
+  },
+  {
+    "uid": "deb1d6f265b80d7b151e40c00d0a864d",
+    "eng": "Golden Home Long Grain White Rice 3KG",
+    "norm": "golden home long grain rice"
+  },
+  {
+    "uid": "61b4dc728123f52f414f819175e4e144",
+    "eng": "Golden Home Medium Grain White Rice 3KG",
+    "norm": "golden home medium grain rice"
+  },
+  {
+    "uid": "2ee089163bb888279f42ec8e343233a8",
+    "eng": "GOLDEN MALI Thai Hom Mali Rice",
+    "norm": "golden mali thai hom mali rice"
+  },
+  {
+    "uid": "e8af502bebe5cb89a65f7fb2a179613c",
+    "eng": "GOLDEN MALI Thai Hom Mali Rice",
+    "norm": "golden mali thai hom mali rice"
+  },
+  {
+    "uid": "e8ce70336c3981629bf29d486fe5916d",
+    "eng": "GOLDEN MALI Thai Hom Mali Rice",
+    "norm": "golden mali thai hom mali rice"
+  },
+  {
+    "uid": "9b2d854fcd94e4496b2a969d32e2f04d",
+    "eng": "GOLDEN PHOENIX Black Cargo Rice",
+    "norm": "golden phoenix black cargo rice"
+  },
+  {
+    "uid": "c91949aa3cfdf20e639ebdcbaf68ed5a",
+    "eng": "GOLDEN PHOENIX Organic Brown Jasmine Rice",
+    "norm": "golden phoenix brown jasmine rice"
+  },
+  {
+    "uid": "9a95ffa4fc61bb88a5c032c0bc85bb36",
+    "eng": "GOLDEN PHOENIX Brown Jasmine Rice",
+    "norm": "golden phoenix brown jasmine rice"
+  },
+  {
+    "uid": "27e03f1f325105044da4bb9a309f0a38",
+    "eng": "GOLDEN PHOENIX Organic Healthy Mixed Rice",
+    "norm": "golden phoenix organic mixed rice"
+  },
+  {
+    "uid": "14f278c69708ec46e8a9f74e00cbdc4d",
+    "eng": "GOLDEN PHOENIX Organic Red Jasmine Rice",
+    "norm": "golden phoenix red jasmine rice"
+  },
+  {
+    "uid": "2a918cac8f76764e99b928a8fe3b8206",
+    "eng": "GOLDEN PHOENIX Red Cargo Rice",
+    "norm": "golden phoenix red jasmine rice"
+  },
+  {
+    "uid": "9c1bd1c69d1f31620c6f7bd6f7fbb112",
+    "eng": "GOLDEN PHOENIX Red Rice",
+    "norm": "golden phoenix red jasmine rice"
+  },
+  {
+    "uid": "b02e083382f4e5cf89525995df8ce6ab",
+    "eng": "GOLDEN PHOENIX THAI BROWN RICE 1.5 KG",
+    "norm": "golden phoenix thai brown rice"
+  },
+  {
+    "uid": "1b96dc4f5f67ef47d1db15c14b108480",
+    "eng": "GOLDEN PHOENIX Thai Hom Mali Rice (cargo Rice 100%)",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "48e4d8d541ae9218c0312e29b41110ff",
+    "eng": "GOLDEN PHOENIX Thai Hom Mali Fragrant Rice",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "24d19f04094b3502a01134caa60effd1",
+    "eng": "GOLDEN PHOENIX Thai Hom Mali Fragrant Rice (Random Packaging)",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "aed423dfbd4d9ef9e1194f2e798461b8",
+    "eng": "GOLDEN PHOENIX Thai Hom Mali Fragrant Rice",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "e6aa3d70f965bfefe9a34b8dd56a3478",
+    "eng": "GOLDEN PHOENIX Thai Hom Mali Fragrant Rice",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "dde0cf7114aea66b55f171ef5ee6dd9a",
+    "eng": "GOLDEN PHOENIX Premium Thai Hom Mali Rice (new Crop)",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "400a9f51b4b415651e4002cffe3a02cc",
+    "eng": "Golden Phoenix Thailand Hom Mali Rice 5KG",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "9366700ae524f93ea760f29ac0ffe7be",
+    "eng": "Golden Phoenix Thai Hom Mali Rice 3KG",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "f3514f6437041c1b47d46a6b5897a641",
+    "eng": "Golden Phoenix Thai Hommali Rice 1KG",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "abe7c5099cc6f146bc49ef109f63a086",
+    "eng": "Golden Phoenix Hom Mali Rice 10KG",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "959ac289879f4a058837ee66b5927b06",
+    "eng": "Golden Phoenix Thai Jasmine Rice 15KG",
+    "norm": "golden phoenix thai hom mali rice"
+  },
+  {
+    "uid": "d0f2b50b6d7d85e35311ae218fba657b",
+    "eng": "Golden Phoenix Thai Red Cargo Rice 1.5KG",
+    "norm": "golden phoenix thai red cargo rice"
+  },
+  {
+    "uid": "d941ffb294520e49e9acc8745c7d3201",
+    "eng": "GOLDEN PROSPEROUS Premium Fragrant Rice",
+    "norm": "golden prosperous premium fragrant rice"
+  },
+  {
+    "uid": "8912304b6ea6b871ba194264015951f5",
+    "eng": "GOLDEN RICE CASTLE Germ Brown Rice (cns Grade A)",
+    "norm": "golden rice castle germ brown rice"
+  },
+  {
+    "uid": "627a4c474ed624e5632d8f1d51ffd56f",
+    "eng": "Golden Tripod Thai Hom Mali Rice 8KG",
+    "norm": "golden tripod thai hom mali rice"
+  },
+  {
+    "uid": "e93928190997427a41a4b06b0293c0ed",
+    "eng": "Golden Thai Premium Fragrant Rice 10KG",
+    "norm": "golden thai premium fragrant rice"
+  },
+  {
+    "uid": "817a96612b04ccb9f9045135788a80a6",
+    "eng": "GREEN DOT DOT 15 Grains Rice",
+    "norm": "green dot dot 15 grains rice"
+  },
+  {
+    "uid": "999e501ddb386ee5d7bb56d9450c967e",
+    "eng": "Green Dot Dot 15 Grains Rice 1KG",
+    "norm": "green dot dot 15 grains rice"
+  },
+  {
+    "uid": "1b52521cd6caed181820776cfff70812",
+    "eng": "GREEN DOT DOT Green Dot Dot Organic Black Rice",
+    "norm": "green dot dot organic black rice"
+  },
+  {
+    "uid": "340a8bb0791085ba769cea7e4eacaf07",
+    "eng": "Green Dot Dot Organic Brown Rice Semi 1KG",
+    "norm": "green dot dot organic brown rice"
+  },
+  {
+    "uid": "2333dcd696ecbd30b5f7e83bd97f878d",
+    "eng": "Green Dot Dot Organic Brown Rice S 1KG",
+    "norm": "green dot dot organic brown rice"
+  },
+  {
+    "uid": "6755721d494bb69e964a4cdeb908e952",
+    "eng": "Green Dot Dot Organic Jasmine White Rice 1KG",
+    "norm": "green dot dot organic jasmine white rice"
+  },
+  {
+    "uid": "b8bd1b22573b678fc6429b5ee4da4062",
+    "eng": "GREEN DOT DOT Organic Millet",
+    "norm": "green dot dot organic millet"
+  },
+  {
+    "uid": "1824f5c92f89f444738293909766a199",
+    "eng": "Green Dot Dot Org Red Rice & Brown Rice 1KG",
+    "norm": "green dot dot organic red brown rice"
+  },
+  {
+    "uid": "159eb7aa065542294f860af344d74166",
+    "eng": "Green Dot Dot Organic Red Rice 1KG",
+    "norm": "green dot dot organic red rice"
+  },
+  {
+    "uid": "b2cfc36c2c8af826fdc471d770778ee3",
+    "eng": "GREEN DOT DOT Organic Rice Trio",
+    "norm": "green dot dot organic rice trio"
+  },
+  {
+    "uid": "f51fadb1e1eabfdb5e22f32cd5181d3e",
+    "eng": "GREEN DOT DOT Organic Ten Grains Rice",
+    "norm": "green dot dot organic ten grains rice"
+  },
+  {
+    "uid": "f59fcd8cae648304a1d051ca2ae78fbf",
+    "eng": "Green Dot Dot Organic Ten Grains Rice 1KG",
+    "norm": "green dot dot organic ten grains rice"
+  },
+  {
+    "uid": "1629306a83de46b337c5226764286835",
+    "eng": "Green Farm Mixed Grains 1.2KG",
+    "norm": "green farm mixed grains"
+  },
+  {
+    "uid": "0371309e63f2c091650160b049c5f28c",
+    "eng": "HOKUREN Hokkaido Yumepirika Musenmai",
+    "norm": "hokuren hokkaido yumepirika musenmai"
+  },
+  {
+    "uid": "c334a9ed313029599627cbe3768dc724",
+    "eng": "HONEST TO GOODNESS Organic Brown Basmati Rice",
+    "norm": "honest to goodness organic brown basmati rice"
+  },
+  {
+    "uid": "20879997c23a52a7911c89450b21817b",
+    "eng": "HONEST TO GOODNESS Organic Jasmine Rice",
+    "norm": "honest to goodness organic jasmine rice"
+  },
+  {
+    "uid": "e469bebadcd29969d11222927ea9f3ec",
+    "eng": "HONEST TO GOODNESS Organic Tricolour Quinoa",
+    "norm": "honest to goodness organic tricolour quinoa"
+  },
+  {
+    "uid": "0aa94a40e768cc819bc98c03adb52045",
+    "eng": "HONEST TO GOODNESS Organic White Basmati Rice",
+    "norm": "honest to goodness organic white basmati rice"
+  },
+  {
+    "uid": "dd7bf7c0eada6556b0bb8eda592f4b2e",
+    "eng": "Honokaori Premium Japonica Species 2KG",
+    "norm": "honokaori premium japonica rice"
+  },
+  {
+    "uid": "ab0b0c0394c2c3eaaa71ab37dbda546c",
+    "eng": "IMPERIAL BANQUET Brown Rice",
+    "norm": "imperial banquet brown rice"
+  },
+  {
+    "uid": "5d9bd2feeaef7b6f56db73778b047544",
+    "eng": "IMPERIAL BANQUET Pearl Rice",
+    "norm": "imperial banquet pearl rice"
+  },
+  {
+    "uid": "1c64a5bd2e46c7e8f516854eeb5dfe44",
+    "eng": "IMPERIAL BANQUET Pearl Rice",
+    "norm": "imperial banquet pearl rice"
+  },
+  {
+    "uid": "97a986e6f520b314c983527ef68232ba",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "09cada3292d656b71248f31fe538ddfb",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "1aa4abc1d8f184f51f3f5a0a62f636eb",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "78d7be80b4b7ac76e2b00d0b966d4b39",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "985bbd4b021a5e5f5219f34701368931",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "7de55db73dbe93bdb8e1e2d2d3c1eb6f",
+    "eng": "IMPERIAL BANQUET Premium Thai Fragrant Rice",
+    "norm": "imperial banquet premium thai fragrant rice"
+  },
+  {
+    "uid": "40c1adcd1f72b7f90b340f6ee0b33e86",
+    "eng": "IMPERIAL BANQUET Red Rice",
+    "norm": "imperial banquet red rice"
+  },
+  {
+    "uid": "620b3d5c06f05c9ba87803df4f3dde9a",
+    "eng": "IMPERIAL BANQUET Thai Brown Rice",
+    "norm": "imperial banquet thai brown rice"
+  },
+  {
+    "uid": "ecd22ed32cc85e4eba955a954a1ccf1a",
+    "eng": "IMPERIAL BANQUET Thai Healthy Mixed Rice",
+    "norm": "imperial banquet thai healthy mixed rice"
+  },
+  {
+    "uid": "9ff2193167fdc93b58d5c144e6bc9c73",
+    "eng": "Iwate Esashi Japanese Rice 2KG",
+    "norm": "iwate esashi japanese rice"
+  },
+  {
+    "uid": "9ebe5593e5ee9f4dc1cb6d333bd577a2",
+    "eng": "JA-RICE KOSHIHIKARI JAPANESE RICE",
+    "norm": "ja rice koshihikari japanese rice"
+  },
+  {
+    "uid": "fe5d093547bd3f25bf0022568e7e98b9",
+    "eng": "Ja-Rice Koshihikari Rice 2KG",
+    "norm": "ja rice koshihikari japanese rice"
+  },
+  {
+    "uid": "75270ae9c793f65fb72c7bbff9bc9630",
+    "eng": "JA-RICE Niigata Koshiibuki Japanese Rice",
+    "norm": "ja rice niigata koshiibuki rice"
+  },
+  {
+    "uid": "823a7a37e84f65a587d7cf10fabca718",
+    "eng": "JA TAJIMA Stork Natural Rice",
+    "norm": "ja tajima stork natural rice"
+  },
+  {
+    "uid": "4394a01a813f0dc3e5c59d1a6e81001a",
+    "eng": "JUNJOU Iwate Hitomebore Musenmai",
+    "norm": "junjou iwate hitomebore musenmai"
+  },
+  {
+    "uid": "f8e8768f1d2c8ddea2bd7145de1721d3",
+    "eng": "Kam Heung Premium Jasmine Rice 5KG",
+    "norm": "kam heung premium jasmine rice"
+  },
+  {
+    "uid": "aff6963c662a703abdce40a7cf73bcde",
+    "eng": "Kam Heung Premium Jasmine Rice 8KG",
+    "norm": "kam heung premium jasmine rice"
+  },
+  {
+    "uid": "c2a1995a4e6305304a0dde6444d9cdd3",
+    "eng": "KAM HEUNG Supreme Jasmine Rice",
+    "norm": "kam heung supreme jasmine rice"
+  },
+  {
+    "uid": "6dd2dbc3e798414e1776bc3c0517751e",
+    "eng": "KAM HEUNG Supreme Jasmine Rice",
+    "norm": "kam heung supreme jasmine rice"
+  },
+  {
+    "uid": "76cb6f69a9acafd2c1f3cf06e1c6d2a5",
+    "eng": "Kangaroo Brand Low Gi Rice 2KG",
+    "norm": "kangaroo brand low gi rice"
+  },
+  {
+    "uid": "ad4e991507a3bdfff0cb0796cea39cfa",
+    "eng": "KANGAROO Kangaroo Brand Rice 1kg",
+    "norm": "kangaroo brand rice"
+  },
+  {
+    "uid": "ddd1b3c6fa47f365a3b9369673f28f1d",
+    "eng": "Kangaroo Jasmine Rice 5KG",
+    "norm": "kangaroo jasmine rice"
+  },
+  {
+    "uid": "7e8771825d37593a51568b40712de777",
+    "eng": "KANGAROO BRAND Low Gi Rice",
+    "norm": "kangaroo low gi rice"
+  },
+  {
+    "uid": "eee4c08aab751fee34e8212d4b1c4f3d",
+    "eng": "KANGAROO See Mew Rice",
+    "norm": "kangaroo see mew rice"
+  },
+  {
+    "uid": "6789a917ecec264ac2626a17ce3c6923",
+    "eng": "KANGAROO See Mew Rice",
+    "norm": "kangaroo see mew rice"
+  },
+  {
+    "uid": "508a98c4bcebd7a5f1bf90394d4ea368",
+    "eng": "Kangaroo Seemew Rice 5KG",
+    "norm": "kangaroo see mew rice"
+  },
+  {
+    "uid": "1d7cbe1f14ee5b78b88dc93b11745c51",
+    "eng": "Kangaroo Seemew Rice 8KG",
+    "norm": "kangaroo see mew rice"
+  },
+  {
+    "uid": "f78ea745a175b8729ae368b1fc39816b",
+    "eng": "Kumai American Pearl Rice 8KG",
+    "norm": "kumai american pearl rice"
+  },
+  {
+    "uid": "8fa9f06c13c35b1c19cb90db2270b4fa",
+    "eng": "KUMAI ORGANIC WILD RICE 500 GM",
+    "norm": "kumai organic wild rice"
+  },
+  {
+    "uid": "10d8b7c5abaa7713c77ef4fb8cd8872f",
+    "eng": "KUMAI Premium American Pearl Rice",
+    "norm": "kumai premium american pearl rice"
+  },
+  {
+    "uid": "95f595cdf47f2b6d9c745227a9fad4f6",
+    "eng": "Lucky Brand Mixed Rice 2KG",
+    "norm": "lucky brand mixed rice"
+  },
+  {
+    "uid": "1e749a90d4bdd87a32ebe3e8fbf61b59",
+    "eng": "Lucky Brand Premium Fragrant Rice 5KG",
+    "norm": "lucky brand premium fragrant rice"
+  },
+  {
+    "uid": "36e9d46617a9b34e75a3595f17557963",
+    "eng": "Lucky Brand Premium Fragrant Rice 8KG",
+    "norm": "lucky brand premium fragrant rice"
+  },
+  {
+    "uid": "66f242cb490e499adb7342c6557a7663",
+    "eng": "LUGU Mixed Grains Rice",
+    "norm": "lugu mixed grains rice"
+  },
+  {
+    "uid": "8ac204dfef7b1732a78cf565d6e75e18",
+    "eng": "Moon Seed Fragrant Rice 3KG",
+    "norm": "moon seed fragrant rice"
+  },
+  {
+    "uid": "5857428e163219920e341acd2f2aa4dd",
+    "eng": "Moon Seed Thai Fragant Rice 8KG",
+    "norm": "moon seed fragrant rice"
+  },
+  {
+    "uid": "2bc655756ff1c61c1693fab17f0fee8b",
+    "eng": "Ng Fung Pearl Rice 5KG",
+    "norm": "ng fung pearl rice"
+  },
+  {
+    "uid": "7d13e79a259d58b91637ebf8a7278dcd",
+    "eng": "Ng Fung premium Jasmine rice 5KG",
+    "norm": "ng fung premium jasmine rice"
+  },
+  {
+    "uid": "720087b2bb810dfaee2026a848b59323",
+    "eng": "Nihon no Homare Koshihikari Rice 2KG",
+    "norm": "nihon no homare koshihikari rice"
+  },
+  {
+    "uid": "b3c6833129da4c619c4f80e2e6e372b7",
+    "eng": "NISHIKI Rice",
+    "norm": "nishiki rice"
+  },
+  {
+    "uid": "68e5a3a14f4961387ccda9c70b512b22",
+    "eng": "Omi Shiga Rice 2KG",
+    "norm": "omi shiga rice"
+  },
+  {
+    "uid": "3b185340ee92e909f08c247810fc45cd",
+    "eng": "ORGANIC GARDEN Organic Black Chia Seeds",
+    "norm": "organic garden organic black chia seeds"
+  },
+  {
+    "uid": "a35c81942684d97ba5435f651f0f6a1f",
+    "eng": "ORGANIC GARDEN Organic Brown Rice (long)",
+    "norm": "organic garden organic brown rice"
+  },
+  {
+    "uid": "70c2d17bf2df829ce208d6e3ffcda4a2",
+    "eng": "ORGANIC GARDEN Organic Gardens Organic Brown Rice (short)",
+    "norm": "organic garden organic brown rice"
+  },
+  {
+    "uid": "ae70c2c5aa1f126265036f466d4ef8dc",
+    "eng": "ORGANIC GARDEN Organic Jasmine Rice",
+    "norm": "organic garden organic jasmine rice"
+  },
+  {
+    "uid": "372e1aef45df309f1adbb0253f23d4ce",
+    "eng": "ORGANIC GARDEN Organic Gardens Organic Raw Oat Groat",
+    "norm": "organic garden organic oat groat"
+  },
+  {
+    "uid": "74194e5a0f1ec42ce8172f802cbfd499",
+    "eng": "ORGANIC GARDEN Organic Gardens Organic Red Rice",
+    "norm": "organic garden organic red rice"
+  },
+  {
+    "uid": "0ea24c5fd730672a9fc2fe30272fc2a5",
+    "eng": "ORGANIC GARDEN Organic Semi Brown Rice",
+    "norm": "organic garden organic semi brown rice"
+  },
+  {
+    "uid": "35f57149c7963aeb2a6cdf89c58c47db",
+    "eng": "ORGANIC GARDEN Organic Gardens Organic Wild Rice",
+    "norm": "organic garden organic wild rice"
+  },
+  {
+    "uid": "fa596f81581fae96b20c73ad2f980bd8",
+    "eng": "Ottogi Five Grains Rice 210GM",
+    "norm": "ottogi five grains rice"
+  },
+  {
+    "uid": "157ca019edb1e2d48684d8bf7cccad14",
+    "eng": "PIK HEUNG TO Pearl Rice",
+    "norm": "pik heung to pearl rice"
+  },
+  {
+    "uid": "c5426661ea3c1256e1f519a925b49ec6",
+    "eng": "PIK HEUNG TO Pearl Rice",
+    "norm": "pik heung to pearl rice"
+  },
+  {
+    "uid": "fb3b6f9248e690d62c837479daaad783",
+    "eng": "Pureland Organic Germinated Bwn 1KG",
+    "norm": "pureland organic germinated brown rice"
+  },
+  {
+    "uid": "2021774092663f3f181b4955280f61fb",
+    "eng": "Pureland Organic Whole In One 1KG",
+    "norm": "pureland organic whole in one"
+  },
+  {
+    "uid": "7553a40086e3349b9428df01863cffec",
+    "eng": "QUEENSWOOD Couscous",
+    "norm": "queenswood couscous"
+  },
+  {
+    "uid": "b56302bfb442382fafbe04e6cad52655",
+    "eng": "RICE HOUSE Mixed Grains Rice",
+    "norm": "rice house mixed grains rice"
+  },
+  {
+    "uid": "bbc29817cdeb2fb8d35a7b37e7c6d98c",
+    "eng": "ROYAL ELEPHANT Premium Thai Hom Mali Rice",
+    "norm": "royal elephant premium thai hom mali rice"
+  },
+  {
+    "uid": "1af596b0aa2ba9963f49f151e2626838",
+    "eng": "Royal Elephant Premium Thai Hom Mali Rice 5KG",
+    "norm": "royal elephant premium thai hom mali rice"
+  },
+  {
+    "uid": "afebdc27ceda38bac5d4ebf2b21dba0c",
+    "eng": "ROYAL UMBRELLA Thai Jasmine Rice",
+    "norm": "royal umbrella thai jasmine rice"
+  },
+  {
+    "uid": "b68977e46b792d2b3c776a7a6409d1f8",
+    "eng": "SAM HOLL Brown Rice",
+    "norm": "sam holl brown rice"
+  },
+  {
+    "uid": "2371a5a12ab3e544b3cd71278d4a0410",
+    "eng": "SAM HOLL Sixteen-cereal Rice",
+    "norm": "sam holl sixteen cereal rice"
+  },
+  {
+    "uid": "96d9ff056effefb8104b7d65a1868a8d",
+    "eng": "San Hao Rice 5 Cereal Rice 1.8KG",
+    "norm": "san hao rice 5 cereal rice"
+  },
+  {
+    "uid": "b93b7b43a9f4613582e293c209957259",
+    "eng": "SAVOR Vietnam Premium Fragrant Rice",
+    "norm": "savor vietnam premium fragrant rice"
+  },
+  {
+    "uid": "b38709a303bed441d4b7e817200229e8",
+    "eng": "SAVOR Vietnam Premium Fragrant Rice",
+    "norm": "savor vietnam premium fragrant rice"
+  },
+  {
+    "uid": "a9d35bd7b01e3e189f429627780a0424",
+    "eng": "Silverblossom Quality Rice 8KG",
+    "norm": "silverblossom quality rice"
+  },
+  {
+    "uid": "471f44cb95758c91833320c639e956f7",
+    "eng": "SILVER SPOON Thai Hom Mali Rice",
+    "norm": "silver spoon thai hom mali rice"
+  },
+  {
+    "uid": "26135c707675b12ec08886805572390a",
+    "eng": "SILVER SPOON Thai Hom Mali Rice",
+    "norm": "silver spoon thai hom mali rice"
+  },
+  {
+    "uid": "af91562b8c0845270c716121a298f3ce",
+    "eng": "SILVER SPOON Thai Hom Mali Rice",
+    "norm": "silver spoon thai hom mali rice"
+  },
+  {
+    "uid": "12fe02f46e1a60cf21be1a822cd665d2",
+    "eng": "SILVER SPOON Thai Hom Mali Rice",
+    "norm": "silver spoon thai hom mali rice"
+  },
+  {
+    "uid": "bbcc6c2a1a4cc564923b8c93d946f0e1",
+    "eng": "SUPREME IMP. BANQUET Premium Thai Hom Mali Rice",
+    "norm": "supreme imperial banquet thai hom mali rice"
+  },
+  {
+    "uid": "233ac9e862358a76f0a6d7fcdd657c5b",
+    "eng": "SUPREME IMP. BANQUET Premium Thai Hom Mali Rice",
+    "norm": "supreme imperial banquet thai hom mali rice"
+  },
+  {
+    "uid": "7ac9c36230f10a766c9cff85ab746906",
+    "eng": "SURIN Organic White Rice",
+    "norm": "surin organic white rice"
+  },
+  {
+    "uid": "e8feed7ed6794166d353b693de1fcdb8",
+    "eng": "Taira Shouten Hokkaido Rice 2KG",
+    "norm": "taira shouten hokkaido rice"
+  },
+  {
+    "uid": "899f483dff2c8216a6ce743f06e0ddbc",
+    "eng": "TAIRA SHOUTEN Nanatsuboshi Rice",
+    "norm": "taira shouten nanatsuboshi rice"
+  },
+  {
+    "uid": "bdf6c87a7588c8c6f13531cf0db3cc4f",
+    "eng": "TAIRA SHOUTEN Takumi Jitate Rice",
+    "norm": "taira shouten takumi jitate rice"
+  },
+  {
+    "uid": "dc65de6fccc3e7435de5e2af7deb6b02",
+    "eng": "TAIWAN Brown Rice",
+    "norm": "taiwan brown rice"
+  },
+  {
+    "uid": "ff9ca98bbf3f2a39e841656b71b598f7",
+    "eng": "TAIWAN Koshihikali Ten Grain Rice",
+    "norm": "taiwan koshihikali ten grain rice"
+  },
+  {
+    "uid": "2c880e085ba913f277c4ac2c4f0a8576",
+    "eng": "THAI HARVEST Premium Thai Fragrant Rice",
+    "norm": "thai harvest premium thai fragrant rice"
+  },
+  {
+    "uid": "2510587d33d948c4fff00e9f25189991",
+    "eng": "THAI HARVEST Premium Thai Fragrant Rice",
+    "norm": "thai harvest premium thai fragrant rice"
+  },
+  {
+    "uid": "9faa120c222c196e4850b3538874f24d",
+    "eng": "THAI HARVEST Premium Thai Fragrant Rice",
+    "norm": "thai harvest premium thai fragrant rice"
+  },
+  {
+    "uid": "4a22349b65d01fe5fbb15a265d730306",
+    "eng": "TINNMI SUSHI Pearl Round Rice",
+    "norm": "tinnmi sushi pearl round rice"
+  },
+  {
+    "uid": "1c056884450329aa05ca57d205aaf1ed",
+    "eng": "TINNMI SUSHI Pearl Round Rice",
+    "norm": "tinnmi sushi pearl round rice"
+  },
+  {
+    "uid": "e00541b7d8d93d323f2b75b0894d2462",
+    "eng": "TINNMI SUSHI Taiwan Round Rice",
+    "norm": "tinnmi sushi taiwan round rice"
+  },
+  {
+    "uid": "0b2e2289c016c3c9de1ec55da861838e",
+    "eng": "Tomita Brand Iwate Hitomebore Rinse Free Rice 2KG",
+    "norm": "tomita brand iwate hitomebore rice"
+  },
+  {
+    "uid": "32381ccc786329eb5e7b53e7fe79cc87",
+    "eng": "Tomita Brand Nigata Koshihikari Rice 1.8KG",
+    "norm": "tomita brand niigata koshihikari rice"
+  },
+  {
+    "uid": "9281160121e2693b37b24918edad4438",
+    "eng": "Treasure Fragrant Rice 8KG",
+    "norm": "treasure fragrant rice"
+  },
+  {
+    "uid": "c6c50c12a6c386c189ad853c4f341721",
+    "eng": "WAITROSE Basmati Brown Rice",
+    "norm": "waitrose basmati brown rice"
+  },
+  {
+    "uid": "5717ac172d1b0eed21dfef785966d77a",
+    "eng": "WAITROSE Basmati Rice",
+    "norm": "waitrose basmati rice"
+  },
+  {
+    "uid": "e6fc3c9d3e8c6532dfb58599de767bbf",
+    "eng": "WAITROSE DUCHY Organic Long Grain Rice",
+    "norm": "waitrose duchy organic long grain rice"
+  },
+  {
+    "uid": "0b3c78de6820fc46327796aef8489b68",
+    "eng": "WAITROSE DUCHY Organic Wholegrain Rice",
+    "norm": "waitrose duchy organic wholegrain rice"
+  },
+  {
+    "uid": "8f31e715228016230f1bd8bca4269b20",
+    "eng": "WAITROSE DUCHY Wholesome Organic Cous Cous",
+    "norm": "waitrose duchy organic couscous"
+  },
+  {
+    "uid": "a05f159e21e23fc2e4c14d97005a8b93",
+    "eng": "ESSENTIAL WAITROSE Whole Grain Rice",
+    "norm": "waitrose essential wholegrain rice"
+  },
+  {
+    "uid": "5fa3547e56bf46639ab297fbc0648c74",
+    "eng": "WAITROSE Microwaveable Rice Long Grain",
+    "norm": "waitrose microwave long grain rice"
+  },
+  {
+    "uid": "805c10e1a2a896cf7a8832c4fa478535",
+    "eng": "WAITROSE Mixed Rice-camargue &wild",
+    "norm": "waitrose mixed rice"
+  },
+  {
+    "uid": "a5cb5ee51f04a3f7b57a7251e77ca4c6",
+    "eng": "WAITROSE Mixed Rice-br.bas/red/wild Rice",
+    "norm": "waitrose mixed rice"
+  },
+  {
+    "uid": "9b661999a50a3e0e5e1f7b9dbde06d29",
+    "eng": "WAITROSE Rice Jasmine Hom Mali",
+    "norm": "waitrose thai hom mali jasmine rice"
+  },
+  {
+    "uid": "bb058022919775b1ed557b9d14764e6d",
+    "eng": "WAITROSE Sushi Rice",
+    "norm": "waitrose sushi rice"
+  },
+  {
+    "uid": "4f966c2de37f46795f6dd2e92965467f",
+    "eng": "WAITROSE Whole Wheat Couscous",
+    "norm": "waitrose wholewheat couscous"
+  },
+  {
+    "uid": "02d1622cb234d45d4ebaf85b4ab0cf59",
+    "eng": "Yu Pin King Healthy Mixed Rice 5KG",
+    "norm": "yu pin king healthy mixed rice"
+  },
+  {
+    "uid": "edad45733641a3d889c7bcdfc9f24936",
+    "eng": "Yu Pin King Pure Red Rice 2KG",
+    "norm": "yu pin king pure red rice"
+  },
+  {
+    "uid": "c4eaa20ee972be5172adc54e76a4d665",
+    "eng": "Yu Pin King Thai Hom Mali Rice 2KG",
+    "norm": "yu pin king thai hom mali rice"
+  },
+  {
+    "uid": "c90a7c8899cec443958d5c076b127b7c",
+    "eng": "Yu Pin King Thai Hom Mali Rice 5KG",
+    "norm": "yu pin king thai hom mali rice"
+  },
+  {
+    "uid": "50ef396ec7b71b5a7bab86f3acf053da",
+    "eng": "Yu Pin King Thai Hom Mali Rice 8KG",
+    "norm": "yu pin king thai hom mali rice"
+  },
+  {
+    "uid": "40d33c1e382bfc25b2b31d4604ebc661",
+    "eng": "Yu Pin King Thai Jasmine Fragrant Rice 2KG",
+    "norm": "yu pin king thai jasmine rice"
+  },
+  {
+    "uid": "3174775aaf1dd14032dc2280ddf82679",
+    "eng": "Yu Pin King Thai Jasmine Fragrant Rice 8KG",
+    "norm": "yu pin king thai jasmine rice"
+  },
+  {
+    "uid": "cb43a99a60671d959954535bf8803df8",
+    "eng": "Yu Pin King Thai Jasmine Fragrant Rice 5KG",
+    "norm": "yu pin king thai jasmine rice"
+  },
+  {
+    "uid": "63fd7995d6c920b23cf82db0841e1097",
+    "eng": "ZEN NOH PEARL RICE Akitakomachi Japanese Rice",
+    "norm": "zen noh pearl rice akitakomachi"
+  },
+  {
+    "uid": "13327a835d5c7b598f35b60d3f983f49",
+    "eng": "ZEN NOH PEARL RICE Japanese Koshihikari Rice",
+    "norm": "zen noh pearl rice koshihikari"
+  },
+  {
+    "uid": "2cf01885713fbb2f1bef5c6eaac3ee2a",
+    "eng": "ZEN NOH PEARL RICE Japanese Yamagata Haenuki Rice",
+    "norm": "zen noh pearl rice yamagata haenuki"
+  }
+]
