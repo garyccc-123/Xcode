@@ -16,13 +16,41 @@ def load_products():
     """
     items = []
     for path in INPUT_FILES:
-        with open(path, 'r', encoding='utf-8') as f:
-            wrapper = json.load(f)
+        if not Path(path).exists():
+            logging.warning(f"⚠️ 找不到檔案: {path}")
+            continue
+            
+        logging.info(f"正在讀取: {path}")
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                wrapper = json.load(f)
+        except json.JSONDecodeError as e:
+            logging.error(f"❌ JSON 格式錯誤 {path}: {e}")
+            continue
 
-        for p in wrapper.get('products', []):
-            # ❗️子分类里必须有 “米”
-            if '米' not in p.get('sub_categories', []):
+        # 1. 兼容不同的根目錄結構
+        if isinstance(wrapper, list):
+            products_list = wrapper
+        elif isinstance(wrapper, dict):
+            products_list = wrapper.get('products', [])
+        else:
+            logging.warning(f"⚠️ 未知的資料結構: {type(wrapper)}")
+            continue
+
+        for p in products_list:
+            # 2. 🛡️ 安全檢查：確保 p 是字典
+            if not isinstance(p, dict):
                 continue
+
+            # ❗️子分类里必须有 “米”
+            # 使用 safe get 避免報錯
+            sub_cats = p.get('sub_categories', [])
+            if not isinstance(sub_cats, list): # 確保 sub_categories 也是 list
+                continue
+                
+            if '米' not in sub_cats:
+                continue
+                
             uid = p.get('uid')
             eng = (p.get('product_eng_name') or '').strip()
 
@@ -53,6 +81,7 @@ def clean_backslash(txt: str) -> str:
     - 孤立反斜杠 \x   -> 删掉反斜杠
     （**只对 eng 字段做；uid 不动**）
     """
+    if not isinstance(txt, str): return ""
     # 1) 先处理 \" 和 \'
     txt = txt.replace(r'\"', '"').replace(r"\'", "'")
     # 2) 再把剩余孤立的 \ 变空
