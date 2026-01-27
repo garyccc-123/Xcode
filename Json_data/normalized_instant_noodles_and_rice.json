@@ -1,0 +1,5041 @@
+[
+  {
+    "uid": "c112740c5d77634ef513c602b1d57cb2",
+    "eng": "ACE Banshu Soba",
+    "norm": "ace banshu soba"
+  },
+  {
+    "uid": "2a2dd52b20b04dddbb6216a0bced2cfc",
+    "eng": "ACE Jumbo Nama Udon",
+    "norm": "ace jumbo nama udon"
+  },
+  {
+    "uid": "a9c80a74423332b95aa7253fc389f0c6",
+    "eng": "ACE Hokkaido Udon",
+    "norm": "ace sanuki udon"
+  },
+  {
+    "uid": "c74211201ca3165a13a548415c15cbe2",
+    "eng": "ACE Sanuki Udon",
+    "norm": "ace sanuki udon"
+  },
+  {
+    "uid": "893f0d82b739c1735203a7d1d69fb6bf",
+    "eng": "ACE Sanuki Udon",
+    "norm": "ace sanuki udon"
+  },
+  {
+    "uid": "28e13c471fca9b5539986916e2d7adfa",
+    "eng": "ACE Shikoku Sanuki Udon",
+    "norm": "ace sanuki udon"
+  },
+  {
+    "uid": "6a2a04798d7e8f608d9405157898573b",
+    "eng": "ACE Sanuki Somen",
+    "norm": "ace shikoku sanuki somen"
+  },
+  {
+    "uid": "7f81e4d93200c400c9038ec37f581726",
+    "eng": "ACE Shikoku Sanuki Somen",
+    "norm": "ace shikoku sanuki somen"
+  },
+  {
+    "uid": "8d335e32c081db994f999d69de1098c9",
+    "eng": "ALCE NERO Organic Fusillitri Color",
+    "norm": "alce nero organic fusilli"
+  },
+  {
+    "uid": "1ae74a24a0b59b7b45fb40662becb194",
+    "eng": "ALCE NERO Organic Spaghetti Whole",
+    "norm": "alce nero organic spaghetti"
+  },
+  {
+    "uid": "949fa8b7747136efd83b22f95fc612d0",
+    "eng": "ALCE NERO Organic Spaghetti Durum",
+    "norm": "alce nero organic spaghetti"
+  },
+  {
+    "uid": "8416b4388ceff59ca4c0ad50e5d3b25d",
+    "eng": "ALCE NERO Whole Wheat Penne Rigate",
+    "norm": "alce nero whole wheat penne rigate"
+  },
+  {
+    "uid": "bfbabb0e1d67ac4bd9ccfa30c2514b6a",
+    "eng": "BARILLA #1 Capellini (angelhair)",
+    "norm": "barilla capellini"
+  },
+  {
+    "uid": "72cee3b3cd23627968e51a93f189ae76",
+    "eng": "BARILLA Chifferi N. 41",
+    "norm": "barilla chifferi"
+  },
+  {
+    "uid": "ce2f867714a1aa182798f18d98f861f5",
+    "eng": "BARILLA Farfalle #65",
+    "norm": "barilla farfalle"
+  },
+  {
+    "uid": "e565d5e7c1210382b34aa9b048594db3",
+    "eng": "BARILLA Fettuccine",
+    "norm": "barilla fettuccine"
+  },
+  {
+    "uid": "9080f3cf063cdd669c0af9e9fc1dab6d",
+    "eng": "BARILLA #98 Fusilli",
+    "norm": "barilla fusilli"
+  },
+  {
+    "uid": "5a3e904af665132b84cbc48d0e4346e9",
+    "eng": "BARILLA Lasagna 189",
+    "norm": "barilla lasagna"
+  },
+  {
+    "uid": "fc6970469e7727fb4d263a3c9af3bbe1",
+    "eng": "BARILLA Penne Rigate Gluten Free",
+    "norm": "barilla penne rigate"
+  },
+  {
+    "uid": "01b9fae0449ad0c0f471553daafdf141",
+    "eng": "BARILLA Barilla Penne Rigate 500g",
+    "norm": "barilla penne rigate"
+  },
+  {
+    "uid": "2ceabec5bf32229e379019f118bb2e9e",
+    "eng": "BARILLA Spaghetti 7",
+    "norm": "barilla spaghetti"
+  },
+  {
+    "uid": "1981440d437f17228d12aa1d18777613",
+    "eng": "BARILLA Barilla Spaghetti 1kg",
+    "norm": "barilla spaghetti"
+  },
+  {
+    "uid": "d7de027fdc6fbb67b467984ef967e352",
+    "eng": "BARILLA Organic Spaghetti",
+    "norm": "barilla spaghetti"
+  },
+  {
+    "uid": "079272226f85d9da180690802c4549ed",
+    "eng": "BARILLA Spaghetti No.5",
+    "norm": "barilla spaghetti"
+  },
+  {
+    "uid": "4e53d4d21fd191b106e85449f3fb54d8",
+    "eng": "BARILLA Spaghetti N.5 Gluten Free",
+    "norm": "barilla spaghetti gluten free"
+  },
+  {
+    "uid": "cab900caa285fad30fbe7900009f3299",
+    "eng": "BEST BUY Macaroni",
+    "norm": "best buy macaroni"
+  },
+  {
+    "uid": "b5218e1ee529cd86b7fe4afb3ef7778c",
+    "eng": "BEST BUY Penne",
+    "norm": "best buy penne"
+  },
+  {
+    "uid": "3d03fd203e3c8031b8e0a6a5ca193230",
+    "eng": "BEST BUY Spaghetti",
+    "norm": "best buy spaghetti"
+  },
+  {
+    "uid": "287834ec8a21b993b9a5f184f0500fae",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Angel Hair (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac angel hair"
+  },
+  {
+    "uid": "ae0af00ce6631e07baf089f5f4b68eb6",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac noodles"
+  },
+  {
+    "uid": "eb503737cb5bbeed48dc5841a9d11bfc",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Noodles",
+    "norm": "better than foods organic konjac noodles"
+  },
+  {
+    "uid": "e66b7d10b9fb13080aff7c890cce7b0d",
+    "eng": "BETTER THAN FOODS Organic Slim Konjac Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac rice"
+  },
+  {
+    "uid": "5bc54d15c8117cf31f0cebd0649c795a",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Tagliatelle (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac tagliatelle"
+  },
+  {
+    "uid": "538ac582bd8ce8ae6957355dc09e9829",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Thai Style (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac thai style"
+  },
+  {
+    "uid": "be52c9592ed1b71dac51ab0b389dd203",
+    "eng": "BLUE ELEPHANT Blue Elephantphad Thai Rice Noodles",
+    "norm": "blue elephant phad thai rice noodles"
+  },
+  {
+    "uid": "87b0c2e5f8c71ac0801ce6e03895147f",
+    "eng": "BORGGARDENS Spaghetti Carbonara",
+    "norm": "borggardens spaghetti carbonara"
+  },
+  {
+    "uid": "d463ce3a73c7b3b7007f7d3e4abd0b18",
+    "eng": "BORGGARDENS Spaghetti Funghi",
+    "norm": "borggardens spaghetti funghi"
+  },
+  {
+    "uid": "07d876055364ae89597bda551cbadfd1",
+    "eng": "BORGGARDENS Spaghetti Truffle Sauce",
+    "norm": "borggardens spaghetti truffle sauce"
+  },
+  {
+    "uid": "27d0b70c37becf79ffaa7a07f0511a24",
+    "eng": "BUDENG Su Crab Noodle",
+    "norm": "budeng crab noodle"
+  },
+  {
+    "uid": "c05ab879e6ae3bae8a830386c2a81645",
+    "eng": "BUDENG Spicy Crab Noodle",
+    "norm": "budeng crab noodle spicy"
+  },
+  {
+    "uid": "2d8ff96a55a33d2283d7565213bea6a6",
+    "eng": "CARB X Gluten Free Konjac Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x konjac noodles"
+  },
+  {
+    "uid": "bfdc10a313c6da9d345e04abe27ecd25",
+    "eng": "CARB X Gluten Free Konjac Penne (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x konjac penne"
+  },
+  {
+    "uid": "8ffdb4560f50949512c11d5a37bb6f5c",
+    "eng": "CARB X Slim Gluten Free Konjac Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x konjac rice"
+  },
+  {
+    "uid": "c004a9fab5b79d30416da1909514a3af",
+    "eng": "CASINO BIO Org Coquillette Pasta",
+    "norm": "casino coquillette pasta"
+  },
+  {
+    "uid": "7ea2d41e414efa5e9067376d39459bd5",
+    "eng": "CASINO Couscous.",
+    "norm": "casino couscous"
+  },
+  {
+    "uid": "ccdb79ff81bbf904d5a51397b1a62791",
+    "eng": "CASINO Pasta Spaghetti",
+    "norm": "casino spaghetti"
+  },
+  {
+    "uid": "ba59fa086bafc9368e214ef71aebae93",
+    "eng": "CASINO Pure Beef Ravioli",
+    "norm": "casino beef ravioli"
+  },
+  {
+    "uid": "93fcfba012e07e168571a44cacfa2d5c",
+    "eng": "CHEF NIC Spaghetti W/chicken&potato Curry Sau",
+    "norm": "chef nic spaghetti chicken potato curry"
+  },
+  {
+    "uid": "9bf29bd8d5b379e0f5b496072476fcff",
+    "eng": "CHEF NIC Spaghetti W/cream Mushroom&bacon Sau",
+    "norm": "chef nic spaghetti cream mushroom bacon"
+  },
+  {
+    "uid": "490735dfb5c19a494f4896d1adaf4b91",
+    "eng": "CHEWY Brown Rice Stick",
+    "norm": "chewy brown rice stick"
+  },
+  {
+    "uid": "ab886229918ee281b0faee63b0c20465",
+    "eng": "CHEWY Dried Rice Stick",
+    "norm": "chewy dried rice stick"
+  },
+  {
+    "uid": "b3fd1a3bd9c7219df44c69a249170bc6",
+    "eng": "CHEWY Golden Premium Thai Hom Mali Rice 8KG",
+    "norm": "chewy golden thai hom mali rice"
+  },
+  {
+    "uid": "6a07a7e6c02f80c1f2ac89c9e40717aa",
+    "eng": "CHEWY Hsin Chu Rice Stick",
+    "norm": "chewy hsin chu rice stick"
+  },
+  {
+    "uid": "f87ba6c3e506e59eeb9b83b03d54d458",
+    "eng": "CHEWY Inaniwa Udon",
+    "norm": "chewy inaniwa udon"
+  },
+  {
+    "uid": "c45264f3c244829f8ab4a0d5af99994d",
+    "eng": "CHEWY Instant Noodles Prem Original Flav",
+    "norm": "chewy instant noodles original"
+  },
+  {
+    "uid": "6e18e1ed0ca5abfd209466827fee730c",
+    "eng": "CHEWY Instant Rice Vermicelli 4's",
+    "norm": "chewy instant rice vermicelli"
+  },
+  {
+    "uid": "2b83dca06b819743493ff7a0daa668e3",
+    "eng": "CHEWY Instant Rice Verm.",
+    "norm": "chewy instant rice vermicelli"
+  },
+  {
+    "uid": "65b01504ec3ecb93de546471de8bd9cc",
+    "eng": "CHEWY Chewybowl Inst Rice Vermicelli - Org Flv",
+    "norm": "chewy instant rice vermicelli original"
+  },
+  {
+    "uid": "324535114eaff417411d572610dddf39",
+    "eng": "CHEWY Instant Mei Fun 5 X 65GM",
+    "norm": "chewy instant vermicelli"
+  },
+  {
+    "uid": "90aa3a943c8bb653150119ca6d8e2e2f",
+    "eng": "CHEWY Cup Instant Vermicelli Laotan Pickled Flavour 102GM",
+    "norm": "chewy instant vermicelli pickled vegetable"
+  },
+  {
+    "uid": "1f3927893273f0183eb48e24fbc89551",
+    "eng": "CHEWY Inst Vermicelli Savoury Clam Flv",
+    "norm": "chewy instant vermicelli savoury clam"
+  },
+  {
+    "uid": "a1440fa9e5af6ecc160515bdf428ad99",
+    "eng": "CHEWY Inst Vermicelli Sichuan Dan Dan Flv",
+    "norm": "chewy instant vermicelli sichuan dan dan"
+  },
+  {
+    "uid": "fcd254c96e1fd517201225d51b30b464",
+    "eng": "CHEWY Inst Vermicelli Spicy Duck Blood Flv",
+    "norm": "chewy instant vermicelli spicy duck blood"
+  },
+  {
+    "uid": "67529f2962132b78a40ad6aec8da2b09",
+    "eng": "CHEWY Pork With Garlic Fla Thai Rice Verm 5 X 60GM",
+    "norm": "chewy rice vermicelli pork garlic"
+  },
+  {
+    "uid": "bf21c12045f8c56b65a8b5eeaf3bd769",
+    "eng": "CHEWY Cup Instant Vermicelli x Monster Hunter - 6 cups",
+    "norm": "chewy rice vermicelli x monster hunter"
+  },
+  {
+    "uid": "6dd72c351a386daff541f98b53053084",
+    "eng": "CHEWY Sour Golden Soup Beef Bowl Vermicelli 102GM",
+    "norm": "chewy sour golden soup beef vermicelli"
+  },
+  {
+    "uid": "3629046c19620e61e90291356e768078",
+    "eng": "CHEWY Superior Thai Hom Mali Rice",
+    "norm": "chewy thai hom mali rice"
+  },
+  {
+    "uid": "7ef7a9ed2412c2e5c5b0ed15944a0206",
+    "eng": "CHILKAB Arrowroot Coldnoodle Meat Brothspicy (chilled 0-4°c)",
+    "norm": "chilkab arrowroot cold noodle spicy"
+  },
+  {
+    "uid": "a43c736439c6ef39670df1464189e9f7",
+    "eng": "CHILKAB Cold Noodle With Meat Broth (chilled 0-4°c)",
+    "norm": "chilkab cold noodle meat broth"
+  },
+  {
+    "uid": "a3343f41288f1b1ed35229ac14ad9451",
+    "eng": "CHILKAB Fresh Buckwheat Noodle W/soba Sauce (chilled 0-4°c)",
+    "norm": "chilkab fresh buckwheat noodle"
+  },
+  {
+    "uid": "367bff9915dc0dd3a60bd4d487958863",
+    "eng": "CHOUBAO Liuzhou Luosi Rice Instant Noodles",
+    "norm": "choubao liuzhou luosi rice noodles"
+  },
+  {
+    "uid": "9df153448c7a2162ac78f26a5f698fc3",
+    "eng": "CHOUBAO Liuzhou Luosi Rice Noodles Extra Flavor",
+    "norm": "choubao liuzhou luosi rice noodles"
+  },
+  {
+    "uid": "167336e8625f0ab148599a0b22f9feff",
+    "eng": "CJ Cooked White Rice",
+    "norm": "cj cooked white rice"
+  },
+  {
+    "uid": "ceb78b32f58c73f623b1b5edf606cc92",
+    "eng": "CJ Cooked White Rice(large)",
+    "norm": "cj cooked white rice"
+  },
+  {
+    "uid": "e7bfe244ca0ea01e1a709c49b3d4305a",
+    "eng": "COCK Rice Paper 16cm",
+    "norm": "cock rice paper"
+  },
+  {
+    "uid": "b7a954c8cf81cd6c19936cce4c148134",
+    "eng": "COF Jiangxi Vermicelli",
+    "norm": "cof jiangxi vermicelli"
+  },
+  {
+    "uid": "3258ad631a579d11681c8fd802fbc8ab",
+    "eng": "COLAVITA Cavatappi",
+    "norm": "colavita cavatappi"
+  },
+  {
+    "uid": "b3f0c60e35dc3b55d4e2b64e9c08bdf8",
+    "eng": "COLAVITA Conchigliette",
+    "norm": "colavita conchigliette"
+  },
+  {
+    "uid": "b96fc2e75c87323c48a367c2aac64997",
+    "eng": "COLAVITA Eliche Tricolori",
+    "norm": "colavita eliche tricolori"
+  },
+  {
+    "uid": "5b033d926c4210833d318e950b8e198f",
+    "eng": "COLAVITA Gomitini",
+    "norm": "colavita gomitini"
+  },
+  {
+    "uid": "e16dc5fecee5e63e085304ef6147c950",
+    "eng": "COLAVITA Spaghetti",
+    "norm": "colavita spaghetti"
+  },
+  {
+    "uid": "959ac6e5154eec4fe44ad6e0e75b6362",
+    "eng": "COME TOGETHER Egg White With Fish Soup Noodles (merchant Direct Delivery *)",
+    "norm": "come together egg white fish soup noodles"
+  },
+  {
+    "uid": "7c2de871534fd5716ff5130f0f0519ff",
+    "eng": "COME TOGETHER Mushroom Noodles (merchant Direct Delivery *)",
+    "norm": "come together mushroom noodles"
+  },
+  {
+    "uid": "7d03d083c4aaaf5c4a731f92c0d04e94",
+    "eng": "COME TOGETHER Shrimp Roe Noodles (merchant Direct Delivery *)",
+    "norm": "come together shrimp roe noodles"
+  },
+  {
+    "uid": "57646c47ccc1a9aa472dd1b3dbb4cd41",
+    "eng": "CRAB KING NOODLE Instan Ramen (sesame Oil)",
+    "norm": "crab king noodle ramen sesame oil"
+  },
+  {
+    "uid": "7026aab88f1e24b242bf4bc0ea48be8f",
+    "eng": "DE CECCO Alfabeto",
+    "norm": "de cecco alfabeto"
+  },
+  {
+    "uid": "cf41f4f5ef949ecee137095d432cb32f",
+    "eng": "DE CECCO Capellini",
+    "norm": "de cecco capellini"
+  },
+  {
+    "uid": "c724ff933b887b0912aa882dfc39142b",
+    "eng": "DE CECCO Chifferi Rigati (macaroni)",
+    "norm": "de cecco chifferi rigati"
+  },
+  {
+    "uid": "352daf8f87704fd29d801af5b6947eec",
+    "eng": "DE CECCO Conchiglie Rigate",
+    "norm": "de cecco conchiglie rigate"
+  },
+  {
+    "uid": "b32f56525f57aaf982dfe86d3698ed39",
+    "eng": "DE CECCO Fusilli",
+    "norm": "de cecco fusilli"
+  },
+  {
+    "uid": "236cfaa9e651efbe9ad92afbea69f4d2",
+    "eng": "DE CECCO Fusilli Lunghi Bucati N5",
+    "norm": "de cecco fusilli lunghi bucati"
+  },
+  {
+    "uid": "407d9a43e4cc2ccabda44ad33c294230",
+    "eng": "DE CECCO Galletti",
+    "norm": "de cecco galletti"
+  },
+  {
+    "uid": "6567615e4cfcf7d8b72ac8b5a816017c",
+    "eng": "DE CECCO Linguine",
+    "norm": "de cecco linguine"
+  },
+  {
+    "uid": "e50e879f4ee27bde6d9929586027bfeb",
+    "eng": "DE CECCO Penne Rigate",
+    "norm": "de cecco penne rigate"
+  },
+  {
+    "uid": "9cceedf19cb969a93aa930b1a2b64724",
+    "eng": "DE CECCO Potato Gnocchi",
+    "norm": "de cecco potato gnocchi"
+  },
+  {
+    "uid": "c4d1fd7262c01e4916e9203f8fcdb283",
+    "eng": "DE CECCO Spaghetti",
+    "norm": "de cecco spaghetti"
+  },
+  {
+    "uid": "5a3780d4ea05e6a3054644b999fa9978",
+    "eng": "DE-MA-E Bar Noodle - Aka Tonkotsu",
+    "norm": "demae iccho bar noodle aka tonkotsu"
+  },
+  {
+    "uid": "3009dfd5b1fd367c158a3d7e768931e3",
+    "eng": "DE-MA-E Bar Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho bar noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "f21ffe6f11ae3de9f694c48b42b740f3",
+    "eng": "DE-MA-E Bar Noodle - Bonito",
+    "norm": "demae iccho bar noodle bonito"
+  },
+  {
+    "uid": "e8b246599518cc55ef5d6060f8adbf75",
+    "eng": "DE-MA-E Bar Noodle - Miso Tonkotsu",
+    "norm": "demae iccho bar noodle miso tonkotsu"
+  },
+  {
+    "uid": "ad958d8fff11baa42fe8ec0848a619aa",
+    "eng": "DE-MA-E Bar Noodle - Rich Tonkotsu",
+    "norm": "demae iccho bar noodle rich tonkotsu"
+  },
+  {
+    "uid": "5d821a850361762d5c6eeb6dd7a0cf9d",
+    "eng": "DE-MA-E Bar Noodle - Tonkotsu",
+    "norm": "demae iccho bar noodle tonkotsu"
+  },
+  {
+    "uid": "46e0e7098d494ae3fd7d3a2970744414",
+    "eng": "DE-MA-E Bowl Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho bowl noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "ec68cd9404989ec157d44329a58b4a0f",
+    "eng": "DE-MA-E Bowl Noodle - Chicken",
+    "norm": "demae iccho bowl noodle chicken"
+  },
+  {
+    "uid": "0416c99a42aaaed9f55b498ffd12c644",
+    "eng": "DE-MA-E Bowl Noodle - Korean Beef",
+    "norm": "demae iccho bowl noodle korean beef"
+  },
+  {
+    "uid": "82d7bdcb1cc533d96d4a2808d3c60d14",
+    "eng": "DE-MA-E Bowl Noodle - Sesame Oil",
+    "norm": "demae iccho bowl noodle sesame oil"
+  },
+  {
+    "uid": "a4c44b900ba10c9f892170a22d458e98",
+    "eng": "DE-MA-E Bowl Noodle - Spicy Beef",
+    "norm": "demae iccho bowl noodle spicy beef"
+  },
+  {
+    "uid": "c0a5d0d853a43892e8e7ce0bfb912e03",
+    "eng": "DE-MA-E Bowl Noodle - Tonkotsu",
+    "norm": "demae iccho bowl noodle tonkotsu"
+  },
+  {
+    "uid": "1f1b8c1937dc888ddecb57a3ba2f203b",
+    "eng": "DE-MA-E Classic Series Bowl Noodle Set",
+    "norm": "demae iccho bowl noodle"
+  },
+  {
+    "uid": "3a60bdde5fa5e9fb6996813dd4e69388",
+    "eng": "DE-MA-E Cup Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho cup noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "33b3e31db0478bd6fdfc94701f8ef40c",
+    "eng": "DE-MA-E Cup Noodle - Hakata Toukotsu",
+    "norm": "demae iccho cup noodle hakata tonkotsu"
+  },
+  {
+    "uid": "c95b63ae603a811a2f38828338533ea3",
+    "eng": "DE-MA-E Cup Noodle - Seafood",
+    "norm": "demae iccho cup noodle seafood"
+  },
+  {
+    "uid": "f43785271191057b78eeb767946804ec",
+    "eng": "DE-MA-E Cup Noodle - Sesame Oil",
+    "norm": "demae iccho cup noodle sesame oil"
+  },
+  {
+    "uid": "ca532b328cb95db6b8eda019e91d755a",
+    "eng": "DE-MA-E Instant Macaroni - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho macaroni black garlic oil tonkotsu"
+  },
+  {
+    "uid": "a2d9a5d5b4a9a876ed91f4850d8d41c8",
+    "eng": "DE-MA-E Instant Macaroni - Satay Beef",
+    "norm": "demae iccho macaroni satay beef"
+  },
+  {
+    "uid": "4606107c88267e13e5a5115c166e8107",
+    "eng": "DE-MA-E Instant Macaroni - Seafood",
+    "norm": "demae iccho macaroni seafood"
+  },
+  {
+    "uid": "27f295201b078d3b54016262170913ab",
+    "eng": "DE-MA-E Instant Macaroni - Sesame Oil Chicken",
+    "norm": "demae iccho macaroni sesame oil chicken"
+  },
+  {
+    "uid": "1757df5743758f21afd601c64228affa",
+    "eng": "DE-MA-E Instant Macaroni - Tomato Beef",
+    "norm": "demae iccho macaroni tomato beef"
+  },
+  {
+    "uid": "e182feb530d32e7c5f06650d7a2948d7",
+    "eng": "DE-MA-E Instant Macaroni - Tonkotsu",
+    "norm": "demae iccho macaroni tonkotsu"
+  },
+  {
+    "uid": "3b7a7e6b415e6983175aff750599622e",
+    "eng": "DE-MA-E Instant Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho instant noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "d5cd0ba34a56f7015d885b00de9180e8",
+    "eng": "DE-MA-E Instant Noodle - Chicken",
+    "norm": "demae iccho instant noodle chicken"
+  },
+  {
+    "uid": "842697bd3185efe10eb06f8595428a77",
+    "eng": "DE-MA-E Instant Noodle - Chicken 5's",
+    "norm": "demae iccho instant noodle chicken"
+  },
+  {
+    "uid": "255f3398e663796bc56148e1ee95475c",
+    "eng": "DE-MA-E Instant Noodle - Chilli Volcano",
+    "norm": "demae iccho instant noodle chilli volcano"
+  },
+  {
+    "uid": "8d931a2c13929cca4eae03e0bb5faed9",
+    "eng": "DE-MA-E Instant Noodle - Five Spice Beef",
+    "norm": "demae iccho instant noodle five spice beef"
+  },
+  {
+    "uid": "3a853f5da32e4ecb55680a450fccc33f",
+    "eng": "DE-MA-E Instant Noodle - Five Spice Beef 5's",
+    "norm": "demae iccho instant noodle five spice beef"
+  },
+  {
+    "uid": "c7f2aa5a2a740c5f4484c0e187cf798d",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Black Garlic 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat black garlic oil"
+  },
+  {
+    "uid": "77849c40784baa81287c5990d390f707",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Mala Pot 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat mala pot"
+  },
+  {
+    "uid": "b595f66a081d225fa79c06fc680f541b",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Mala Pot 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat mala pot"
+  },
+  {
+    "uid": "bcbd166f054f821fdaf502e28a69f98f",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Sesame Oil 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat sesame oil"
+  },
+  {
+    "uid": "28fef135d53537d0791584ac120f8e75",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Tonkotsu 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat tonkotsu"
+  },
+  {
+    "uid": "79f14f2a0ec44dbf26dc88ae0adbfe6b",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Tori Paitan 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat tori paitan"
+  },
+  {
+    "uid": "307b5756dff7c409b18ce27d1b962afc",
+    "eng": "DE-MA-E Instant Noodle - Korean Spicy Seafood",
+    "norm": "demae iccho instant noodle korean spicy seafood"
+  },
+  {
+    "uid": "f9b281dd3d19eef5165230624a1f562e",
+    "eng": "DE-MA-E Instant Noodle - Mala Xo Sauce Seafood",
+    "norm": "demae iccho instant noodle mala xo sauce seafood"
+  },
+  {
+    "uid": "763a147ed9fd1af240f51328a7821e25",
+    "eng": "DE-MA-E Instant Noodle - Miso Tonkotsu Soup",
+    "norm": "demae iccho instant noodle miso tonkotsu"
+  },
+  {
+    "uid": "4148c2a98f3178cf9d879c3ece164e85",
+    "eng": "DE-MA-E Instant Noodle - Peppercorn Chilli Sesame Oil",
+    "norm": "demae iccho instant noodle peppercorn chilli sesame oil"
+  },
+  {
+    "uid": "c1706f8dca65658788cb29c600fdd660",
+    "eng": "DE-MA-E Instant Noodle - Roast Beef",
+    "norm": "demae iccho instant noodle roast beef"
+  },
+  {
+    "uid": "5e7dc1e7251247eb4e16e57943332856",
+    "eng": "DE-MA-E Instant Noodle - Satay",
+    "norm": "demae iccho instant noodle satay"
+  },
+  {
+    "uid": "6f235844752d413d8ce524eaf715273c",
+    "eng": "DE-MA-E Instant Noodle - Seafood",
+    "norm": "demae iccho instant noodle seafood"
+  },
+  {
+    "uid": "bef4b787a4c8361963b0c980151a2d8f",
+    "eng": "DE-MA-E Instant Noodle - Sesame Oil",
+    "norm": "demae iccho instant noodle sesame oil"
+  },
+  {
+    "uid": "22217181e1f779b7545a546a994027fd",
+    "eng": "DE-MA-E Instant Noodle - Sesame Oil 5's",
+    "norm": "demae iccho instant noodle sesame oil"
+  },
+  {
+    "uid": "ec9727ba6501a9eaf97f32a07991bbe4",
+    "eng": "DE-MA-E Instant Noodle - Shoyu Tonkotsu Soup",
+    "norm": "demae iccho instant noodle shoyu tonkotsu"
+  },
+  {
+    "uid": "ac7536c33467d6ebd6e2d137dbd4c64c",
+    "eng": "DE-MA-E Instant Noodle - Super Hot Tonkotsu",
+    "norm": "demae iccho instant noodle super hot tonkotsu"
+  },
+  {
+    "uid": "7b69d19995ca6cc7384c75938091af1f",
+    "eng": "DE-MA-E Instant Noodle - Thai Green Curry",
+    "norm": "demae iccho instant noodle thai green curry"
+  },
+  {
+    "uid": "7787960cfbb6c6e208e29291cf7178b7",
+    "eng": "DE-MA-E Instant Noodle - Tonkotsu",
+    "norm": "demae iccho instant noodle tonkotsu"
+  },
+  {
+    "uid": "ce05bc7177b9d4aa04b00ca400b8fe39",
+    "eng": "DE-MA-E Instant Noodle -  Tonkotsu 5's",
+    "norm": "demae iccho instant noodle tonkotsu"
+  },
+  {
+    "uid": "df3e68a2322b1a30464ad7034b914b53",
+    "eng": "DE-MA-E Instant Noodle - Yuzu Pepper Tonkotsu",
+    "norm": "demae iccho instant noodle yuzu pepper tonkotsu"
+  },
+  {
+    "uid": "41d66cd092c37d4067746185a749f00a",
+    "eng": "DE-MA-E Japanese Version Instant Noodle - Sesame Oil",
+    "norm": "demae iccho instant noodle sesame oil"
+  },
+  {
+    "uid": "61e5379cabd66e2d1e98bbbf1cc62ad1",
+    "eng": "DELVERDE Capellini N.1",
+    "norm": "delverde capellini"
+  },
+  {
+    "uid": "5ab79113619755460855936165d8c415",
+    "eng": "DELVERDE Conchiglioni Gianti Pasta 240",
+    "norm": "delverde conchiglioni"
+  },
+  {
+    "uid": "0b169d3d4f6dc1f8639242d2d6c91c46",
+    "eng": "DELVERDE N.12 Lingue",
+    "norm": "delverde lingue"
+  },
+  {
+    "uid": "36e6e3c3ce7ab2c9e0251c2f581b2354",
+    "eng": "DELVERDE N.242 Lumachine",
+    "norm": "delverde lumachine"
+  },
+  {
+    "uid": "7fbc13af3d88e3d13aec12e8b744936a",
+    "eng": "DELVERDE Nest Pasta Egg Tagliatelle",
+    "norm": "delverde nest pasta egg tagliatelle"
+  },
+  {
+    "uid": "20e713cb312006d686c3c01b7d2b2bd7",
+    "eng": "DELVERDE N.29 Fusilli",
+    "norm": "delverde n.29 fusilli"
+  },
+  {
+    "uid": "33ec7a50a088b297ea2327ac700df55d",
+    "eng": "DELVERDE N.134 Tagliatelle Agli Spinaci A Nido",
+    "norm": "delverde n.134 tagliatelle"
+  },
+  {
+    "uid": "19f0724d55ba0a1bb653cc508c2b50a5",
+    "eng": "DELVERDE N.37 Tortiglioni",
+    "norm": "delverde n.37 tortiglioni"
+  },
+  {
+    "uid": "733d47ec716959cf7a8be24438c63862",
+    "eng": "DELVERDE Rigatoni No.19",
+    "norm": "delverde rigatoni"
+  },
+  {
+    "uid": "4e7f1488af2fa77f0d67be7d2c1beb88",
+    "eng": "DELVERDE N.4 Spaghetti",
+    "norm": "delverde spaghetti"
+  },
+  {
+    "uid": "442eb0749eb277650cb7f24e8aa60334",
+    "eng": "DING HOW Instant Noodles",
+    "norm": "ding how instant noodles"
+  },
+  {
+    "uid": "52d74cea7f7879af4c88fe219077195c",
+    "eng": "DOLL Doll Bowl Instant Mifun Pickled Vegetable And Pork Flavour",
+    "norm": "doll bowl instant vermicelli pickled vegetable pork"
+  },
+  {
+    "uid": "2671d5550b5822be12e5d4f6994d947e",
+    "eng": "DOLL Bowl Noodle Pepper & Pork Soup Flv",
+    "norm": "doll bowl noodle pepper pork"
+  },
+  {
+    "uid": "d3c747b11205b940ef8070cd26486772",
+    "eng": "DOLL Doll Bowl Noodle Satay & Beef Flavour",
+    "norm": "doll bowl noodle satay beef"
+  },
+  {
+    "uid": "5cd90829091478b0e453cb69ea9dd3a6",
+    "eng": "DOLL Doll Bowl Noodle Tonkotsu Flavour",
+    "norm": "doll bowl noodle tonkotsu"
+  },
+  {
+    "uid": "d6ead43d43eaf489247c2db48fa5b96b",
+    "eng": "DOLL Doll Bowl Noodle Vegetarian Flavour With Sesame Oil",
+    "norm": "doll bowl noodle vegetarian sesame oil"
+  },
+  {
+    "uid": "8313063d1c6c8a61fe5cc00d5742b83d",
+    "eng": "DOLL Dim Sum Inst Noodle Braised Beef Flv",
+    "norm": "doll dim sum noodle braised beef"
+  },
+  {
+    "uid": "bfd53327e26a62862536511d22881e47",
+    "eng": "DOLL Hello Kitty Dim Sum Noodle Japanese Soy Sauce Flavour",
+    "norm": "doll dim sum noodle japanese soy sauce"
+  },
+  {
+    "uid": "715947a7de25c3e95ba90a7195671c43",
+    "eng": "DOLL Dolldim Sum Ndl - Jp Shrimp Flv Inst Ndl",
+    "norm": "doll dim sum noodle japanese shrimp"
+  },
+  {
+    "uid": "7823d02125c874ed8b020ad44ec85a43",
+    "eng": "DOLL Dim Sum Noodle Seafood Flavour",
+    "norm": "doll dim sum noodle seafood"
+  },
+  {
+    "uid": "dc411d216e967bde49ae074c8637aa91",
+    "eng": "DOLL Hello Kitty Dim Sum Ndl Tonkotsu Flv",
+    "norm": "doll dim sum noodle tonkotsu"
+  },
+  {
+    "uid": "41458eb2ab2e0f15e7570d3174bd0509",
+    "eng": "DOLL Doll Fried Noodle Chilli Sauce",
+    "norm": "doll fried noodle chilli sauce"
+  },
+  {
+    "uid": "5b6014797375363a1bb44b67ee4e5eb9",
+    "eng": "DOLL Doll Fried Noodle Deep Fried Garlic & Chili Flavour",
+    "norm": "doll fried noodle deep fried garlic chili"
+  },
+  {
+    "uid": "b09318c7c9058c26b4a4d6be3c40847b",
+    "eng": "DOLL Fried Noodle Hk Style Satay Beef Flv",
+    "norm": "doll fried noodle hk style satay beef"
+  },
+  {
+    "uid": "df34017c56b52af80533f1645f6ce730",
+    "eng": "DOLL Fried Noodle Kabayaki Eel Flv",
+    "norm": "doll fried noodle kabayaki eel"
+  },
+  {
+    "uid": "bc53502aadaa2385f3d7d600043f74b3",
+    "eng": "DOLL Fried Noodle -mala Flavour",
+    "norm": "doll fried noodle mala"
+  },
+  {
+    "uid": "496310a93cca622f4d4b8fb814b7288d",
+    "eng": "DOLL Fried Ndl-satay Chicken Skewer Flv",
+    "norm": "doll fried noodle satay chicken skewer"
+  },
+  {
+    "uid": "c47b317e499274fe18e8276c17fd5b92",
+    "eng": "DOLL Doll Fried Noodle-seafood Oyster Sauce Flavour",
+    "norm": "doll fried noodle seafood oyster sauce"
+  },
+  {
+    "uid": "4395938cfcd31a43460d7035f6503307",
+    "eng": "DOLL Inst Noodle - Chicken Flavour",
+    "norm": "doll instant noodle chicken"
+  },
+  {
+    "uid": "b4d3e84172cc356b28fed20c18edea6d",
+    "eng": "DOLL Doll Instant Noodle Pickled Vegetable Flavour 5 Packs",
+    "norm": "doll instant noodle pickled vegetable"
+  },
+  {
+    "uid": "d72d061c1707396380f20b9ee33f3416",
+    "eng": "DOLL Inst Noodle - Sesame Oil Flv",
+    "norm": "doll instant noodle sesame oil"
+  },
+  {
+    "uid": "70b13f9ec71ef4d0366c67fb596df021",
+    "eng": "DOLL Doll Instant Mifun Pickled Vegetable Flavour",
+    "norm": "doll instant vermicelli pickled vegetable"
+  },
+  {
+    "uid": "8d3eb2dfe9004e97df0f394bcd826ff0",
+    "eng": "DOLL Doll Instant Mifun Pickled Vegetable Flavour 4 Packs",
+    "norm": "doll instant vermicelli pickled vegetable"
+  },
+  {
+    "uid": "930eb45c773dd1b5e2a62daf3279c6c0",
+    "eng": "DOLL Instant Mifun 30 X 70GM",
+    "norm": "doll instant vermicelli"
+  },
+  {
+    "uid": "ce6073f76831bd7baa14a3beab21bc43",
+    "eng": "DOLL Instant Mei Fun 70GM",
+    "norm": "doll instant vermicelli"
+  },
+  {
+    "uid": "f3d8ae746c87403f05a3404c8231e249",
+    "eng": "DOLL Doll Instant Mifun Spicy Flavour 4 Packs",
+    "norm": "doll instant vermicelli spicy"
+  },
+  {
+    "uid": "be685cac2b1269b5bac008ee2cac750f",
+    "eng": "DOLL Shioyaki Beef Karubi Flv Friednoodle",
+    "norm": "doll shioyaki beef karubi fried noodle"
+  },
+  {
+    "uid": "4316dcb419cb733ec9143d8548dfacc9",
+    "eng": "DOLL Vegetabel & Pork Mifun Case 12 X 77GM",
+    "norm": "doll vegetable pork vermicelli"
+  },
+  {
+    "uid": "4d980734abf157a63b03eb173bf18bc0",
+    "eng": "DONGWON Sweet Potato Vermicelli",
+    "norm": "dongwon sweet potato vermicelli"
+  },
+  {
+    "uid": "c3ffc77d7ac1ce11d0627b7f28bf3473",
+    "eng": "EAT WATER Organic Gluten Free Konjac Penne (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac penne"
+  },
+  {
+    "uid": "21da7be004b02ab69566335327a68b66",
+    "eng": "EAT WATER Organic Gluten Free Konjac Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac noodles"
+  },
+  {
+    "uid": "4eb80f779d519cc38143464f1a4371f9",
+    "eng": "EAT WATER Org Gluten Free Konjac Thai Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac thai noodles"
+  },
+  {
+    "uid": "f90dd8b03ca38ed861e210eb904ab8f2",
+    "eng": "EAT WATER Organic Gluten Free Konjac Slim Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac rice"
+  },
+  {
+    "uid": "f8a6544e18a3f9fa32608ea860ba52f7",
+    "eng": "EAT WATER Organic Gluten Free Konjac Lasagne (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac lasagne"
+  },
+  {
+    "uid": "a05f159e21e23fc2e4c14d97005a8b93",
+    "eng": "ESSENTIAL WAITROSE Whole Grain Rice",
+    "norm": "essential waitrose whole grain rice"
+  },
+  {
+    "uid": "7d3da503c19ea271a412bff4f86f598c",
+    "eng": "ESSENTIAL WAITROSE Penne",
+    "norm": "essential waitrose penne"
+  },
+  {
+    "uid": "2a59445e82f3d2ab19bf5cb935528169",
+    "eng": "ESSENTIAL WAITROSE Spaghetti",
+    "norm": "essential waitrose spaghetti"
+  },
+  {
+    "uid": "faa81ea95da5649e5677ae626f94becb",
+    "eng": "ESSENTIAL WAITROSE Spaghetti",
+    "norm": "essential waitrose spaghetti"
+  },
+  {
+    "uid": "3b274e5a5de09e9676def9444b0b7edc",
+    "eng": "ESSENTIAL WAITROSE Macaroni",
+    "norm": "essential waitrose macaroni"
+  },
+  {
+    "uid": "7a69ff9e6d3ea35420452b813f7b2cb4",
+    "eng": "ESSENTIAL WAITROSE Essential Waitroselasagne",
+    "norm": "essential waitrose lasagne"
+  },
+  {
+    "uid": "7eccc88a481d330509b419309d28ffdc",
+    "eng": "FIRMA Maccheroncini W/ Cheese Sauce",
+    "norm": "firma maccheroncini cheese sauce"
+  },
+  {
+    "uid": "d4a61d192f829b57afb9b1bffbd86770",
+    "eng": "FIRMA Spaghetti With Cuttlefish Ink Sauce",
+    "norm": "firma spaghetti cuttlefish ink sauce"
+  },
+  {
+    "uid": "69fcfba6b4722c5c04cbfbff8bdd2dd5",
+    "eng": "FOOD NATION Food Nationorganic Chifferini",
+    "norm": "food nation organic chifferini"
+  },
+  {
+    "uid": "e4bb95661a4841b657efdd339dc98dec",
+    "eng": "FOOD NATION Food Nationorganic Penne",
+    "norm": "food nation organic penne"
+  },
+  {
+    "uid": "1af63ddc4ac47236f128473de83aa280",
+    "eng": "FOOD NATION Food Nationorganic Spaghetti",
+    "norm": "food nation organic spaghetti"
+  },
+  {
+    "uid": "16c06d7a1253dbc7f08b2be1d82d7e50",
+    "eng": "FOUR SEAS Inst Noodle Beef & Radish Flv",
+    "norm": "four seas instant noodle beef radish"
+  },
+  {
+    "uid": "5ab8e9a16eaf1ac96aefb2da33722137",
+    "eng": "FOUR SEAS Inst Noodle Seaweed Flavor",
+    "norm": "four seas instant noodle seaweed"
+  },
+  {
+    "uid": "61a4a08a42d5c2fa521e03b4c7dc03fd",
+    "eng": "FOUR SEAS Roast Beef Flavour Noodle",
+    "norm": "four seas instant noodle roast beef"
+  },
+  {
+    "uid": "f8bbb03bfe5ab67bab729937b5da5992",
+    "eng": "FOUR SEAS Seaweed Noodle 5 X 90GM",
+    "norm": "four seas seaweed noodle"
+  },
+  {
+    "uid": "5f6fdc253e4b3b71ef91e19d90350b33",
+    "eng": "FUKU Bi Hun Soto Flv Instant Mifun (5p)",
+    "norm": "fuku bi hun soto vermicelli"
+  },
+  {
+    "uid": "6988d4a128a1eb1dcb10b295345e327a",
+    "eng": "FUKU Bi Hun Soto Mifun 5 X 55GM",
+    "norm": "fuku bi hun soto vermicelli"
+  },
+  {
+    "uid": "3a2686616a28166769c07174b75e7306",
+    "eng": "FUKU Chicken Instant Noodle 65GM",
+    "norm": "fuku chicken instant noodle"
+  },
+  {
+    "uid": "468917bf339e81e5e5f7fd11c9609b70",
+    "eng": "FUKU Chicken Noodle Case 30 x 65GM",
+    "norm": "fuku chicken instant noodle"
+  },
+  {
+    "uid": "c245fee90963b862a7fe655283345183",
+    "eng": "FUKU Dan Dan Flv Instant Noodle",
+    "norm": "fuku dan dan instant noodle"
+  },
+  {
+    "uid": "ca6c9f876b76b655f84d1706d9c9f287",
+    "eng": "FUKU Instant Rice Noodle 5 X 65GM",
+    "norm": "fuku instant rice noodle"
+  },
+  {
+    "uid": "1b3a9d24016ad748c286bfba282ce7d1",
+    "eng": "FUKU Instant Noodle 90GM",
+    "norm": "fuku instant noodle"
+  },
+  {
+    "uid": "09146365f5e513bebdbe632de3d8b09c",
+    "eng": "FUKU Noodle 30X90GM",
+    "norm": "fuku instant noodle"
+  },
+  {
+    "uid": "8004e93f7692116745dd595e4046c486",
+    "eng": "FUKU Instant Noodle 5 X 90GM",
+    "norm": "fuku instant noodle"
+  },
+  {
+    "uid": "9b109aec28305c9d683747eeaeca6f8a",
+    "eng": "FUKU* Instant Noodle5 Case 6 X 90 GM",
+    "norm": "fuku instant noodle"
+  },
+  {
+    "uid": "7b73c3d92d65bfc20c4862ac3df2a0f4",
+    "eng": "FUKU Non-fried Superior Soup Noodle",
+    "norm": "fuku non fried superior soup noodle"
+  },
+  {
+    "uid": "905b797b29d39e5f2d2221fa88d1d99b",
+    "eng": "FUKU Non Fried Noodle 5 X 80GM",
+    "norm": "fuku non fried superior soup noodle"
+  },
+  {
+    "uid": "55fbcdf5c110e38909fd6b0e4e55e739",
+    "eng": "FUKU Non Fried Noodle 5 X 80GM",
+    "norm": "fuku non fried superior soup noodle"
+  },
+  {
+    "uid": "fc399d69d3a9c8903849f2c88ba623ed",
+    "eng": "FUKU Soup Inst Bowl Rice Vermicelli",
+    "norm": "fuku soup instant bowl rice vermicelli"
+  },
+  {
+    "uid": "341c780e38aa7a93fbe4cd25142d9ffc",
+    "eng": "FUKU Superior Soup Instant Rice Noodle",
+    "norm": "fuku superior soup instant rice noodle"
+  },
+  {
+    "uid": "fbb71894dd77073fd754f506632d5115",
+    "eng": "FUKU Fuku Superior Soup Instant Noodle 90gx5",
+    "norm": "fuku superior soup instant noodle"
+  },
+  {
+    "uid": "6c8b8f67d2e7fe314a9f84a7617a4609",
+    "eng": "FUKU Superior Soup Instant Noodle",
+    "norm": "fuku superior soup instant noodle"
+  },
+  {
+    "uid": "7d1e31380e0216814980c93a76a7c379",
+    "eng": "FUKU Thai Style Tom Yum Goong Mifun (5p)",
+    "norm": "fuku thai tom yum goong vermicelli"
+  },
+  {
+    "uid": "b08765fdebf3e693a97bb2556645d79c",
+    "eng": "FUKU Tom Yum Mifun 5 X 60GM",
+    "norm": "fuku thai tom yum goong vermicelli"
+  },
+  {
+    "uid": "ed17b71a331e9031c0541c23f31e7622",
+    "eng": "FULL GREEN Cauliflower Rice With Broccoli (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "full green cauliflower rice broccoli"
+  },
+  {
+    "uid": "7af4a4734632546e91a29cf79c4cd9a6",
+    "eng": "FULL GREEN Cauliflower Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "full green cauliflower rice"
+  },
+  {
+    "uid": "7a700f4e9a3f8fc98d47e1065a926cf6",
+    "eng": "GOLDEN ELEPHANT Cooked Jasmine Rice",
+    "norm": "golden elephant cooked jasmine rice"
+  },
+  {
+    "uid": "bf1519219f59494d09fe0663fafc732d",
+    "eng": "GOLDEN ELEPHANT Cooked Japanese Rice",
+    "norm": "golden elephant cooked japanese rice"
+  },
+  {
+    "uid": "8176e568594629622f0bbf2f9ec8b137",
+    "eng": "Golden Elephant Cooked Japanese Rice 170GM",
+    "norm": "golden elephant cooked japanese rice"
+  },
+  {
+    "uid": "06ccb807e4545b477f1528668055fe48",
+    "eng": "GOLDEN ELEPHANT Green Bean Vermicelli",
+    "norm": "golden elephant green bean vermicelli"
+  },
+  {
+    "uid": "615078edbe2636ab4b5ddabb338b8375",
+    "eng": "GOOD TODAY Cooked Black Rice (mixed W/wh. Rice)",
+    "norm": "good today cooked black rice"
+  },
+  {
+    "uid": "1ea9490e6c0872f2e5f210bb4fdd7afc",
+    "eng": "GOOD TODAY Cooked White Rice",
+    "norm": "good today cooked white rice"
+  },
+  {
+    "uid": "093c1763fd7cbb75106b71715513b3da",
+    "eng": "GOOD TODAY Glass Noodle",
+    "norm": "good today glass noodle"
+  },
+  {
+    "uid": "3c24eb8dd9bfd7a17b718278beb11373",
+    "eng": "GOOD TODAY Yorihada Toowoomba Ramyeon 4p Noodle",
+    "norm": "good today yorihada toowoomba ramyeon"
+  },
+  {
+    "uid": "c20c8a1082ce98be793bf46637c555c9",
+    "eng": "GOURMET ALLEY Abalone Ndl W/ham",
+    "norm": "gourmet alley abalone noodle ham"
+  },
+  {
+    "uid": "8ff6d55c8481d4c48427300aed7c1daf",
+    "eng": "GOURMET ALLEY Gourmet Alley Scallop Noodle",
+    "norm": "gourmet alley scallop noodle"
+  },
+  {
+    "uid": "c8265a7f418843e613c88e00f3ef9f33",
+    "eng": "GOURMET ALLEY Shrimp Noodle",
+    "norm": "gourmet alley shrimp noodle"
+  },
+  {
+    "uid": "c4e931ed1d4f47e67e54914b18a4d387",
+    "eng": "GRANORO Granoroegg Fettuccine #118",
+    "norm": "granoro egg fettuccine"
+  },
+  {
+    "uid": "ebd45ca90697ace8fb9af38dd34b8c88",
+    "eng": "GS RETAIL YOUUS Gonghwachun Zajang Noodle Multi Pack",
+    "norm": "gs retail youus gonghwachun zajang noodle"
+  },
+  {
+    "uid": "a8cac83a64b78597d8a8f05d34ee3175",
+    "eng": "GS RETAIL YOUUS Gs Retail Youusgonghwachun Zajang Noodle",
+    "norm": "gs retail youus gonghwachun zajang noodle"
+  },
+  {
+    "uid": "d02f50573ba7e3a5e57e10a83273bcf6",
+    "eng": "GS RETAIL YOUUS Gs Retail Youusomori Kimchi Jjigae Ramen",
+    "norm": "gs retail youus omori kimchi jjigae ramen"
+  },
+  {
+    "uid": "7b67201e543c4c2a00fc7d829a3c4f60",
+    "eng": "GS RETAIL YOUUS Omori Kimchi Jjigae Noodle",
+    "norm": "gs retail youus omori kimchi jjigae ramen"
+  },
+  {
+    "uid": "baf497be16613708581108e18c64cec4",
+    "eng": "HANDMADE NOODLES Hu Sesame Flavor",
+    "norm": "handmade noodles hu sesame"
+  },
+  {
+    "uid": "d4f1c2072c45679ba00570a4213dabc3",
+    "eng": "HANDMADE NOODLES Scallion With Sichuan Pepper Flavor",
+    "norm": "handmade noodles scallion sichuan pepper"
+  },
+  {
+    "uid": "f652c773cd6326ac3d67c87f4e1e64fe",
+    "eng": "HANDMADE NOODLES Spicy Sichuan Pepper Flavor",
+    "norm": "handmade noodles spicy sichuan pepper"
+  },
+  {
+    "uid": "fe8c0f3d29a762efdfbc41468e1f8b37",
+    "eng": "HEALTHY GREEN Sea Cucumber Congee",
+    "norm": "healthy green sea cucumber congee"
+  },
+  {
+    "uid": "6b65125ecc12f21e6e8f2a18ed9e0185",
+    "eng": "HERO Ravioli W/tomato Sauce",
+    "norm": "hero ravioli tomato sauce"
+  },
+  {
+    "uid": "06dc10095cc7cb32db925575842de64b",
+    "eng": "HO E SIK Capellini W Shrimp In Lobster Sauce (frozen -18°c)",
+    "norm": "ho e sik capellini shrimp lobster sauce"
+  },
+  {
+    "uid": "305405fee16607f3176d241f1f160212",
+    "eng": "HONEST TO GOODNESS Organic Penne Senatore Cappelli",
+    "norm": "honest to goodness organic penne"
+  },
+  {
+    "uid": "2b3ac72a0469d004f7400746fd474325",
+    "eng": "HONEST TO GOODNESS Org Fusilli With Tomato & Spinach",
+    "norm": "honest to goodness organic fusilli tomato spinach"
+  },
+  {
+    "uid": "6cc6f48883068f17cdf4950e5c67f6ae",
+    "eng": "HONEST TO GOODNESS Org Zoo Pasta With Tomato & Spinach",
+    "norm": "honest to goodness organic zoo pasta tomato spinach"
+  },
+  {
+    "uid": "b7c2bbf5ff477e470b0dc51953a12871",
+    "eng": "IBONOITO IBONOITO SOMEN 300GM",
+    "norm": "ibonoito somen"
+  },
+  {
+    "uid": "1659c9058a89f20b8f814f53d3109d90",
+    "eng": "IMPERIAL BIG MEAL Braised Pork Flavor Noodle",
+    "norm": "imperial big meal braised pork noodle"
+  },
+  {
+    "uid": "f180a83f8c17c436aac982a679228f9b",
+    "eng": "IMPERIAL BIG MEAL Big Bowl Noodle - Beef",
+    "norm": "imperial big meal beef noodle"
+  },
+  {
+    "uid": "d70b871e5395ec5b422d6437c294a358",
+    "eng": "Imperial Big Meal Beef Bowl Noodle Case 12 x 187GM",
+    "norm": "imperial big meal beef noodle"
+  },
+  {
+    "uid": "4da0523ea64e60acce7859332fb69a6d",
+    "eng": "Uni President Imperial Big Meal Beef Bowl Noodle 187GM",
+    "norm": "imperial big meal beef noodle"
+  },
+  {
+    "uid": "88ff3ffb0d8960ce31c280765f62c0cf",
+    "eng": "IMPERIAL BIG MEAL Big Bowl Noodle - Hot Beef",
+    "norm": "imperial big meal hot beef noodle"
+  },
+  {
+    "uid": "b35634e829e0b62c2a6c6da413df4f8f",
+    "eng": "IMPERIAL BIG MEAL Big Bowl Ndl-super Hotpot Beef",
+    "norm": "imperial big meal super hotpot beef noodle"
+  },
+  {
+    "uid": "0a61f543efd96b3b262fcb8375b64710",
+    "eng": "Uni President Imperial Big Meal Hot Beef Bowl Noodle 192GM",
+    "norm": "imperial big meal hot beef noodle"
+  },
+  {
+    "uid": "b196fcd8a5636c25de5926f7d83ca8fe",
+    "eng": "Imperial Big Meal Hot Beef Bowl Noodle Case 12 x 192GM",
+    "norm": "imperial big meal hot beef noodle"
+  },
+  {
+    "uid": "e6edb274b7c1936bbc86969bf85bacda",
+    "eng": "Uni President Imperial Big Meal Super Hot Pot Bowl Noodle 204GM",
+    "norm": "imperial big meal super hot pot noodle"
+  },
+  {
+    "uid": "66e85121d7361c3efa114230d1bf8dc9",
+    "eng": "Imperial Big Meal Hot Pot Bowl Noodle Case 12 x 204GM",
+    "norm": "imperial big meal super hot pot noodle"
+  },
+  {
+    "uid": "5c945320efac40f28026fca00463b8a0",
+    "eng": "Imperial Big Meal Braised Pork Bowl Noodles 199GM",
+    "norm": "imperial big meal braised pork noodle"
+  },
+  {
+    "uid": "b427759b7e074a8b7367123d2ce4f399",
+    "eng": "INDOMIE Migoreng Instant Cup Ndl - Org",
+    "norm": "indomie mi goreng instant cup"
+  },
+  {
+    "uid": "0015ead65c9cb1cc0c7ff7244ee89d92",
+    "eng": "Indomie Mi Goreng Cup Noodles 75GM",
+    "norm": "indomie mi goreng instant cup"
+  },
+  {
+    "uid": "7c71e8cd1d44e744c6e012779d316664",
+    "eng": "INDOMIE Indomie Mi Goreng 5pack",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "036f71a5f61512190c9f1f3897b0a6a4",
+    "eng": "Indomie Mi Goreng Fried Noodles Case 40 x 85GM",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "fc8fd040d2c317a5b3c9103302218bd0",
+    "eng": "Indomie Goreng Fried Noodle 5 X 85GM",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "079a9a5cd3d48ede86e19371b04d2101",
+    "eng": "Indomie Mi Goreng Fried Noodles 5 x 85GM (Parallel Import)",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "dcb77315b3236ede83abc565d777a100",
+    "eng": "Indomie Mi Goreng Fried Noodles Case 40 x 85GM (Parallel Import)",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "8f895c082b08ba362974071cea305c09",
+    "eng": "INDOMIE Mi Goreng 5 Pack (malaysia Edition)",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "9a01948306ec5d5000196c1d40cc611b",
+    "eng": "INDOMIE Mi Goreng Pedas",
+    "norm": "indomie mi goreng pedas"
+  },
+  {
+    "uid": "f97137b0c12751eec3fe87717e9c8ccc",
+    "eng": "Indomie Mi Goreng Hot & Spicy 5 X 80GM",
+    "norm": "indomie mi goreng pedas"
+  },
+  {
+    "uid": "e0ee6913a733234378fde6ba70d7efab",
+    "eng": "INDOMIE Fried Noodles 5s - Garlic Flavour",
+    "norm": "indomie fried noodles garlic"
+  },
+  {
+    "uid": "eb802d955511cf4d4673025ca7cc5b51",
+    "eng": "ITSUKI Kumamon Udon With Soup Powder",
+    "norm": "itsuki kumamon udon"
+  },
+  {
+    "uid": "0ddd51315bf02f2d4cfdbc9332930ec6",
+    "eng": "ITSUKI Wakame & Sesame Udon Cup",
+    "norm": "itsuki wakame sesame udon"
+  },
+  {
+    "uid": "66d70d399860496b55b54b69c223e083",
+    "eng": "Itsuki Cup Wakame Goma Udon 163GM",
+    "norm": "itsuki wakame sesame udon"
+  },
+  {
+    "uid": "5f1f40ae49294385fa089950bce37ccd",
+    "eng": "ITSUKI Cup Tororo Konbu Udon",
+    "norm": "itsuki tororo konbu udon"
+  },
+  {
+    "uid": "ab30b36c3e2ad1a35a4fcab726c106b5",
+    "eng": "ITSUKI Cup Noodle Bean Curd",
+    "norm": "itsuki cup noodle bean curd"
+  },
+  {
+    "uid": "32a7b9cebe4dc28ec1d6702196b0cc80",
+    "eng": "Itsuki Cup Kitsune Udon 166GM",
+    "norm": "itsuki kitsune udon"
+  },
+  {
+    "uid": "478c4b94988acd831e40638a453e87c4",
+    "eng": "ITSUKI Inaka Udon",
+    "norm": "itsuki inaka udon"
+  },
+  {
+    "uid": "d481723c70955ffd9ece2b47a0672c8c",
+    "eng": "Itsuki Inaka Soba 200GM",
+    "norm": "itsuki inaka soba"
+  },
+  {
+    "uid": "d80a1f404b7130d9ef6460369e0ca198",
+    "eng": "JK FOOD Thai Kua Teaw-clear Soup",
+    "norm": "jk food thai kua teaw clear soup"
+  },
+  {
+    "uid": "f608b61d3edf99e10a05f9d25306c609",
+    "eng": "KAI TSUN TONG Vermicelli",
+    "norm": "kai tsun tong vermicelli"
+  },
+  {
+    "uid": "a10a3a85cf1de14240cccc8bfc4f74dd",
+    "eng": "KANG SHI FU Chicken Noodles",
+    "norm": "kang shi fu chicken noodles"
+  },
+  {
+    "uid": "d1f19f1bde4b268d4a76a777294957cd",
+    "eng": "KANG SHI FU Roasted Beef Noodles",
+    "norm": "kang shi fu roasted beef noodles"
+  },
+  {
+    "uid": "98b724b25efa9716f06a6b45e304b2ae",
+    "eng": "KANG SHI FU Shrimp & Fish Cake Flv Inst Noodle",
+    "norm": "kang shi fu shrimp fish cake noodle"
+  },
+  {
+    "uid": "227143a7110c8cd134ac854d3b52916e",
+    "eng": "KANG SHI FU Spicy Beef Instant Noodles",
+    "norm": "kang shi fu spicy beef noodles"
+  },
+  {
+    "uid": "92417484242872735e33288694b1e265",
+    "eng": "KIKI Dry-stirred Noodle W/ Sichuan Spices",
+    "norm": "kiki dry stirred noodle sichuan spices"
+  },
+  {
+    "uid": "503ebc7249a41ec6f0f9737984c10168",
+    "eng": "KiKi Sichuan Spices Dry-Stirred Noodles 5 x 90GM",
+    "norm": "kiki dry stirred noodle sichuan spices"
+  },
+  {
+    "uid": "f4ff2731e0d4096b6551d652bccbe2ff",
+    "eng": "KIKI Dry-stirred Noodles W/ Scallion Oil",
+    "norm": "kiki dry stirred noodle scallion oil"
+  },
+  {
+    "uid": "1c11f9a8371c5430920d8ea5e0a1133d",
+    "eng": "KiKi Scallion Oil Dry-Stirred Noodles 5 x 90GM",
+    "norm": "kiki dry stirred noodle scallion oil"
+  },
+  {
+    "uid": "b228f8a64f0a069bc121763a98fb64dd",
+    "eng": "Kiki Scallion Oil Dry-Stirred Noodles Case 50 x 90GM",
+    "norm": "kiki dry stirred noodle scallion oil"
+  },
+  {
+    "uid": "7d3275d94f626bbe46e22c42b8c8f91d",
+    "eng": "KNORR Macaroni Beef",
+    "norm": "knorr macaroni beef"
+  },
+  {
+    "uid": "7816ea24da664e98561c65d83f03acb9",
+    "eng": "Knorr Beef Macaroni Case 30 X 80GM",
+    "norm": "knorr macaroni beef"
+  },
+  {
+    "uid": "2ffb233fad1f8170fc3e38e7ffb70ab6",
+    "eng": "Knorr Quick Serve Beef Macaron 80GM",
+    "norm": "knorr macaroni beef"
+  },
+  {
+    "uid": "1ed140f9ff2b333c0be26dca210b4e00",
+    "eng": "KNORR Macaroni Mushroom",
+    "norm": "knorr macaroni mushroom"
+  },
+  {
+    "uid": "c4aafadf5ef2c1838a5147508bb97dc0",
+    "eng": "Knorr Mushroom Macaroni 80GM",
+    "norm": "knorr macaroni mushroom"
+  },
+  {
+    "uid": "114",
+    "eng": "Knorr Quick Serve Macaroni Mushroom 80GM",
+    "norm": "knorr macaroni mushroom"
+  },
+  {
+    "uid": "113",
+    "eng": "Knorr Quick Serve Wonton Macaron 80GM",
+    "norm": "knorr macaroni wonton"
+  },
+  {
+    "uid": "d2d05c6a32fe68667761b590811d94f1",
+    "eng": "KNORR Macaroni Wonton",
+    "norm": "knorr macaroni wonton"
+  },
+  {
+    "uid": "636214d1354b8c34088a9f0e184ea7ee",
+    "eng": "KNORR Macaroni Shrimp",
+    "norm": "knorr macaroni shrimp"
+  },
+  {
+    "uid": "3bb90f8d20e3cb02fe678aa6b1c5ae75",
+    "eng": "KNORR Macaroni Tung Choi",
+    "norm": "knorr macaroni tung choi"
+  },
+  {
+    "uid": "c98aa0e3c4293ec69dea6c17534a0d5e",
+    "eng": "KNORR Q/s Macaroni Abalone & Chix",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "dc893575f4932015a780b340a48fa079",
+    "eng": "KNORR Q/s Macaroni - Abalone&chix",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "3976e7b302594a53a1d016ec79540de5",
+    "eng": "Knorr Quick Serve Macaroni Abalone & Chicken Flavour 5 x 80GM",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "b63ea82e9ea21b6a2d76c29e6a5f112d",
+    "eng": "Knorr Quick Serve Abalone & Chicken Macaroni 80GM",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "68a119f339ee69d4315a8034c8741900",
+    "eng": "Knorr Abalone & Chicken Quick Serve Macaroni Case 30 x 80GM",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "cfd3d037b08d9d395eaa9e9e97d55c43",
+    "eng": "KNORR Q/s Macaroni Chicken Broth",
+    "norm": "knorr macaroni chicken"
+  },
+  {
+    "uid": "5e9a4e7b11251e3921e6647fc7bbee26",
+    "eng": "KNORR Q/s Macaroni Chicken Broth",
+    "norm": "knorr macaroni chicken"
+  },
+  {
+    "uid": "c11ba61581866d18070fdfe5e1bd990b",
+    "eng": "Knorr Chicken Macaroni Case 30 X 80GM",
+    "norm": "knorr macaroni chicken"
+  },
+  {
+    "uid": "761bd67f24679885c3ea7677b7a22614",
+    "eng": "Knorr Chicken Macaroni 80GM",
+    "norm": "knorr macaroni chicken"
+  },
+  {
+    "uid": "42a8c3504e75b159b48d158b42aa5d0c",
+    "eng": "KNORR Q/s Macaroni Pork Bone Broth",
+    "norm": "knorr macaroni pork bone"
+  },
+  {
+    "uid": "9e991e52cdcd1c592ba68423d39c62c8",
+    "eng": "KNORR Q/s Macaroni Pork Bone",
+    "norm": "knorr macaroni pork bone"
+  },
+  {
+    "uid": "6e6e94ea7e495f42e46730419c556ae7",
+    "eng": "Knorr Japanese Pork Bone Quick Serve Macaroni 80GM",
+    "norm": "knorr macaroni pork bone"
+  },
+  {
+    "uid": "856c058d59b71b0986da4c7bdd55d93f",
+    "eng": "KNORR Knorr Quick Serve Macaroni 400g",
+    "norm": "knorr macaroni quick serve"
+  },
+  {
+    "uid": "4b7f06cc0a2846d74b09212e075a8033",
+    "eng": "Knorr Quick Serve Macaroni 400GM",
+    "norm": "knorr macaroni quick serve"
+  },
+  {
+    "uid": "00f958ca04de378d4b177cbd5be90997",
+    "eng": "Knorr Quick Serve Bbq Broth Macaroni 80GM",
+    "norm": "knorr macaroni bbq broth"
+  },
+  {
+    "uid": "c293c4f1806c81075a42ad23d7f050f1",
+    "eng": "KUNG TAK LAM Vegentarian Mushroom Noodle",
+    "norm": "kung tak lam vegetarian mushroom noodle"
+  },
+  {
+    "uid": "a007990038e9e11340b9649e76d85ea2",
+    "eng": "Kung Tak Lam Vegetable Mushroom Noodles 5 x 85GM",
+    "norm": "kung tak lam vegetarian mushroom noodle"
+  },
+  {
+    "uid": "42a8484af8c4d0650f1af1c8a9a1f8b8",
+    "eng": "LA MOLISANA Classic Chifferi Rigate N 55",
+    "norm": "la molisana chifferi rigate"
+  },
+  {
+    "uid": "583875bd81de94595cde7febf9dc6301",
+    "eng": "La Molisana Chifferi Rigate #55 500GM",
+    "norm": "la molisana chifferi rigate"
+  },
+  {
+    "uid": "335e2c52bc16307b4f5487374e064e18",
+    "eng": "LA MOLISANA Classic Farfalle Rigate N 66",
+    "norm": "la molisana farfalle rigate"
+  },
+  {
+    "uid": "9656a65d67a20590bc6a3c02cc0d0c86",
+    "eng": "La Molisana Farfalle Rigate #66 500GM",
+    "norm": "la molisana farfalle rigate"
+  },
+  {
+    "uid": "23954197d9ab534352f86c3c1a246e09",
+    "eng": "LA MOLISANA Classic Fusilli N 28",
+    "norm": "la molisana fusilli"
+  },
+  {
+    "uid": "22d714d7da153e76803c506c9b37db78",
+    "eng": "La Molisana Fusilli #28 500GM",
+    "norm": "la molisana fusilli"
+  },
+  {
+    "uid": "fd11531344b1ddc5019a9ebab38828cf",
+    "eng": "LA MOLISANA Linguine N6",
+    "norm": "la molisana linguine"
+  },
+  {
+    "uid": "48b9793495e6eb30d6c804233c57f4d1",
+    "eng": "LA MOLISANA Classic Penne Rigate N 20",
+    "norm": "la molisana penne rigate"
+  },
+  {
+    "uid": "a54d05dec7ee257f2db44ee341149afb",
+    "eng": "La Molisana Penne Rigate #20 500GM",
+    "norm": "la molisana penne rigate"
+  },
+  {
+    "uid": "3a143a7629f18db1f7b65a96575271f1",
+    "eng": "LA MOLISANA Classic Spaghetti N 15",
+    "norm": "la molisana spaghetti"
+  },
+  {
+    "uid": "351d352561a1d6c89c871393e18fcee7",
+    "eng": "LA MOLISANA Spaghetti Nero Di Seppia N 15",
+    "norm": "la molisana spaghetti nero di seppia"
+  },
+  {
+    "uid": "517d5d6d20d5b566eb2b5cda7952c3ca",
+    "eng": "La Molisana Spaghetti #15 500GM",
+    "norm": "la molisana spaghetti"
+  },
+  {
+    "uid": "0e79bcfb52a4276b5770a530311bac72",
+    "eng": "LEE KUM KEE Chicken & Coconut Soup Noodles",
+    "norm": "lee kum kee noodle chicken coconut soup"
+  },
+  {
+    "uid": "5a23ad248d85432a39f046c4cda4252e",
+    "eng": "LEE KUM KEE Beef Noodle With Oyster Sauce",
+    "norm": "lee kum kee noodle beef oyster sauce"
+  },
+  {
+    "uid": "5cc557d1fd47db41842592c5834f823c",
+    "eng": "LEE KUM KEE Chicken Noodles With Sesame Sauce",
+    "norm": "lee kum kee noodle chicken sesame sauce"
+  },
+  {
+    "uid": "dbf824cd7d18f3e7d5831c02443af154",
+    "eng": "LEE KUM KEE Noodles With Shallot Oil",
+    "norm": "lee kum kee noodle shallot oil"
+  },
+  {
+    "uid": "0da7aa51ec914603c7f2693fe5a4af33",
+    "eng": "Lee Kum Kee Noodles With Shallot Oil 110GM",
+    "norm": "lee kum kee noodle shallot oil"
+  },
+  {
+    "uid": "9beede77c29c3a25cdb7d198e01ea617",
+    "eng": "Lee Kum Kee Shallot Oil Noodle Case 12 x 110GM",
+    "norm": "lee kum kee noodle shallot oil"
+  },
+  {
+    "uid": "947f510b1c756c0bc786208f12e110ee",
+    "eng": "LEE KUM KEE Noodles In Dan Dan Soup",
+    "norm": "lee kum kee noodle dan dan soup"
+  },
+  {
+    "uid": "e4435971e80bc2c5e6ee48d07ea56ae3",
+    "eng": "Lee Kum Kee Noodles In Dan Dan Soup 210GM",
+    "norm": "lee kum kee noodle dan dan soup"
+  },
+  {
+    "uid": "f41e8135c932d650796cdc28bb2b050a",
+    "eng": "LEE KUM KEE Noodles In Pepper Pork Bone Soup",
+    "norm": "lee kum kee noodle pepper pork bone soup"
+  },
+  {
+    "uid": "465d3b4f4042f28cd9e65da2ce01b42d",
+    "eng": "LEE KUM KEE Noodle In Satay Soup",
+    "norm": "lee kum kee noodle satay soup"
+  },
+  {
+    "uid": "74b1f1bc576f0924d600be31a6c2882a",
+    "eng": "Lee Kum Kee Noodle In Satay Soup 156GM",
+    "norm": "lee kum kee noodle satay soup"
+  },
+  {
+    "uid": "990d306027a2b7a40828bba867f4401c",
+    "eng": "LEE KUM KEE Noodle In Spicy Tomato Soup",
+    "norm": "lee kum kee noodle spicy tomato soup"
+  },
+  {
+    "uid": "8395440385020093c464725ef5884bca",
+    "eng": "Lee Kum Kee Spicy Tomato Soup Noodle Case 12 x 193GM",
+    "norm": "lee kum kee noodle spicy tomato soup"
+  },
+  {
+    "uid": "9a9290d27d3be9e2cfb33e38ffe3ee59",
+    "eng": "LEE KUM KEE Noodles With Peppercorn Chilli Oil",
+    "norm": "lee kum kee noodle peppercorn chilli oil"
+  },
+  {
+    "uid": "7b8eb4e43f1919d243307dd93dd1b973",
+    "eng": "Lee Kum Kee Noodle With Pepper Corn Oil 110GM",
+    "norm": "lee kum kee noodle peppercorn chilli oil"
+  },
+  {
+    "uid": "716aa6ffddc2016d2df0046eec821fc1",
+    "eng": "Lee Kum Kee Peppercorn Noodle Case 12 x 110GM",
+    "norm": "lee kum kee noodle peppercorn chilli oil"
+  },
+  {
+    "uid": "4bc9908f3d04741a0436e788f005a3b1",
+    "eng": "LEE KUM KEE Scallop & Miso Soup Noodle",
+    "norm": "lee kum kee noodle scallop miso soup"
+  },
+  {
+    "uid": "802acae8a321ca68c89768dea3a8877a",
+    "eng": "LI ZIQI Liuzhou Luosi Rice Instant Noodles",
+    "norm": "li ziqi liuzhou luosi rice noodles"
+  },
+  {
+    "uid": "1e915e359b7d3f867d036b052c014fe9",
+    "eng": "Liziqi Snail Rice Noodle Soup (Liuzhou Luosifen) 330GM",
+    "norm": "li ziqi liuzhou luosi rice noodles"
+  },
+  {
+    "uid": "0bea7590a2d1faa4cb65c176aa7f169d",
+    "eng": "MAMEE Pepper Noodle",
+    "norm": "mamee pepper noodle"
+  },
+  {
+    "uid": "31d1b444859259a7a7b1ece5e2368264",
+    "eng": "Mamee Pepper Noodles Value Pack 80GM",
+    "norm": "mamee pepper noodle"
+  },
+  {
+    "uid": "550f8cc3da407012823294b8131e89a6",
+    "eng": "Mamee Pepper Noodles 5 X 80GM",
+    "norm": "mamee pepper noodle"
+  },
+  {
+    "uid": "e58479eca5a8d3876187f5e19f6132ef",
+    "eng": "Mamee Pepper Cup Noodle 60GM",
+    "norm": "mamee pepper noodle"
+  },
+  {
+    "uid": "4fa65e447b90559279b02723f51cd711",
+    "eng": "MAN XIAO BAO Rich Sauce Rice Noodle",
+    "norm": "man xiao bao rich sauce rice noodle"
+  },
+  {
+    "uid": "8dafe865b3af5e0574648a13dbac0497",
+    "eng": "Man Xiao Bao Rice Noodle And Rich Sauce Cup 112.6G",
+    "norm": "man xiao bao rich sauce rice noodle"
+  },
+  {
+    "uid": "fb9b1de6885e031fb5a7d53077202c4c",
+    "eng": "MAN XIAO BAO Ramen Noodle",
+    "norm": "man xiao bao ramen noodle"
+  },
+  {
+    "uid": "cdf7cc0eab8d72626ba356fda3039b80",
+    "eng": "Man Xiao Bao Ramen Noodle And Rich Sauce Cup 112.6G",
+    "norm": "man xiao bao ramen noodle"
+  },
+  {
+    "uid": "106",
+    "eng": "滿小飽 肥汁米線(附響鈐) 310GM",
+    "norm": "man xiao bao rice noodle rich soup"
+  },
+  {
+    "uid": "fe6065381b54a90f440fb5b1ab0ede0b",
+    "eng": "MARUCHAN Gotsumori Wantan Shoyu Ramen Cup",
+    "norm": "maruchan wantan shoyu ramen"
+  },
+  {
+    "uid": "2f7d2d6655e6a45c48fad7dea6acfcaf",
+    "eng": "MARUTAI Nagahama Tonkotsu Ramen Cup",
+    "norm": "marutai nagahama tonkotsu ramen"
+  },
+  {
+    "uid": "f67a8b88878a07edfdb9c5b6249f8379",
+    "eng": "MEYSYPAL Aba & Conch Slices&scallop Porridge",
+    "norm": "meysypal abalone conch scallop porridge"
+  },
+  {
+    "uid": "8f9ff134595efe1099845c872d9bd599",
+    "eng": "Meysypal Abalone & Shrimp Porridge 1.4KG",
+    "norm": "meysypal abalone shrimp porridge"
+  },
+  {
+    "uid": "945b36ba07e650313c99ae30d868dfa7",
+    "eng": "Meysypal Crab Mushroom Congee 1KG",
+    "norm": "meysypal crab mushroom congee"
+  },
+  {
+    "uid": "cec61b7e591b3dac3c4fcf4d8ca27409",
+    "eng": "MEYSYPAL Hairy Crab Mushroom Porridge",
+    "norm": "meysypal hairy crab mushroom porridge"
+  },
+  {
+    "uid": "12",
+    "eng": "美拾派 大閘蟹菌菇粥料 1KG",
+    "norm": "meysypal hairy crab mushroom porridge"
+  },
+  {
+    "uid": "bdef6e86e6f28ca5be5e142a331ba37f",
+    "eng": "MOM'S DRY NOODLE Sichuan Spi Duck Bld Bean Vermicelli",
+    "norm": "moms dry noodle sichuan spicy duck blood vermicelli"
+  },
+  {
+    "uid": "8fbebfe007079fed37a73f8db03c13f4",
+    "eng": "MOM'S DRY NOODLE Dry Noodle Sichaun Spicy Flavor",
+    "norm": "moms dry noodle sichuan spicy"
+  },
+  {
+    "uid": "98f063219dd58698dc31a9e00794c776",
+    "eng": "MUSO Musopickle And Fish Flavor Noodle",
+    "norm": "muso pickle fish noodle"
+  },
+  {
+    "uid": "6ad7c7f734e59ebad95b4440bfaedbd9",
+    "eng": "Muso Pickle & Fish Flavor Sweet Potato Noodles 150GM",
+    "norm": "muso pickle fish sweet potato noodles"
+  },
+  {
+    "uid": "b579da48bc0072d4262924d127f35aaa",
+    "eng": "Muso Pickle & Fish Cup Noodle Case 12 X 150GM",
+    "norm": "muso pickle fish sweet potato noodles"
+  },
+  {
+    "uid": "47",
+    "eng": "無雙酸菜魚粉杯裝 150GM",
+    "norm": "muso pickle fish sweet potato noodles"
+  },
+  {
+    "uid": "9090d665d11745871c819d1fd129cc56",
+    "eng": "MUSO Sour And Spicy Sweet Potato Noodles",
+    "norm": "muso sour spicy sweet potato noodles"
+  },
+  {
+    "uid": "d2f2268474d7831be7421b660a2f9135",
+    "eng": "Muso Sour & Spicy Sweet Potato Noodles 140GM",
+    "norm": "muso sour spicy sweet potato noodles"
+  },
+  {
+    "uid": "00047d6698b8868a7d73b182bcda5534",
+    "eng": "Muso Sour & Spicy Cup Noodle Case 12 X 140GM",
+    "norm": "muso sour spicy sweet potato noodles"
+  },
+  {
+    "uid": "062ef51273e4f40fc179cd424a51671c",
+    "eng": "MUSO Sichuan Spicy Noodle (4pack)",
+    "norm": "muso sichuan spicy noodle"
+  },
+  {
+    "uid": "04f0dbf264d195697098ef5252acee03",
+    "eng": "MUSO Sichuan Spicy Sweet Potato Noodles",
+    "norm": "muso sichuan spicy sweet potato noodles"
+  },
+  {
+    "uid": "f830cdf1207dcbd3d6238d5d10cd8df3",
+    "eng": "Muso Sichuan Spicy Sweet Potato Noodles 125GM",
+    "norm": "muso sichuan spicy sweet potato noodles"
+  },
+  {
+    "uid": "10db2682c88c853ac74178bfead8b736",
+    "eng": "Muso Sichuan Spicy Cup Case 12 X 125GM",
+    "norm": "muso sichuan spicy sweet potato noodles"
+  },
+  {
+    "uid": "51",
+    "eng": "無雙麻辣粉杯裝 125GM",
+    "norm": "muso sichuan spicy sweet potato noodles"
+  },
+  {
+    "uid": "27",
+    "eng": "原箱無雙麻辣粉杯裝 12 X 125GM",
+    "norm": "muso sichuan spicy sweet potato noodles"
+  },
+  {
+    "uid": "da48e3f7ea270048bb2b743d617baaea",
+    "eng": "MYKUALI Mykualipenang White Curry Noodle",
+    "norm": "mykuali penang white curry noodle"
+  },
+  {
+    "uid": "ab195cbdb0ef47eac8c5e88b97ed63ec",
+    "eng": "MYKUALI Penang Spicy Prawn Soup Noodle",
+    "norm": "mykuali penang spicy prawn noodle"
+  },
+  {
+    "uid": "8df7fa8cef1de88c2649746d28451147",
+    "eng": "MYOJO Hyobanya Shoyu Ramen 5pk",
+    "norm": "myojo hyobanya shoyu ramen"
+  },
+  {
+    "uid": "33b7a02f6623df0c579c684abe851786",
+    "eng": "MYOJO Hyobanya Tonkotsu Ramen 5pk",
+    "norm": "myojo hyobanya tonkotsu ramen"
+  },
+  {
+    "uid": "0eb4d4fbce9897a6aca315262927e5d5",
+    "eng": "MYOJO Hyobanya Salt Ramen 5pk",
+    "norm": "myojo hyobanya salt ramen"
+  },
+  {
+    "uid": "cf0416e777b556a0aea605cfcb5c483c",
+    "eng": "MYUNG DONG Myung Dong Kimchi Ramen 120g X 5 Packs",
+    "norm": "myung dong kimchi ramen"
+  },
+  {
+    "uid": "2d0b27afc31ad4eb2fde58e794fb26f3",
+    "eng": "Myung Dong Kimchi Ramen 5 X 120GM",
+    "norm": "myung dong kimchi ramen"
+  },
+  {
+    "uid": "406793ee1dd8fcd10bd89882a1cb4c2e",
+    "eng": "Nature's Creation Konnyaku Udon 200Gm",
+    "norm": "natures creation konnyaku udon"
+  },
+  {
+    "uid": "5151a314fa98493dc508dced5e7ef93e",
+    "eng": "Natures Creat Konnyaku Seaweed Noodle 200GM",
+    "norm": "natures creation konnyaku seaweed noodle"
+  },
+  {
+    "uid": "bb6677481bd304af1a56866b8dbdd3e3",
+    "eng": "Natural Nutrition Area Yam Noodle 480GM",
+    "norm": "natural nutrition area yam noodle"
+  },
+  {
+    "uid": "e67a6b3460917767d8588046595d410e",
+    "eng": "Natural Nutrition Area Yam Noodle Case 12 X 480 GM",
+    "norm": "natural nutrition area yam noodle"
+  },
+  {
+    "uid": "488d79f29948c459b08afcf48ee3221d",
+    "eng": "NG FUNG BRAND Buckwheat Noodle",
+    "norm": "ng fung buckwheat noodle"
+  },
+  {
+    "uid": "e6f70e74cd53d99f585b417cacf41248",
+    "eng": "Ng Fung 100% Buckwheat Noodle 300GM",
+    "norm": "ng fung buckwheat noodle"
+  },
+  {
+    "uid": "070e7cbde207685f85b6cf9f9f8284b5",
+    "eng": "NG FUNG BRAND Hand Made Noodles (thick)",
+    "norm": "ng fung handmade noodles thick"
+  },
+  {
+    "uid": "58e891bd3ab6e92b30727f21e79158d3",
+    "eng": "NG FUNG BRAND Hand Made Noodles (fine)",
+    "norm": "ng fung handmade noodles fine"
+  },
+  {
+    "uid": "611c7c25bed6e308c2ca7efdbab38374",
+    "eng": "NG FUNG BRAND Rice Macaroni",
+    "norm": "ng fung rice macaroni"
+  },
+  {
+    "uid": "3b05dc557e181ed9947c04a420825611",
+    "eng": "Ng Fung Rice Macaroni 454GM",
+    "norm": "ng fung rice macaroni"
+  },
+  {
+    "uid": "6bc9a5c095a00867c6de1594a6be7fbf",
+    "eng": "NINE SEVEN Longkou Vermicelli",
+    "norm": "nine seven longkou vermicelli"
+  },
+  {
+    "uid": "4f46c9ebe7115b17d84037996408dab2",
+    "eng": "Nine Seven Longkou Vermicelli 227GM",
+    "norm": "nine seven longkou vermicelli"
+  },
+  {
+    "uid": "27894fa4a989c475d2a425aaa5e85dc1",
+    "eng": "NINE SEVEN Crystal Wide Vermicelli",
+    "norm": "nine seven wide vermicelli"
+  },
+  {
+    "uid": "fb0bd6e9086c46ab54d09cb3ce8efd4c",
+    "eng": "Nippn Hello Kitty Macaroni 120GM",
+    "norm": "nippn hello kitty macaroni"
+  },
+  {
+    "uid": "239280b052e7272e568ff6caddbb04f6",
+    "eng": "NIPPON HAM Karabishi Miso Ramen 5 Servings",
+    "norm": "nippon ham karabishi miso ramen"
+  },
+  {
+    "uid": "1f425dd41827c42865e64d71ef9efedd",
+    "eng": "NISSIN Big Cup Noodles - Beef",
+    "norm": "nissin big cup noodles beef"
+  },
+  {
+    "uid": "6805376bdf7667d67b62765bd9d8b65c",
+    "eng": "Nissin Big Cup Beef Noodles 100GM",
+    "norm": "nissin big cup noodles beef"
+  },
+  {
+    "uid": "2b4c6fbc0e8e64fd006e1b357a52fd70",
+    "eng": "NISSIN Big Cup Noodles - Cheese Curry",
+    "norm": "nissin big cup noodles cheese curry"
+  },
+  {
+    "uid": "2fad6bae1ebe1d74168966d4b2f298a4",
+    "eng": "Nissin Big Cup Cheese Curry Noodles 113GM",
+    "norm": "nissin big cup noodles cheese curry"
+  },
+  {
+    "uid": "504dc4dc7be91db92e9fdb6d86a3a4af",
+    "eng": "Nissin Big Cup Curry Seafood Case 12 X 101GM",
+    "norm": "nissin big cup noodles curry seafood"
+  },
+  {
+    "uid": "acbb50ec2eb1ffe2fb43a79ee9f29945",
+    "eng": "NISSIN Big Cup Noodles - Kimchi Pork Hotpot",
+    "norm": "nissin big cup noodles kimchi pork hotpot"
+  },
+  {
+    "uid": "72eadbfc1db373499510ed4b5c19bdcc",
+    "eng": "NISSIN Big Cup Noodles - Seafood",
+    "norm": "nissin big cup noodles seafood"
+  },
+  {
+    "uid": "0db105a89711cef0eece5b3acf7e765e",
+    "eng": "Nissin Cup Noodles Big Cup Seafood Flavour Noodle 100GM",
+    "norm": "nissin big cup noodles seafood"
+  },
+  {
+    "uid": "3f898175d3e977d5da269e8e620b2678",
+    "eng": "Nissin Big Cup Seafood Case 12 X 100 GM",
+    "norm": "nissin big cup noodles seafood"
+  },
+  {
+    "uid": "f09a6248ad36906aad16c61a74e6fe5c",
+    "eng": "NISSIN Big Cup Noodles - Seafood Curry",
+    "norm": "nissin big cup noodles seafood curry"
+  },
+  {
+    "uid": "4f386b9969704d480c13656036588716",
+    "eng": "NISSIN Big Cup Noodles - Spicy Seafood",
+    "norm": "nissin big cup noodles spicy seafood"
+  },
+  {
+    "uid": "f29a985d7af00a819ab5d80eff1b6d67",
+    "eng": "Nissin Big Cup Spicy Seafood Case 12 x 103GM",
+    "norm": "nissin big cup noodles spicy seafood"
+  },
+  {
+    "uid": "83b3fde27cab5a04df341570427c230f",
+    "eng": "NISSIN Big Cup Noodles - Tonkotsu",
+    "norm": "nissin big cup noodles tonkotsu"
+  },
+  {
+    "uid": "f265c8241d7b96ac703c89d035dc781d",
+    "eng": "Nissin Big Cup Tonkotsu Noodles 107GM",
+    "norm": "nissin big cup noodles tonkotsu"
+  },
+  {
+    "uid": "12d679f2635d26d0cdf65509acebc682",
+    "eng": "Nissin Big Cup Tonkotsu Case 12 X 107GM",
+    "norm": "nissin big cup noodles tonkotsu"
+  },
+  {
+    "uid": "95384368879994c6d38d60b8ca3554b9",
+    "eng": "Nissin Big Cup XO Seafood Noodles 105GM",
+    "norm": "nissin big cup noodles xo seafood"
+  },
+  {
+    "uid": "f42dea27374b082f88c955d5ea1509c8",
+    "eng": "Nissin Big Cup XO Seafood Case 12 X 105GM",
+    "norm": "nissin big cup noodles xo seafood"
+  },
+  {
+    "uid": "e163fd510f54508b69003ca71ec13b82",
+    "eng": "NISSIN BUTAO Black King Super Rich Tonkotsu Flavour Cup Noodle",
+    "norm": "nissin butao black king tonkotsu cup noodle"
+  },
+  {
+    "uid": "efea0531bf6e5db632c45aae8e9a2793",
+    "eng": "NISSIN BUTAO Super Rich Tonkotsu Flavour Cup Noodle",
+    "norm": "nissin butao super rich tonkotsu cup noodle"
+  },
+  {
+    "uid": "36e2aa5573095e8def96a6fc0b5c63c4",
+    "eng": "NISSIN Chicken Ramen Instant Noodle 5's",
+    "norm": "nissin chicken ramen"
+  },
+  {
+    "uid": "88f6cd278e7772ba969929e2a3af96a0",
+    "eng": "NISSIN Cup Noodles - Beef",
+    "norm": "nissin cup noodles beef"
+  },
+  {
+    "uid": "29c72513b562b07dffded5474cad0f08",
+    "eng": "Nissin Cup Noodles Beef 75GM",
+    "norm": "nissin cup noodles beef"
+  },
+  {
+    "uid": "637aae473dee786e08ee377958f5afe4",
+    "eng": "Nissin Beef Cup Noodle 24 X 75GM",
+    "norm": "nissin cup noodles beef"
+  },
+  {
+    "uid": "e1ca828e13c619c525b483eeefc516f7",
+    "eng": "NISSIN Cup Noodles - Chicken",
+    "norm": "nissin cup noodles chicken"
+  },
+  {
+    "uid": "e5a7e082cfca5e2aa7690f3b0c25b415",
+    "eng": "Nissin Chicken Cup Noodle 75GM",
+    "norm": "nissin cup noodles chicken"
+  },
+  {
+    "uid": "52486d14b181583520a12722c5a52e5e",
+    "eng": "NISSIN Cup Noodles - Clam Chowder",
+    "norm": "nissin cup noodles clam chowder"
+  },
+  {
+    "uid": "eb573fadbe094680957e2a725c9fe48f",
+    "eng": "Nissin Cup Noodles Clam Chowder 75GM",
+    "norm": "nissin cup noodles clam chowder"
+  },
+  {
+    "uid": "1348b120fcdfdd9109abccf8341c6c1f",
+    "eng": "NISSIN Cup Noodle Curry",
+    "norm": "nissin cup noodles curry"
+  },
+  {
+    "uid": "7aa539028d7df449ffd623787581fbbc",
+    "eng": "Nissin Big Cup Curry Noodles 101GM",
+    "norm": "nissin cup noodles curry"
+  },
+  {
+    "uid": "1c6b85abc890276e39ff5ae159a9c830",
+    "eng": "NISSIN Cup Noodles - Curry Seafood",
+    "norm": "nissin cup noodles curry seafood"
+  },
+  {
+    "uid": "f81e8c2118d45dfde5d8b4354f376b73",
+    "eng": "Nissin Curry Seafood Cup Noodle 75GM",
+    "norm": "nissin cup noodles curry seafood"
+  },
+  {
+    "uid": "1aef86c17726b72172b72ee7aa1daf78",
+    "eng": "Nissin Curry Seefood Cup Ndle Case 24 X 75GM",
+    "norm": "nissin cup noodles curry seafood"
+  },
+  {
+    "uid": "21684d7145c085d0e3e6d63472112f80",
+    "eng": "NISSIN Cup Noodle European-sty Cheese Curry",
+    "norm": "nissin cup noodles european cheese curry"
+  },
+  {
+    "uid": "83",
+    "eng": "原箱日清合味道 五香牛肉杯麵 24 X 75GM",
+    "norm": "nissin cup noodles five spice beef"
+  },
+  {
+    "uid": "021926aec4b669d4e2c598cffaf3f82f",
+    "eng": "NISSIN Cup Noodles - Laksa",
+    "norm": "nissin cup noodles laksa"
+  },
+  {
+    "uid": "7a48c91079a4d67531fb198253e31236",
+    "eng": "Nissin Laksa Flavour Cup Noodles 75GM",
+    "norm": "nissin cup noodles laksa"
+  },
+  {
+    "uid": "c82fd668f4a910c07e44832766328a64",
+    "eng": "NISSIN Cup Noodles - Lobster Bisque",
+    "norm": "nissin cup noodles lobster bisque"
+  },
+  {
+    "uid": "0d26f483fade61352b0ec50e42811d13",
+    "eng": "Nissin Lobster Bisque Cup 75GM",
+    "norm": "nissin cup noodles lobster bisque"
+  },
+  {
+    "uid": "6ff569e7d309cbd05cc480a4d58df818",
+    "eng": "NISSIN Cup Noodles - Mushroom Seafood Chowder",
+    "norm": "nissin cup noodles mushroom seafood"
+  },
+  {
+    "uid": "e959a693251e27c765f5599289133699",
+    "eng": "Nissin Mushroom Seafood Cup Noodles 75GM",
+    "norm": "nissin cup noodles mushroom seafood"
+  },
+  {
+    "uid": "2f703c1416463c8ff908662ccb76d82b",
+    "eng": "NISSIN Cup Noodles - Pork Chowder",
+    "norm": "nissin cup noodles pork chowder"
+  },
+  {
+    "uid": "4d8b4febbfb9936566f388c88f0db460",
+    "eng": "Nissin Pork Chowder Cup Noodles 75GM",
+    "norm": "nissin cup noodles pork chowder"
+  },
+  {
+    "uid": "5d91a604fe4240868a890ec97ae2f5f4",
+    "eng": "NISSIN Cup Noodles - Prawn",
+    "norm": "nissin cup noodles prawn"
+  },
+  {
+    "uid": "e347ae4f6979310fa8aea8794369aa4e",
+    "eng": "Nissin Prawn Cup Noodle 74GM",
+    "norm": "nissin cup noodles prawn"
+  },
+  {
+    "uid": "6011b10a754bd7395925b21d74834108",
+    "eng": "NISSIN Cup Noodles - Seafood",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "921b048cd7b6912bb2d4991a4e078b2a",
+    "eng": "Nissin Cup Noodle Seafood 72GM",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "79aea131f62c7929045188d9aa2996b2",
+    "eng": "Nissin Cup Noodles Seafood Mini 45GM",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "28b3dd5cdc2c2a969d1a90b0706527f2",
+    "eng": "Nissin Cup Noodles Seafood Case 72GM",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "3",
+    "eng": "日清合味道海鮮迷你杯麵 45GM",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "76000710291e1ee990aebf6a23ff3769",
+    "eng": "NISSIN Cup Noodles - Shrimp And Tonkotsu",
+    "norm": "nissin cup noodles shrimp tonkotsu"
+  },
+  {
+    "uid": "da8a5b8a55b7b3e407a0907f5d2a83ab",
+    "eng": "Nissin Cup Noodles Shrimp&Tonkutsu 75GM",
+    "norm": "nissin cup noodles shrimp tonkotsu"
+  },
+  {
+    "uid": "10",
+    "eng": "日清合味道鮮蝦豬骨湯味杯麵 75GM",
+    "norm": "nissin cup noodles shrimp tonkotsu"
+  },
+  {
+    "uid": "64f968410b7e692d32a0ad08bb880838",
+    "eng": "NISSIN Cup Noodles - Shrimp And Tomato",
+    "norm": "nissin cup noodles shrimp tomato"
+  },
+  {
+    "uid": "255aec8c3cb3ec7b868b20d9b01177e2",
+    "eng": "Nissin Cup Noodles Shrimp & Tomato 75GM",
+    "norm": "nissin cup noodles shrimp tomato"
+  },
+  {
+    "uid": "70",
+    "eng": "日清合味道鮮蝦番茄濃湯杯麵 75GM",
+    "norm": "nissin cup noodles shrimp tomato"
+  },
+  {
+    "uid": "9a8741522429c3a9ffa6c2ab2c4113a3",
+    "eng": "NISSIN Cup Noodles - Shrimp And Salt",
+    "norm": "nissin cup noodles shrimp salt"
+  },
+  {
+    "uid": "22b2ef46405e7508f9bd255fba5d071b",
+    "eng": "Nissin Cup Noodles Spicy Beef 75GM",
+    "norm": "nissin cup noodles spicy beef"
+  },
+  {
+    "uid": "1cce267782b4475e9106c176ff0ad056",
+    "eng": "NISSIN Cup Noodles - Spicy Seafood",
+    "norm": "nissin cup noodles spicy seafood"
+  },
+  {
+    "uid": "857b8cfbcf1e6eb263b7dab929bbb544",
+    "eng": "Nissin Cup Noodles Spicy Seafood Mini 45GM",
+    "norm": "nissin cup noodles spicy seafood"
+  },
+  {
+    "uid": "0ab7d3647aa1fa282e0e0af18533a397",
+    "eng": "Nissin Cup Noodle Spicy Seafood 75GM",
+    "norm": "nissin cup noodles spicy seafood"
+  },
+  {
+    "uid": "7ec43f6de568dce7e1cea8720995e3df",
+    "eng": "Nissin Cup Noodles Spicy Seafood 24 X 75GM",
+    "norm": "nissin cup noodles spicy seafood"
+  },
+  {
+    "uid": "128",
+    "eng": "日清合味道香辣海鮮杯麵 75GM",
+    "norm": "nissin cup noodles spicy seafood"
+  },
+  {
+    "uid": "3f59c66197b9f8d520bcde3bf5433bba",
+    "eng": "NISSIN Cup Noodles - Tom Yum Goong",
+    "norm": "nissin cup noodles tom yum goong"
+  },
+  {
+    "uid": "2f6f7150726dcc89c1f5471bbba4e09a",
+    "eng": "Nissin Cup Noodles Tom Yum Goong 74GM",
+    "norm": "nissin cup noodles tom yum goong"
+  },
+  {
+    "uid": "c5240747ff2821347d8707d066207a8d",
+    "eng": "NISSIN Cup Noodles - Tonkotsu",
+    "norm": "nissin cup noodles tonkotsu"
+  },
+  {
+    "uid": "82b8974e7a0bd5cab15647360ba9b7c4",
+    "eng": "Nissin Tonkotsu Cup Noodle 75GM",
+    "norm": "nissin cup noodles tonkotsu"
+  },
+  {
+    "uid": "f62b3eb6976ed06e9715dccd128ebfd8",
+    "eng": "NISSIN Cup Noodles - Xo Sauce Seafood",
+    "norm": "nissin cup noodles xo sauce seafood"
+  },
+  {
+    "uid": "35",
+    "eng": "日清合味道xo醬海鮮味杯麵 75GM",
+    "norm": "nissin cup noodles xo sauce seafood"
+  },
+  {
+    "uid": "0ec735237afce8b98f8e182587ce1ae0",
+    "eng": "NISSIN DONBEI Kitsune Cup Instant Udon",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "997cf80ed1f7b72a1ecef60ed1ddbc07",
+    "eng": "Nissin Donbei Kitsune Cup Udon (Instant Noodle)",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "4ed4facf0d727a155c2b7c0a8efb8758",
+    "eng": "Nissin Donbei Kitsune Udon 95GM",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "7a3b8b9a32c290709026f7969f5fd7b3",
+    "eng": "Nissin Donbei Kitsune Udon Case 12 X 95GM",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "21",
+    "eng": "原箱日清咚兵衛腐皮烏冬 12 X 95GM",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "21d517ea9c2532e64b468a29ad57deb3",
+    "eng": "NISSIN DONBEI Kitsune Handmade Style Bowl Udon",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "0f07739796950f9474a25732272a1e04",
+    "eng": "Nissin Donbei Kitsune Handmade Style Udon 211GM",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "7ac94315cdf331e795a82a5dcebc7815",
+    "eng": "NISSIN Donbei Kitsune Bowl Udon",
+    "norm": "nissin donbei kitsune udon"
+  },
+  {
+    "uid": "0e086cc83616d59ab4ae5a38513bbfbf",
+    "eng": "NISSIN DONBEI Tempura Cup Instant Udon",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "b64618797f3006d5cd89be3dc49e575e",
+    "eng": "Nissin Donbei Tempura Cup Udon (Instant Noodle)",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "a9344872733f12591322dec768ac6b0a",
+    "eng": "NISSIN DONBEI Tempura Handmade Style Bowl Udon",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "7d549f05d10e640b777f4b5479054397",
+    "eng": "Nissin Donbei Tempura Handmade Style Udon 219GM",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "4",
+    "eng": "日清 咚兵衛天婦羅手打風烏冬碗 219 GM",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "f5f7e8c7451fe0a0110ea394546be647",
+    "eng": "NISSIN Hakata Ikkousha Rich Tonkotsu Cup Noodle",
+    "norm": "nissin hakata ikkousha rich tonkotsu cup noodle"
+  },
+  {
+    "uid": "b4e8aaf1adee429eea77aaa67fb3e3c3",
+    "eng": "NISSIN Harusame Chinese Tan Tan Vermicelli",
+    "norm": "nissin harusame chinese tan tan vermicelli"
+  },
+  {
+    "uid": "eddb5e9581931da802a0183d1c7c0815",
+    "eng": "Nissin Harusame Chicken Cup Vermicelli Case 12 X 48GM",
+    "norm": "nissin harusame chicken vermicelli"
+  },
+  {
+    "uid": "bda5df594c2570e56b09f0651e685380",
+    "eng": "NISSIN Harusame Korean Kimchi Vermicelli",
+    "norm": "nissin harusame korean kimchi vermicelli"
+  },
+  {
+    "uid": "987c45495e547da25b282b203a1b169e",
+    "eng": "Nissin Harusame Kimchi Cup Vermicelli 43GM",
+    "norm": "nissin harusame korean kimchi vermicelli"
+  },
+  {
+    "uid": "188a6cb4505c8f30c19fadf49711fd3c",
+    "eng": "Nissin Harusame Kimchi Cup Vermicelli Case 12 X 43GM",
+    "norm": "nissin harusame korean kimchi vermicelli"
+  },
+  {
+    "uid": "122",
+    "eng": "日清春雨韓式泡菜粉絲湯 43GM",
+    "norm": "nissin harusame korean kimchi vermicelli"
+  },
+  {
+    "uid": "66a93449e12d7dd4164726603b189dad",
+    "eng": "NISSIN Harusame Vietnamese Chicken Coriander Vermicelli",
+    "norm": "nissin harusame vietnamese chicken coriander vermicelli"
+  },
+  {
+    "uid": "92e1a18d28b12fd39e102d9b14a00ff0",
+    "eng": "Nissin Harusame Vietnam Chicken Vermicelli 48GM",
+    "norm": "nissin harusame vietnamese chicken coriander vermicelli"
+  },
+  {
+    "uid": "b8c66421795987ed679759b9cb4a4e5e",
+    "eng": "NISSIN Irvins Hotboom Salted Egg Stir Noodle",
+    "norm": "nissin irvins hotboom salted egg stir noodle"
+  },
+  {
+    "uid": "3551d401c66d4ae850630de96e75c3f4",
+    "eng": "NISSIN Irvins Hot Salted Egg Stir Instant Noodle 3's",
+    "norm": "nissin irvins hotboom salted egg stir noodle"
+  },
+  {
+    "uid": "718759f6d2b0ce680e4a7ee8d4ba1fdc",
+    "eng": "NISSIN Irvins Salted Egg Flavour Stir Noodle",
+    "norm": "nissin irvins salted egg stir noodle"
+  },
+  {
+    "uid": "06fde89bf59db4f3f287da154bd6fffc",
+    "eng": "NISSIN Irvins Salted Egg Stir Instant Noodle 3's",
+    "norm": "nissin irvins salted egg stir noodle"
+  },
+  {
+    "uid": "a2126d15da55e6a4468ff592c0047927",
+    "eng": "NISSIN Kikanbo Karashibi Miso Coriander Cup Noodle",
+    "norm": "nissin kikanbo karashibi miso coriander cup noodle"
+  },
+  {
+    "uid": "ee4e5442f03c0b32948566f7487accae",
+    "eng": "NISSIN Mini Cup Noodles - Seafood",
+    "norm": "nissin mini cup noodles seafood"
+  },
+  {
+    "uid": "23e000800410b4190daa4f7fcff97bf4",
+    "eng": "NISSIN Mini Cup Noodles - Spicy Seafood",
+    "norm": "nissin mini cup noodles spicy seafood"
+  },
+  {
+    "uid": "37189a9f1cc03858dddb136e58fc0be4",
+    "eng": "NISSIN Nissin Yakisoba 5-pack",
+    "norm": "nissin nissin yakisoba"
+  },
+  {
+    "uid": "a6d1767a3d624b78292b4984999e0379",
+    "eng": "NISSIN Nupasta Carbonara Flavour Cup Noodle",
+    "norm": "nissin nupasta carbonara flavour cup noodle"
+  },
+  {
+    "uid": "35c80588e129e491a53c2d8fdd16fd4c",
+    "eng": "Nissin Nupasta Carbonara Cup Type 92GM",
+    "norm": "nissin nupasta carbonara flavour cup noodle"
+  },
+  {
+    "uid": "b3ad8007ecca69d1c6aa7c48d0754894",
+    "eng": "NISSIN Pepper Lunch Beef Pepper Flv Noodle",
+    "norm": "nissin pepper lunch beef pepper noodle"
+  },
+  {
+    "uid": "f4b239c6f95970c397163e0482a6c0db",
+    "eng": "NISSIN Pickled Vegetable Pork Flavour Rice Vermicelli",
+    "norm": "nissin pickled vegetable pork rice vermicelli"
+  },
+  {
+    "uid": "959b5111a187fa78c09e64bf34a18f85",
+    "eng": "NISSIN Premium Cup Noodles - Curry",
+    "norm": "nissin premium cup noodles curry"
+  },
+  {
+    "uid": "ffcf64a79e3f62e288aaf919f09dd76f",
+    "eng": "NISSIN Premium Cup Noodles - Prawn",
+    "norm": "nissin premium cup noodles prawn"
+  },
+  {
+    "uid": "4cff23ee4fcd99133f1cc0bb968dbe6f",
+    "eng": "NISSIN Premium Cup Noodles - Seafood",
+    "norm": "nissin premium cup noodles seafood"
+  },
+  {
+    "uid": "3c5ab9d8c160589842171e0307ed8732",
+    "eng": "NISSIN RAOH Tonkotsu Flavour Non Fried Instant Noodle 5's",
+    "norm": "nissin raoh tonkotsu flavour non fried instant noodle"
+  },
+  {
+    "uid": "b5bea02c9a47523d3649da5c61d3ebbc",
+    "eng": "NISSIN Seafood Flavour Rice Vermicelli",
+    "norm": "nissin seafood flavour rice vermicelli"
+  },
+  {
+    "uid": "bdc74709701ac6f6a02a3b58006ea75c",
+    "eng": "Nissin Sesame Oil 130GM",
+    "norm": "nissin sesame oil"
+  },
+  {
+    "uid": "e84ca5de81aadf614b1f5655a9e56bd5",
+    "eng": "Nissin Soba with Green Tea Flavour 200GM",
+    "norm": "nissin soba with green tea flavour"
+  },
+  {
+    "uid": "ca9e74287d88f158b464059a5c837538",
+    "eng": "NISSIN Spicy Beef Flavour Rice Vermicelli",
+    "norm": "nissin spicy beef flavour rice vermicelli"
+  },
+  {
+    "uid": "c53750ee3b4a793b46ff931aa6e3b06b",
+    "eng": "NISSIN Thai Signature Curry Crab Stir Noodle 5's",
+    "norm": "nissin thai signature curry crab stir noodle"
+  },
+  {
+    "uid": "2d91fab24d34b6dc1ecc01a47b85daae",
+    "eng": "NISSIN Thai Signature Tom Yum Goong Noodle 5's",
+    "norm": "nissin thai signature tom yum goong noodle"
+  },
+  {
+    "uid": "d55ef46f746c979014337494298cecba",
+    "eng": "NISSIN Thai Signature Tom Yum Goong Stir Noodle 5's",
+    "norm": "nissin thai signature tom yum goong stir noodle"
+  },
+  {
+    "uid": "a808b4d0044e6f8077cc35461da43352",
+    "eng": "Nissin Thai Tomyum Goong Noodles 5 X 68GM (Expiry date: 12 May 2025)",
+    "norm": "nissin thai tomyum goong noodles"
+  },
+  {
+    "uid": "b4a6a1d93b934e621d7ea838f6405c1a",
+    "eng": "NISSIN Viet Signature Beef Flavour Pho Noodle 4 Packs",
+    "norm": "nissin viet signature beef pho"
+  },
+  {
+    "uid": "d94b94a6094ef378105576e96b482aef",
+    "eng": "NISSIN Viet Signature Chicken Flavour Pho Noodle 4 Packs",
+    "norm": "nissin viet signature chicken pho"
+  },
+  {
+    "uid": "f1b09203b1e6ee8d44e378c4aa675b9d",
+    "eng": "NITTIN Japanese Udon",
+    "norm": "nittin japanese udon"
+  },
+  {
+    "uid": "bd2668a16cf43fab06f2912892c783ae",
+    "eng": "NO WANG Liuzhou Snail Rice Noodles",
+    "norm": "no wang liuzhou snail rice noodles"
+  },
+  {
+    "uid": "f9484f8ea66cc5d70771d9e01238993b",
+    "eng": "NO WANG LIUZHOU RICE NOODLE 306GM TOMATO 306 GM",
+    "norm": "no wang liuzhou snail rice noodles"
+  },
+  {
+    "uid": "29f9404425bb2a7712129587bc19089c",
+    "eng": "No Wang Perilla Flaours Rice Noodles 360G",
+    "norm": "no wang perilla flavour rice noodles"
+  },
+  {
+    "uid": "7fb0656e9d3ce155221d96f4b976ac93",
+    "eng": "No Wang Snail Rice Noodles 330GM",
+    "norm": "no wang snail rice noodles"
+  },
+  {
+    "uid": "7772f905d9d90cd5581e4e42d45e7d96",
+    "eng": "No Wang Snail Noodles Cup 210GM",
+    "norm": "no wang snail rice noodles"
+  },
+  {
+    "uid": "c86570815f58f771e632ddc1114e3681",
+    "eng": "NO WANG SPICY LUOSI NDL CUP 210 GM",
+    "norm": "no wang spicy luosi noodle"
+  },
+  {
+    "uid": "ed2a17b6b2bba19b8b07fc4330b4b13d",
+    "eng": "NONG SHIM Ansungtangmyun",
+    "norm": "nong shim ansungtangmyun"
+  },
+  {
+    "uid": "93da442290513881c1548a3db3774383",
+    "eng": "Nong Shim Black Spicy Noodles 134GM",
+    "norm": "nong shim black spicy noodles"
+  },
+  {
+    "uid": "ffb6fe286fd0525e8f98e93d68477ee1",
+    "eng": "Nong Shim Black Shin Noodles 101GM",
+    "norm": "nong shim black spicy noodles"
+  },
+  {
+    "uid": "f75e69bb3abfe8e52ab95300c6cb5d08",
+    "eng": "NONG SHIM Noodle Chappgetti Chajangmy 5p",
+    "norm": "nong shim chapagetti"
+  },
+  {
+    "uid": "572d2367c3301c25645b3a334c26c351",
+    "eng": "Nong Shim Chapagetti Noodles 140GM",
+    "norm": "nong shim chapagetti"
+  },
+  {
+    "uid": "4508cc897d1180f628c6508f779f273a",
+    "eng": "NONG SHIM Chapaguri Big Bowl Dried Noodle",
+    "norm": "nong shim chapaguri"
+  },
+  {
+    "uid": "89adb71d1fbf7964e635d7ef35f48419",
+    "eng": "NONG SHIM Clay Pot Cup Noodle",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "9044f471e503299439bbed5c5563a2c8",
+    "eng": "NONG SHIM Korean Clay Pot Ramyun",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "b85323154d13258cb56685ac3da5015d",
+    "eng": "NONG SHIM Clay Pot Big Bowl Noodle",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "6bdbf35770bc9bb653dc0ea6f3aac57a",
+    "eng": "Nong Shim Clay Pot Bowl Noodles 117GM",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "c32a158eddb05e4217b8183de0e7c221",
+    "eng": "Nong Shimclay Pot Ramyun 5 X 120GM",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "0eb6ac0dee54e7058006abaf24a81c70",
+    "eng": "Nong Shim Claypot Ramyun 40 x 120GM",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "23ed9a0c42a7cb6a0086a5a0e590bc4c",
+    "eng": "Nong Shim Claypot Cup Noodles 70GM",
+    "norm": "nong shim clay pot ramyun"
+  },
+  {
+    "uid": "378ec9e28ee603a92f7c771ef9165747",
+    "eng": "Nong Shim Curry Noodle 5 X 116GM",
+    "norm": "nong shim curry noodle"
+  },
+  {
+    "uid": "88",
+    "eng": "農心咖喱拉麵 5 X 116GM",
+    "norm": "nong shim curry noodle"
+  },
+  {
+    "uid": "1e922aa79d3538cf899a37ea2e1e1619",
+    "eng": "Nong Shim Hot Neoguri Noodles 5 X 120GM",
+    "norm": "nong shim hot neoguri noodles"
+  },
+  {
+    "uid": "1375b43ff918f24e6f036ec6329a50f8",
+    "eng": "NONG SHIM Kimchi Big Bowl Noodle",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "e66058141664447a8627fe06fc3c79f5",
+    "eng": "NONG SHIM Nong Shim Kimchi Noodles",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "a8b93fb101f672a5ef01c5dce93fe2ff",
+    "eng": "NONG SHIM Kimchi Ramyun Cup Noodle",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "6f7566bdd9b22dd7bdda2cd6157dd15c",
+    "eng": "Nong Shim Kimchi Cheese Noodles 5 X 120GM",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "9dede106c9f57fbb6e1f4caa86d89079",
+    "eng": "Nong Shim Kimchi Ramyun 5 X 120GM",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "5699354fc6b4a3bb9b4db1a56ec54073",
+    "eng": "Nong Shim Kimchi Bowl Noodle 117GM",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "68fd49f094c28b46c5d88cb751e01cbc",
+    "eng": "Nong Shim Kimchi Cup Noodle 70GM",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "10b2c9bef44ebbf7863702370fec0f64",
+    "eng": "NONG SHIM Kimchi Cheese Cup Noodle",
+    "norm": "nong shim kimchi ramyun cheese"
+  },
+  {
+    "uid": "5c16977165921ccd31a6a9feddd8def4",
+    "eng": "NONG SHIM Kimchi Cheese Noodle",
+    "norm": "nong shim kimchi ramyun cheese"
+  },
+  {
+    "uid": "fbcb9d26235e033c59eb5d9128ca8433",
+    "eng": "Nong Shim Kimchi Cheese Big Bowl Noodles 117GM",
+    "norm": "nong shim kimchi ramyun cheese"
+  },
+  {
+    "uid": "4a7c16f374fd079308ddd295440a8815",
+    "eng": "Nong Shim Korean Plain Noodles 5 X 110GM",
+    "norm": "nong shim korean plain noodles"
+  },
+  {
+    "uid": "949d695d75153358493d41d6970c043f",
+    "eng": "NONG SHIM Potato Pork Noodle",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "820941d48dd49398183a92b135d599da",
+    "eng": "NONG SHIM Nong Shim Potato Noodle (4 Packs)",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "2369a0f473348524d62e19982bea7c28",
+    "eng": "Nong Shim Potato Noodles 100GM",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "32f3094bcfbf0164029852e08eb38cfe",
+    "eng": "Nong Shim Potato Noodles Case 48 x 100GM",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "7e855373de5b9ddf6576607a1a60132a",
+    "eng": "Nong Shim Potato Pork Noodle 5 X 120GM",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "77",
+    "eng": "農心薯仔麵 100GM",
+    "norm": "nong shim potato pork noodle"
+  },
+  {
+    "uid": "7553c3eff2075e1d0eff4970aff2505c",
+    "eng": "NONG SHIM Red Shin Cup Noodle (super Spicy)",
+    "norm": "nong shim red shin ramyun"
+  },
+  {
+    "uid": "4141a7255ef96b00150fecb6986dec69",
+    "eng": "NONG SHIM Seang Seang Bowl Udon",
+    "norm": "nong shim saeng saeng udon"
+  },
+  {
+    "uid": "acfa067c9b584c729d0ff5fdb1b84b75",
+    "eng": "Nong Shim Saeng Saeng Udon Bowl 276GM",
+    "norm": "nong shim saeng saeng udon"
+  },
+  {
+    "uid": "6c4d86aa99f9ad6ac93ca9365444ace9",
+    "eng": "Nong Shim Saengsaeng Udon-Bowl Case 12 X 276 GM",
+    "norm": "nong shim saeng saeng udon"
+  },
+  {
+    "uid": "85",
+    "eng": "農心生生烏冬碗麵 276GM",
+    "norm": "nong shim saeng saeng udon"
+  },
+  {
+    "uid": "3583e88af19f4fac976b11886124837f",
+    "eng": "NONG SHIM Nong Shimblack Shin Big Bowl Noodle",
+    "norm": "nong shim shin black"
+  },
+  {
+    "uid": "3b77c261f98304e5fe700e0ad686e6b8",
+    "eng": "NONG SHIM Shin Black Spicy Noodle 4's",
+    "norm": "nong shim shin black"
+  },
+  {
+    "uid": "53b9912c7db7fd27db7893e5af760454",
+    "eng": "NONG SHIM Nong Shimshin Black Tofu Big Bowl Noodle",
+    "norm": "nong shim shin black tofu"
+  },
+  {
+    "uid": "86a07cf926e7e00428106128004eb062",
+    "eng": "NONG SHIM Shin Kimchi Noodle (5 Packs)",
+    "norm": "nong shim shin kimchi"
+  },
+  {
+    "uid": "5801736541f15d20989263e02f0cc5d0",
+    "eng": "NONG SHIM Noodle Shin Ramyun 5p",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "9fb4f937c8fb77fc17209573e82549f7",
+    "eng": "NONG SHIM Shin Ramen - Bowl Noodle",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "3779f99d65bb4ff9516c6a2f3c357dc6",
+    "eng": "NONG SHIM Nong Shim Shin Ramyun 5p",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "98d2800fa5cf1c9b068793150a12a416",
+    "eng": "NONG SHIM Shin Ramen - Cup Noodle",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "9c744c3a6f879912c2fe340683199f21",
+    "eng": "NONG SHIM Non-frying Shin Noodle",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "65367dfc79bb75dee18ba25e11f218ad",
+    "eng": "NONG SHIM Nong Shimnon-frying Shin Bowl Noodle",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "221c58de7e6515d19140e6add91be46c",
+    "eng": "Nong Shim Shin Ramyun Case 40 x 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "e7afc4589f28b486bef88b4435586c7f",
+    "eng": "Nong Shim Korean Shin Noodles 5 X 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "54f8f4e215846abf58475cf21d4df17a",
+    "eng": "Nong Shim Shin Cup Noodle Case 24 x 65GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "615165e6f2b15495fce1d844087461ef",
+    "eng": "Nong Shim Shin Bowl Noodle 114GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "67a6850afdf35770eb00e33718015918",
+    "eng": "Nong Shim Shin Bowl Noodle Case 16 x 114GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "2",
+    "eng": "農心韓國黑版辛辣麵 134GM",
+    "norm": "nong shim shin ramyun black"
+  },
+  {
+    "uid": "87",
+    "eng": "農心特辣大碗麵 114GM",
+    "norm": "nong shim shin ramyun bowl"
+  },
+  {
+    "uid": "522a47b3cbcc44d7cb6dc6f94d484e19",
+    "eng": "Nong Shim Non-Frying Noodle 4 X 97GM",
+    "norm": "nong shim shin ramyun non-frying"
+  },
+  {
+    "uid": "d0fcbe2c075e48e142a3b0cb928ea9be",
+    "eng": "Nong Shim Korean Shin Ramyun Case 40 x 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "80545aa17a291fd847c2986b3adf3eba",
+    "eng": "Nong Shim Shin Ramyun 5 X 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "b9dc42bb8c7b04085374f1a092e68d5a",
+    "eng": "Nong Shim Shin Ramyun Case 30 X 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "720a4b12e19163b5ce045062c458d47c",
+    "eng": "Nong Shim Shin Ramyun 120GM",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "8510d492861ea0f481bfb4ac4cc6d382",
+    "eng": "Nong Shim Korea Shim Ramyun 20X120G 2.4KG",
+    "norm": "nong shim shin ramyun"
+  },
+  {
+    "uid": "2a0425befe541525bb287a5d1377185f",
+    "eng": "NONG SHIM Shin Stir Fried Noodle",
+    "norm": "nong shim shin stir fry"
+  },
+  {
+    "uid": "ff7f6767687f55985387f1a8b39fb53c",
+    "eng": "NONG SHIM Stir Fry Tomyum Shin Ramyun",
+    "norm": "nong shim shin stir fry tomyum"
+  },
+  {
+    "uid": "bba00ef8237b6c1e644a419f91e82e24",
+    "eng": "NONG SHIM Stir Fry Toomba Shin Ramyun",
+    "norm": "nong shim shin stir fry toomba"
+  },
+  {
+    "uid": "2aaf09e8dcb25111bb36f192c26e3dbf",
+    "eng": "NONG SHIM Shrimp Shin Cup Noodle",
+    "norm": "nong shim shrimp shin cup noodle"
+  },
+  {
+    "uid": "f118d06041cf61e4f00973f868e45e3d",
+    "eng": "Nong Shim Shrimp Shin Noodles 5 X 120GM",
+    "norm": "nong shim shrimp shin noodles"
+  },
+  {
+    "uid": "8295082e649c3a475fa9a75dd6a57f53",
+    "eng": "Nong Shim Champong Noodle 5 X 124GM",
+    "norm": "nong shim champong noodle"
+  },
+  {
+    "uid": "ab4f914612486e392ea8d4f2c571e450",
+    "eng": "Nong Shim Shin Stir Fry Noodle 131GM",
+    "norm": "nong shim shin stir fry"
+  },
+  {
+    "uid": "7fa6125778ce596cd87ab3984653ff6e",
+    "eng": "Nong Shim Shin Spicy Chicken Noodle 4 X 120GM",
+    "norm": "nong shim shin spicy chicken"
+  },
+  {
+    "uid": "4199868f9074bea890a77fed63fa5e77",
+    "eng": "Nong Shim Shin Stir Fried Noodle with Cheese 4 x 136GM",
+    "norm": "nong shim shin stir fry cheese"
+  },
+  {
+    "uid": "84",
+    "eng": "農心特辣杯麵 65GM",
+    "norm": "nong shim spicy cup noodle"
+  },
+  {
+    "uid": "036f0b13daf37295bfb701d56e1456a1",
+    "eng": "OCEAN EMPIRE Cent Egg & Pork Congee",
+    "norm": "ocean empire century egg pork congee"
+  },
+  {
+    "uid": "b8bbbb8541e42a123dadd7908a30556a",
+    "eng": "OCEAN EMPIRE Sampan Congee",
+    "norm": "ocean empire sampan congee"
+  },
+  {
+    "uid": "328345bee6d44e57ab1ec2425157c884",
+    "eng": "OTTOGI Bei Jjambbong Ramen Spicyseafood Flv",
+    "norm": "ottogi bei jjambbong ramen"
+  },
+  {
+    "uid": "a233014be16a7223c403c12dd2da7f8d",
+    "eng": "OTTOGI Beef & Seaweed Soup Ramen",
+    "norm": "ottogi beef seaweed soup ramen"
+  },
+  {
+    "uid": "178824a430f6b0fdb2ae402d83e2baca",
+    "eng": "OTTOGI Cheese Bokki Bowl",
+    "norm": "ottogi cheese bokki bowl"
+  },
+  {
+    "uid": "2d234f68e01bd9eece18b12253e0040e",
+    "eng": "OTTOGI Cheese Bokki Cup Noodle",
+    "norm": "ottogi cheese bokki bowl"
+  },
+  {
+    "uid": "bd0ff3f115ec33459134a552800eb2cf",
+    "eng": "Ottogi Cheese Bokki Bowl 95GM",
+    "norm": "ottogi cheese bokki bowl"
+  },
+  {
+    "uid": "05ca6130a5a3e60af5f0a8eab98b33a6",
+    "eng": "Ottogi Cheese Bokki Cup 55GM",
+    "norm": "ottogi cheese bokki bowl"
+  },
+  {
+    "uid": "d7fac9fcd43cf6b79ee02b918b09dec0",
+    "eng": "OTTOGI Cheese Ramen",
+    "norm": "ottogi cheese ramen"
+  },
+  {
+    "uid": "c915a1360dc339d856ba689e0c80957b",
+    "eng": "Ottogi Cheese Ramen 4 X 111GM",
+    "norm": "ottogi cheese ramen"
+  },
+  {
+    "uid": "4f82de3bb133413fa084f56e012ba0b1",
+    "eng": "Ottogi Cheese Ramen 32 X 111GM",
+    "norm": "ottogi cheese ramen"
+  },
+  {
+    "uid": "044db285c34706e81735d24ff2ef4d72",
+    "eng": "Ottogi Cheese Bowl Ramen 90GM",
+    "norm": "ottogi cheese ramen"
+  },
+  {
+    "uid": "111",
+    "eng": "不倒翁芝士拉麵 4 X 111GM",
+    "norm": "ottogi cheese ramen"
+  },
+  {
+    "uid": "e1df452a88567764eb52c80bb18c27d2",
+    "eng": "OTTOGI Cooked Rice - Five Grains",
+    "norm": "ottogi cooked rice five grains"
+  },
+  {
+    "uid": "91f4c71299c8a539449cb1015f6fa198",
+    "eng": "Ottogi Cooked Rice 210GM",
+    "norm": "ottogi cooked rice white"
+  },
+  {
+    "uid": "237c7f1a79dcc292cb4a26219b1b0106",
+    "eng": "OTTOGI Jin Jjambbong Ramen (spicy Seafood Flv)",
+    "norm": "ottogi jin jjambbong ramen"
+  },
+  {
+    "uid": "3beb0eee6c7292630537823ad2790240",
+    "eng": "OTTOGI Jin Ramen (mild)",
+    "norm": "ottogi jin ramen mild"
+  },
+  {
+    "uid": "dd2e8a36835551b26670fd37badf56c7",
+    "eng": "Ottogi Jin Ramen (Mild) 5 x 120GM",
+    "norm": "ottogi jin ramen mild"
+  },
+  {
+    "uid": "f7fc95badeb46896435719f01823473e",
+    "eng": "Ottogi Jin Ramen (Hot) 5 x 120GM",
+    "norm": "ottogi jin ramen spicy"
+  },
+  {
+    "uid": "37b96f85d337bb957a2150e1a25a6014",
+    "eng": "OTTOGI Kimchi Ramen",
+    "norm": "ottogi kimchi ramen"
+  },
+  {
+    "uid": "57ee007cf087447e01ba349b1d59041e",
+    "eng": "OTTOGI Real Cheese Ramen",
+    "norm": "ottogi real cheese ramen"
+  },
+  {
+    "uid": "d2fc94f4b3e6080931de3c6a2bcad777",
+    "eng": "Ottogi Real Cheese Ramen 4 x 135GM",
+    "norm": "ottogi real cheese ramen"
+  },
+  {
+    "uid": "5ce3803576df5f9ae01550776cd71204",
+    "eng": "OTTOGI Spicy Cheese Ramen Noodle",
+    "norm": "ottogi spicy cheese ramen"
+  },
+  {
+    "uid": "543a594f50de14a3c0f1d4101d3967d7",
+    "eng": "OTTOGI Yeul Ramen",
+    "norm": "ottogi yeul ramen"
+  },
+  {
+    "uid": "1361afa147c43daa253123817a2974d9",
+    "eng": "ON KEE Braised Abalone In Crab Paste W/ Noodle",
+    "norm": "on kee braised abalone noodle"
+  },
+  {
+    "uid": "1b743e3577b4eaee63f2fc72ba02fec3",
+    "eng": "ON KEE Braised Abalone In Crab Paste With Noodle Set",
+    "norm": "on kee braised abalone noodle"
+  },
+  {
+    "uid": "dcf47285707f811869b72819c389d246",
+    "eng": "PAIK COOK Paik Ramen",
+    "norm": "paik cook paik ramen"
+  },
+  {
+    "uid": "f0a4286723902804c71cf53c67703549",
+    "eng": "Paik Cook Paik Ramen 4 X 115GM",
+    "norm": "paik cook paik ramen"
+  },
+  {
+    "uid": "805e1d2681c3e9201081110025b8dbab",
+    "eng": "PALDO Gomtang Noodles",
+    "norm": "paldo gomtang noodles"
+  },
+  {
+    "uid": "a6ec1d516ae8f2269605ae15687cb49d",
+    "eng": "Paldo Gomtang Beef Noodle 5 X 102GM",
+    "norm": "paldo gomtang noodles"
+  },
+  {
+    "uid": "6579bce66c4b51ccba7437a110165ee2",
+    "eng": "PALDO* GOMTANG BEEF NOODLE4 CS 510 GM",
+    "norm": "paldo gomtang noodles"
+  },
+  {
+    "uid": "5a817ba15cb5e5bb870797278939d0de",
+    "eng": "PALDO Jja Jang Men",
+    "norm": "paldo jja jang men"
+  },
+  {
+    "uid": "80b09e5cdf24ca9a21305612e1189c44",
+    "eng": "Paldo Blackbean Ramen 4 X 200GM",
+    "norm": "paldo jja jang men"
+  },
+  {
+    "uid": "616e60de3b5010971a9de8daec838220",
+    "eng": "Paldo Seafood Bibimmen II Noodles 4 x 130GM",
+    "norm": "paldo seafood bibimmen"
+  },
+  {
+    "uid": "41",
+    "eng": "Pasqua Prosecco Spumante Case 6 X 750ML",
+    "norm": "pasqua prosecco"
+  },
+  {
+    "uid": "86",
+    "eng": "86ddf66c81ae21990dc6010daff90183",
+    "norm": "pasqua prosecco"
+  },
+  {
+    "uid": "a9a977e0af9b8094d5f0738c91c6e153",
+    "eng": "PASTAROTTI Risotto With Mushroom",
+    "norm": "pastarotti risotto mushroom"
+  },
+  {
+    "uid": "2ec07011498b5c9c5b4717784c9d8b27",
+    "eng": "PEACOCK Rice Stick Noodle",
+    "norm": "peacock rice stick noodle"
+  },
+  {
+    "uid": "de5e4c8bf6bbedc39b3cd0c973359085",
+    "eng": "Peacock Dongguan Rice Verm Case 30 X 454 GM",
+    "norm": "peacock rice vermicelli"
+  },
+  {
+    "uid": "b9d137f41c32f33f803c132300c79646",
+    "eng": "Peacock Dongguan Rice Vermicelli 454GM",
+    "norm": "peacock rice vermicelli"
+  },
+  {
+    "uid": "a32e0d84eaf553331649a1a6e2d72497",
+    "eng": "PRB Kong Moon Rice Stick",
+    "norm": "prb kong moon rice stick"
+  },
+  {
+    "uid": "5ac4fb2864e9a4944cbd116b49bc84b8",
+    "eng": "PRB Dongguan Rice Stick",
+    "norm": "prb rice stick dongguan"
+  },
+  {
+    "uid": "023eb12214a9e26688c8f1bb73331fc7",
+    "eng": "Pearl River Bridge Kong Moon Rice Stick 454GM",
+    "norm": "prb rice stick kong moon"
+  },
+  {
+    "uid": "3538964c958a60cbca81d8d3dd9b904f",
+    "eng": "Pearl River Bridge Dongguan Rice Stick 454GM",
+    "norm": "prb rice stick dongguan"
+  },
+  {
+    "uid": "26646c149b6963b6f46e0f40f24432b5",
+    "eng": "PREGO Mac & Cheese Instant Bowl",
+    "norm": "prego mac & cheese"
+  },
+  {
+    "uid": "8f9bc9224561558ffb3f7d402e86e529",
+    "eng": "PREGO Macaroni",
+    "norm": "prego macaroni"
+  },
+  {
+    "uid": "4f6ee8578f07b154ce6f2e98ad4f2d17",
+    "eng": "PREGO Mushroom Carbonara Mac Instant Bowl",
+    "norm": "prego mushroom carbonara macaroni"
+  },
+  {
+    "uid": "b4c3926402088151b1397b9ead6777ca",
+    "eng": "PREGO Spaghetti",
+    "norm": "prego spaghetti"
+  },
+  {
+    "uid": "595603080930a1ee3b91b0d74f4d4e61",
+    "eng": "PRIMA TASTE Laksa La Mian",
+    "norm": "prima taste laksa la mian"
+  },
+  {
+    "uid": "17bb03d485a9736615fd619fea05a38c",
+    "eng": "PRIMA TASTE Sg Laksa Wholegrain La Mian",
+    "norm": "prima taste laksa la mian"
+  },
+  {
+    "uid": "6b49a247cfa477e6a0b9fb0d7288000a",
+    "eng": "Prima Taste Laksa La Mian 185GM",
+    "norm": "prima taste laksa la mian"
+  },
+  {
+    "uid": "ed9fdea66784e0171137a787d4e9bb62",
+    "eng": "Prima Taste Laksa La Mian Case 12 X 185 GM",
+    "norm": "prima taste laksa la mian"
+  },
+  {
+    "uid": "e53472b18f80562220521cf213c314e8",
+    "eng": "PRIMA TASTE Singapore Blkpepper Crab Flv La Mian",
+    "norm": "prima taste singapore black pepper crab la mian"
+  },
+  {
+    "uid": "f3ab53560b5f33f6eb28e9cb41a6835d",
+    "eng": "QUICK DELI Pre. Goose Oil Crispy Shallot Ndl",
+    "norm": "quick deli goose oil crispy shallot noodle"
+  },
+  {
+    "uid": "967d4faa091b2119853e4d9cd646dffd",
+    "eng": "QUICK DELI Wagyu Oil W/ Crispy Garlic Slice Ndl",
+    "norm": "quick deli wagyu oil crispy garlic noodle"
+  },
+  {
+    "uid": "9637f837abb4462f53fcddd40d1d3aba",
+    "eng": "Ramen Talk BBQ Pork Noodles 141.4GM",
+    "norm": "ramen talk bbq pork noodles"
+  },
+  {
+    "uid": "fc1dbdd72bf72e1f6a39ce17981f60f9",
+    "eng": "Ramen Talk BBQ Pork Noodles Case 12 x 141.4GM",
+    "norm": "ramen talk bbq pork noodles"
+  },
+  {
+    "uid": "49914e6459d00e9aaf9a3a0c515ab2c3",
+    "eng": "Ramen Talk Seafood Tom Yum Ramen 149.5GM",
+    "norm": "ramen talk seafood tom yum ramen"
+  },
+  {
+    "uid": "98",
+    "eng": "原箱拉麵說豚骨叉燒拉麵 12 X 141.4GM",
+    "norm": "ramen talk tonkotsu char siu ramen"
+  },
+  {
+    "uid": "3520a73bd7f78801e7c5317e4d5eb95f",
+    "eng": "RUSTICHELLA D'ABRUZZ Rustichella D'abruzzspaghetti",
+    "norm": "rustichella dabruzzo spaghetti"
+  },
+  {
+    "uid": "e6ddd5886a07288c1a51bb65590522cd",
+    "eng": "SAJO Dried Noodle",
+    "norm": "sajo dried noodle"
+  },
+  {
+    "uid": "e93313c2c7ba2009a05d5e24b9c94129",
+    "eng": "SAM GWAN Corlander & Fish Soup Noodle",
+    "norm": "sam gwan coriander fish soup noodle"
+  },
+  {
+    "uid": "c9de923d3423c4d7202e16f6ff051321",
+    "eng": "SAM GWAN Scallop Noodle",
+    "norm": "sam gwan scallop noodle"
+  },
+  {
+    "uid": "b01e53f24a7cc9a71465af02b24b3eaf",
+    "eng": "SAM GWAN Seaweed Noodle",
+    "norm": "sam gwan seaweed noodle"
+  },
+  {
+    "uid": "09cfba4f2465b0afe1e5b1795c1757c1",
+    "eng": "SAM GWAN Shrimp Roe & Abalone Noodle",
+    "norm": "sam gwan shrimp roe abalone noodle"
+  },
+  {
+    "uid": "5a78d454d0bfd286073a24864ae54e21",
+    "eng": "Samyang Beef Bone Soup Noodle 110GM",
+    "norm": "samyang beef bone soup noodle"
+  },
+  {
+    "uid": "142ab08fc63e3a75fa12b4e03762a406",
+    "eng": "Samyang Cheese Hot Chicken 5 X 140GM",
+    "norm": "samyang cheese hot chicken"
+  },
+  {
+    "uid": "088195f0ed34138b19184781d3e9879e",
+    "eng": "SAMYANG Hot Chicken 4 Cheese Ramen Big Bowl",
+    "norm": "samyang hot chicken 4 cheese ramen"
+  },
+  {
+    "uid": "ba8c777c5b3548ea00812639fc27aa1d",
+    "eng": "Samyang Hot Chicken Cheese Bowl 105GM",
+    "norm": "samyang hot chicken cheese"
+  },
+  {
+    "uid": "f0261a2505b77f8d6f6949492c50f651",
+    "eng": "SAMYANG Hot Chicken Cheese Flv Ramen Multi",
+    "norm": "samyang hot chicken cheese"
+  },
+  {
+    "uid": "f3940e417e89ff2e18506efa57f67dd0",
+    "eng": "SAMYANG Hot Chicken Carbonara Flv Ramen Bowl",
+    "norm": "samyang hot chicken carbonara"
+  },
+  {
+    "uid": "44f32575c0fc39a250e45aaa11136924",
+    "eng": "Samyang Hot Chicken Caronara 5 X 130GM",
+    "norm": "samyang hot chicken carbonara"
+  },
+  {
+    "uid": "656558952a83eda4434477b2b77c76e8",
+    "eng": "SAMYANG Hotchicken Carbonara Flv Ramen Multi",
+    "norm": "samyang hot chicken carbonara"
+  },
+  {
+    "uid": "f8eea34bd0e2562a13a2b0c88b09a179",
+    "eng": "SAMYANG Hot Chick Cream Carbonara Ramen Bowl",
+    "norm": "samyang hot chicken cream carbonara"
+  },
+  {
+    "uid": "0f40769342a9f321998e942a766c50cf",
+    "eng": "SAMYANG Hot Chicken Ramen Cream Cbnara 5s",
+    "norm": "samyang hot chicken cream carbonara"
+  },
+  {
+    "uid": "6669ff865fb48b881d13f9a2c0d86609",
+    "eng": "SAMYANG Hot Chicken Extreme Ramen",
+    "norm": "samyang hot chicken extreme"
+  },
+  {
+    "uid": "125",
+    "eng": "三養超級特辣雞肉炒麵 140GM",
+    "norm": "samyang hot chicken extreme"
+  },
+  {
+    "uid": "d9f19cdd80f07889d066f8dd9c0b8a7a",
+    "eng": "SAMYANG Hot Chicken Flavor Ramen Bowl",
+    "norm": "samyang hot chicken flavor"
+  },
+  {
+    "uid": "c3655dbd0d45f84d2e67b146c9dabe3b",
+    "eng": "SAMYANG Hot Chicken Ramen",
+    "norm": "samyang hot chicken flavor"
+  },
+  {
+    "uid": "4d2023eaaf605cb9d97bba01273be427",
+    "eng": "Samyang Hot Chicken Ramen 140GM",
+    "norm": "samyang hot chicken flavor"
+  },
+  {
+    "uid": "a857603f3746b677f8a85afc2eac7374",
+    "eng": "SAMYANG Hot Chicken Mala Flv Potato Ndl Big",
+    "norm": "samyang hot chicken mala"
+  },
+  {
+    "uid": "caf03b1601293b33169b825772b5263c",
+    "eng": "Samyang Rosé Buldak Hot Chicken Ramen Bowl 105GM",
+    "norm": "samyang hot chicken rose"
+  },
+  {
+    "uid": "009e82d1cd91e67225b139eef329018d",
+    "eng": "Samyang Rosé Buldak Hot Chicken Ramen 5 x 140GM",
+    "norm": "samyang hot chicken rose"
+  },
+  {
+    "uid": "ecff67d83627610b68e8d244055fa574",
+    "eng": "SAMYANG Hot Chicken Rose Wide Potato Noodle",
+    "norm": "samyang hot chicken rose"
+  },
+  {
+    "uid": "18",
+    "eng": "三養 奶油玫瑰辣雞撈麵 140 GM",
+    "norm": "samyang hot chicken rose"
+  },
+  {
+    "uid": "3c9af533db381215f61378864962b0cd",
+    "eng": "Samyang Hot Chicken Bowl 105GM",
+    "norm": "samyang hot chicken spicy"
+  },
+  {
+    "uid": "116",
+    "eng": "三養香辣雞肉味碗麵 105GM",
+    "norm": "samyang hot chicken spicy"
+  },
+  {
+    "uid": "da34a7c2669629fe0a6c5fd971436fc9",
+    "eng": "SAMYANG Hot Chicken Wide Potato Ndl Big Bowl",
+    "norm": "samyang hot chicken wide potato noodle"
+  },
+  {
+    "uid": "4efdc766b80c05a704be67c5ca1e58f4",
+    "eng": "SAMYANG Korean Beef Bone Noodle Soup - Multi",
+    "norm": "samyang korean beef bone noodle"
+  },
+  {
+    "uid": "0683a389f9c5d23e86382e6ff83af020",
+    "eng": "SAMYANG Korean Gomtang Ramen Cup",
+    "norm": "samyang korean gomtang ramen"
+  },
+  {
+    "uid": "eed6a8a2ba50971e9f613979811f9a66",
+    "eng": "SAMYANG Potato Ramen",
+    "norm": "samyang potato ramen"
+  },
+  {
+    "uid": "c0bb76121bc709b5764e328373c14d2a",
+    "eng": "Samyang Potato Ramen 5 X 120GM",
+    "norm": "samyang potato ramen"
+  },
+  {
+    "uid": "87795aea5d6a3b09f604f7297f8ac066",
+    "eng": "SAMYANG Ramen 5's",
+    "norm": "samyang ramen"
+  },
+  {
+    "uid": "11b0f5401455a97c5ed110976bdbb549",
+    "eng": "SAN REMO #9 Angel Hair",
+    "norm": "san remo #9 angel hair"
+  },
+  {
+    "uid": "e685c6b97debb1bb99017450657c4289",
+    "eng": "SAN REMO #35 Elbow",
+    "norm": "san remo elbow"
+  },
+  {
+    "uid": "85b21c8bc8fa100857b844c1d105885f",
+    "eng": "SAN REMO San Remolinguine",
+    "norm": "san remo linguine"
+  },
+  {
+    "uid": "7fee56b43e214602c862f089600b8302",
+    "eng": "SAN REMO #18 Penne",
+    "norm": "san remo penne"
+  },
+  {
+    "uid": "df31019702c929f8bbbdcc8b045a18ec",
+    "eng": "San Remo #18 Penne 500G",
+    "norm": "san remo penne"
+  },
+  {
+    "uid": "2af480ba21ac7ad55cee79bce1c407f7",
+    "eng": "SAN REMO San Remo#28 Small Shells",
+    "norm": "san remo small shells"
+  },
+  {
+    "uid": "84b818c44822fb43150c62b2d1654a62",
+    "eng": "SAN REMO #5 Spaghetti",
+    "norm": "san remo spaghetti"
+  },
+  {
+    "uid": "cfea4532af35fdfb7ab40dd1f8e9a862",
+    "eng": "San Remo Spaghetti #5 500GM",
+    "norm": "san remo spaghetti"
+  },
+  {
+    "uid": "dbd79b01a96a3822f1bc7ab3a2b07776",
+    "eng": "SAN REMO San Remo#16 Spirals",
+    "norm": "san remo spirals"
+  },
+  {
+    "uid": "a5111bccd8dad68bfa702b1af84cf1b3",
+    "eng": "SAN REMO Vermicelli",
+    "norm": "san remo vermicelli"
+  },
+  {
+    "uid": "4d8584ce128b00ca465fd70f31e627b2",
+    "eng": "San Remo #2 Vermicelli 500G",
+    "norm": "san remo vermicelli"
+  },
+  {
+    "uid": "790ba76f466689d56def49e19c39aec9",
+    "eng": "San Remo Elbows#35 500GM",
+    "norm": "san remoelbows"
+  },
+  {
+    "uid": "78",
+    "eng": "SANUKIHONP 讚岐烏冬 500GM",
+    "norm": "sanukihonp sanuki udon"
+  },
+  {
+    "uid": "a52a5653b262c72e98c29c1bc55c7ab3",
+    "eng": "Sanuki Honpo Sanuki Udon 500GM",
+    "norm": "sanukihonp sanuki udon"
+  },
+  {
+    "uid": "63c7ceeb7fae8ccabe1b3b1551222a8e",
+    "eng": "Sanuki Honpo Soba Ramen 460GM",
+    "norm": "sanukihonp soba ramen"
+  },
+  {
+    "uid": "6c33f37578f851320a53c5b02cabfb06",
+    "eng": "Sanuki Honpo Sanuki Hiyamugi 500GM",
+    "norm": "sanukihonp sanuki hiyamugi"
+  },
+  {
+    "uid": "af99f1b4004971c98e258a9e54afe047",
+    "eng": "SAU TAO Abalone Noodles 20 Pieces",
+    "norm": "sau tao abalone noodle"
+  },
+  {
+    "uid": "8c029fd61c89f9923eb2c60e4124cbda",
+    "eng": "SAU TAO Sau Tao Abalone Noodle 57g X 10's",
+    "norm": "sau tao abalone noodle"
+  },
+  {
+    "uid": "58da8d036ccd47a38c4e82fc26bc17fb",
+    "eng": "SAU TAO Sau Tao Instant Ndle King(abalone & Chicken Flavour",
+    "norm": "sau tao abalone noodle chicken"
+  },
+  {
+    "uid": "ca105ef2b04747eef68a8e1f2abf6b9c",
+    "eng": "SAU TAO Sau Tao 5pkts Noodle King (thin) - Abalone & Chicken Soup Flavour",
+    "norm": "sau tao abalone noodle chicken"
+  },
+  {
+    "uid": "1812acc02765c562fa18e24422550f60",
+    "eng": "Sau Tao Abalone Noodles Mix 570GM",
+    "norm": "sau tao abalone noodles"
+  },
+  {
+    "uid": "22",
+    "eng": "壽桃牌極品鮑魚撈麵 570GM",
+    "norm": "sau tao abalone noodles"
+  },
+  {
+    "uid": "d0282364265217e3772c30995356d75b",
+    "eng": "SAU TAO Sau Tao Beijing Noodle",
+    "norm": "sau tao beijing noodle"
+  },
+  {
+    "uid": "6c2a4edcc94133ed470033e55c537b1d",
+    "eng": "Sau Tao Beijing Noodle 375GM",
+    "norm": "sau tao beijing noodle"
+  },
+  {
+    "uid": "46925ea8234b94ff87169c0dd754575b",
+    "eng": "SAU TAO Sau Tao Buckwheat Noodle 225g",
+    "norm": "sau tao buckwheat noodle"
+  },
+  {
+    "uid": "bafc36a486c1442e434c9e26eb157a80",
+    "eng": "SAU TAO Fresh Buckwheat Noodles 4 Packs",
+    "norm": "sau tao buckwheat noodle"
+  },
+  {
+    "uid": "123",
+    "eng": "壽桃蕎麥麵12個手提箱裝",
+    "norm": "sau tao buckwheat noodle"
+  },
+  {
+    "uid": "b71d3db34a571b7d602461187c38cab5",
+    "eng": "SAU TAO Sau Tao Chicken Soup Flavoured Noodle",
+    "norm": "sau tao chicken soup noodle"
+  },
+  {
+    "uid": "646414b1b8d0f1782a19e9a7da691157",
+    "eng": "SAU TAO Chilli Oil Potato Broad Noodles",
+    "norm": "sau tao chilli oil potato broad noodles"
+  },
+  {
+    "uid": "0b923e321a2ceab9d78119dcacd68037",
+    "eng": "SAU TAO Sau Tao Cream Noodle",
+    "norm": "sau tao cream noodle"
+  },
+  {
+    "uid": "b2d0f829d95a45ca59221f2a197569dc",
+    "eng": "Sau Tao Cream Noodle 340GM",
+    "norm": "sau tao cream noodle"
+  },
+  {
+    "uid": "b34b9236ee23393cd2503e10d3a39c4c",
+    "eng": "Sau Tao Crème Noodle (4 packs)",
+    "norm": "sau tao cream noodle"
+  },
+  {
+    "uid": "2a0406aa731b4cd1a35fa90baa6e0df5",
+    "eng": "Sau Tao Dried Noodle 350GM",
+    "norm": "sau tao dried noodle"
+  },
+  {
+    "uid": "0e7f3c645ad6977e86411004ac548b83",
+    "eng": "SAU TAO Sau Tao E-fu Noodle(chinese Ham & Abalone Soup Flavour)",
+    "norm": "sau tao e fu noodle abalone soup"
+  },
+  {
+    "uid": "d6c3c4fc896dbf41024cbbfa8e8455e0",
+    "eng": "Sau Tao Abalone Soup Flavour E-Fu Noodles 160GM",
+    "norm": "sau tao e fu noodle abalone soup"
+  },
+  {
+    "uid": "632914d6e98a82ff46f9c9cdd100aa13",
+    "eng": "SAU TAO Sau Taofried Egg Noodles",
+    "norm": "sau tao fried egg noodles"
+  },
+  {
+    "uid": "845391c0591e744126e91a59ac29fa03",
+    "eng": "SAU TAO Fresh Pasta Cuttlefish Squid Ink Sau",
+    "norm": "sau tao fresh pasta cuttlefish squid ink sauce"
+  },
+  {
+    "uid": "5e586bd4dc86b817eda606040d330e5f",
+    "eng": "Sau Tao Fresh Pasta Cuttlefish In Squid Ink Sauce 220GM",
+    "norm": "sau tao fresh pasta cuttlefish squid ink sauce"
+  },
+  {
+    "uid": "8dcac3f40982f4cf964b00a3c12881db",
+    "eng": "SAU TAO Fresh Pasta Minced Pork W/toma Sauce",
+    "norm": "sau tao fresh pasta minced pork tomato sauce"
+  },
+  {
+    "uid": "53269754aa3c6f2cba970af1d07d6650",
+    "eng": "Sau Tao Fresh Pasta Minced Pork with Tomato Sauce 225GM",
+    "norm": "sau tao fresh pasta minced pork tomato sauce"
+  },
+  {
+    "uid": "19",
+    "eng": "壽桃番茄肉醬鮮意粉 225GM",
+    "norm": "sau tao fresh pasta minced pork tomato sauce"
+  },
+  {
+    "uid": "37627c7cf8bf7d5130cd0014ef787106",
+    "eng": "SAU TAO Ho Fan 5's_laksa Flv",
+    "norm": "sau tao ho fan laksa"
+  },
+  {
+    "uid": "6cd13e47e16200f28785e2c55d8e4482",
+    "eng": "Sau Tao Ho Fan 360GM",
+    "norm": "sau tao ho fan"
+  },
+  {
+    "uid": "dfa1296f4b27b6399e1ecfab0df06e9b",
+    "eng": "SAU TAO Sau Taobeef Brisket With Ho Fan",
+    "norm": "sau tao ho fan beef brisket"
+  },
+  {
+    "uid": "b42d0b3a31d8acd37e2f0bde294c4fe8",
+    "eng": "SAU TAO Sau Tao Ho Fan(bowl)-abalone Chicken Soup",
+    "norm": "sau tao ho fan bowl abalone chicken soup"
+  },
+  {
+    "uid": "226363733693ca89790f7abfc1939b29",
+    "eng": "Sau Tao Abalone & Chicken Ho Fan 5 X 75GM",
+    "norm": "sau tao ho fan bowl abalone chicken soup"
+  },
+  {
+    "uid": "5f1b8954e048aa9f17e95d3a440db03e",
+    "eng": "SAU TAO Instant Japanese Fresh Udon",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "53b41ec005d44f23f80f95bcf92a291c",
+    "eng": "SAU TAO Sau Tao Japanese Ramen",
+    "norm": "sau tao japanese ramen"
+  },
+  {
+    "uid": "97e1ebd4beaa8665d3e287729a5aca77",
+    "eng": "Sau Tao Japanese Udon 4 X 200GM",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "eb554add0988571b6276f482b1183110",
+    "eng": "Sau Tao Japanese Udon 3 X 200GM",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "7b5b45dccc795df13bacf4927985d782",
+    "eng": "SAU TAO Lo Si Fan In Bag",
+    "norm": "sau tao lo si fan"
+  },
+  {
+    "uid": "e59ec75f5d66f78bbeea2c49947a201d",
+    "eng": "Sau Tao Silver Pin Noodle 200GM",
+    "norm": "sau tao lo si fan"
+  },
+  {
+    "uid": "f5e2a8f5224d2c1bbfefda884d80c6bd",
+    "eng": "Sau Tao Noodle King Abalone Chicken Bowl Noodle 82GM",
+    "norm": "sau tao noodle king abalone chicken bowl"
+  },
+  {
+    "uid": "bead598f01b28d9439251d78376fab76",
+    "eng": "SAU TAO Pad Thai Rice Noodles",
+    "norm": "sau tao pad thai rice noodles"
+  },
+  {
+    "uid": "e387e6f114f035d2d100178555b2331b",
+    "eng": "Sau Tao Pad Thai Rice Noodles 300GM",
+    "norm": "sau tao pad thai rice noodles"
+  },
+  {
+    "uid": "b1a8f0400dea84747808038e85bd9aa4",
+    "eng": "SAU TAO Sau Tao Plain Noodles",
+    "norm": "sau tao plain noodles"
+  },
+  {
+    "uid": "2200d6919200a4ccf6a452e0fbf09ac2",
+    "eng": "SAU TAO Sau Tao Fine & White Plain Noodles",
+    "norm": "sau tao plain noodles"
+  },
+  {
+    "uid": "0bcfed5ec2eb3359bf3b1295755bfe7c",
+    "eng": "Sau Tao White Plain Noodles 284GM",
+    "norm": "sau tao plain noodles"
+  },
+  {
+    "uid": "104",
+    "eng": "壽桃優質光身麵 350GM",
+    "norm": "sau tao plain noodles"
+  },
+  {
+    "uid": "284ce412160875ede475e9a2dc63257a",
+    "eng": "SAU TAO Rice Macaroni",
+    "norm": "sau tao rice macaroni"
+  },
+  {
+    "uid": "e4a6d395cb6ef25cea8ce96644c420c4",
+    "eng": "SAU TAO Sau Tao Rice Vermicelli ( Abalone & Chicken Soup Flavour",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "b424cf25fb3926dabe020618c6b33093",
+    "eng": "SAU TAO Sau Tao 4pkts Xiao Qiao Rice Vermicelli - Abalone & Chicken Soup Flavour",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "ee2a12ca7061d5c97545803c517b9c7d",
+    "eng": "SAU TAO Sau Tao 5pkts Qq Vermicelli-abalone & Chicken Soup Flavour",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "725aa5b154f283d111cd08159dd6c805",
+    "eng": "Sau Tao Rice Vermicelli Abalone Chicken Soup Flavour 180GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "526bb5c4d4f513f8598c0d2c6770de51",
+    "eng": "Sau Tao QQ Abalone & Chicken Bean Vermicelli 5 X 70GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "4c88e21ffa1079be722b575aa470b3b0",
+    "eng": "Sau Tao QQ Abalone & Chicken Bowl Vermicelli 72GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "23",
+    "eng": "壽桃qq鮑魚雞粉絲 5 X 70GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "93",
+    "eng": "壽桃qq鮑魚雞湯碗裝粉絲 72GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "62",
+    "eng": "壽桃鮑魚小橋米線 4 X 215GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "8f49c3a1ef7d370abc9c9a1073502ac0",
+    "eng": "Sau Tao Abalone Rice Vermicelli 4 X 215GM",
+    "norm": "sau tao rice vermicelli abalone chicken"
+  },
+  {
+    "uid": "e42de914f9d5f0c5c9c4be739095367d",
+    "eng": "SAU TAO Rice Vermicelli - Hot&sour Soup Flv",
+    "norm": "sau tao rice vermicelli hot sour soup"
+  },
+  {
+    "uid": "5ad7f0af1f3506466dbce227716103aa",
+    "eng": "Sau Tao Hot Sour Rice Verm 4 X 215GM",
+    "norm": "sau tao rice vermicelli hot sour soup"
+  },
+  {
+    "uid": "9e2f902b65099b65a5e6448d045c5ea1",
+    "eng": "SAU TAO 4pkts Xiao Qiao Rice Vermicelli-mustard Green Vegetable Soup Flavour",
+    "norm": "sau tao rice vermicelli mustard green"
+  },
+  {
+    "uid": "e2f738ae6025ca7a3fb4d7cb67c90acc",
+    "eng": "Sau Tao Mustard Green Duck Flavour Rice Vermicelli 4 X 215GM",
+    "norm": "sau tao rice vermicelli mustard green"
+  },
+  {
+    "uid": "a7ef56ebb8d05c93b7c86b5e9bfcddec",
+    "eng": "SAU TAO Sau Tao - Rice Vermicelli (3 Packs)",
+    "norm": "sau tao rice vermicelli plain"
+  },
+  {
+    "uid": "d02c56e7513a6c1f0d94d69e31292e24",
+    "eng": "Sau Tao Rice Vermicelli 3 X 200GM",
+    "norm": "sau tao rice vermicelli plain"
+  },
+  {
+    "uid": "c6aca9ed644c924a7922dbcf8c17ee56",
+    "eng": "SAU TAO Sau Tao Xiao Qiao Rice Vermicelli -pork & Pickled Vegetables Soup Flavour",
+    "norm": "sau tao rice vermicelli pork pickled vegetable"
+  },
+  {
+    "uid": "fcdf266e9af57dbd1ed25897866a5f19",
+    "eng": "Sau Tao Pork & Pickled Veg Noodles 4 X 215GM",
+    "norm": "sau tao rice vermicelli pork pickled vegetable"
+  },
+  {
+    "uid": "a6faa5ede2a11d63968782d894622711",
+    "eng": "SAU TAO Rice Verm - Tomato Soup Flav",
+    "norm": "sau tao rice vermicelli tomato soup"
+  },
+  {
+    "uid": "cf0c8ace02f2fbc3f1604d0cb34b0e2b",
+    "eng": "Sau Tao Tomato Rice Vermicelli 4 X 215GM",
+    "norm": "sau tao rice vermicelli tomato soup"
+  },
+  {
+    "uid": "80",
+    "eng": "壽桃蕃茄小橋米線 4 X 215GM",
+    "norm": "sau tao rice vermicelli tomato soup"
+  },
+  {
+    "uid": "87ebfa63605a147e62a254d1d92ab11b",
+    "eng": "SAU TAO Satay Beef Noodle",
+    "norm": "sau tao satay beef noodle"
+  },
+  {
+    "uid": "88e0a0c1570195d7321049fd91f45383",
+    "eng": "Sau Tao Satay Beef Noodles 140GM",
+    "norm": "sau tao satay beef noodle"
+  },
+  {
+    "uid": "59",
+    "eng": "壽桃沙嗲牛肉麵 140GM",
+    "norm": "sau tao satay beef noodle"
+  },
+  {
+    "uid": "3edc0e98ac884c498048eec525bd9d92",
+    "eng": "SAU TAO Sau Tao Scallop Noodles",
+    "norm": "sau tao scallop noodle"
+  },
+  {
+    "uid": "bd886bfee9154a2d6bcd4f928c15a64d",
+    "eng": "SAU TAO Scallop Noodles",
+    "norm": "sau tao scallop noodle"
+  },
+  {
+    "uid": "811aa012004d46fdc859a3f419a0f4e9",
+    "eng": "SAU TAO Authentic Scallop Noodle",
+    "norm": "sau tao scallop noodle"
+  },
+  {
+    "uid": "14eba5a61e5a95994a6c809970a38202",
+    "eng": "SAU TAO Sesame Sauce Potato Broad Noodles",
+    "norm": "sau tao sesame sauce potato broad noodles"
+  },
+  {
+    "uid": "01396cc9c75a528f77bbcebdb55a6f99",
+    "eng": "SAU TAO Sau Tao Shanghai Noodle",
+    "norm": "sau tao shanghai noodle"
+  },
+  {
+    "uid": "d0cbd2feb1bc8e464080feef788de00f",
+    "eng": "Sau Tao Shanghai Noodle 340GM",
+    "norm": "sau tao shanghai noodle"
+  },
+  {
+    "uid": "c526966cc6577ebbd7f449fdb256259b",
+    "eng": "Sau Tao Shanghai Noodle Case 24 X 340 GM",
+    "norm": "sau tao shanghai noodle"
+  },
+  {
+    "uid": "b6b4ee61349323083ce08199acb45cdc",
+    "eng": "Sau Tao Shanghai Noodle (4 packs)",
+    "norm": "sau tao shanghai noodle"
+  },
+  {
+    "uid": "4f2ff7dbb4f9e0a0513a29634b6c0e0c",
+    "eng": "SAU TAO Shrimp-egg Noodle (thick)",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "fcf9542f1e15ba1d768f81eab8839f6c",
+    "eng": "SAU TAO Sau Tao Shrimp-egg Noodles (thin)",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "b9b7450b8f71fbf17ae71b1f4025aa97",
+    "eng": "SAU TAO Sau Tao Shrimp-eggs Ndl (thin)",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "631253067bfa61aca8b40384a1d60b53",
+    "eng": "Sau Tao Shrimp Noodles 880GM",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "6de1ec171a9c43e16cadfb9aecc10eb3",
+    "eng": "Sau Tao Thin Shrimp Noodles 454GM",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "a84daee692634f21f5f3c551c9e6e533",
+    "eng": "Sau Tao Flat Shrimp Noodle 454GM",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "0da436c9233cf457886b4e408e74c3df",
+    "eng": "SAU TAO Sichuan Spicy Noodle-chicken",
+    "norm": "sau tao sichuan spicy noodle"
+  },
+  {
+    "uid": "c8a2a813ce5a40e79c699dc4113ca6b2",
+    "eng": "SAU TAO Sichuan Spicy Noodle- Seafood Flavour",
+    "norm": "sau tao sichuan spicy noodle"
+  },
+  {
+    "uid": "ff9e1238a4c29b0bb10f6b3920b54d30",
+    "eng": "Sau Tao Abalone & Chicken Sichuan Spicy Noodle 160GM",
+    "norm": "sau tao sichuan spicy noodle"
+  },
+  {
+    "uid": "2a984484c520aabeeee53133888542ba",
+    "eng": "SAU TAO Spicy Minced Pork Potato Broad Ndl",
+    "norm": "sau tao sichuan spicy noodle"
+  },
+  {
+    "uid": "004bf91b15c9e03852741a81c9283481",
+    "eng": "SAU TAO Singapore Rice Vermicelli",
+    "norm": "sau tao singapore rice vermicelli"
+  },
+  {
+    "uid": "558b3c82ba167435c51dde97357e33b7",
+    "eng": "Sau Tao Singpore Rice Vermicelli 400GM",
+    "norm": "sau tao singapore rice vermicelli"
+  },
+  {
+    "uid": "99",
+    "eng": "壽桃牌新加坡米粉 400GM",
+    "norm": "sau tao singapore rice vermicelli"
+  },
+  {
+    "uid": "ccdcbf21a0975e412064ddef68b934d9",
+    "eng": "SAU TAO Sliced Noodle",
+    "norm": "sau tao sliced noodle"
+  },
+  {
+    "uid": "cf3378fae4f2386962d7185620691b2e",
+    "eng": "SAU TAO Sau Tao - Taiwanese Style Sliced Noodles",
+    "norm": "sau tao sliced noodle"
+  },
+  {
+    "uid": "c541ebfa1a5e433967a89514b8ed6522",
+    "eng": "Sau Tao Sliced Noodle 3 X 200GM",
+    "norm": "sau tao sliced noodle"
+  },
+  {
+    "uid": "46",
+    "eng": "壽桃刀削麵 3 X 200GM",
+    "norm": "sau tao sliced noodle"
+  },
+  {
+    "uid": "40bb97ba5299c9695723fd4c1fa6fa9c",
+    "eng": "SAU TAO Sau Tao Spinach Noodles",
+    "norm": "sau tao spinach noodle"
+  },
+  {
+    "uid": "a04a161412cb3c994879631eebd35ce1",
+    "eng": "SAU TAO Sau Tao Sweet Potato Vermicelli",
+    "norm": "sau tao sweet potato vermicelli"
+  },
+  {
+    "uid": "bdc0247a56eaf2ca2cdfd6161a1d74c6",
+    "eng": "Sau Tao Sweet Potato Vermicelli 300GM",
+    "norm": "sau tao sweet potato vermicelli"
+  },
+  {
+    "uid": "2200d6919200a4ccf6a452e0fbf09ac2",
+    "eng": "SAU TAO Sau Tao Fine & White Plain Noodles",
+    "norm": "sau tao thin plain noodles"
+  },
+  {
+    "uid": "110",
+    "eng": "壽桃幼白素麵 284GM",
+    "norm": "sau tao thin plain noodles"
+  },
+  {
+    "uid": "f06de4a0798b52f4535d168fa4b1c562",
+    "eng": "SAU TAO Sau Tao Wonton Soup Flavour Noodle",
+    "norm": "sau tao wonton soup noodle"
+  },
+  {
+    "uid": "3de321aa0c950bf2d2bac7b6fb1cde43",
+    "eng": "SAU TAO Sau Tao 6pkt. Japanese Style Udon Noodle",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "eb554add0988571b6276f482b1183110",
+    "eng": "Sau Tao Japanese Udon 3 X 200GM",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "97e1ebd4beaa8665d3e287729a5aca77",
+    "eng": "Sau Tao Japanese Udon 4 X 200GM",
+    "norm": "sau tao japanese udon"
+  },
+  {
+    "uid": "20",
+    "eng": "壽桃細切烏冬 3 X 200GM",
+    "norm": "sau tao japanese udon"
+  },
+  
+  {
+    "uid": "481050c4e8ac42bea817ccc0db16b1cb",
+    "eng": "SAU TAO Yam Noodles 2pcs",
+    "norm": "sau tao yam noodle"
+  },
+  {
+    "uid": "2200d6919200a4ccf6a452e0fbf09ac2",
+    "eng": "SAU TAO Sau Tao Fine & White Plain Noodles",
+    "norm": "sau tao plain noodles"
+  },
+  {
+    "uid": "dc893575f4932015a780b340a48fa079",
+    "eng": "KNORR Q/s Macaroni - Abalone&chix",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "1ae74a24a0b59b7b45fb40662becb194",
+    "eng": "ALCE NERO Organic Spaghetti Whole",
+    "norm": "alce nero organic spaghetti"
+  },
+  {
+    "uid": "e50e879f4ee27bde6d9929586027bfeb",
+    "eng": "DE CECCO Penne Rigate",
+    "norm": "de cecco penne rigate"
+  },
+  {
+    "uid": "bdef6e86e6f28ca5be5e142a331ba37f",
+    "eng": "MOM'S DRY NOODLE Sichuan Spi Duck Bld Bean Vermicelli",
+    "norm": "moms dry noodle sichuan spicy duck blood vermicelli"
+  },
+  {
+    "uid": "9bf29bd8d5b379e0f5b496072476fcff",
+    "eng": "CHEF NIC Spaghetti W/cream Mushroom&bacon Sau",
+    "norm": "chef nic spaghetti cream mushroom bacon"
+  },
+  {
+    "uid": "f8dc945c518c2c6e951cbff2a71d8dec",
+    "eng": "WAITROSE Orzo Pasta",
+    "norm": "waitrose orzo pasta"
+  },
+  {
+    "uid": "23e000800410b4190daa4f7fcff97bf4",
+    "eng": "NISSIN Mini Cup Noodles - Spicy Seafood",
+    "norm": "nissin mini cup noodles spicy seafood"
+  },
+  {
+    "uid": "61e5379cabd66e2d1e98bbbf1cc62ad1",
+    "eng": "DELVERDE Capellini N.1",
+    "norm": "delverde capellini"
+  },
+  {
+    "uid": "8fd6a79d490d426aad2293e05e237d8d",
+    "eng": "SELECT Macaroni",
+    "norm": "select macaroni"
+  },
+  {
+    "uid": "8d837e03066fdf30262227acb1ca3258",
+    "eng": "VERONELLI Spaghetti (1.7mm)",
+    "norm": "veronelli spaghetti"
+  },
+  {
+    "uid": "65367dfc79bb75dee18ba25e11f218ad",
+    "eng": "NONG SHIM Nong Shimnon-frying Shin Bowl Noodle",
+    "norm": "nong shim shin ramyun non-frying"
+  },
+  {
+    "uid": "a7582ba33d8a7391a085f358ec30dd1b",
+    "eng": "SGAMBARO Pasta Tortiglioni N.89",
+    "norm": "sgambaro pasta tortiglioni"
+  },
+  {
+    "uid": "6011b10a754bd7395925b21d74834108",
+    "eng": "NISSIN Cup Noodles - Seafood",
+    "norm": "nissin cup noodles seafood"
+  },
+  {
+    "uid": "490735dfb5c19a494f4896d1adaf4b91",
+    "eng": "CHEWY Brown Rice Stick",
+    "norm": "chewy brown rice stick"
+  },
+  {
+    "uid": "478c4b94988acd831e40638a453e87c4",
+    "eng": "ITSUKI Inaka Udon",
+    "norm": "itsuki inaka udon"
+  },
+  {
+    "uid": "f81243ba847f9320a9025f09f5abc829",
+    "eng": "SELECT Udon Noodles",
+    "norm": "select udon noodles"
+  },
+  {
+    "uid": "53b9912c7db7fd27db7893e5af760454",
+    "eng": "NONG SHIM Nong Shimshin Black Tofu Big Bowl Noodle",
+    "norm": "nong shim shin black tofu"
+  },
+  {
+    "uid": "c98aa0e3c4293ec69dea6c17534a0d5e",
+    "eng": "KNORR Q/s Macaroni Abalone & Chix",
+    "norm": "knorr macaroni abalone chicken"
+  },
+  {
+    "uid": "95a340156bce1aa62e76a25a29526d6a",
+    "eng": "WAITROSE Linguine",
+    "norm": "waitrose linguine"
+  },
+  {
+    "uid": "57ee007cf087447e01ba349b1d59041e",
+    "eng": "OTTOGI Real Cheese Ramen",
+    "norm": "ottogi real cheese ramen"
+  },
+  {
+    "uid": "d7de027fdc6fbb67b467984ef967e352",
+    "eng": "BARILLA Organic Spaghetti",
+    "norm": "barilla organic spaghetti"
+  },
+  {
+    "uid": "3d03fd203e3c8031b8e0a6a5ca193230",
+    "eng": "BEST BUY Spaghetti",
+    "norm": "best buy spaghetti"
+  },
+  {
+    "uid": "b3f0c60e35dc3b55d4e2b64e9c08bdf8",
+    "eng": "COLAVITA Conchigliette",
+    "norm": "colavita conchigliette"
+  },
+  {
+    "uid": "c0a5d0d853a43892e8e7ce0bfb912e03",
+    "eng": "DE-MA-E Bowl Noodle - Tonkotsu",
+    "norm": "demae iccho bowl noodle tonkotsu"
+  },
+  {
+    "uid": "595603080930a1ee3b91b0d74f4d4e61",
+    "eng": "PRIMA TASTE Laksa La Mian",
+    "norm": "prima taste laksa la mian"
+  },
+  {
+    "uid": "7823d02125c874ed8b020ad44ec85a43",
+    "eng": "DOLL Dim Sum Noodle Seafood Flavour",
+    "norm": "doll dim sum noodle seafood"
+  },
+  {
+    "uid": "2d8ff96a55a33d2283d7565213bea6a6",
+    "eng": "CARB X Gluten Free Konjac Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x gluten free konjac noodles"
+  },
+  {
+    "uid": "cfba974895857a3be7bc7876564d482a",
+    "eng": "TAI HEI HING Shrimp Egg Noodle",
+    "norm": "tai hei hing shrimp egg noodle"
+  },
+  {
+    "uid": "a4903a991f018aa19c4706d3f6965a24",
+    "eng": "THE KING OF TOMATO Tomato Egg Noodle",
+    "norm": "the king of tomato tomato egg noodle"
+  },
+  {
+    "uid": "68062b939848a4a8ab0732f390757015",
+    "eng": "VERONELLI Penne Rigate",
+    "norm": "veronelli penne rigate"
+  },
+  {
+    "uid": "33ec7a50a088b297ea2327ac700df55d",
+    "eng": "DELVERDE N.134 Tagliatelle Agli Spinaci A Nido",
+    "norm": "delverde n.134 tagliatelle"
+  },
+  {
+    "uid": "21da7be004b02ab69566335327a68b66",
+    "eng": "EAT WATER Organic Gluten Free Konjac Noodles (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic gluten free konjac noodles"
+  },
+  {
+    "uid": "4cff23ee4fcd99133f1cc0bb968dbe6f",
+    "eng": "NISSIN Premium Cup Noodles - Seafood",
+    "norm": "nissin premium cup noodles seafood"
+  },
+  {
+    "uid": "5a3e904af665132b84cbc48d0e4346e9",
+    "eng": "BARILLA Lasagna 189",
+    "norm": "barilla lasagna 189"
+  },
+  {
+    "uid": "98d2800fa5cf1c9b068793150a12a416",
+    "eng": "NONG SHIM Shin Ramen - Cup Noodle",
+    "norm": "nong shim shin ramyun cup noodle"
+  },
+  {
+    "uid": "a27e7c6cf4e7ce6887be6a40339b659d",
+    "eng": "SHOO LOONG KAN Hot Pot Wide Starch Noodles",
+    "norm": "shoo loong kan hot pot wide starch noodles"
+  },
+  {
+    "uid": "1c6b85abc890276e39ff5ae159a9c830",
+    "eng": "NISSIN Cup Noodles - Curry Seafood",
+    "norm": "nissin cup noodles curry seafood"
+  },
+  {
+    "uid": "7d3275d94f626bbe46e22c42b8c8f91d",
+    "eng": "KNORR Macaroni Beef",
+    "norm": "knorr macaroni beef"
+  },
+  {
+    "uid": "0f40769342a9f321998e942a766c50cf",
+    "eng": "SAMYANG Hot Chicken Ramen Cream Cbnara 5s",
+    "norm": "samyang hot chicken ramen cream carbonara"
+  },
+  {
+    "uid": "4e53d4d21fd191b106e85449f3fb54d8",
+    "eng": "BARILLA Spaghetti N.5 Gluten Free",
+    "norm": "barilla spaghetti gluten free"
+  },
+  {
+    "uid": "7fee56b43e214602c862f089600b8302",
+    "eng": "SAN REMO #18 Penne",
+    "norm": "san remo #18 penne"
+  },
+  {
+    "uid": "538ac582bd8ce8ae6957355dc09e9829",
+    "eng": "BETTER THAN FOODS Organic Pasta Konjac Thai Style (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "better than foods organic konjac thai style"
+  },
+  {
+    "uid": "3f59c66197b9f8d520bcde3bf5433bba",
+    "eng": "NISSIN Cup Noodles - Tom Yum Goong",
+    "norm": "nissin cup noodles tom yum goong"
+  },
+  {
+    "uid": "949fa8b7747136efd83b22f95fc612d0",
+    "eng": "ALCE NERO Organic Spaghetti Durum",
+    "norm": "alce nero organic spaghetti"
+  },
+  {
+    "uid": "0ddd51315bf02f2d4cfdbc9332930ec6",
+    "eng": "ITSUKI Wakame & Sesame Udon Cup",
+    "norm": "itsuki wakame sesame udon"
+  },
+  {
+    "uid": "a8cac83a64b78597d8a8f05d34ee3175",
+    "eng": "GS RETAIL YOUUS Gs Retail Youusgonghwachun Zajang Noodle",
+    "norm": "gs retail youus gonghwachun zajang noodle"
+  },
+  {
+    "uid": "bca0355352586cd8daba51e44b745f43",
+    "eng": "SELECT Whole Grain Spaghetti",
+    "norm": "select whole grain spaghetti"
+  },
+  {
+    "uid": "0241310defc228e0ff817e81ab83bc97",
+    "eng": "ZAZAGRAY Nanchang Stir Rice Noodle",
+    "norm": "zazagray nanchang stir rice noodle"
+  },
+  {
+    "uid": "966221320fae16d0dd9e0f1c246d355a",
+    "eng": "SELECT Dongguan Rice Vermicelli",
+    "norm": "select dongguan rice vermicelli"
+  },
+  {
+    "uid": "a9344872733f12591322dec768ac6b0a",
+    "eng": "NISSIN DONBEI Tempura Handmade Style Bowl Udon",
+    "norm": "nissin donbei tempura udon"
+  },
+  {
+    "uid": "a8b93fb101f672a5ef01c5dce93fe2ff",
+    "eng": "NONG SHIM Kimchi Ramyun Cup Noodle",
+    "norm": "nong shim kimchi ramyun"
+  },
+  {
+    "uid": "2ec07011498b5c9c5b4717784c9d8b27",
+    "eng": "PEACOCK Rice Stick Noodle",
+    "norm": "peacock rice stick noodle"
+  },
+  {
+    "uid": "28fef135d53537d0791584ac120f8e75",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Tonkotsu 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat tonkotsu"
+  },
+  {
+    "uid": "465d3b4f4042f28cd9e65da2ce01b42d",
+    "eng": "LEE KUM KEE Noodle In Satay Soup",
+    "norm": "lee kum kee noodle satay soup"
+  },
+  {
+    "uid": "1f3927893273f0183eb48e24fbc89551",
+    "eng": "CHEWY Inst Vermicelli Savoury Clam Flv",
+    "norm": "chewy instant vermicelli savoury clam"
+  },
+  {
+    "uid": "8834b355ed6f8aebb2bab7e4a9d864b8",
+    "eng": "(尚未取得英文名稱)",
+    "norm": "unknown"
+  },
+  {
+    "uid": "1f425dd41827c42865e64d71ef9efedd",
+    "eng": "NISSIN Big Cup Noodles - Beef",
+    "norm": "nissin big cup noodles beef"
+  },
+  {
+    "uid": "f4b239c6f95970c397163e0482a6c0db",
+    "eng": "NISSIN Pickled Vegetable Pork Flavour Rice Vermicelli",
+    "norm": "nissin pickled vegetable pork rice vermicelli"
+  },
+  {
+    "uid": "46925ea8234b94ff87169c0dd754575b",
+    "eng": "SAU TAO Sau Tao Buckwheat Noodle 225g",
+    "norm": "sau tao buckwheat noodle"
+  },
+  {
+    "uid": "8ffdb4560f50949512c11d5a37bb6f5c",
+    "eng": "CARB X Slim Gluten Free Konjac Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x slim gluten free konjac rice"
+  },
+  {
+    "uid": "f41e8135c932d650796cdc28bb2b050a",
+    "eng": "LEE KUM KEE Noodles In Pepper Pork Bone Soup",
+    "norm": "lee kum kee noodle pepper pork bone soup"
+  },
+  {
+    "uid": "558d58f603e4e44fa986bf7b354521a8",
+    "eng": "WAITROSE N1 Fusilli Bucati Pasta",
+    "norm": "waitrose n1 fusilli bucati"
+  },
+  {
+    "uid": "acbb50ec2eb1ffe2fb43a79ee9f29945",
+    "eng": "NISSIN Big Cup Noodles - Kimchi Pork Hotpot",
+    "norm": "nissin big cup noodles kimchi pork hotpot"
+  },
+  {
+    "uid": "9eb2e45bd89867116ee306c3acffc80c",
+    "eng": "WAITROSE Wr Noodles Egg Fine",
+    "norm": "waitrose noodles egg fine"
+  },
+  {
+    "uid": "36e6e3c3ce7ab2c9e0251c2f581b2354",
+    "eng": "DELVERDE N.242 Lumachine",
+    "norm": "delverde n.242 lumachine"
+  },
+  {
+    "uid": "4f2ff7dbb4f9e0a0513a29634b6c0e0c",
+    "eng": "SAU TAO Shrimp-egg Noodle (thick)",
+    "norm": "sau tao shrimp egg noodle"
+  },
+  {
+    "uid": "bfdc10a313c6da9d345e04abe27ecd25",
+    "eng": "CARB X Gluten Free Konjac Penne (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "carb x gluten free konjac penne"
+  },
+  {
+    "uid": "37627c7cf8bf7d5130cd0014ef787106",
+    "eng": "SAU TAO Ho Fan 5's_laksa Flv",
+    "norm": "sau tao ho fan laksa"
+  },
+  {
+    "uid": "87b0c2e5f8c71ac0801ce6e03895147f",
+    "eng": "BORGGARDENS Spaghetti Carbonara",
+    "norm": "borggardens spaghetti carbonara"
+  },
+  {
+    "uid": "6e60a7aa920d101fb3df7f48447d0e92",
+    "eng": "WAITROSE Wholewheat Spaghetti",
+    "norm": "waitrose wholewheat spaghetti"
+  },
+  {
+    "uid": "07d876055364ae89597bda551cbadfd1",
+    "eng": "BORGGARDENS Spaghetti Truffle Sauce",
+    "norm": "borggardens spaghetti truffle sauce"
+  },
+  {
+    "uid": "5a817ba15cb5e5bb870797278939d0de",
+    "eng": "PALDO Jja Jang Men",
+    "norm": "paldo jja jang men"
+  },
+  {
+    "uid": "7eccc88a481d330509b419309d28ffdc",
+    "eng": "FIRMA Maccheroncini W/ Cheese Sauce",
+    "norm": "firma maccheroncini cheese sauce"
+  },
+  {
+    "uid": "7c71e8cd1d44e744c6e012779d316664",
+    "eng": "INDOMIE Indomie Mi Goreng 5pack",
+    "norm": "indomie mi goreng"
+  },
+  {
+    "uid": "a32e0d84eaf553331649a1a6e2d72497",
+    "eng": "PRB Kong Moon Rice Stick",
+    "norm": "prb kong moon rice stick"
+  },
+  {
+    "uid": "802acae8a321ca68c89768dea3a8877a",
+    "eng": "LI ZIQI Liuzhou Luosi Rice Instant Noodles",
+    "norm": "li ziqi liuzhou luosi rice noodles"
+  },
+  {
+    "uid": "da48e3f7ea270048bb2b743d617baaea",
+    "eng": "MYKUALI Mykualipenang White Curry Noodle",
+    "norm": "mykuali penang white curry noodle"
+  },
+  {
+    "uid": "4dc6ec73630a24a79e7e6eea7400a6e1",
+    "eng": "IMPERIAL BANQUET Green Bean Vermicell",
+    "norm": "imperial banquet green bean vermicelli"
+  },
+  {
+    "uid": "0bea7590a2d1faa4cb65c176aa7f169d",
+    "eng": "MAMEE Pepper Noodle",
+    "norm": "mamee pepper noodle"
+  },
+  {
+    "uid": "85b21c8bc8fa100857b844c1d105885f",
+    "eng": "SAN REMO San Remolinguine",
+    "norm": "san remo linguine"
+  },
+  {
+    "uid": "42a8c3504e75b159b48d158b42aa5d0c",
+    "eng": "KNORR Q/s Macaroni Pork Bone Broth",
+    "norm": "knorr macaroni pork bone"
+  },
+  {
+    "uid": "9080f3cf063cdd669c0af9e9fc1dab6d",
+    "eng": "BARILLA #98 Fusilli",
+    "norm": "barilla fusilli"
+  },
+  {
+    "uid": "cf0416e777b556a0aea605cfcb5c483c",
+    "eng": "MYUNG DONG Myung Dong Kimchi Ramen 120g X 5 Packs",
+    "norm": "myung dong kimchi ramen"
+  },
+  {
+    "uid": "ce2f867714a1aa182798f18d98f861f5",
+    "eng": "BARILLA Farfalle #65",
+    "norm": "barilla farfalle"
+  },
+  {
+    "uid": "f8eea34bd0e2562a13a2b0c88b09a179",
+    "eng": "SAMYANG Hot Chick Cream Carbonara Ramen Bowl",
+    "norm": "samyang hot chicken cream carbonara"
+  },
+  {
+    "uid": "4606107c88267e13e5a5115c166e8107",
+    "eng": "DE-MA-E Instant Macaroni - Seafood",
+    "norm": "demae iccho macaroni seafood"
+  },
+  {
+    "uid": "f3ab53560b5f33f6eb28e9cb41a6835d",
+    "eng": "QUICK DELI Pre. Goose Oil Crispy Shallot Ndl",
+    "norm": "quick deli goose oil crispy shallot noodle"
+  },
+  {
+    "uid": "689d16c8e692d1548057440a9b000841",
+    "eng": "NISSIN Hakata Ikkousha Black Tonkotsu Cup Noodle",
+    "norm": "nissin hakata ikkousha black tonkotsu cup noodle"
+  },
+  {
+    "uid": "ab195cbdb0ef47eac8c5e88b97ed63ec",
+    "eng": "MYKUALI Penang Spicy Prawn Soup Noodle",
+    "norm": "mykuali penang spicy prawn noodle"
+  },
+  {
+    "uid": "57646c47ccc1a9aa472dd1b3dbb4cd41",
+    "eng": "CRAB KING NOODLE Instan Ramen (sesame Oil)",
+    "norm": "crab king noodle ramen sesame oil"
+  },
+  {
+    "uid": "c8265a7f418843e613c88e00f3ef9f33",
+    "eng": "GOURMET ALLEY Shrimp Noodle",
+    "norm": "gourmet alley shrimp noodle"
+  },
+  {
+    "uid": "3009dfd5b1fd367c158a3d7e768931e3",
+    "eng": "DE-MA-E Bar Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho bar noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "9cceedf19cb969a93aa930b1a2b64724",
+    "eng": "DE CECCO Potato Gnocchi",
+    "norm": "de cecco potato gnocchi"
+  },
+  {
+    "uid": "e565d5e7c1210382b34aa9b048594db3",
+    "eng": "BARILLA Fettuccine",
+    "norm": "barilla fettuccine"
+  },
+  {
+    "uid": "8d93567d8fad88e89c219a02d2d21797",
+    "eng": "WAITROSE Wholewheat Penne Pasta",
+    "norm": "waitrose wholewheat penne"
+  },
+  {
+    "uid": "ab886229918ee281b0faee63b0c20465",
+    "eng": "CHEWY Dried Rice Stick",
+    "norm": "chewy dried rice stick"
+  },
+  {
+    "uid": "4508cc897d1180f628c6508f779f273a",
+    "eng": "NONG SHIM Chapaguri Big Bowl Dried Noodle",
+    "norm": "nong shim chapaguri"
+  },
+  {
+    "uid": "c724ff933b887b0912aa882dfc39142b",
+    "eng": "DE CECCO Chifferi Rigati (macaroni)",
+    "norm": "de cecco chifferi rigati"
+  },
+  {
+    "uid": "06dc10095cc7cb32db925575842de64b",
+    "eng": "HO E SIK Capellini W Shrimp In Lobster Sauce (frozen -18°c)",
+    "norm": "ho e sik capellini shrimp lobster sauce"
+  },
+  {
+    "uid": "7b5b45dccc795df13bacf4927985d782",
+    "eng": "SAU TAO Lo Si Fan In Bag",
+    "norm": "sau tao lo si fan"
+  },
+  {
+    "uid": "f0261a2505b77f8d6f6949492c50f651",
+    "eng": "SAMYANG Hot Chicken Cheese Flv Ramen Multi",
+    "norm": "samyang hot chicken cheese"
+  },
+  {
+    "uid": "bda5df594c2570e56b09f0651e685380",
+    "eng": "NISSIN Harusame Korean Kimchi Vermicelli",
+    "norm": "nissin harusame korean kimchi vermicelli"
+  },
+  {
+    "uid": "fe6065381b54a90f440fb5b1ab0ede0b",
+    "eng": "MARUCHAN Gotsumori Wantan Shoyu Ramen Cup",
+    "norm": "maruchan wantan shoyu ramen"
+  },
+  {
+    "uid": "bead598f01b28d9439251d78376fab76",
+    "eng": "SAU TAO Pad Thai Rice Noodles",
+    "norm": "sau tao pad thai rice noodles"
+  },
+  {
+    "uid": "9e2f902b65099b65a5e6448d045c5ea1",
+    "eng": "SAU TAO 4pkts Xiao Qiao Rice Vermicelli-mustard Green Vegetable Soup Flavour",
+    "norm": "sau tao rice vermicelli mustard green"
+  },
+  {
+    "uid": "7fbc13af3d88e3d13aec12e8b744936a",
+    "eng": "DELVERDE Nest Pasta Egg Tagliatelle",
+    "norm": "delverde nest pasta egg tagliatelle"
+  },
+  {
+    "uid": "79f14f2a0ec44dbf26dc88ae0adbfe6b",
+    "eng": "DE-MA-E Instant Noodle - Hokkaido Wheat Tori Paitan 5's",
+    "norm": "demae iccho instant noodle hokkaido wheat tori paitan"
+  },
+  {
+    "uid": "f90dd8b03ca38ed861e210eb904ab8f2",
+    "eng": "EAT WATER Organic Gluten Free Konjac Slim Rice (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "eat water organic konjac rice"
+  },
+  {
+    "uid": "3bb90f8d20e3cb02fe678aa6b1c5ae75",
+    "eng": "KNORR Macaroni Tung Choi",
+    "norm": "knorr macaroni tung choi"
+  },
+  {
+    "uid": "4395938cfcd31a43460d7035f6503307",
+    "eng": "DOLL Inst Noodle - Chicken Flavour",
+    "norm": "doll instant noodle chicken"
+  },
+  {
+    "uid": "46e0e7098d494ae3fd7d3a2970744414",
+    "eng": "DE-MA-E Bowl Noodle - Black Garlic Oil Tonkotsu",
+    "norm": "demae iccho bowl noodle black garlic oil tonkotsu"
+  },
+  {
+    "uid": "ec68cd9404989ec157d44329a58b4a0f",
+    "eng": "DE-MA-E Bowl Noodle - Chicken",
+    "norm": "demae iccho bowl noodle chicken"
+  },
+  {
+    "uid": "3d5cd2e12f0e9a247ca47b7916e3f531",
+    "eng": "SELECT Shrimp-egg Noodles",
+    "norm": "select shrimp egg noodles"
+  },
+  {
+    "uid": "26646c149b6963b6f46e0f40f24432b5",
+    "eng": "PREGO Mac & Cheese Instant Bowl",
+    "norm": "prego mac & cheese"
+  },
+  {
+    "uid": "3c24eb8dd9bfd7a17b718278beb11373",
+    "eng": "GOOD TODAY Yorihada Toowoomba Ramyeon 4p Noodle",
+    "norm": "good today yorihada toowoomba ramyeon"
+  },
+  {
+    "uid": "baf497be16613708581108e18c64cec4",
+    "eng": "HANDMADE NOODLES Hu Sesame Flavor",
+    "norm": "handmade noodles hu sesame"
+  },
+  {
+    "uid": "f180a83f8c17c436aac982a679228f9b",
+    "eng": "IMPERIAL BIG MEAL Big Bowl Noodle - Beef",
+    "norm": "imperial big meal beef noodle"
+  },
+  {
+    "uid": "53b41ec005d44f23f80f95bcf92a291c",
+    "eng": "SAU TAO Sau Tao Japanese Ramen",
+    "norm": "sau tao japanese ramen"
+  },
+  {
+    "uid": "e16dc5fecee5e63e085304ef6147c950",
+    "eng": "COLAVITA Spaghetti",
+    "norm": "colavita spaghetti"
+  },
+  {
+    "uid": "e1ca828e13c619c525b483eeefc516f7",
+    "eng": "NISSIN Cup Noodles - Chicken",
+    "norm": "nissin cup noodles chicken"
+  },
+  {
+    "uid": "a6d1767a3d624b78292b4984999e0379",
+    "eng": "NISSIN Nupasta Carbonara Flavour Cup Noodle",
+    "norm": "nissin nupasta carbonara flavour cup noodle"
+  },
+  {
+    "uid": "ccdb79ff81bbf904d5a51397b1a62791",
+    "eng": "CASINO Pasta Spaghetti",
+    "norm": "casino spaghetti"
+  },
+  {
+    "uid": "820941d48dd49398183a92b135d599da",
+    "eng": "NONG SHIM Nong Shim Potato Noodle (4 Packs)",
+    "norm": "nong shim potato noodle"
+  },
+  {
+    "uid": "5a3780d4ea05e6a3054644b999fa9978",
+    "eng": "DE-MA-E Bar Noodle - Aka Tonkotsu",
+    "norm": "demae iccho bar noodle aka tonkotsu"
+  },
+  {
+    "uid": "996204b7f290c80cf52e0d49e3cbef79",
+    "eng": "SGAMBARO Pasta Fusilli N.93",
+    "norm": "sgambaro pasta fusilli"
+  },
+  {
+    "uid": "fcd254c96e1fd517201225d51b30b464",
+    "eng": "CHEWY Inst Vermicelli Spicy Duck Blood Flv",
+    "norm": "chewy instant vermicelli spicy duck blood"
+  },
+  {
+    "uid": "e0ee6913a733234378fde6ba70d7efab",
+    "eng": "INDOMIE Fried Noodles 5s - Garlic Flavour",
+    "norm": "indomie fried noodles garlic"
+  },
+  {
+    "uid": "1b743e3577b4eaee63f2fc72ba02fec3",
+    "eng": "ON KEE Braised Abalone In Crab Paste With Noodle Set",
+    "norm": "on kee braised abalone noodle"
+  },
+  {
+    "uid": "1348b120fcdfdd9109abccf8341c6c1f",
+    "eng": "NISSIN Cup Noodle Curry",
+    "norm": "nissin cup noodles curry"
+  },
+  {
+    "uid": "0eb4d4fbce9897a6aca315262927e5d5",
+    "eng": "MYOJO Hyobanya Salt Ramen 5pk",
+    "norm": "myojo hyobanya salt ramen"
+  },
+  {
+    "uid": "352daf8f87704fd29d801af5b6947eec",
+    "eng": "DE CECCO Conchiglie Rigate",
+    "norm": "de cecco conchiglie rigate"
+  },
+  {
+    "uid": "ed17b71a331e9031c0541c23f31e7622",
+    "eng": "FULL GREEN Cauliflower Rice With Broccoli (*supplier Direct Delivery-organic Mama Ltd) *over $600 Enjoy Free Delivery",
+    "norm": "full green cauliflower rice broccoli"
+  },
+  {
+    "uid": "2aaf09e8dcb25111bb36f192c26e3dbf",
+    "eng": "NONG SHIM Shrimp Shin Cup Noodle",
+    "norm": "nong shim shrimp shin cup noodle"
+  },
+  {
+    "uid": "079272226f85d9da180690802c4549ed",
+    "eng": "BARILLA Spaghetti No.5",
+    "norm": "barilla spaghetti"
+  },
+  {
+    "uid": "ecff67d83627610b68e8d244055fa574",
+    "eng": "SAMYANG Hot Chicken Rose Wide Potato Noodle",
+    "norm": "samyang hot chicken rose"
+  },
+  {
+    "uid": "9a9290d27d3be9e2cfb33e38ffe3ee59",
+    "eng": "LEE KUM KEE Noodles With Peppercorn Chilli Oil",
+    "norm": "lee kum kee noodle peppercorn chilli oil"
+  },
+  {
+    "uid": "e116c71d70ad9c6efb4bca83748e5856",
+    "eng": "TTL Shaoxing Wine Chicken Inst Ndl",
+    "norm": "ttl shaoxing wine chicken instant noodle"
+  },
+  {
+    "uid": "27f295201b078d3b54016262170913ab",
+    "eng": "DE-MA-E Instant Macaroni - Sesame Oil Chicken",
+    "norm": "demae iccho macaroni sesame oil chicken"
+  },
+  {
+    "uid": "9e309767751072fd0ad3c3dd6f23b2b4",
+    "eng": "WAITROSE DUCHY Org Fusilli",
+    "norm": "waitrose duchy org fusilli"
+  },
+  {
+    "uid": "9ae7cd238986b4880563524d1ce2c124",
+    "eng": "WAITROSE Bulgar Wheat",
+    "norm": "waitrose bulgar wheat"
+  },
+  {
+    "uid": "540b45c483a17556c99be3f6babffa33",
+    "eng": "WAITROSE Egg Lasagne Pasta Sheets",
+    "norm": "waitrose egg lasagne pasta sheets"
+  },
+  {
+    "uid": "c769dc1c034c7fe9e2262a09f79ff8c1",
+    "eng": "WAITROSE N1 Trofie Pasta",
+    "norm": "waitrose n1 trofie pasta"
+  },
+  {
+    "uid": "2b092c2fdfb6473a20572857e3139ee4",
+    "eng": "WAITROSE Conchiglie Rigate Pasta",
+    "norm": "waitrose conchiglie rigate pasta"
+  },
+  {
+    "uid": "de63bce02cd4b3fb4cbdf813da931bd3",
+    "eng": "WAITROSE Wr Wholewheat Fusilli",
+    "norm": "waitrose wr wholewheat fusilli"
+  },
+  {
+    "uid": "4815a437df6d56435dd08ad99a87f857",
+    "eng": "WAITROSE Waitroseff Gluten Free Spaghetti",
+    "norm": "waitrose waitroseff gluten free spaghetti"
+  },
+  {
+    "uid": "5030c9c32da0f9b079c4a8254c85adaf",
+    "eng": "WAITROSE Fettuccine Pasta",
+    "norm": "waitrose fettuccine pasta"
+  },
+  {
+    "uid": "0a379398347fc7710c66fd906c8ea602",
+    "eng": "WAITROSE Wr Noodles Egg Medium",
+    "norm": "waitrose wr noodles egg medium"
+  },
+  {
+    "uid": "f0f867b29dfeed79f735f007ac6dda9a",
+    "eng": "WAITROSE Fusilli Pasta",
+    "norm": "waitrose fusilli pasta"
+  },
+  {
+    "uid": "766945d76e106c3d0f7f5fefe92c03b7",
+    "eng": "WAITROSE DUCHY Org Spaghetti",
+    "norm": "waitrose duchy org spaghetti"
+  },
+  
+
+      {
+        "uid": "bbd5b2d77e1b3ee93b0592ac4a6434f5",
+        "eng": "SELECT Egg Noodles",
+        "norm": "select egg noodles"
+      },
+      {
+        "uid": "6c8f49e3d05cade0356df71f5b4e127e",
+        "eng": "SELECT Japanese Green Tea Noodles",
+        "norm": "select japanese green tea noodles"
+      },
+      {
+        "uid": "9d6320a73cad12059396f19507283559",
+        "eng": "SELECT Scallop Noodles",
+        "norm": "select scallop noodles"
+      },
+      {
+        "uid": "b738653e89c701c3667aafce95ff3d0c",
+        "eng": "SELECT Capellini",
+        "norm": "select capellini"
+      },
+      {
+        "uid": "d401930561c4de30efbb85799485b3fb",
+        "eng": "SELECT Sichuan Noodles",
+        "norm": "select sichuan noodles"
+      },
+      {
+        "uid": "ab852eca4fb613498c15ebb3a237cb6f",
+        "eng": "SELECT Japanese Style Ramen",
+        "norm": "select japanese style ramen"
+      },
+      {
+        "uid": "987862737d22ffc219d263f672f70e62",
+        "eng": "SELECT Fusilli",
+        "norm": "select fusilli"
+      },
+      {
+        "uid": "17c5db136bb6bad9a3039dd05018791e",
+        "eng": "SELECT Spaghetti",
+        "norm": "select spaghetti"
+      },
+      {
+        "uid": "a092e957d8f4d02e2840788bbbb5e114",
+        "eng": "SELECT Knife-cut Style Noodles",
+        "norm": "select knife-cut style noodles"
+      },
+      {
+        "uid": "963ee3d86a918bc4c45788c2847db016",
+        "eng": "SELECT Shell Pasta",
+        "norm": "select shell pasta"
+      },
+      {
+        "uid": "349e95b5dc7f134f14eefcbf6cf2d58a",
+        "eng": "SELECT Linguine",
+        "norm": "select linguine"
+      },
+      {
+        "uid": "da6c542aefca4e7d4df72145791bb940",
+        "eng": "SELECT Tricolour Fusilli",
+        "norm": "select tricolour fusilli"
+      },
+      {
+        "uid": "0f4fe91ed181052fc84c346043efad8c",
+        "eng": "SELECT Shanxi Sliced Noodles",
+        "norm": "select shanxi sliced noodles"
+      },
+      {
+        "uid": "179d0d98ccba3e4e2b96670e4f7fadc3",
+        "eng": "SELECT Shanghai Noodles",
+        "norm": "select shanghai noodles"
+      },
+      {
+        "uid": "389b84535290fa0bab4f29d3fb288d22",
+        "eng": "SELECT Guo Qiao Rice Vermicelli",
+        "norm": "select guo qiao rice vermicelli"
+      },
+      {
+        "uid": "fd59bccb60aea7cb4733abb21bc8df6d",
+        "eng": "SELECT Penne",
+        "norm": "select penne"
+      },
+      {
+        "uid": "31ace81560142166eac913a5599fda5a",
+        "eng": "SELECT Japanese Style Udon",
+        "norm": "select japanese style udon"
+      },
+      {
+        "uid": "404a88938b68a829ab892243d18d9897",
+        "eng": "SELECT Buckwheat Noodles",
+        "norm": "select buckwheat noodles"
+      },
+      {
+        "uid": "1353eddfc2a33d7fb294b95c1116ffee",
+        "eng": "SGAMBARO Sgambaropasta Vermicellini N.12",
+        "norm": "sgambaro sgambaropasta vermicellini n.12"
+      },
+      {
+        "uid": "b709d6a3e464421c955b69410a1aae43",
+        "eng": "SGAMBARO Sgambaropasta Farfalle N.65",
+        "norm": "sgambaro sgambaropasta farfalle n.65"
+      },
+      {
+        "uid": "160eca005c4c46cc70c1026d4b870d2f",
+        "eng": "SGAMBARO Sgambaropasta Spaghettini N.3",
+        "norm": "sgambaro sgambaropasta spaghettini n.3"
+      },
+      {
+        "uid": "cce6ad39bdeb1da94dac802b0a23ea63",
+        "eng": "SGAMBARO Sgambaropasta Pennette Rigate N.91",
+        "norm": "sgambaro sgambaropasta pennette rigate n.91"
+      },
+      {
+        "uid": "dc86c878486c458a8223530a8b1509d4",
+        "eng": "SGAMBARO Sgambaropasta Spaghetti N.5",
+        "norm": "sgambaro sgambaropasta spaghetti n.5"
+      },
+      {
+        "uid": "5b4f6ccdfb526b584a288cfed119ab40",
+        "eng": "THE KING OF TOMATO Tomato Beef Noodle",
+        "norm": "the king of tomato tomato beef noodle"
+      },
+      {
+        "uid": "72972c8f67896d73fc49cfcb53887a92",
+        "eng": "ORGANIC GARDEN Organic Buckwheat Noodle",
+        "norm": "organic garden organic buckwheat noodle"
+      },
+      {
+        "uid": "4c5b342bc54ebdc58d29276aa0b17c48",
+        "eng": "SWAN BRAND Dried Rice Stick",
+        "norm": "swan brand dried rice stick"
+      },
+      {
+        "uid": "11061d145dc39bb757b749808005642f",
+        "eng": "TTL Shaoxing Wine Beef Inst Noodle",
+        "norm": "ttl shaoxing wine beef"
+      },
+      {
+        "uid": "6dae887ec35c3738ff6c6dd8f91fac4b",
+        "eng": "SHIRAISHI KOUSAN Ginjuku Honbiki Soba",
+        "norm": "shiraishi kousan ginjuku honbiki soba"
+      },
+      {
+        "uid": "e00c9be451379e114c02e6e57dbd0c18",
+        "eng": "SHOO LOONG KAN Sesame Sauce Wide Starch Noodles",
+        "norm": "shoo loong kan sesame sauce wide starch noodles"
+      },
+      {
+        "uid": "39d7832461608d6bca8dd8a950c6ca85",
+        "eng": "TABETE Black Pork Bone Base Ramen",
+        "norm": "tabete black pork bone base ramen"
+      },
+      {
+        "uid": "70f7611b4a6157205b268e1104bdffa8",
+        "eng": "VERONELLI Linguine",
+        "norm": "veronelli linguine"
+      },
+      {
+        "uid": "59ff13148aa15337b355463abeec845c",
+        "eng": "NONG SHIM Nong Shim Shrimp Ramyun",
+        "norm": "nong shim nong shim shrimp ramyun"
+      },
+      {
+        "uid": "2cc0dd699b89756f9af19d245bc8a216",
+        "eng": "ORGANIC GARDEN Org. Udon",
+        "norm": "organic garden org. udon"
+      },
+      {
+        "uid": "bcaf500f8aab52876289f554d676a911",
+        "eng": "WU MU Thin Kan-to Noodle",
+        "norm": "wu mu thin kan-to noodle"
+      },
+      {
+        "uid": "79b632ed654e2f21322e2e4ec0bd8a23",
+        "eng": "YUM YUM BRAND Inst Noodle Tom Yum Shrimp Flv",
+        "norm": "yum yum brand tom yum shrimp flv"
+      },
+      {
+        "uid": "d8de8f20727a516be4a072520418586b",
+        "eng": "MYOJO Hyobanya Miso Ramen 5pk",
+        "norm": "myojo hyobanya miso ramen"
+      },
+      {
+        "uid": "25287c0678ada87735501480b0ef5f2f",
+        "eng": "SWAN BRAND Dried Rice Stick",
+        "norm": "swan brand dried rice stick"
+      },
+      {
+        "uid": "661debdd8cac3f1c2879f43e98485cc3",
+        "eng": "WU MU Sliver Line Noodle",
+        "norm": "wu mu sliver line noodle"
+      },
+      {
+        "uid": "1e13481ca86975e6c64f8acfe64b3e93",
+        "eng": "TOYO SUISAN Meat Soup Udon W/green Onions",
+        "norm": "toyo suisan meat soup udon w/green onions"
+      },
+      {
+        "uid": "1524bdc5add054c6d47c6063ccb66b32",
+        "eng": "YUM YUM BRAND Instant Noodle Tomyum Creamy",
+        "norm": "yum yum brand tomyum creamy"
+      },
+      {
+        "uid": "adc94845bdaa120888cce022bd19158e",
+        "eng": "SEDAAP Original Flv Stired Fried Ndl",
+        "norm": "sedaap original flv stired fried ndl"
+      },
+      {
+        "uid": "79f58cf9c5fe11e334c9724d532dfc2f",
+        "eng": "BARILLA Linguine N. 13",
+        "norm": "barilla linguine n. 13"
+      },
+      {
+        "uid": "6487a371367394235c615931fedd9205",
+        "eng": "NISSIN Cheesy Hamburger Flv Stir Noodle",
+        "norm": "nissin cheesy hamburger flv stir noodle"
+      },
+      {
+        "uid": "b9fc328ae4613d60835897da3ad8d48a",
+        "eng": "YAMADAI Sano Ramen Cup",
+        "norm": "yamadai sano ramen cup"
+      },
+      {
+        "uid": "f0aeb419a24913441b18f104b0fad79b",
+        "eng": "SHOO LOONG KAN Sichuan Hot Chili Oil Wide Starch Noodles",
+        "norm": "shoo loong kan sichuan hot chili oil wide starch noodles"
+      }
+    
+    ]

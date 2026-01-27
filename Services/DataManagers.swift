@@ -48,7 +48,7 @@ final class UIDMappingManager {
         "氈酒、甜酒": "normalized_gin_dessert_wine.json",
         "清酒、燒酒、果味米酒": "normalized_sake_shochu_fruit_sake.json",
         "米": "normalized_rice.json",
-
+        "即食粉麵/飯": "normalized_instant_noodles_and_rice.json",
 
 
 
