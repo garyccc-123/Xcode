@@ -3103,5 +3103,1049 @@ let subCategoryNormToChinese: [String: [String: String]] = [
             "ottogi cooked rice white":                      "不倒翁 即食白飯",
             "waitrose bulgar wheat":                         "Waitrose 干小麥 (Bulgar Wheat)",
             
-          ]
+          ],
+  
+  "油": [
+ 
+    "ardoino extra virgin olive oil":                "Ardoino 特級初榨橄欖油",
+    "bertolli classico pure olive oil":              "百多利 純橄欖油",
+    "bertolli extra light olive oil":                "百多利 特淡橄欖油",
+    "bertolli extra virgin olive oil":               "百多利 特級初榨橄欖油",
+    "bontaste pomace olive oil":                     "鴻亞 橄欖果渣油",
+    "bontaste pure olive oil":                       "鴻亞 純橄欖油",
+    "borges extra virgin olive oil":                 "伯爵 特級初榨橄欖油",
+    "borges pure olive oil":                         "伯爵 純橄欖油",
+    "casino bio organic extra virgin olive oil":     "Casino Bio 有機特級初榨橄欖油",
+    "colavita extra virgin olive oil":               "樂家 特級初榨橄欖油",
+    "colavita mediterranean extra virgin olive oil": "樂家 地中海特級初榨橄欖油",
+    "colavita pure olive oil":                       "樂家 純橄欖油",
+    "emile noel organic extra virgin olive oil":     "Emile Noel 有機特級初榨橄欖油",
+    "filippo berio extra light olive oil":           "百得 特淡橄欖油",
+    "filippo berio extra virgin olive oil":          "百得 特級初榨橄欖油",
+    "filippo berio extra virgin olive oil spray":    "百得 特級初榨橄欖油噴霧",
+    "filippo berio light olive oil":                 "百得 淡味橄欖油",
+    "filippo berio olive oil spray":                 "百得 橄欖油噴霧",
+    "filippo berio pure olive oil":                  "百得 純橄欖油",
+    "food nation extra virgin olive oil":            "Food Nation 特級初榨橄欖油",
+    "lorenzo no.1 organic extra virgin olive oil":   "Lorenzo No.1 有機特級初榨橄欖油",
+    "lorenzo no.3 organic extra virgin olive oil":   "Lorenzo No.3 有機特級初榨橄欖油",
+    "masserie extra virgin olive oil":               "Masserie 特級初榨橄欖油",
+    "masserie organic extra virgin olive oil":       "Masserie 有機特級初榨橄欖油",
+    "olitalia extra virgin olive oil":               "奧尼牌 特級初榨橄欖油",
+    "pure extra virgin olive oil":                   "Pure 特級初榨橄欖油",
+    "pure olive oil":                                "Pure 純橄欖油",
+    "puroliva extra virgin olive oil":               "Puroliva 特級初榨橄欖油",
+    "select extra virgin olive oil":                 "佳之選 特級初榨橄欖油",
+    "select light olive oil":                        "佳之選 淡味橄欖油",
+    "select pure olive oil":                         "佳之選 純橄欖油",
+    "spectrum organic extra virgin olive oil":       "Spectrum 有機特級初榨橄欖油",
+    "stefania calugi truffle olive oil":             "Stefania Calugi 白松露橄欖油",
+    "waitrose extra virgin olive oil":               "Waitrose 特級初榨橄欖油",
+    "waitrose organic extra virgin olive oil":       "Waitrose 有機特級初榨橄欖油",
+
+    // --- Peanut Oil (花生油) ---
+    "camel peanut aroma cooking oil":                "駱駝嘜 花生特級食油",
+    "imperial banquet extra virgin peanut oil":      "金御膳 特級初榨花生油",
+    "imperial banquet peanut oil":                   "金御膳 花生油",
+    "knife deluxe high oleic peanut oil":            "刀嘜 頂級高油酸花生油",
+    "knife pure peanut oil":                         "刀嘜 純正花生油",
+    "knife supreme peanut oil":                      "刀嘜 頂級花生油",
+    "lion & globe black peanut oil":                 "獅球嘜 黑花生油",
+    "lion & globe extra virgin peanut oil":          "獅球嘜 特級初榨花生油",
+    "lion & globe peanut oil":                       "獅球嘜 花生油",
+    "orchid brand peanut oil":                       "蘭花牌 花生油",
+
+    // --- Corn Oil (粟米油) ---
+    "camel corn oil":                                "駱駝嘜 粟米油",
+    "imperial banquet corn oil":                     "金御膳 粟米油",
+    "knife pure corn oil":                           "刀嘜 純正粟米油",
+    "knife supreme corn oil":                        "刀嘜 頂級粟米油",
+    "lion & globe corn oil":                         "獅球嘜 粟米油",
+    "mazola corn oil":                               "萬歲 粟米油",
+    "select pure corn oil":                          "佳之選 純正粟米油",
+
+    // --- Canola Oil (芥花籽油) ---
+    "black & gold canola oil":                       "Black & Gold 芥花籽油",
+    "bontaste canola oil":                           "鴻亞 芥花籽油",
+    "imperial banquet canola oil":                   "金御膳 芥花籽油",
+    "knife pure canola oil":                         "刀嘜 純正芥花籽油",
+    "lion & globe canola oil":                       "獅球嘜 芥花籽油",
+    "mazola canola oil":                             "萬歲 芥花籽油",
+    "select pure canola oil":                        "佳之選 純正芥花籽油",
+    "spectrum organic canola oil":                   "Spectrum 有機芥花籽油",
+
+    // --- Rice Bran, Grapeseed & Sunflower Oil (米糠、葡萄籽及葵花籽油) ---
+    "bontaste grapeseed oil":                        "鴻亞 葡萄籽油",
+    "bontaste sunflower seed oil":                   "鴻亞 葵花籽油",
+    "colavita grapeseed oil":                        "樂家 葡萄籽油",
+    "emile noel organic sunflower oil":              "Emile Noel 有機葵花籽油",
+    "essential waitrose sunflower oil":              "Essential Waitrose 葵花籽油",
+    "filippo berio grapeseed oil":                   "百得 葡萄籽油",
+    "lion & globe pure rice bran oil":               "獅球嘜 純米糠油",
+    "lion & globe sunflower seed oil":               "獅球嘜 葵花籽油",
+    "olitalia rice bran oil":                        "奧尼牌 米糠油",
+    "pure rice bran oil":                            "Pure 米糠油",
+    "rizi rice bran oil":                            "Rizi 米糠油",
+    "spectrum organic sunflower oil":                "Spectrum 有機葵花籽油",
+
+    // --- Avocado & Coconut Oil (牛油果及椰子油) ---
+    "agrilife organic coconut oil":                  "Agrilife 有機椰子油",
+    "bontaste avocado oil":                          "鴻亞 牛油果油",
+    "coconut king extra virgin coconut oil":         "椰子王 特級初榨椰子油",
+    "emile noel organic avocado oil":                "Emile Noel 有機牛油果油",
+    "honest to goodness organic coconut oil":        "Honest to Goodness 有機初榨椰子油",
+    "la tourangelle avocado oil":                    "La Tourangelle 牛油果油",
+    "la tourangelle organic coconut oil":            "La Tourangelle 有機椰子油",
+    "mc trader avocado oil":                         "MC Trader 冷壓牛油果油",
+    "natnat organic coconut oil":                    "NatNat 有機冷壓初榨椰子油",
+    "pietro coricelli avocado oil":                  "Pietro Coricelli 牛油果油",
+    "spectrum avocado oil":                          "Spectrum 牛油果油",
+    "spectrum organic coconut oil":                  "Spectrum 有機椰子油",
+    "superfood lab organic coconut oil":             "Superfood Lab 有機冷壓初榨椰子油",
+
+    // --- Blended & Other Oils (調和油及其他) ---
+    "black & gold vegetable oil":                    "Black & Gold 植物油",
+    "bontaste olive sunflower blended oil":          "鴻亞 橄欖葵花籽油",
+    "emile noel organic sesame oil":                 "Emile Noel 有機芝麻油",
+    "emile noel walnut oil":                         "Emile Noel 核桃油",
+    "knife flaxseed canola blended oil":             "刀嘜 亞麻籽芥花籽油",
+    "knife olive canola blended oil":                "刀嘜 橄欖芥花籽油",
+    "knife olive sunflower blended oil":             "刀嘜 橄欖葵花籽油",
+    "knife supreme healthy peanut blended oil":      "刀嘜 頂級花生風味食油",
+    "knife supreme olive peanut oil":                "刀嘜 頂級橄欖花生油",
+    "knife vitamin e peanut blended oil":            "刀嘜 維他命E花生風味食油",
+    "lion & globe avocado canola blended oil":       "獅球嘜 牛油果芥花籽油",
+    "lion & globe grapeseed canola blended oil":     "獅球嘜 葡萄籽芥花籽油",
+    "lion & globe heart-healthy cooking oil":        "獅球嘜 健心食油",
+    "lion & globe olive canola blended oil":         "獅球嘜 橄欖芥花籽油",
+    "lion & globe olive rice bran blended oil":      "獅球嘜 橄欖米糠油",
+    "lion & globe olive sunflower blended oil":      "獅球嘜 橄欖葵花籽油",
+    "lion & globe peanut aroma nutritious oil":      "獅球嘜 花生味營養食油",
+    "spectrum walnut oil":                           "Spectrum 核桃油",
+    "suncoast gold macadamia oil":                   "Suncoast Gold 澳洲堅果油",
+    "waitrose sunflower olive blended oil":          "Waitrose 葵花籽橄欖油",
+    "waitrose walnut oil":                           "Waitrose 核桃油",
+    ],
+  
+  "麵粉、烘焙用料、梳打粉": [
+ 
+    // ==========================================
+      // 烘焙及烹飪材料 (Baking & Cooking Ingredients)
+      // ==========================================
+
+      // --- Flour & Starch (麵粉及澱粉) ---
+      "american roses premium cake flour":             "美玫牌 頂級低筋麵粉",
+      "bobs red mill almond flour":                    "Bob's Red Mill 杏仁粉",
+      "bobs red mill gluten free 1 to 1 baking flour": "Bob's Red Mill 無麩質 1:1 烘焙麵粉",
+      "bobs red mill gluten free all purpose baking flour": "Bob's Red Mill 無麩質全用途麵粉",
+      "bobs red mill organic brown rice flour":        "Bob's Red Mill 有機糙米粉",
+      "bobs red mill organic buckwheat flour":         "Bob's Red Mill 有機蕎麥粉",
+      "bobs red mill stone ground whole wheat flour":  "Bob's Red Mill 石磨全麥麵粉",
+      "bobs red mill whole wheat flour":               "Bob's Red Mill 全麥麵粉",
+      "cholias whole wheat flour":                     "Cholia's 全麥麵粉 (Atta)",
+      "cj beksul medium flour":                        "CJ Beksul 中筋麵粉",
+      "cj beksul soft flour":                          "CJ Beksul 低筋麵粉",
+      "cj beksul strong flour":                        "CJ Beksul 高筋麵粉",
+      "diamond fried powder":                          "鑽石牌 炸粉",
+      "diamond high gluten flour":                     "鑽石牌 高筋麵粉",
+      "diamond low gluten flour":                      "鑽石牌 低筋麵粉",
+      "doves farm organic gluten free flour":          "Doves Farm 有機無麩質麵粉",
+      "erawan finest glutinous flour":                 "三象牌 糯米粉",
+      "erawan finest rice flour":                      "三象牌 粘米粉",
+      "essential waitrose plain white flour":          "Essential Waitrose 中筋麵粉",
+      "essential waitrose self raising flour":         "Essential Waitrose 自發粉",
+      "essential waitrose semolina":                   "Essential Waitrose 粗粒小麥粉",
+      "essential waitrose strong wholemeal bread flour": "Essential Waitrose 全麥高筋麵包粉",
+      "gold medal flour":                              "金牌 麵粉",
+      "golden statue premium all purpose flour":       "金像牌 頂級中筋麵粉",
+      "golden statue premium bread flour":             "金像牌 頂級麵包粉",
+      "grace & mayor ground almonds":                  "Grace & Mayor 杏仁粉",
+      "green dot dot almond powder":                   "點點綠 杏仁粉",
+      "honest to goodness organic coconut flour":      "Honest to Goodness 有機椰子粉",
+      "honest to goodness organic white all purpose flour": "Honest to Goodness 有機中筋麵粉",
+      "ideal corn starch":                             "理想牌 粟粉",
+      "ideal tapioca starch":                          "理想牌 木薯粉",
+      "imperial banquet glutinous rice flour":         "金御膳 糯米粉",
+      "imperial banquet rice flour":                   "金御膳 粘米粉",
+      "imperial banquet tapioca starch":               "金御膳 木薯粉",
+      "kangaroo self raising flour":                   "袋鼠牌 自發粉",
+      "kingsfords corn starch":                        "康師傅 粟粉",
+      "nippon kitchen high gluten flour":              "日本廚房 高筋麵粉",
+      "nippon kitchen low gluten flour":               "日本廚房 低筋麵粉",
+      "nippon tempura powder":                         "日本 天婦羅粉",
+      "pan tang pure water chestnut flour":            "泮塘 馬蹄粉",
+      "rich plain flour":                              "雙錢 中筋麵粉",
+      "royal sakura japanese style bread flour":       "皇冠櫻花 日式麵包粉",
+      "select corn starch":                            "佳之選 粟粉",
+      "waitrose canadian white bread flour":           "Waitrose 加拿大白麵包粉",
+      "waitrose cornflour":                            "Waitrose 粟粉",
+      "waitrose duchy organic plain white flour":      "Waitrose Duchy 有機中筋白麵粉",
+      "waitrose duchy organic plain wholemeal flour":  "Waitrose Duchy 有機全麥中筋麵粉",
+      "waitrose duchy organic self raising white flour": "Waitrose Duchy 有機自發粉",
+      "waitrose duchy organic strong malted grain bread flour": "Waitrose Duchy 有機麥芽麵包粉",
+      "waitrose duchy organic strong white flour":     "Waitrose Duchy 有機高筋白麵粉",
+      "waitrose duchy organic strong wholemeal flour": "Waitrose Duchy 有機全麥高筋麵粉",
+      "waitrose leckford plain white flour":           "Waitrose Leckford 中筋白麵粉",
+      "waitrose strong white bread flour":             "Waitrose 高筋白麵包粉",
+      "waitrose super fine pasta flour":               "Waitrose 特細意粉麵粉",
+      "white wings flour":                             "White Wings 麵粉",
+
+      // --- Baking Mixes (烘焙預拌粉) ---
+      "betty crocker banana nut muffin mix":           "Betty Crocker 鬆餅粉 (香蕉合桃)",
+      "betty crocker bisquick baking mix":             "Betty Crocker Bisquick 烘焙預拌粉",
+      "betty crocker blueberry muffin mix":            "Betty Crocker 鬆餅粉 (藍莓)",
+      "betty crocker brownie mix":                     "Betty Crocker 布朗尼粉",
+      "betty crocker chocolate chip cookie mix":       "Betty Crocker 曲奇粉 (朱古力粒)",
+      "betty crocker double chocolate chunk cookie mix": "Betty Crocker 曲奇粉 (雙重朱古力)",
+      "betty crocker oatmeal chocolate chip cookie mix": "Betty Crocker 曲奇粉 (燕麥朱古力粒)",
+      "betty crocker pancake mix":                     "Betty Crocker 班戟粉",
+      "betty crocker supermoist chocolate fudge cake mix": "Betty Crocker 超軟蛋糕粉 (朱古力軟糖)",
+      "betty crocker supermoist devils food cake mix": "Betty Crocker 超軟蛋糕粉 (魔鬼蛋糕)",
+      "betty crocker supermoist lemon cake mix":       "Betty Crocker 超軟蛋糕粉 (檸檬)",
+      "betty crocker supermoist yellow cake mix":      "Betty Crocker 超軟蛋糕粉 (黃蛋糕)",
+      "bobs red mill gluten free pancake mix":         "Bob's Red Mill 無麩質班戟粉",
+      "creative nature banana bread mix":              "Creative Nature 香蕉糕粉",
+      "creative nature sticky toffee cake mix":        "Creative Nature 拖肥蛋糕粉",
+      "diamond custard powder":                        "鑽石牌 吉士粉",
+      "easiyo greek style yoghurt mix":                "EasiYo 乳酪粉 (希臘式無糖)",
+      "essential waitrose custard":                    "Essential Waitrose 吉士粉",
+      "golden statue milk bread premix":               "金像牌 牛奶麵包預拌粉",
+      "golden statue white bread premix":              "金像牌 白麵包預拌粉",
+      "golden statue whole wheat bread premix":        "金像牌 全麥麵包預拌粉",
+      "morinaga hokkaido pancake mix":                 "森永 北海道班戟粉",
+      "morinaga pancake mix":                          "森永 班戟粉",
+      "morinaga premium hotcake mix":                  "森永 頂級班戟粉",
+      "nagatanien pancake mix":                        "永谷園 班戟粉",
+      "pondan chocolate pancake mix":                  "Pondan 朱古力班戟粉",
+      "pondan pandan chiffon cake mix":                "Pondan 班蘭雪紡蛋糕粉",
+      "white wings panjacks pancake mix":              "White Wings 班戟粉",
+
+      // --- Baking Powder, Soda & Yeast (發粉、蘇打粉及酵母) ---
+      "alsa baking yeast":                             "Alsa 烘焙酵母",
+      "arm & hammer baking soda":                      "Arm & Hammer 蘇打粉",
+      "bobs red mill gluten free baking soda":         "Bob's Red Mill 無麩質蘇打粉",
+      "diamond instant yeast":                         "鑽石牌 即溶酵母",
+      "dr oetker baking powder":                       "Dr. Oetker 發粉",
+      "dr oetker bicarbonate of soda":                 "Dr. Oetker 蘇打粉",
+      "ideal active dried yeast":                      "理想牌 活性乾酵母",
+      "ideal baking powder":                           "理想牌 發粉",
+      "ideal bicarbonate of soda":                     "理想牌 蘇打粉",
+      "saf instant dry yeast":                         "Saf-Instant 即發乾酵母",
+      "waitrose baking powder":                        "Waitrose 發粉",
+
+      // --- Sugars, Syrups & Chocolate (糖、糖漿及朱古力) ---
+      "black & gold cocoa powder":                     "Black & Gold 可可粉",
+      "dr oetker dark chocolate chips":                "Dr. Oetker 黑朱古力粒",
+      "dr oetker extra dark chocolate chunks":         "Dr. Oetker 特濃黑朱古力塊",
+      "dr oetker liquid glucose":                      "Dr. Oetker 液體葡萄糖",
+      "dr oetker milk chocolate chips":                "Dr. Oetker 牛奶朱古力粒",
+      "dr oetker milk chocolate chunks":               "Dr. Oetker 牛奶朱古力塊",
+      "hersheys cocoa powder":                         "Hershey's 烘焙可可粉",
+      "karo light corn syrup":                         "Karo 粟米糖漿 (淡味)",
+      "tai koo caster sugar":                          "太古 幼砂糖",
+      "tai koo icing sugar":                           "太古 糖霜",
+
+      // --- Decorations, Colors & Flavorings (裝飾、色素及香料) ---
+      "betty crocker chocolate fudge icing":           "Betty Crocker 朱古力軟糖糖霜",
+      "betty crocker vanilla buttercream icing":       "Betty Crocker 雲呢拿味糖霜",
+      "cape foods cake decorations":                   "Cape Foods 蛋糕裝飾",
+      "dr oetker blue food colouring":                 "Dr. Oetker 食用色素 (藍色)",
+      "dr oetker coloured ready rolled icing":         "Dr. Oetker 糖皮 (彩色)",
+      "dr oetker green food colouring":                "Dr. Oetker 食用色素 (綠色)",
+      "dr oetker red food colouring":                  "Dr. Oetker 食用色素 (紅色)",
+      "dr oetker vanilla extract":                     "Dr. Oetker 雲呢拿香油",
+      "dr oetker white ready rolled icing":            "Dr. Oetker 糖皮 (白色)",
+      "dr oetker yellow food colouring":               "Dr. Oetker 食用色素 (黃色)",
+      "epicure vanilla beans":                         "Epicure 雲呢拿豆",
+      "essential waitrose yellow food colouring":      "Essential Waitrose 食用色素 (黃色)",
+      "queen rainbow food colouring":                  "Queen 彩虹食用色素",
+      "queen vanilla bean paste":                      "Queen 雲呢拿籽醬",
+      "queen vanilla extract":                         "Queen 雲呢拿香油",
+      "rayners vanilla essence":                       "Rayner's 雲呢拿香精",
+      "waitrose blue food colouring":                  "Waitrose 食用色素 (藍色)",
+      "waitrose green food colouring":                 "Waitrose 食用色素 (綠色)",
+
+      // --- Jelly & Gelatine (啫喱及魚膠) ---
+      "community co lime jelly":                       "Community Co. 啫喱粉 (青檸味)",
+      "community co raspberry jelly":                  "Community Co. 啫喱粉 (紅桑子味)",
+      "community co strawberry jelly":                 "Community Co. 啫喱粉 (士多啤梨味)",
+      "dr oetker leaf gelatine":                       "Dr. Oetker 魚膠片",
+      "jell o berry gelatin":                          "Jell-O 啫喱粉 (雜莓味)",
+      "jell o lemon gelatin":                          "Jell-O 啫喱粉 (檸檬味)",
+      "jell o lime gelatin":                           "Jell-O 啫喱粉 (青檸味)",
+      "jell o raspberry gelatin":                      "Jell-O 啫喱粉 (紅桑子味)",
+      "robertsons assorted jelly powder":              "羅拔臣 啫喱粉 (雜果味)",
+      "robertsons gelatine":                           "羅拔臣 魚膠粉",
+      "robertsons mango jelly powder":                 "羅拔臣 啫喱粉 (芒果味)",
+
+      // --- Coconut Products (椰子產品) ---
+      "ayam brand coconut milk":                       "雄雞標 椰漿",
+      "ayam brand light coconut milk":                 "雄雞標 淡椰漿",
+      "daisy coconut milk":                            "Daisy 椰漿",
+      "honest to goodness organic coconut cream":      "Honest to Goodness 有機椰漿",
+      "kara coconut cream":                            "佳樂 椰漿",
+      "natures charm coconut milk":                    "Nature's Charm 椰奶",
+      "natures charm coconut whipping cream":          "Nature's Charm 椰子淡忌廉",
+      "osc coconut milk":                              "OSC 椰漿",
+      "s&p sejati desiccated coconut":                 "S&P Sejati 椰絲",
+      "select coconut milk":                           "佳之選 椰漿",
+      "suree coconut milk":                            "Suree 泰國椰漿",
+
+      // --- Nuts, Seeds & Fruits (果仁、種子及乾果) ---
+      "black & gold lemon juice":                      "Black & Gold 檸檬汁",
+      "blue diamond sliced almonds":                   "Blue Diamond 杏仁片",
+      "casino apple compote":                          "Casino 蘋果蓉",
+      "libbys pumpkin puree":                          "Libby's 南瓜蓉",
+      "waitrose mixed peel":                           "Waitrose 雜果皮",
+      "waitrose sesame seeds":                         "Waitrose 芝麻",
+      "waitrose stem ginger in syrup":                 "Waitrose 糖水薑",
+      "waitrose whole blanched almonds":               "Waitrose 去皮原粒杏仁",
+
+      // --- Others (其他) ---
+      "diamond bread crumbs":                          "鑽石牌 麵包糠",
+      "golden churn butter":                           "金桶牛油",
+      "ideal breadcrumbs":                             "理想牌 麵包糠",
+      "nippon breadcrumbs":                            "日本 麵包糠",
+      "nissin panko breadcrumbs":                      "日清 麵包糠",
+      "waitrose panko breadcrumbs":                    "Waitrose 日式麵包糠",
+    ],
+  
+  "餅乾、曲奇": [
+  
+    // ==========================================
+      // 餅乾及曲奇 (Biscuits & Cookies)
+      // ==========================================
+
+      // --- Chips Ahoy ---
+      "chips ahoy chocolate chip cookies":             "Chips Ahoy 朱古力粒曲奇",
+      "chips ahoy chunky chocolate cookies":           "Chips Ahoy 特濃朱古力粒曲奇",
+      "chips ahoy chunky double chocolate cookies":    "Chips Ahoy 雙重朱古力粒曲奇",
+      "chips ahoy mini mocha hazelnut cookies":        "Chips Ahoy 迷你摩卡榛子味曲奇",
+      "chips ahoy original chocolate chip cookies":    "Chips Ahoy 原味朱古力粒曲奇",
+
+      // --- Oreo ---
+      "oreo chocolate cream sandwich cookies":         "Oreo 朱古力夾心曲奇",
+      "oreo chocolate sandwich cookies":               "Oreo 朱古力夾心曲奇",
+      "oreo dark white chocolate cookies":             "Oreo 黑白朱古力味曲奇",
+      "oreo less sugar cookies":                       "Oreo 減糖曲奇",
+      "oreo light sweet chocolate cookies":            "Oreo 輕甜朱古力曲奇",
+      "oreo mild sweet cookies":                       "Oreo 輕甜夾心曲奇",
+      "oreo mini chocolate cookies":                   "Oreo 迷你朱古力味曲奇",
+      "oreo mini original cookies":                    "Oreo 迷你原味曲奇",
+      "oreo mini vanilla cookies":                     "Oreo 迷你雲呢拿味曲奇",
+      "oreo original sandwich cookies":                "Oreo 原味夾心曲奇",
+      "oreo strawberry cream sandwich cookies":        "Oreo 士多啤梨夾心曲奇",
+      "oreo vanilla multipack":                        "Oreo 雲呢拿味曲奇 (多包裝)",
+
+      // --- Julie's ---
+      "julies lemond cheese sandwich biscuit":         "Julie's 雷蒙德芝士味夾心餅",
+      "julies lemond chocolate hazelnut sandwich biscuit": "Julie's 雷蒙德朱古力榛子味夾心餅",
+      "julies lemond lemon sandwich biscuit":          "Julie's 雷蒙德檸檬味夾心餅",
+      "julies peanut butter sandwich biscuit":         "Julie's 花生醬夾心餅",
+
+      // --- McVitie's ---
+      "mcvities club orange":                          "麥維他 Club Orange 朱古力餅",
+      "mcvities digestive bar chocolate":              "麥維他 朱古力消化餅條",
+      "mcvities digestive bar original":               "麥維他 原味消化餅條",
+      "mcvities digestive cream chocolate":            "麥維他 朱古力忌廉夾心消化餅",
+      "mcvities digestive cream vanilla":              "麥維他 雲呢拿忌廉夾心消化餅",
+      "mcvities digestive milk chocolate":             "麥維他 牛奶朱古力消化餅",
+      "mcvities digestive oat":                        "麥維他 燕麥消化餅",
+      "mcvities digestive original":                   "麥維他 原味消化餅",
+      "mcvities go ahead apple sultana":               "麥維他 Go Ahead 蘋果提子餅",
+      "mcvities go ahead crispy slices apple":         "麥維他 Go Ahead 蘋果脆片",
+      "mcvities go ahead crispy slices forest fruit":  "麥維他 Go Ahead 雜莓脆片",
+      "mcvities go ahead forest fruit":                "麥維他 Go Ahead 雜莓餅",
+      "mcvities go ahead yogurt breaks forest fruit":  "麥維他 Go Ahead 乳酪餅 (雜莓)",
+      "mcvities go ahead yogurt breaks strawberry":    "麥維他 Go Ahead 乳酪餅 (士多啤梨)",
+      "mcvities light digestive":                      "麥維他 輕怡消化餅",
+      "mcvities marie finger biscuit":                 "麥維他 瑪利手指餅",
+      "mcvities milk chocolate digestive":             "麥維他 牛奶朱古力消化餅",
+      "mcvities plain chocolate digestive":            "麥維他 黑朱古力消化餅",
+
+      // --- Kjeldsens (丹麥藍罐) ---
+      "kjeldsens butter chocolate assortment":         "丹麥藍罐 牛油朱古力曲奇禮盒",
+      "kjeldsens butter cookies":                      "丹麥藍罐 牛油曲奇",
+      "kjeldsens chocolate chip cookies":              "丹麥藍罐 朱古力粒曲奇",
+      "kjeldsens currant chocolate cookies":           "丹麥藍罐 加侖子朱古力曲奇",
+      "kjeldsens currant cookies":                     "丹麥藍罐 加侖子曲奇",
+      "kjeldsens european tea time assortment":        "丹麥藍罐 歐式茶點禮盒",
+      "kjeldsens macadamia nut chocolate chip cookies": "丹麥藍罐 夏威夷果仁朱古力粒曲奇",
+      "kjeldsens oat blueberry cookies":               "丹麥藍罐 燕麥藍莓曲奇",
+
+      // --- Lotus ---
+      "lotus biscoff caramelised biscuits":            "Lotus Biscoff 焦糖餅乾",
+      "lotus biscoff cream biscuits":                  "Lotus Biscoff 夾心餅",
+      "lotus biscoff milk chocolate":                  "Lotus Biscoff 牛奶朱古力餅",
+      "lotus biscoff vanilla cream":                   "Lotus Biscoff 雲呢拿夾心餅",
+
+      // --- Pepperidge Farm ---
+      "pepperidge farm goldfish cheddar":              "Pepperidge Farm 金魚餅 (芝士味)",
+      "pepperidge farm goldfish cheddar multipack":    "Pepperidge Farm 金魚餅 (芝士味多包裝)",
+      "pepperidge farm goldfish original":             "Pepperidge Farm 金魚餅 (原味)",
+      "pepperidge farm goldfish parmesan":             "Pepperidge Farm 金魚餅 (巴馬臣芝士味)",
+      "pepperidge farm milano cookies":                "Pepperidge Farm 米蘭曲奇",
+      "pepperidge farm mint milano":                   "Pepperidge Farm 薄荷米蘭曲奇",
+      "pepperidge farm soft baked dark chocolate cookies": "Pepperidge Farm 軟心黑朱古力曲奇",
+
+      // --- Quaker (桂格) ---
+      "quaker chocolate chip cookies":                 "桂格 朱古力粒曲奇",
+      "quaker honey nut cookies":                      "桂格 蜜糖果仁曲奇",
+      "quaker raisin cookies":                         "桂格 提子曲奇",
+
+      // --- Gullon ---
+      "gullon almond corn cereal biscuit":             "Gullon 杏仁粟米穀物餅",
+      "gullon cereal biscuit":                         "Gullon 穀物餅",
+      "gullon chocolate cereal biscuit":               "Gullon 朱古力穀物餅",
+      "gullon chocolate chip soya cookies":            "Gullon 朱古力粒大豆曲奇",
+      "gullon chocolate digestive sugar free":         "Gullon 無糖朱古力消化餅",
+      "gullon digestive sugar free":                   "Gullon 無糖消化餅",
+      "gullon fruit cereal biscuit":                   "Gullon 水果穀物餅",
+      "gullon maria biscuit sugar free":               "Gullon 無糖瑪利餅",
+      "gullon oats orange cookies":                    "Gullon 燕麥香橙曲奇",
+      "gullon whole wheat biscuit sugar free":         "Gullon 無糖全麥餅",
+      "gullon yogurt sandwich biscuit sugar free":     "Gullon 無糖乳酪夾心餅",
+
+      // --- Arnott's ---
+      "arnotts country cheese":                        "Arnott's Country Cheese 芝士餅",
+      "arnotts jatz cracked pepper":                   "Arnott's Jatz 黑椒餅",
+      "arnotts milk arrowroot":                        "Arnott's 牛奶葛粉餅",
+      "arnotts mint slice":                            "Arnott's 薄荷朱古力餅",
+      "arnotts scotch finger":                         "Arnott's 手指酥餅",
+      "arnotts shapes barbecue":                       "Arnott's Shapes 燒烤味餅乾",
+      "arnotts shapes cheddar":                        "Arnott's Shapes 芝士味餅乾",
+      "arnotts shapes pizza":                          "Arnott's Shapes 比薩味餅乾",
+      "arnotts shortbread cream":                      "Arnott's 奶油酥餅",
+      "arnotts sweet bites chocolate":                 "Arnott's Sweet Bites 朱古力曲奇",
+      "arnotts tim tam chewy caramel":                 "Arnott's Tim Tam 焦糖朱古力餅",
+      "arnotts tim tam dark chocolate":                "Arnott's Tim Tam 黑朱古力餅",
+      "arnotts tim tam double coat":                   "Arnott's Tim Tam 雙層朱古力餅",
+      "arnotts tim tam original":                      "Arnott's Tim Tam 朱古力餅 (原味)",
+
+      // --- Garden (嘉頓) ---
+      "garden butter roll chocolate":                  "嘉頓 朱古力牛油卷",
+      "garden butter roll original":                   "嘉頓 牛油卷",
+      "garden cheese soymilk flv wafer cubes":         "嘉頓 芝士豆奶味威化粒",
+      "garden chicken thins":                          "嘉頓 雞片",
+      "garden chocolate fingers":                      "嘉頓 朱古力手指餅",
+      "garden chocolate wafer":                        "嘉頓 朱古力威化",
+      "garden coconut cookies":                        "嘉頓 椰子曲奇",
+      "garden coconut rings":                          "嘉頓 椰子圈",
+      "garden coconut wafer":                          "嘉頓 椰子威化",
+      "garden cream crackers":                         "嘉頓 忌廉檳",
+      "garden durian wafer":                           "嘉頓 榴槤威化",
+      "garden eggo black sesame":                      "嘉頓 雞蛋餅 (黑芝麻味)",
+      "garden eggo peanut":                            "嘉頓 雞蛋餅 (花生味)",
+      "garden gala crackers":                          "嘉頓 嘉拿餅",
+      "garden hazelnut chocolate flv wafer cubes":     "嘉頓 榛子朱古力味威化粒",
+      "garden lemon cream wafers":                     "嘉頓 檸檬威化",
+      "garden lemon puff":                             "嘉頓 檸檬夾心餅",
+      "garden malkist crackers":                       "嘉頓 麥芽酥餅",
+      "garden marie biscuits":                         "嘉頓 瑪利餅",
+      "garden mini butter roll":                       "嘉頓 迷你牛油卷",
+      "garden mini chocolate wafer":                   "嘉頓 迷你威化 (朱古力味)",
+      "garden mini cream wafers chocolate flv":        "嘉頓 迷你威化 (朱古力味)",
+      "garden mini cream wafers peanut flv":           "嘉頓 迷你威化 (花生味)",
+      "garden mini cream wafers-straw flavor":         "嘉頓 迷你威化 (士多啤梨味)",
+      "garden mini pop pan (spring onion cracker)":    "嘉頓 香蔥薄餅",
+      "garden mini wafer assorted":                    "嘉頓 迷你威化禮盒",
+      "garden mini wafer chocolate":                   "嘉頓 迷你威化 (朱古力味)",
+      "garden mini wafer peanut":                      "嘉頓 迷你威化 (花生味)",
+      "garden mini wafer strawberry":                  "嘉頓 迷你威化 (士多啤梨味)",
+      "garden multigrain crackers":                    "嘉頓 多穀類梳打餅",
+      "garden original saltine":                       "嘉頓 原味梳打餅",
+      "garden peanut eggo":                            "嘉頓 雞蛋餅 (花生味)",
+      "garden peanut wafer":                           "嘉頓 花生威化",
+      "garden pop pan":                                "嘉頓 香蔥薄餅",
+      "garden pop pan spring onion":                   "嘉頓 香蔥薄餅",
+      "garden purple potato wafers":                   "嘉頓 紫薯威化",
+      "garden saltine original":                       "嘉頓 原味梳打餅",
+      "garden saltine sesame":                         "嘉頓 芝麻梳打餅",
+      "garden sesame cracker(ind pack)":               "嘉頓 芝麻餅",
+      "garden sesame crackers":                        "嘉頓 芝麻餅",
+      "garden sesame malkist portion":                 "嘉頓 芝麻麥芽酥餅",
+      "garden sesame saltine":                         "嘉頓 芝麻梳打餅",
+      "garden sisisic assorted sandwich":              "嘉頓 時時食 什錦夾心餅",
+      "garden sisisic cheese sandwich":                "嘉頓 時時食 芝士味夾心餅",
+      "garden sisisic chocolate sandwich":             "嘉頓 時時食 朱古力味夾心餅",
+      "garden sisisic lemon sandwich":                 "嘉頓 時時食 檸檬味夾心餅",
+      "garden sisisic peanut sandwich":                "嘉頓 時時食 花生味夾心餅",
+      "garden strawberry flavour wafer":               "嘉頓 士多啤梨威化",
+      "garden strawberry yoghurt flv wafer cubes":     "嘉頓 士多啤梨乳酪味威化粒",
+      "garden uji matcha flv wafer":                   "嘉頓 宇治抹茶威化",
+      "garden vanilla wafer":                          "嘉頓 雲呢拿威化",
+      "garden wafer chocolate":                        "嘉頓 朱古力威化",
+      "garden wafer coconut":                          "嘉頓 椰子威化",
+      "garden wafer cubes cheese soymilk":             "嘉頓 芝士豆奶味威化粒",
+      "garden wafer cubes hazelnut chocolate":         "嘉頓 榛子朱古力味威化粒",
+      "garden wafer cubes strawberry yoghurt":         "嘉頓 士多啤梨乳酪味威化粒",
+      "garden wafer durian":                           "嘉頓 榴槤威化",
+      "garden wafer lemon":                            "嘉頓 檸檬威化",
+      "garden wafer peanut":                           "嘉頓 花生威化",
+      "garden wafer purple potato":                    "嘉頓 紫薯威化",
+      "garden wafer strawberry":                       "嘉頓 士多啤梨威化",
+      "garden wafer uji matcha":                       "嘉頓 宇治抹茶威化",
+      "garden wafer vanilla":                          "嘉頓 雲呢拿威化",
+      "garden water crackers":                         "嘉頓 梳打餅",
+      "garden wheat cookie chocolate":                 "嘉頓 朱古力全麥曲奇",
+      "garden wheat cookie matcha":                    "嘉頓 抹茶全麥曲奇",
+
+      // --- Four Seas (四洲) ---
+      "four seas biscuit stick chocolate":             "四洲 甘大滋 (朱古力味)",
+      "four seas biscuit stick multipack":             "四洲 甘大滋 (家庭裝)",
+      "four seas biscuit stick salad":                 "四洲 甘大滋 (沙律味)",
+      "four seas biscuit stick tomato":                "四洲 甘大滋 (番茄味)",
+      "four seas biscuits":                            "四洲 餅乾",
+      "four seas cracker seaweed":                     "四洲 紫菜梳打餅",
+      "four seas cracker sesame":                      "四洲 芝麻梳打餅",
+      "four seas lemon sandwich biscuit":              "四洲 檸檬夾心餅",
+      "four seas seaweed cracker":                     "四洲 紫菜梳打餅",
+      "four seas sesame cracker":                      "四洲 芝麻梳打餅",
+      "four seas thousand island salad cracker":       "四洲 千島沙律醬味梳打餅",
+      "four seas tomato cracker":                      "四洲 番茄味梳打餅",
+
+      // --- Ginbis (愉快動物餅) ---
+      "ginbis animal biscuits butter":                 "愉快動物餅 (牛油味)",
+      "ginbis animal biscuits butter multipack":       "愉快動物餅 (牛油味多包裝)",
+      "ginbis animal biscuits multipack":              "愉快動物餅 (雜錦)",
+      "ginbis animal biscuits salad multipack":        "愉快動物餅 (沙律味多包裝)",
+      "ginbis animal biscuits seaweed":                "愉快動物餅 (紫菜味)",
+      "ginbis animal biscuits seaweed multipack":      "愉快動物餅 (紫菜味多包裝)",
+
+      // --- Lotte (樂天) ---
+      "lotte almond pepero":                           "樂天 Pepero 杏仁朱古力百力滋",
+      "lotte chocopie":                                "樂天 朱古力批",
+      "lotte crunky pepero":                           "樂天 Pepero Crunky 脆米百力滋",
+      "lotte koalas march bitter chocolate":           "樂天 熊仔餅 (黑朱古力味)",
+      "lotte koalas march bitter chocolate family pack": "樂天 熊仔餅 (黑朱古力味家庭裝)",
+      "lotte koalas march chocolate":                  "樂天 熊仔餅 (朱古力味)",
+      "lotte koalas march chocolate family pack":      "樂天 熊仔餅 (朱古力味家庭裝)",
+      "lotte koalas march easter":                     "樂天 熊仔餅 (復活節版)",
+      "lotte koalas march easter family pack":         "樂天 熊仔餅 (復活節版家庭裝)",
+      "lotte koalas march strawberry":                 "樂天 熊仔餅 (士多啤梨味)",
+      "lotte koalas march strawberry family pack":     "樂天 熊仔餅 (士多啤梨味家庭裝)",
+      "lotte koalas march strawberry milk":            "樂天 熊仔餅 (士多啤梨牛奶味)",
+      "lotte koalas march white chocolate":            "樂天 熊仔餅 (白朱古力味)",
+      "lotte koalas march white chocolate cheese family pack": "樂天 熊仔餅 (白朱古力芝士味家庭裝)",
+      "lotte pepero almond":                           "樂天 Pepero 杏仁朱古力百力滋",
+      "lotte pepero choco cookie":                     "樂天 Pepero 朱古力曲奇百力滋",
+      "lotte pepero crunky":                           "樂天 Pepero Crunky 脆米百力滋",
+      "lotte pepero snowy almond":                     "樂天 Pepero 雪白杏仁百力滋",
+      "lotte pepero white cookie":                     "樂天 Pepero 白朱古力曲奇百力滋",
+      "lotte zero cookie":                             "樂天 Zero 曲奇",
+
+      // --- Select (佳之選) ---
+      "select almond pastry":                          "佳之選 杏仁酥",
+      "select animal biscuit":                         "佳之選 動物餅",
+      "select cheese pastry":                          "佳之選 芝士酥",
+      "select ginger pastry":                          "佳之選 薑汁酥",
+      "select japanese green tea noodles":             "佳之選 綠茶麵",
+      "select japanese style ramen":                   "佳之選 日式拉麵",
+      "select japanese style udon":                    "佳之選 日式烏冬",
+      "select kimchi seaweed":                         "佳之選 泡菜紫菜",
+      "select knife-cut style noodles":                "佳之選 刀削麵",
+      "select lemon flavour cream wafers":             "佳之選 檸檬威化",
+      "select oat cracker":                            "佳之選 燕麥梳打餅",
+      "select peanut flavored wafer":                  "佳之選 花生威化",
+      "select salted egg yolk pastry":                 "佳之選 鹹蛋黃酥",
+      "select saltine cracker":                        "佳之選 鹽味梳打餅",
+      "select sandwich biscuit cheese":                "佳之選 芝士夾心餅",
+      "select sandwich biscuit lemon":                 "佳之選 檸檬夾心餅",
+      "select sandwich biscuit peanut":                "佳之選 花生夾心餅",
+      "select scallop noodles":                        "佳之選 瑤柱麵",
+      "select seaweed":                                "佳之選 紫菜",
+      "select seaweed cracker":                        "佳之選 紫菜梳打餅",
+      "select seaweed pastry":                         "佳之選 紫菜酥",
+      "select sesame cracker":                         "佳之選 芝麻梳打餅",
+      "select sesame pastry":                          "佳之選 芝麻酥",
+      "select shanghai noodles":                       "佳之選 上海麵",
+      "select shell pasta":                            "佳之選 貝殼粉",
+      "select sichuan noodles":                        "佳之選 四川擔擔麵",
+      "select spring onion cracker":                   "佳之選 香蔥梳打餅",
+      "select strawberry cream wafers":                "佳之選 士多啤梨威化",
+      "select wafer chocolate":                        "佳之選 朱古力威化",
+      "select wafer lemon":                            "佳之選 檸檬威化",
+      "select wafer peanut":                           "佳之選 花生威化",
+      "select wafer strawberry":                       "佳之選 士多啤梨威化",
+      "select wasabi seaweed":                         "佳之選 芥末紫菜",
+      "select wheat pastry":                           "佳之選 小麥酥",
+
+      // --- Crich ---
+      "crich cereal sesame cracker":                   "Crich 穀物芝麻梳打餅",
+      "crich olive oil rosemary cracker":              "Crich 橄欖油迷迭香梳打餅",
+      "crich wafer cappucino":                         "Crich 意大利泡沫咖啡威化",
+      "crich wafer cocoa":                             "Crich 可可威化",
+      "crich wafer hazelnut":                          "Crich 榛子威化",
+      "crich wafer vanilla":                           "Crich 雲呢拿威化",
+      "crich wafer wild berry":                        "Crich 野莓威化",
+
+      // --- SHL ---
+      "shl cream cracker":                             "SHL 忌廉梳打餅",
+
+      // --- Milo & Ovaltine (美祿 & 阿華田) ---
+      "milo chocolate sandwich cookie":                "美祿 朱古力夾心曲奇",
+      "milo milk chocolate sandwich cookie":           "美祿 牛奶朱古力夾心曲奇",
+      "nestle milo nuggets":                           "雀巢 美祿粒粒",
+      "ovaltine chocolate malt cookies":               "阿華田 朱古力麥芽曲奇",
+
+      // --- Ritz ---
+      "ritz cheese sandwich":                          "Ritz 芝士夾心餅",
+      "ritz lemon sandwich":                           "Ritz 檸檬夾心餅",
+      "ritz wafer roll cheese":                        "Ritz 芝士威化卷",
+
+      // --- ACE ---
+      "ace black sesame cracker":                      "ACE 黑芝麻梳打餅",
+      "ace rich staple black sesame cracker":          "ACE 豐富黑芝麻梳打餅",
+      "ace rich staple grains soda cracker":           "ACE 豐富穀物梳打餅",
+
+      // --- Van Der Meulen ---
+      "van der meulen melba toast":                    "Van Der Meulen 多士",
+
+      // --- Khong Guan (康元) ---
+      "khong guan sultana biscuits":                   "康元 提子餅",
+
+      // --- Casino ---
+      "casino apricot biscuits":                       "Casino 杏脯夾心餅",
+      "casino bio organic rice wafer":                 "Casino Bio 有機米餅",
+      "casino brownie cookies":                        "Casino 布朗尼曲奇",
+      "casino butter biscuit milk chocolate":          "Casino 牛奶朱古力牛油餅",
+      "casino dark chocolate cookies":                 "Casino 黑朱古力曲奇",
+      "casino milk chocolate cereal biscuits":         "Casino 牛奶朱古力穀物餅",
+      "casino puff palmier biscuits":                  "Casino 蝴蝶酥",
+      "casino strawberry biscuits":                    "Casino 士多啤梨夾心餅",
+      "casino thin biscuits":                          "Casino 薄脆餅乾",
+
+      // --- Hansel ---
+      "hansel cheese sandwich":                        "Hansel 芝士夾心餅",
+
+      // --- Vicenzi ---
+      "vicenzi cream puff hazelnut":                   "Vicenzi 榛子忌廉泡芙",
+      "vicenzi lady finger":                           "Vicenzi 手指餅",
+      "vicenzi millefoglie":                           "Vicenzi 千層酥",
+      "vicenzi pastry puff":                           "Vicenzi 酥皮點心",
+
+      // --- CEO ---
+      "ceo soda biscuit black sesame":                 "CEO 黑芝麻梳打餅",
+      "ceo soda biscuit chia quinoa":                  "CEO 奇亞籽藜麥梳打餅",
+      "ceo soda biscuit rye sea salt":                 "CEO 黑麥海鹽梳打餅",
+      "ceo soda biscuit thousand island":              "CEO 千島醬味梳打餅",
+      "ceo soda biscuit tomato":                       "CEO 番茄梳打餅",
+      "ceo soda biscuit wasabi":                       "CEO 芥末梳打餅",
+      "ceo soda biscuit wheat":                        "CEO 小麥梳打餅",
+
+      // --- Community Co. ---
+      "community co cranberry pumpkin seed cracker":   "Community Co. 紅莓南瓜籽餅乾",
+      "community co date apricot cracker":             "Community Co. 椰棗杏脯餅乾",
+      "community co gluten free biscuit cream":        "Community Co. 無麩質忌廉夾心餅",
+      "community co gluten free chocolate chip cookies": "Community Co. 無麩質朱古力粒曲奇",
+
+      // --- Best Buy (超值牌) ---
+      "best buy coconut biscuits":                     "超值牌 椰子餅",
+      "best buy coix seed biscuit":                    "超值牌 薏米餅",
+      "best buy cream cracker":                        "超值牌 忌廉梳打餅",
+      "best buy gala cracker":                         "超值牌 嘉拿餅",
+      "best buy ice gem biscuits":                     "超值牌 花占餅",
+      "best buy lemon puff":                           "超值牌 檸檬夾心餅",
+      "best buy malkist cracker":                      "超值牌 麥芽酥餅",
+      "best buy malkist lemon sandwich":               "超值牌 麥芽檸檬夾心餅",
+      "best buy marie biscuit":                        "超值牌 瑪利餅",
+      "best buy penne":                                "超值牌 長通粉",
+      "best buy salted beancurd cracker":              "超值牌 鹹方餅",
+      "best buy square puff biscuits":                 "超值牌 方形梳打餅",
+
+      // --- Carr's ---
+      "carrs table water biscuit":                     "Carr's 原味梳打餅",
+
+      // --- Hong Hong (康康) ---
+      "hong hong chicken cakes":                       "康康 雞仔餅",
+      "hong hong walnut cookies":                      "康康 合桃酥",
+
+      // --- Huntley & Palmers ---
+      "huntley & palmers cream cracker":               "Huntley & Palmers 忌廉梳打餅",
+      "huntley & palmers sesameal 5 grains":           "Huntley & Palmers 五穀芝麻餅",
+      "huntley & palmers sesameal rosemary garlic":    "Huntley & Palmers 迷迭香蒜味芝麻餅",
+
+      // --- Gavottes ---
+      "gavottes dark chocolate crepes":                "Gavottes 黑朱古力薄脆",
+
+      // --- Loacker ---
+      "loacker minis cremkakao":                       "Loacker 迷你可可威化",
+      "loacker minis napolitaner":                     "Loacker 迷你榛子威化",
+      "loacker quadratini wafer cocoa":                "Loacker 可可威化粒",
+      "loacker quadratini wafer cocoa milk":           "Loacker 可可牛奶威化粒",
+      "loacker quadratini wafer dark chocolate":       "Loacker 黑朱古力威化粒",
+      "loacker quadratini wafer double chocolate":     "Loacker 雙重朱古力威化粒",
+      "loacker quadratini wafer lemon":                "Loacker 檸檬威化粒",
+      "loacker quadratini wafer napolitaner":          "Loacker 榛子威化粒",
+      "loacker quadratini wafer peanut butter":        "Loacker 花生醬威化粒",
+      "loacker quadratini wafer raspberry yoghurt":    "Loacker 紅桑子乳酪威化粒",
+      "loacker quadratini wafer tiramisu":             "Loacker 提拉米蘇威化粒",
+      "loacker quadratini wafer vanilla":              "Loacker 雲呢拿威化粒",
+      "loacker wafer cocoa milk":                      "Loacker 可可牛奶威化",
+      "loacker wafer dark chocolate":                  "Loacker 黑朱古力威化",
+      "loacker wafer lemon":                           "Loacker 檸檬威化",
+      "loacker wafer vanilla":                         "Loacker 雲呢拿威化",
+
+      // --- Essential Waitrose ---
+      "essential waitrose bourbon biscuits":           "Essential Waitrose 朱古力夾心餅",
+      "essential waitrose custard cream biscuits":     "Essential Waitrose 吉士夾心餅",
+      "essential waitrose ginger nut biscuits":        "Essential Waitrose 薑餅",
+      "essential waitrose malted milk biscuits":       "Essential Waitrose 麥芽牛奶餅",
+      "essential waitrose milk chocolate digestive":   "Essential Waitrose 牛奶朱古力消化餅",
+      "essential waitrose milk chocolate malted milk biscuits": "Essential Waitrose 牛奶朱古力麥芽牛奶餅",
+
+      // --- Waitrose ---
+      "waitrose almond ricciarelli cookies":           "Waitrose 杏仁曲奇",
+      "waitrose beetroot peppercorn crackers":         "Waitrose 紅菜頭胡椒餅乾",
+      "waitrose belgian chocolate biscuit selection":  "Waitrose 比利時朱古力餅乾禮盒",
+      "waitrose black truffle grissini":               "Waitrose 黑松露麵包條",
+      "waitrose coffee shortbread":                    "Waitrose 咖啡酥餅",
+      "waitrose country cream shortbread":             "Waitrose 鄉村忌廉酥餅",
+      "waitrose croquants du cordes":                  "Waitrose 杏仁脆餅",
+      "waitrose grissini sesame":                      "Waitrose 芝麻麵包條",
+      "waitrose malted rye sourdough crackers":        "Waitrose 麥芽黑麥酸種餅乾",
+      "waitrose milk chocolate shortcake":             "Waitrose 牛奶朱古力酥餅",
+      "waitrose olive lingue flatbreads":              "Waitrose 橄欖扁麵包",
+      "waitrose seeded dark rye sourdough crackers":   "Waitrose 種子黑麥酸種餅乾",
+      "waitrose shortbread fingers":                   "Waitrose 手指酥餅",
+
+      // --- Pacific (太平洋) ---
+      "pacific onion soda cracker":                    "太平洋 洋蔥梳打餅",
+      "pacific saltine cracker":                       "太平洋 鹽味餅乾",
+      "pacific saltine soda cracker":                  "太平洋 鹽味梳打餅",
+      "pacific sesame soda cracker":                   "太平洋 芝麻梳打餅",
+      "pacific spring onion cracker":                  "太平洋 香蔥梳打餅",
+
+      // --- Meiji (明治) ---
+      "meiji almond chocolate":                        "明治 杏仁朱古力",
+      "meiji apollo chocolate":                        "明治 阿波羅草莓朱古力",
+      "meiji best three chocolate":                    "明治 精選三味朱古力",
+      "meiji black chocolate":                         "明治 黑朱古力",
+      "meiji choco baby":                              "明治 朱古力橡皮糖",
+      "meiji fruit gummy grape":                       "明治 葡萄果汁軟糖",
+      "meiji fruit gummy mikan":                       "明治 蜜柑果汁軟糖",
+      "meiji hazelnut chocolate":                      "明治 榛子朱古力",
+      "meiji hello panda strawberry":                  "明治 樂樂大本營 (士多啤梨)",
+      "meiji kinoko no yama":                          "明治 蘑菇山朱古力餅",
+      "meiji macadamia chocolate":                     "明治 夏威夷果仁朱古力",
+      "meiji meltykiss creamy milk":                   "明治 雪吻朱古力 (牛奶)",
+      "meiji meltykiss strawberry":                    "明治 雪吻朱古力 (士多啤梨)",
+      "meiji milk chocolate":                          "明治 牛奶朱古力",
+      "meiji strawberry chocolate":                    "明治 士多啤梨朱古力",
+      "meiji yan yan chocolate":                       "明治 欣欣杯 (朱古力)",
+      "meiji yan yan strawberry":                      "明治 欣欣杯 (士多啤梨)",
+
+      // --- Minna No Oyatsu ---
+      "minna no oyatsu almond fish":                   "Minna No Oyatsu 杏仁小魚",
+      "minna no oyatsu animal biscuit":                "Minna No Oyatsu 動物餅",
+      "minna no oyatsu egg bolo":                      "Minna No Oyatsu 雞蛋餅",
+      "minna no oyatsu finger biscuit":                "Minna No Oyatsu 手指餅",
+      "minna no oyatsu millet biscuit":                "Minna No Oyatsu 小米餅",
+
+      // --- Want Want (旺旺) ---
+      "want want cheese rice crackers":                "旺旺 芝士仙貝",
+      "want want crunchy chocolate wafer roll":        "旺旺 黑白配 (朱古力)",
+      "want want hot kid ball cake":                   "旺旺 旺仔小饅頭",
+      "want want hot kid ball cake honey":             "旺旺 旺仔小饅頭 (蜂蜜味)",
+      "want want maipen":                              "旺旺 麥餅",
+      "want want rice cracker seaweed":                "旺旺 紫菜米餅",
+      "want want senbei":                              "旺旺 仙貝",
+      "want want shelly senbei":                       "旺旺 雪餅",
+      "want want wafer stick":                         "旺旺 威化卷",
+      "want want wafer stick vanilla":                 "旺旺 雲呢拿味威化卷",
+
+      // --- Imperial Banquet (金御膳) ---
+      "imperial banquet green onion egg roll":         "金御膳 香蔥蛋卷",
+
+      // --- Kambly ---
+      "kambly bretzeli biscuit":                       "Kambly 蝴蝶餅",
+      "kambly butterfly biscuit":                      "Kambly 蝴蝶酥",
+
+      // --- La Mere Poulard ---
+      "la mere poulard assorted biscuits":             "La Mere Poulard 什錦餅乾",
+      "la mere poulard galettes":                      "La Mere Poulard 牛油酥餅",
+      "la mere poulard lemon shortbread":              "La Mere Poulard 檸檬酥餅",
+      "la mere poulard petit beurre":                  "La Mere Poulard 牛油餅乾",
+
+      // --- Nutella ---
+      "nutella & go":                                  "Nutella & Go 手指餅沾醬",
+      "nutella b-ready":                               "Nutella B-ready 榛子醬威化條",
+      "nutella biscuits":                              "Nutella 榛子醬夾心餅",
+
+      // --- A-Taste ---
+      "a-taste coconut cracker":                       "A-Taste 椰子薄餅",
+
+      // --- Akyabeeb ---
+      "akyabeeb pistachio macaron":                    "Akyabeeb 開心果馬卡龍",
+
+      // --- Ryvita ---
+      "ryvita crispbread original":                    "Ryvita 原味脆麥包",
+
+      // --- Glico (固力果) ---
+      "glico almond crush pocky":                      "固力果 Pocky 杏仁脆朱古力味",
+      "glico caplico mini cone":                       "固力果 Caplico 迷你雪糕筒",
+      "glico pocky almond crush":                      "固力果 Pocky 杏仁脆朱古力味",
+      "glico pocky chocolate":                         "固力果 Pocky 朱古力味",
+      "glico pocky double stick":                      "固力果 Pocky 雙重朱古力味",
+      "glico pocky goku":                              "固力果 Pocky 極脆朱古力味",
+      "glico pocky gokuboso":                          "固力果 Pocky 極細朱古力味",
+      "glico pocky matcha":                            "固力果 Pocky 抹茶味",
+      "glico pocky strawberry":                        "固力果 Pocky 士多啤梨味",
+      "glico pretz roast":                             "固力果 Pretz 燒烤味",
+      "glico pretz salad":                             "固力果 Pretz 沙律味",
+      "glico pretz tomato":                            "固力果 Pretz 番茄味",
+
+      // --- Real Foods ---
+      "real foods corn thins cheese":                  "Real Foods 粟米餅 (芝士味)",
+
+      // --- Nabati ---
+      "nabati cheese wafer":                           "Nabati 芝士威化",
+
+      // --- Disney ---
+      "disney mickey biscuit chocolate":               "Disney 米奇餅乾 (朱古力味)",
+      "disney mickey biscuit milk":                    "Disney 米奇餅乾 (牛奶味)",
+      "disney princess biscuit cherry":                "Disney 公主餅乾 (櫻桃味)",
+      "disney toy story biscuit soymilk":              "Disney 反斗奇兵餅乾 (豆奶味)",
+
+      // --- St Michel ---
+      "st michel galette butter biscuit":              "St Michel 牛油酥餅",
+      "st michel roudor butter cake":                  "St Michel 牛油蛋糕",
+
+      // --- Candy Factory (糖果工廠) ---
+      "candy factory black gold cheese cracker":       "糖果工廠 黑金芝士薄餅",
+      "candy factory garlic potato cracker":           "糖果工廠 蒜蓉薯仔餅",
+      "candy factory matsutake soda cracker":          "糖果工廠 松茸梳打餅",
+      "candy factory truffle cheese lobster cracker":  "糖果工廠 黑松露芝士龍蝦餅",
+      "candy factory truffle ham soda cracker":        "糖果工廠 黑松露火腿梳打餅",
+
+      // --- Kinder ---
+      "kinder happy hippo":                            "Kinder 開心河馬朱古力",
+      "kinder kinderini":                              "Kinder Kinderini 餅乾",
+      "kinder tronky":                                 "Kinder Tronky 榛子威化",
+
+      // --- Fox's ---
+      "foxs party rings":                              "Fox's 派對圈圈餅",
+
+      // --- Belgian Butters ---
+      "belgian butters waffle crisps":                 "Belgian Butters 窩夫脆片",
+
+      // --- Walkers ---
+      "walkers highlander shortbread":                 "Walkers 高地酥餅",
+      "walkers shortbread fingers":                    "Walkers 手指酥餅",
+
+      // --- Soyjoy ---
+      "soyjoy almond chocolate bar":                   "Soyjoy 大豆果滋棒 (杏仁朱古力)",
+      "soyjoy banana bar":                             "Soyjoy 大豆果滋棒 (香蕉)",
+      "soyjoy fruits cheese bar":                      "Soyjoy 大豆果滋棒 (水果芝士)",
+      "soyjoy raisin almond bar":                      "Soyjoy 大豆果滋棒 (提子杏仁)",
+      "soyjoy strawberry bar":                         "Soyjoy 大豆果滋棒 (士多啤梨)",
+
+      // --- Dar Vida ---
+      "dar vida chia quinoa crackers":                 "Dar Vida 奇亞籽藜麥餅乾",
+      "dar vida extra thin cheese crackers":           "Dar Vida 特薄芝士餅乾",
+      "dar vida whole wheat crackers":                 "Dar Vida 全麥餅乾",
+
+      // --- Jack'n Jill ---
+      "jack n jill dewberry blueberry":                "Jack'n Jill Dewberry 藍莓曲奇",
+      "jack n jill dewberry strawberry":               "Jack'n Jill Dewberry 士多啤梨曲奇",
+
+      // --- Griffin's ---
+      "griffins snax minis":                           "Griffin's Snax 迷你餅乾",
+
+      // --- Nestle (雀巢) ---
+      "nestle cookie crisp cereal":                    "雀巢 曲奇脆脆麥片",
+
+      // --- Grandma Wild's ---
+      "grandma wilds stem ginger lemon biscuits":      "Grandma Wild's 薑味檸檬曲奇",
+
+      // --- Karen Volf ---
+      "karen volf digestive biscuits":                 "Karen Volf 消化餅",
+
+      // --- Nabisco ---
+      "nabisco captains table water crackers":         "Nabisco Captain's Table 梳打餅",
+      "nabisco picola chocolate":                      "Nabisco Picola 朱古力卷",
+
+      // --- Fujiya (不二家) ---
+      "fujiya anpanman vegetable fruit biscuit":       "不二家 麵包超人 蔬菜水果餅",
+      "fujiya home pie biscuit":                       "不二家 Home Pie 餅乾",
+
+      // --- Ito (伊藤) ---
+      "ito languly chocolate cream sandwich":          "Ito Languly 朱古力夾心餅",
+      "ito languly uji matcha cream sandwich":         "Ito Languly 宇治抹茶夾心餅",
+      "ito languly vanilla cream sandwich":            "Ito Languly 雲呢拿夾心餅",
+
+      // --- Sanritsu ---
+      "sanritsu dasses strawberry cream cookies":      "Sanritsu Dasses 士多啤梨夾心曲奇",
+
+      // --- Edo Pack (江戶) ---
+      "edo pack almond cracker":                       "Edo Pack 杏仁餅",
+      "edo pack blueberry raisin cracker":             "Edo Pack 藍莓提子餅",
+      "edo pack cheese cracker":                       "Edo Pack 芝士餅",
+      "edo pack chocopie":                             "Edo Pack 朱古力批",
+      "edo pack dha cracker":                          "Edo Pack DHA 餅乾",
+      "edo pack milk cracker":                         "Edo Pack 牛奶餅",
+      "edo pack oat plus cracker":                     "Edo Pack 燕麥餅",
+      "edo pack potato cracker":                       "Edo Pack 薯仔餅",
+      "edo pack premium cracker":                      "Edo Pack 頂級梳打餅",
+      "edo pack saltine cracker":                      "Edo Pack 鹽味梳打餅",
+      "edo pack seaweed":                              "Edo Pack 紫菜",
+
+      // --- Nanao ---
+      "nanao mango cream sandwich biscuit":            "Nanao 芒果忌廉夾心餅",
+
+      // --- Bourbon (百邦) ---
+      "bourbon brunture sweet potato biscuit":         "Bourbon 甜薯餅乾",
+      "bourbon cereal biscuit":                        "Bourbon 穀物餅乾",
+      "bourbon cheese cracker plum shiso":             "Bourbon 芝士米餅 (梅子紫蘇味)",
+      "bourbon elise japanese chestnut":               "Bourbon Elise 栗子味威化",
+      "bourbon gokoku biscuit":                        "Bourbon 五穀餅乾",
+      "bourbon petit chocolate chip cookies":          "Bourbon Petit 朱古力粒曲奇",
+      "bourbon petit potato chips salt":               "Bourbon Petit 鹽味薯片",
+      "bourbon petit shrimp cracker":                  "Bourbon Petit 蝦餅",
+      "bourbon roanne matcha snack":                   "Bourbon Roanne 抹茶薄餅",
+      "bourbon soy bean wafer":                        "Bourbon 豆乳威化",
+      "bourbon sylveine strawberry cake":              "Bourbon Sylveine 士多啤梨蛋糕",
+      "bourbon tennen kobo cracker":                   "Bourbon 天然酵母餅乾",
+
+      // --- Morinaga (森永) ---
+      "morinaga chocolate chip cookies":               "森永 朱古力粒曲奇",
+      "morinaga dars milk chocolate":                  "森永 Dars 牛奶朱古力",
+      "morinaga dars white chocolate":                 "森永 Dars 白朱古力",
+      "morinaga gateau chocolate":                     "森永 Gateau 朱古力蛋糕",
+      "morinaga hi-chew assorted":                     "森永 嗨啾軟糖 (什錦)",
+      "morinaga manna oyatsu pack":                    "森永 Manna 嬰兒餅乾",
+      "morinaga marie biscuit":                        "森永 瑪利餅",
+      "morinaga moon light biscuit":                   "森永 月光曲奇",
+      "morinaga moonlight biscuit":                    "森永 月光曲奇",
+      "morinaga ramune candy":                         "森永 波子汽水糖",
+      "morinaga ramune lemon":                         "森永 波子汽水糖 (檸檬味)",
+
+      // --- Osaka Maeda ---
+      "osaka maeda tyobo tyobo biscuit":               "大阪前田 蛋餅",
+
+      // --- YBC ---
+      "ybc chips shrimp nori":                         "YBC 薯片 (紫菜蝦味)",
+      "ybc levain prime cheese sandwich":              "YBC Levain Prime 芝士夾心餅",
+      "ybc noir black cocoa sandwich":                 "YBC Noir 黑可可夾心餅",
+
+      // --- Takara ---
+      "takara animal biscuit":                         "寶製果 動物餅",
+      "takara cigar biscuit":                          "寶製果 雪茄餅",
+
+      // --- Kajitani ---
+      "kajitani cigar fry biscuit":                    "Kajitani 雪茄餅",
+      "kajitani kogari sakusaku biscuit":              "Kajitani 香脆餅乾",
+      "kajitani milk biscuits":                        "Kajitani 牛奶餅",
+
+      // --- TTS ---
+      "tts cheese cracker":                            "TTS 芝士餅",
+      "tts chia quinoa soda cracker":                  "TTS 奇亞籽藜麥梳打餅",
+      "tts milk biscuit":                              "TTS 牛奶餅",
+      "tts sea salt cheese cracker":                   "TTS 海鹽芝士餅",
+      "tts sea salt cracker":                          "TTS 海鹽餅",
+      "tts spring onion vegetable biscuit":            "TTS 香蔥蔬菜餅",
+
+      // --- Takeya ---
+      "takeya black sesame cracker":                   "Takeya 黑芝麻餅",
+      "takeya rye soda cracker":                       "Takeya 黑麥梳打餅",
+
+      // --- Kingodo ---
+      "kingodo rice cracker soy sauce":                "金吾堂 醬油味米餅",
+
+      // --- Sanko ---
+      "sanko yukino yado rice cracker":                "三幸 雪之宿米餅",
+
+      // --- Janee Royale ---
+      "janee royale pistachio cookies":                "Janee Royale 開心果曲奇",
+      "janee royale pistachio egg roll":               "Janee Royale 開心果蛋卷",
+
+      // --- Countrywide ---
+      "countrywide sachima black sugar":               "鄉村 黑糖沙琪瑪",
+
+      // --- Bairong ---
+      "bairong grape layer biscuit":                   "百榮 葡萄夾心餅",
+
+      // --- Bailu ---
+      "bailu egg crisp":                               "白鷺 蛋酥",
+      "bailu peanut cake":                             "白鷺 花生酥",
+
+      // --- Yue Zhuan ---
+      "yue zhuan sesame crisp cookies":                "粵饌 芝麻脆餅",
+
+      // --- Ming Chi ---
+      "ming chi brown sugar twist cracker":            "明奇 黑糖小麻花",
+
+      // --- Goblim ---
+      "goblim cheese puff roll":                       "Goblim 芝士泡芙卷",
+
+      // --- Yamauchi ---
+      "yamauchi roll cake brown sugar":                "山內 黑糖卷蛋",
+      "yamauchi roll cake milk":                       "山內 牛奶卷蛋",
+      "yamauchi roll cake uji matcha":                 "山內 宇治抹茶卷蛋",
+
+      // --- Tenkei ---
+      "tenkei fresh orange cake":                      "天惠 香橙蛋糕",
+      "tenkei matcha azuki cake":                      "天惠 抹茶紅豆蛋糕",
+
+      // --- Marukin ---
+      "marukin baumkuchen":                            "丸金 年輪蛋糕",
+      "marukin cheese baumkuchen":                     "丸金 芝士年輪蛋糕",
+
+      // --- Shiawasedo ---
+      "shiawasedo milk cake":                          "幸せ堂 牛奶蛋糕",
+
+      // --- Sun Lavian ---
+      "sun lavian peach cake":                         "Sun Lavian 白桃蛋糕",
+      "sun lavian uji matcha cake":                    "Sun Lavian 宇治抹茶蛋糕",
+
+      // --- Cantonea ---
+      "cantonea meat floss biscuit":                   "廣御園 肉鬆餅",
+
+      // --- Jinjehjhin ---
+      "jinjehjhin egg sachima":                        "進爵晉 雞蛋沙琪瑪",
+
+      // --- Wah Yuen ---
+      "wah yuen blister cake":                         "華園 雞仔餅",
+
+      // --- One Piece ---
+      "one piece butter cookies":                      "海賊王 牛油曲奇",
+
+      // --- Misc ---
+      "chocolate oat cookie":                          "朱古力燕麥曲奇",
+      
+      "mcvities cracker crisps barbecue":              "麥維他 燒烤味脆餅",
+        "mcvities cracker crisps sour cream chive":      "麥維他 酸忌廉洋蔥味脆餅",
+
+        // --- Food Nation ---
+        "food nation butter chocolate chunk shortbread": "Food Nation 牛油朱古力粒酥餅",
+
+        // --- Black & Gold ---
+        "black & gold choco cream biscuits":             "Black & Gold 朱古力忌廉夾心餅",
+        "black & gold chocolate wafer":                  "Black & Gold 朱古力威化",
+        "black & gold custard cream biscuits":           "Black & Gold 吉士忌廉夾心餅",
+        "black & gold vanilla wafer":                    "Black & Gold 雲呢拿威化",
+
+        // --- Yummy House (美味棧) ---
+        "yummy house linseed saline biscuits":           "美味棧 亞麻籽鹽味餅",
+        "yummy house oat saline biscuits":               "美味棧 燕麥鹽味餅",
+
+        // --- Elizabeth Shaw ---
+        "elizabeth shaw dark chocolate mint stars":      "Elizabeth Shaw 黑朱古力薄荷星星餅",
+
+        // --- Maruzen ---
+        "maruzen fish sausage garlic chili":             "丸善 蒜辣魚肉腸",
+
+        // --- Kaneka ---
+        "kaneka gummy shonan":                           "Kaneka 湘南黃金柑乳酸菌軟糖",
+
+        // --- Fujiya ---
+        "fujiya anpanman ramune candy":                  "不二家 麵包超人波子汽水糖",
+
+        // --- Kameda ---
+        "kameda ageichiban rice cracker":                "龜田 揚一番炸米餅",
+
+        // --- Magical Bakery (魔法烘焙) ---
+        "magical bakery almond puff":                    "魔法烘焙 杏仁酥",
+        "magical bakery palmier":                        "魔法烘焙 蝴蝶酥",
+      ]
 ]

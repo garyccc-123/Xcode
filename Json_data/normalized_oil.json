@@ -1,0 +1,979 @@
+[
+  
+      {
+        "uid": "fcc3775812be45effad520a44c879a18",
+        "eng": "FILIPPO BERIO Pure  Olive  Oil",
+        "norm": "filippo berio pure olive oil"
+      },
+      {
+        "uid": "7d0754a9b56d3a539ddebf9da0fdab60",
+        "eng": "FILIPPO BERIO Pure Olive Oil",
+        "norm": "filippo berio pure olive oil"
+      },
+      {
+        "uid": "9e6a00c9362364dce42a4ef638ddf3e3",
+        "eng": "FILIPPO BERIO Pure Olive Oil (pet)",
+        "norm": "filippo berio pure olive oil"
+      },
+      {
+        "uid": "3eb371a047f2cdfdc523bf5f6e02d7d9",
+        "eng": "FILIPPO BERIO Pure Olive Oil",
+        "norm": "filippo berio pure olive oil"
+      },
+      {
+        "uid": "6b386b87916ec8ade95fff00ec100889",
+        "eng": "FILIPPO BERIO Extra Virgin Olive Oil",
+        "norm": "filippo berio extra virgin olive oil"
+      },
+      {
+        "uid": "ba8abdf141f6c9115973ba4023fd3934",
+        "eng": "FILIPPO BERIO Extra Virgin Olive Oil (pet)",
+        "norm": "filippo berio extra virgin olive oil"
+      },
+      {
+        "uid": "5b91b4d12ff8b1b76c55494f62d69ddb",
+        "eng": "FILIPPO BERIO Extra Virgin Olive Oil",
+        "norm": "filippo berio extra virgin olive oil"
+      },
+      {
+        "uid": "328ac12a724279c80041ac3de1507f07",
+        "eng": "FILIPPO BERIO Light Olive Oil",
+        "norm": "filippo berio light olive oil"
+      },
+      {
+        "uid": "482a3a7474c7ba887690f6491834ebd5",
+        "eng": "FILIPPO BERIO Extra Light Olive Oil",
+        "norm": "filippo berio extra light olive oil"
+      },
+      {
+        "uid": "8ced989334bdbba98c74a626b54e9af6",
+        "eng": "FILIPPO BERIO Mild & Lightolive Oil Spray",
+        "norm": "filippo berio olive oil spray"
+      },
+      {
+        "uid": "4aeb870457c0c89e0da118d01fc2e858",
+        "eng": "FILIPPO BERIO Ev Olive Oil Spray",
+        "norm": "filippo berio extra virgin olive oil spray"
+      },
+      {
+        "uid": "9ef6bd71f6a963b528db56717f00230d",
+        "eng": "COLAVITA Pure Olive Oil",
+        "norm": "colavita pure olive oil"
+      },
+      {
+        "uid": "5afb004e7a1ce944b88f1ad9a1573dc3",
+        "eng": "COLAVITA Pure Olive Oil",
+        "norm": "colavita pure olive oil"
+      },
+      {
+        "uid": "345539ad3b12fd625ffebc1139bccb13",
+        "eng": "COLAVITA Extra Virgin Italian Olive Oil",
+        "norm": "colavita extra virgin olive oil"
+      },
+      {
+        "uid": "c4f4aa4f498158f6a84f2124b2586188",
+        "eng": "COLAVITA Extra Virgin Olive Oil",
+        "norm": "colavita extra virgin olive oil"
+      },
+      {
+        "uid": "d61ce9350834c2af748fc0f515a6b526",
+        "eng": "COLAVITA Mediterranean Extra Virgin Olive Oil",
+        "norm": "colavita mediterranean extra virgin olive oil"
+      },
+      {
+        "uid": "cc626ec7f9beae630c181670fbbb858e",
+        "eng": "COLAVITA Mediterranean Extra Virgin Olive Oil",
+        "norm": "colavita mediterranean extra virgin olive oil"
+      },
+      {
+        "uid": "159e6ea528c3eaf0b2e182cf047a8c78",
+        "eng": "BERTOLLI Classico Olive Oil 1l",
+        "norm": "bertolli classico pure olive oil"
+      },
+      {
+        "uid": "d7ddb21585b17d47ba33f1c38dacaef5",
+        "eng": "BERTOLLI Extra Virgin Olive Oil 1l",
+        "norm": "bertolli extra virgin olive oil"
+      },
+      {
+        "uid": "4f8a45b2590b1a8922f029e7d4e1e31f",
+        "eng": "BERTOLLI Extra Light Olive Oil 1l",
+        "norm": "bertolli extra light olive oil"
+      },
+      {
+        "uid": "b9cfa835ceba3b5838cfe1f55f8c9528",
+        "eng": "BORGES Extra Virgin Olive Oil",
+        "norm": "borges extra virgin olive oil"
+      },
+      {
+        "uid": "312bdc97147f98a0738b5f1b93bdfce0",
+        "eng": "BORGES Extra Virgin Olive Oil",
+        "norm": "borges extra virgin olive oil"
+      },
+      {
+        "uid": "8a41b1c06082f9b272c272cd14dd30fc",
+        "eng": "BORGES Olive Oil",
+        "norm": "borges pure olive oil"
+      },
+      {
+        "uid": "d237a4a6e06f4f231133d773603bb792",
+        "eng": "ARDOINO Extra Virgin Olive Oil",
+        "norm": "ardoino extra virgin olive oil"
+      },
+      {
+        "uid": "fca63025ba622349f36cd2bb709c8d13",
+        "eng": "ARDOINO Ardoino Vallaurea Extra Virgin Olive Oil",
+        "norm": "ardoino extra virgin olive oil"
+      },
+      {
+        "uid": "64931dc2ffcd65a3615f9f565d0da4e3",
+        "eng": "SELECT Extra Virgin Olive Oil",
+        "norm": "select extra virgin olive oil"
+      },
+      {
+        "uid": "80659f121e1b2cf608674cf6d0b6d24b",
+        "eng": "SELECT Extra Virgin Olive Oil",
+        "norm": "select extra virgin olive oil"
+      },
+      {
+        "uid": "f1558e9188664a8d0578cbbad594985c",
+        "eng": "SELECT Extra Virgin Olive Oil",
+        "norm": "select extra virgin olive oil"
+      },
+      {
+        "uid": "cc4b59eeaee90dbc50ad6bab947cb19a",
+        "eng": "SELECT Olive Oil",
+        "norm": "select pure olive oil"
+      },
+      {
+        "uid": "47c643a02dc1a7bc19a71c5d83bd95ac",
+        "eng": "SELECT Olive Oil",
+        "norm": "select pure olive oil"
+      },
+      {
+        "uid": "9df858b1dcace901b9643439ba6fe55a",
+        "eng": "SELECT Olive Oil",
+        "norm": "select pure olive oil"
+      },
+      {
+        "uid": "f4812abb1467ce4283ebbf35d4811c42",
+        "eng": "SELECT Light Olive Oil",
+        "norm": "select light olive oil"
+      },
+      {
+        "uid": "fd6c84cac69d687064368c6eb0f4a884",
+        "eng": "SELECT Light Olive Oil",
+        "norm": "select light olive oil"
+      },
+      {
+        "uid": "684c62ce4d3222ba43e873d08c593f16",
+        "eng": "PURE Extra Virgin Olive Oil",
+        "norm": "pure extra virgin olive oil"
+      },
+      {
+        "uid": "87f55f3ee64f6a4a45e21900397d48fb",
+        "eng": "PURE Extra Virgin Olive Oil",
+        "norm": "pure extra virgin olive oil"
+      },
+      {
+        "uid": "8eb63ad023b7d925f60a3ba623324ef9",
+        "eng": "PURE Extra Virgin Olive Oil",
+        "norm": "pure extra virgin olive oil"
+      },
+      {
+        "uid": "31703aebc5bd4e800526181156b8e848",
+        "eng": "PURE Olive Oil",
+        "norm": "pure olive oil"
+      },
+      {
+        "uid": "891d65a7fcc5f26bbab416edee51c96d",
+        "eng": "PURE Olive Oil",
+        "norm": "pure olive oil"
+      },
+      {
+        "uid": "0d019ca19e664fe02e2fdd4b7ec2befc",
+        "eng": "PURE Olive Oil",
+        "norm": "pure olive oil"
+      },
+      {
+        "uid": "54630f7dd301d2351162f3668040212b",
+        "eng": "OLITALIA Extra Virgin Olive Oil",
+        "norm": "olitalia extra virgin olive oil"
+      },
+      {
+        "uid": "8833ca0244c4c0502667dc79d712704b",
+        "eng": "PUROLIVA Extra Virgin Olive Oil",
+        "norm": "puroliva extra virgin olive oil"
+      },
+      {
+        "uid": "dd23fca6e4078c9efb718ba7cfa3c26b",
+        "eng": "FOOD NATION 100% Italian Extra Virgin Olive Oil",
+        "norm": "food nation extra virgin olive oil"
+      },
+      {
+        "uid": "66a5e99910673fc7b1c189f386fa67e0",
+        "eng": "FOOD NATION 100% Italian Extra Virgin Olive Oil",
+        "norm": "food nation extra virgin olive oil"
+      },
+      {
+        "uid": "b73b745e1a020b7d327c3481638179e2",
+        "eng": "WAITROSE Extra Virgin Olive Oil",
+        "norm": "waitrose extra virgin olive oil"
+      },
+      {
+        "uid": "d9eab78c7879368e1dd3cdb30e514794",
+        "eng": "WAITROSE Org Italian Extra Virgin Olive Oil",
+        "norm": "waitrose organic extra virgin olive oil"
+      },
+      {
+        "uid": "e0cb10ae0ee7ccabeda8f40b3900e1ac",
+        "eng": "LORENZO No.1 Dop Org Evo Oil",
+        "norm": "lorenzo no.1 organic extra virgin olive oil"
+      },
+      {
+        "uid": "88099262a3655bc701a24c0bc0df59eb",
+        "eng": "LORENZO No.3 Dop Org Evo Oil",
+        "norm": "lorenzo no.3 organic extra virgin olive oil"
+      },
+      {
+        "uid": "dd89afc816ef66ef5a1c085e1465cba2",
+        "eng": "EMILE NOEL Organic Extra Virgin Olive Oil",
+        "norm": "emile noel organic extra virgin olive oil"
+      },
+      {
+        "uid": "acd82e3f99849300399a89f42ae2bf9a",
+        "eng": "SPECTRUM Organic Extra Virgin Olive Oil",
+        "norm": "spectrum organic extra virgin olive oil"
+      },
+      {
+        "uid": "0a36a292ff5d5e56c5f694a6de884b45",
+        "eng": "MASSERIE Org Ev Olive Oil (1st Cold Press)",
+        "norm": "masserie organic extra virgin olive oil"
+      },
+      {
+        "uid": "a2b40f44cda33d88909a84751ac8b26a",
+        "eng": "MASSERIE Flavor Ev Olive Oil (1st Cold Press)",
+        "norm": "masserie extra virgin olive oil"
+      },
+      {
+        "uid": "092eecc1f29060f5f4c68d66f94822cb",
+        "eng": "BONTASTE Pure Olive Oil",
+        "norm": "bontaste pure olive oil"
+      },
+      {
+        "uid": "8fe3bc2886c455133dfc9bd814dba042",
+        "eng": "BONTASTE Pomace Olive Oil",
+        "norm": "bontaste pomace olive oil"
+      },
+      {
+        "uid": "010915fca14f46e67b598c0362a090fa",
+        "eng": "BONTASTE Pomace Olive Oil",
+        "norm": "bontaste pomace olive oil"
+      },
+      {
+        "uid": "8f7fa7bc837497b6164068a571403172",
+        "eng": "CASINO BIO Org Extra Virgin Olive Oil",
+        "norm": "casino bio organic extra virgin olive oil"
+      },
+      {
+        "uid": "f7996f2ac313a731a0a9ace9a22abdd2",
+        "eng": "STEFANIA CALUGI Olive Oil With White Truffle",
+        "norm": "stefania calugi truffle olive oil"
+      },
+    
+  
+
+      {
+        "uid": "13e008f814ce0a8dd1822cd5cba5cd9c",
+        "eng": "KNIFE Pure Peanut Oil",
+        "norm": "knife pure peanut oil"
+      },
+      {
+        "uid": "7e3a54285c0dba9d0ec43725e6af993f",
+        "eng": "KNIFE Pure Peanut Oil",
+        "norm": "knife pure peanut oil"
+      },
+      {
+        "uid": "70a07389f871ad4f092f4dae6922fc5c",
+        "eng": "KNIFE Pure Peanut Oil",
+        "norm": "knife pure peanut oil"
+      },
+      {
+        "uid": "dc0c6e9ef3477289b1cf5a39fdf9c284",
+        "eng": "KNIFE Pure Peanut Oil",
+        "norm": "knife pure peanut oil"
+      },
+      {
+        "uid": "5cfdbee8c3331076e59055c4185621bd",
+        "eng": "KNIFE Pure Peanut Oil",
+        "norm": "knife pure peanut oil"
+      },
+      {
+        "uid": "d62b0d996c2a55f29413486e8e141a95",
+        "eng": "KNIFE Supreme Peanut Oil",
+        "norm": "knife supreme peanut oil"
+      },
+      {
+        "uid": "7e8ed883b3e3ccb1aa4f12d86e831ce1",
+        "eng": "KNIFE Supreme Peanut Oil",
+        "norm": "knife supreme peanut oil"
+      },
+      {
+        "uid": "909bf10a87598339b77c0bdbe34c92b2",
+        "eng": "KNIFE Supreme Peanut Oil",
+        "norm": "knife supreme peanut oil"
+      },
+      {
+        "uid": "2ed544f1e1bee8d9ee9b308ab2e9b9de",
+        "eng": "KNIFE Supreme Peanut Oil+deluxe Peanut Oil",
+        "norm": "knife supreme peanut oil"
+      },
+      {
+        "uid": "008bec8c70c726a4fb6797e543232840",
+        "eng": "KNIFE Deluxe High Oleic Peanut Oil",
+        "norm": "knife deluxe high oleic peanut oil"
+      },
+      {
+        "uid": "c589c448ccc038be4bc10a1cd7a696c4",
+        "eng": "KNIFE Deluxe High Oleic Peanut Oil",
+        "norm": "knife deluxe high oleic peanut oil"
+      },
+      {
+        "uid": "64c4174660a07644e4d8315114b4f574",
+        "eng": "LION & GLOBE Peanut Oil",
+        "norm": "lion & globe peanut oil"
+      },
+      {
+        "uid": "01201bad07eb9f672fdf58254d97da1a",
+        "eng": "LION & GLOBE Peanut Oil",
+        "norm": "lion & globe peanut oil"
+      },
+      {
+        "uid": "bac7cf2e8dbbb6efcf957970c0dad7ee",
+        "eng": "LION & GLOBE Peanut Oil",
+        "norm": "lion & globe peanut oil"
+      },
+      {
+        "uid": "92c0512c6d325a07c5722ba39949d7a6",
+        "eng": "LION & GLOBE Peanut Oil",
+        "norm": "lion & globe peanut oil"
+      },
+      {
+        "uid": "f074db5fd11a225d182531ad01232c25",
+        "eng": "LION & GLOBE Peanut Oil",
+        "norm": "lion & globe peanut oil"
+      },
+      {
+        "uid": "40fa724c535b28cd3e367258456c5d47",
+        "eng": "LION & GLOBE Extra Virgin Peanut Oil",
+        "norm": "lion & globe extra virgin peanut oil"
+      },
+      {
+        "uid": "75205e329a75129be11fcbde0e7bf0df",
+        "eng": "LION & GLOBE Extra Virgin Peanut Oil",
+        "norm": "lion & globe extra virgin peanut oil"
+      },
+      {
+        "uid": "4de8e2c2cf12f6a191dd98e85f2a609c",
+        "eng": "LION & GLOBE Extra Virgin Peanut Oil",
+        "norm": "lion & globe extra virgin peanut oil"
+      },
+      {
+        "uid": "6fe8f0f85eb1ddcdd9283cc0e94f577c",
+        "eng": "LION & GLOBE Black Peanut Oil",
+        "norm": "lion & globe black peanut oil"
+      },
+      {
+        "uid": "556c8b07933a807d75fdf62c989bae0e",
+        "eng": "LION & GLOBE Black Peanut Oil",
+        "norm": "lion & globe black peanut oil"
+      },
+      {
+        "uid": "3b7cd6c69bf33246087fba0b36e78532",
+        "eng": "IMPERIAL BANQUET Peanut Oil",
+        "norm": "imperial banquet peanut oil"
+      },
+      {
+        "uid": "6e49c4eb10d3b635818afc3cf92852e8",
+        "eng": "IMPERIAL BANQUET Peanut Oil",
+        "norm": "imperial banquet peanut oil"
+      },
+      {
+        "uid": "5336c28ab73c44a337f843089dc9ddd8",
+        "eng": "IMPERIAL BANQUET Peanut Oil",
+        "norm": "imperial banquet peanut oil"
+      },
+      {
+        "uid": "83e046ea526190bb63d8f4128792c97d",
+        "eng": "IMPERIAL BANQUET Peanut Oil",
+        "norm": "imperial banquet peanut oil"
+      },
+      {
+        "uid": "848ba2ff45551cc79625436b97ec711e",
+        "eng": "IMPERIAL BANQUET Extra Virgin Peanut Oil",
+        "norm": "imperial banquet extra virgin peanut oil"
+      },
+      {
+        "uid": "98f85443e11e587a7ab775b7b61fb0b8",
+        "eng": "IMPERIAL BANQUET Extra Virgin Peanut Oil",
+        "norm": "imperial banquet extra virgin peanut oil"
+      },
+      {
+        "uid": "f702c13c7858412506cc4c539cbc529a",
+        "eng": "CAMEL Peanut Aroma Cooking Oil",
+        "norm": "camel peanut aroma cooking oil"
+      },
+      {
+        "uid": "42295cc14ebe0af2aaf2d9b0ec589885",
+        "eng": "ORCHID BRAND Peanut Oil",
+        "norm": "orchid brand peanut oil"
+      },
+   
+      {
+        "uid": "c2f290565b5b5d984744580b3233da7c",
+        "eng": "KNIFE Pure Corn Oil",
+        "norm": "knife pure corn oil"
+      },
+      {
+        "uid": "ce04f32e86e92f3e1f5d9dc8c08334c4",
+        "eng": "KNIFE Pure Corn Oil",
+        "norm": "knife pure corn oil"
+      },
+      {
+        "uid": "6d81a04fdc5b277c230b502e1143e233",
+        "eng": "KNIFE Pure Corn Oil",
+        "norm": "knife pure corn oil"
+      },
+      {
+        "uid": "62812d1c4a51d1893fcb4474841b2d02",
+        "eng": "KNIFE Pure Corn Oil",
+        "norm": "knife pure corn oil"
+      },
+      {
+        "uid": "44753db02e8765b6a73a99530e458d99",
+        "eng": "KNIFE Knife Pure Corn Oil",
+        "norm": "knife pure corn oil"
+      },
+      {
+        "uid": "73c39e05d36fc2b773209c6f91da56be",
+        "eng": "KNIFE Supreme Corn Oil",
+        "norm": "knife supreme corn oil"
+      },
+      {
+        "uid": "ac1f800ac893ab4d182b1b9922e706cd",
+        "eng": "KNIFE Supreme Corn Oil",
+        "norm": "knife supreme corn oil"
+      },
+      {
+        "uid": "e0a053bb52d27428dd2093d4cd29581b",
+        "eng": "LION & GLOBE Corn Oil",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "25c4cab91097edcda9f554904e0feaf9",
+        "eng": "LION & GLOBE Corn Oil",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "9bd2560f9545213ebd4ace56873390d9",
+        "eng": "LION & GLOBE Corn Oil",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "589d86adeef8f3e2f53fc6b5688e6bcc",
+        "eng": "LION & GLOBE Corn Oil",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "44ea3446d6fec58adfaa67a60a1c3e05",
+        "eng": "LION & GLOBE Corn Oil 600ml",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "caf2522335d5107501c92a651e98927b",
+        "eng": "LION & GLOBE Pure Corn Oil (zero Trans-fat)",
+        "norm": "lion & globe corn oil"
+      },
+      {
+        "uid": "a0af0be770ff5150dc574b58b913d2d1",
+        "eng": "IMPERIAL BANQUET Corn Oil",
+        "norm": "imperial banquet corn oil"
+      },
+      {
+        "uid": "8bea45cd52196f6c2fe4a3b6b6b3dbcc",
+        "eng": "IMPERIAL BANQUET Corn Oil",
+        "norm": "imperial banquet corn oil"
+      },
+      {
+        "uid": "64f6b6f82d32ea6beb54ed74b6887d17",
+        "eng": "IMPERIAL BANQUET Corn Oil",
+        "norm": "imperial banquet corn oil"
+      },
+      {
+        "uid": "5dbafe3227517cdac9f8c7d9a48a8109",
+        "eng": "IMPERIAL BANQUET Corn Oil",
+        "norm": "imperial banquet corn oil"
+      },
+      {
+        "uid": "2bc77bd6f3b39361a849f8475adf001d",
+        "eng": "MAZOLA Corn Oil",
+        "norm": "mazola corn oil"
+      },
+      {
+        "uid": "0d69b902b6912a2f5a612e4d0b90b604",
+        "eng": "MAZOLA Corn Oil",
+        "norm": "mazola corn oil"
+      },
+      {
+        "uid": "51a894e552e8af50d93b0880d7f9e95b",
+        "eng": "MAZOLA Corn Oil",
+        "norm": "mazola corn oil"
+      },
+      {
+        "uid": "c4c1801630e2895ca5136bfce0ce794d",
+        "eng": "CAMEL Corn Oil",
+        "norm": "camel corn oil"
+      },
+      {
+        "uid": "3380dff59b3b81a83937ebe0b925556f",
+        "eng": "SELECT Pure Corn Oil",
+        "norm": "select pure corn oil"
+      },
+      {
+        "uid": "54a96beeaf52a02dd65714bdd783bc00",
+        "eng": "SELECT Pure Corn Oil",
+        "norm": "select pure corn oil"
+      },
+      {
+        "uid": "e013e9f9954a1fbb190dc3294509b044",
+        "eng": "SELECT Pure Corn Oil",
+        "norm": "select pure corn oil"
+      },
+   
+      {
+        "uid": "eea9bebfa67fd8bf98efc727cea0723d",
+        "eng": "KNIFE Pure Canola Oil",
+        "norm": "knife pure canola oil"
+      },
+      {
+        "uid": "06487129bb4d3666a4edf51d2305e399",
+        "eng": "KNIFE Pure Canola Oil",
+        "norm": "knife pure canola oil"
+      },
+      {
+        "uid": "2c15dc844503f6436c1d009bb28fc750",
+        "eng": "KNIFE Pure Canola Oil",
+        "norm": "knife pure canola oil"
+      },
+      {
+        "uid": "4e20ef4c45da3965d407445c4f1e63ba",
+        "eng": "KNIFE Pure Canola Oil",
+        "norm": "knife pure canola oil"
+      },
+      {
+        "uid": "6c8fba5e7ec636e1c1ac7e1c96467792",
+        "eng": "KNIFE Pure Canola Oil",
+        "norm": "knife pure canola oil"
+      },
+      {
+        "uid": "a8ce44605a26d2a34543ab8543135524",
+        "eng": "LION & GLOBE Canola Oil",
+        "norm": "lion & globe canola oil"
+      },
+      {
+        "uid": "23abac095241d0ab2d9e1862e3a0ab4f",
+        "eng": "LION & GLOBE Canola Oil",
+        "norm": "lion & globe canola oil"
+      },
+      {
+        "uid": "48c6d43ecbd3989c8f19c8c2a4d8adc8",
+        "eng": "LION & GLOBE Canola Oil",
+        "norm": "lion & globe canola oil"
+      },
+      {
+        "uid": "894b2f646d145084b8e4288c782cec9c",
+        "eng": "LION & GLOBE Canola Oil",
+        "norm": "lion & globe canola oil"
+      },
+      {
+        "uid": "47c0f76f61dbbde4a7ce3af8c73c6bc9",
+        "eng": "LION & GLOBE Canola Oil",
+        "norm": "lion & globe canola oil"
+      },
+      {
+        "uid": "a924ffa52463f9992dab619ab8df12a1",
+        "eng": "IMPERIAL BANQUET Canola Oil",
+        "norm": "imperial banquet canola oil"
+      },
+      {
+        "uid": "b1d3d46a999325184e1b76b438cbb603",
+        "eng": "IMPERIAL BANQUET Canola Oil",
+        "norm": "imperial banquet canola oil"
+      },
+      {
+        "uid": "f2786153c5a05336393b82f5c5b6722d",
+        "eng": "IMPERIAL BANQUET Canola Oil",
+        "norm": "imperial banquet canola oil"
+      },
+      {
+        "uid": "355341e3dbd5c162c13f6c7f3a502e7b",
+        "eng": "IMPERIAL BANQUET Canola Oil",
+        "norm": "imperial banquet canola oil"
+      },
+      {
+        "uid": "046a0ba386decf23e66ad943ab919ad7",
+        "eng": "SELECT Pure Canola Oil",
+        "norm": "select pure canola oil"
+      },
+      {
+        "uid": "74b0a973c3e3aa0e8624a3a6141db2cc",
+        "eng": "SELECT Pure Canola Oil",
+        "norm": "select pure canola oil"
+      },
+      {
+        "uid": "150553c6579efa257120486137400bf8",
+        "eng": "SELECT Pure Canola Oil",
+        "norm": "select pure canola oil"
+      },
+      {
+        "uid": "5c52ac221f0cb52480ccec1499396119",
+        "eng": "SELECT Pure Canola Oil",
+        "norm": "select pure canola oil"
+      },
+      {
+        "uid": "8ae9d583401deb6fe03dc32e681e308a",
+        "eng": "MAZOLA Canola Oil",
+        "norm": "mazola canola oil"
+      },
+      {
+        "uid": "9051e373d05f6a8e1bcb6f07725104b4",
+        "eng": "MAZOLA Canola Oil",
+        "norm": "mazola canola oil"
+      },
+      {
+        "uid": "c6d7dbbb2c6f492989403579321557f3",
+        "eng": "MAZOLA Canola Oil",
+        "norm": "mazola canola oil"
+      },
+      {
+        "uid": "9a7de19a0898e0e84befa4e3666a6d61",
+        "eng": "BLACK & GOLD Australian Canola Oil",
+        "norm": "black & gold canola oil"
+      },
+      {
+        "uid": "439b231246f0f7c14c262cf067d265a0",
+        "eng": "BONTASTE Pure Canola Oil",
+        "norm": "bontaste canola oil"
+      },
+      {
+        "uid": "c302e22021f276c683b1a9075c9908c4",
+        "eng": "SPECTRUM Organic Canola Oil Refined",
+        "norm": "spectrum organic canola oil"
+      },
+
+      {
+        "uid": "8b74ac8576547ea3757d655837386595",
+        "eng": "PURE Rice Bran Oil",
+        "norm": "pure rice bran oil"
+      },
+      {
+        "uid": "ca9ecd1077c8a0259877c78578ddc4c2",
+        "eng": "PURE Rice Bran Oil",
+        "norm": "pure rice bran oil"
+      },
+      {
+        "uid": "5c712912515d0c9309c365a120e60675",
+        "eng": "OLITALIA Rice Bran Oil",
+        "norm": "olitalia rice bran oil"
+      },
+      {
+        "uid": "59083c5ba38ee490d742872ab1c0a9c6",
+        "eng": "RIZI Rice Bran Oil",
+        "norm": "rizi rice bran oil"
+      },
+      {
+        "uid": "3a910742d1408c1e76729c3947a87212",
+        "eng": "RIZI Rice Bran Oil",
+        "norm": "rizi rice bran oil"
+      },
+      {
+        "uid": "8f6db3fd108907c640660b8540e55a67",
+        "eng": "LION & GLOBE Pure Rice Bran Oil",
+        "norm": "lion & globe pure rice bran oil"
+      },
+      {
+        "uid": "f82b1e48183bbacaa4f74cbbd4359673",
+        "eng": "FILIPPO BERIO Grapeseed Oil",
+        "norm": "filippo berio grapeseed oil"
+      },
+      {
+        "uid": "e978e3c927daea4cb810d5bd207f0e36",
+        "eng": "BONTASTE Grapeseed Oil",
+        "norm": "bontaste grapeseed oil"
+      },
+      {
+        "uid": "0ba1f593e786ceac7b37e4f47e387538",
+        "eng": "COLAVITA Grapeseed Oil",
+        "norm": "colavita grapeseed oil"
+      },
+      {
+        "uid": "a9480b4ea0ee4dec10a2550dca4496a8",
+        "eng": "LION & GLOBE Pure Hi-oleic Sunflowerseed Oil",
+        "norm": "lion & globe sunflower seed oil"
+      },
+      {
+        "uid": "00f5aa75535a321cd5e56728bf7d167f",
+        "eng": "BONTASTE Sunflower Seed Oil",
+        "norm": "bontaste sunflower seed oil"
+      },
+      {
+        "uid": "437f54db11d51e939ed4fe2a794e2b71",
+        "eng": "ESSENTIAL WAITROSE Sunflower Oil",
+        "norm": "essential waitrose sunflower oil"
+      },
+      {
+        "uid": "9be0110264d1587d1146afe0278ae978",
+        "eng": "SPECTRUM Organic Refined Sunflower Oil",
+        "norm": "spectrum organic sunflower oil"
+      },
+      {
+        "uid": "5169e0364d4e2aaef08b9f3113687b28",
+        "eng": "EMILE NOEL Organic Virgin Sunflower Oil",
+        "norm": "emile noel organic sunflower oil"
+      },
+    
+
+
+      {
+        "uid": "e5f157f10609adf720fd836b3c858703",
+        "eng": "LA TOURANGELLE Org Virgin Coconut Oil",
+        "norm": "la tourangelle organic coconut oil"
+      },
+      {
+        "uid": "e6c8b5f6b576ac74579cfbd180d8059d",
+        "eng": "SPECTRUM Organic Un-refined Virgin Coconut Oil",
+        "norm": "spectrum organic coconut oil"
+      },
+      {
+        "uid": "7d7decc9e236c28c0b74cbb6569575c7",
+        "eng": "SPECTRUM Organic Refined Coconut Oil",
+        "norm": "spectrum organic coconut oil"
+      },
+      {
+        "uid": "5083f80990df7dce77a5e10d5648106e",
+        "eng": "AGRILIFE Org Extra Virgin Coconut Oil",
+        "norm": "agrilife organic coconut oil"
+      },
+      {
+        "uid": "62a49df02da4b89a954e9ccfeecbde36",
+        "eng": "AGRILIFE Extra Virgin Coconut Oil",
+        "norm": "agrilife organic coconut oil"
+      },
+      {
+        "uid": "18b95d63201c6863d45881e84fd3223a",
+        "eng": "SUPERFOOD LAB Superfood Lab Organic Cold Press Virgin Coconut Oil (420ml)",
+        "norm": "superfood lab organic coconut oil"
+      },
+      {
+        "uid": "9738dcc6ea0738031c3c016cc59085dc",
+        "eng": "COCONUT KING Extra Virgin Coconut Oil",
+        "norm": "coconut king extra virgin coconut oil"
+      },
+      {
+        "uid": "6c1e66d627cac1c528186df0d5eb5ae7",
+        "eng": "NATNAT Org Ext Virgin Centrifug Coconut Oil",
+        "norm": "natnat organic coconut oil"
+      },
+      {
+        "uid": "db803c4a98629a2e0850ce7545a6b61a",
+        "eng": "HONEST TO GOODNESS Organic Virgin Raw Coconut Oil",
+        "norm": "honest to goodness organic coconut oil"
+      },
+      {
+        "uid": "fb5793b1e8f8dc2723a1489a5a74c39d",
+        "eng": "SPECTRUM Avocado Oil Refined",
+        "norm": "spectrum avocado oil"
+      },
+      {
+        "uid": "8761a226452d75565735540b800aef9f",
+        "eng": "EMILE NOEL Organic Virgin Avocado Oil",
+        "norm": "emile noel organic avocado oil"
+      },
+      {
+        "uid": "0238c8943a3d2d340052a77661f8dbf3",
+        "eng": "MC TRADER 100% Pure Cold Pressed Avocado Oil",
+        "norm": "mc trader avocado oil"
+      },
+      {
+        "uid": "0c6a022f9ae31cab987c0c094cf60b5f",
+        "eng": "MC TRADER 100% Pure Cold Pressed Avocado Oil",
+        "norm": "mc trader avocado oil"
+      },
+      {
+        "uid": "7b8caa2237e40e9d7356d7a7be093a66",
+        "eng": "LA TOURANGELLE Avocado Oil",
+        "norm": "la tourangelle avocado oil"
+      },
+      {
+        "uid": "656178c905b13a5dfc13c32ecacff275",
+        "eng": "BONTASTE Avocado Oil",
+        "norm": "bontaste avocado oil"
+      },
+      {
+        "uid": "a0cf3c2b73d88ff4c0ac21f1f1a1543e",
+        "eng": "PIETRO CORICELLI 100% Pure Avocado Oil",
+        "norm": "pietro coricelli avocado oil"
+      },
+
+      {
+        "uid": "eb6daf5b86cf11cb8cea3a504a211fb8",
+        "eng": "LION & GLOBE Peanut Aroma Nutritious Oil",
+        "norm": "lion & globe peanut aroma nutritious oil"
+      },
+      {
+        "uid": "588758650fba3ff25e92bc6b11b13c86",
+        "eng": "LION & GLOBE Peanut Aroma Nutritious Oil",
+        "norm": "lion & globe peanut aroma nutritious oil"
+      },
+      {
+        "uid": "68694a8af7ad6efd33964b2c9c2f07ea",
+        "eng": "LION & GLOBE Peanut Aroma Nutritious Oil",
+        "norm": "lion & globe peanut aroma nutritious oil"
+      },
+      {
+        "uid": "858d584aa8eac06854ba9ba5a5e507cb",
+        "eng": "LION & GLOBE Heart-healthy Cooking Oil",
+        "norm": "lion & globe heart-healthy cooking oil"
+      },
+      {
+        "uid": "ac89e5d2b2344577c5c549b388aee47d",
+        "eng": "LION & GLOBE Ev Olive With Sunflower Seed Oil",
+        "norm": "lion & globe olive sunflower blended oil"
+      },
+      {
+        "uid": "1620e3552607df7ffd483ffe42c63373",
+        "eng": "LION & GLOBE Ev Olive With Sunflower Seed Oil",
+        "norm": "lion & globe olive sunflower blended oil"
+      },
+      {
+        "uid": "8e424dbc4363a8cb890e178445b854e7",
+        "eng": "LION & GLOBE Ev Olive With Canola Oil",
+        "norm": "lion & globe olive canola blended oil"
+      },
+      {
+        "uid": "5fb9e709af99cd840d01e28cc468b793",
+        "eng": "LION & GLOBE Ev Olive With Canola Oil",
+        "norm": "lion & globe olive canola blended oil"
+      },
+      {
+        "uid": "4e09c4939499ee005ad48ab907bd3d7f",
+        "eng": "LION & GLOBE Ev Avocado Oil With Canola Oil",
+        "norm": "lion & globe avocado canola blended oil"
+      },
+      {
+        "uid": "0ddc2bfe6367a0d6ad93d63d235bed08",
+        "eng": "LION & GLOBE Extra Virgin Olive Oil W/canola Oil",
+        "norm": "lion & globe olive canola blended oil"
+      },
+      {
+        "uid": "b2193db2b2109b87dbefbdb2aeae2818",
+        "eng": "LION & GLOBE Grapeseed And Canola Oil",
+        "norm": "lion & globe grapeseed canola blended oil"
+      },
+      {
+        "uid": "c6eedb617ee1f9e26a32993d09a32920",
+        "eng": "LION & GLOBE Extra Light Olive With Rice Bran Oil",
+        "norm": "lion & globe olive rice bran blended oil"
+      },
+      {
+        "uid": "e1f2c04e24d67677e6730b500c678510",
+        "eng": "LION & GLOBE Extralight Olive Oil W/rice Bran Oil",
+        "norm": "lion & globe olive rice bran blended oil"
+      },
+      {
+        "uid": "853c7edab291f4789f1d463f257ddfcf",
+        "eng": "KNIFE Vitamin E Peanut Blended Oil",
+        "norm": "knife vitamin e peanut blended oil"
+      },
+      {
+        "uid": "910c582d64c1f109dadc713e580ee905",
+        "eng": "KNIFE Vitamin E Peanut Blended Oil",
+        "norm": "knife vitamin e peanut blended oil"
+      },
+      {
+        "uid": "2818d3e1b07bb973e5562695f752e21b",
+        "eng": "KNIFE Supreme Olive Peanut Oil",
+        "norm": "knife supreme olive peanut oil"
+      },
+      {
+        "uid": "0b37e0e2efa3307a13e1c6acf049154e",
+        "eng": "KNIFE Supreme Olive Peanut Oil",
+        "norm": "knife supreme olive peanut oil"
+      },
+      {
+        "uid": "f0938cc829c0e3f3e0ef390184db0a75",
+        "eng": "KNIFE Supreme Healthy Peanut Blended Oil",
+        "norm": "knife supreme healthy peanut blended oil"
+      },
+      {
+        "uid": "957656524123878baebf6cf385a94015",
+        "eng": "KNIFE Supreme Healthy Peanut Blended Oil",
+        "norm": "knife supreme healthy peanut blended oil"
+      },
+      {
+        "uid": "a813b862143eaab740748c5bb61d35a2",
+        "eng": "KNIFE Evo Oil & Canola Oil",
+        "norm": "knife olive canola blended oil"
+      },
+      {
+        "uid": "e829f99b8b198e33ded0fc77910f8fd1",
+        "eng": "KNIFE Evo Oil & Sunflower Seed Oil",
+        "norm": "knife olive sunflower blended oil"
+      },
+      {
+        "uid": "61dd7f2af81bc812c3a7ef143b530bf7",
+        "eng": "KNIFE Supreme Omega 3 Flaxseed Canola Oil",
+        "norm": "knife flaxseed canola blended oil"
+      },
+      {
+        "uid": "d504971eb5109d6c1aa16d3d0076773b",
+        "eng": "BONTASTE Olive Oil & Sunflower Oil",
+        "norm": "bontaste olive sunflower blended oil"
+      },
+      {
+        "uid": "6f1255f2c6464467f156c66366f75ed1",
+        "eng": "WAITROSE Sunflower Olive Oil",
+        "norm": "waitrose sunflower olive blended oil"
+      },
+      {
+        "uid": "3427d21958d5ead3578b10cf085e260e",
+        "eng": "BLACK & GOLD Australian Vegetable Oil",
+        "norm": "black & gold vegetable oil"
+      },
+      {
+        "uid": "a09f47e8c5e089349090fd22f7fdd99e",
+        "eng": "EMILE NOEL Organic Virgin Walnut Oil",
+        "norm": "emile noel walnut oil"
+      },
+      {
+        "uid": "2d452675efc070b67d2e65ba7f9da068",
+        "eng": "EMILE NOEL Organic Virgin Sesame Oil",
+        "norm": "emile noel organic sesame oil"
+      },
+      {
+        "uid": "fb8d89393fa7164a2a51a9e2ca1b65b4",
+        "eng": "SPECTRUM Walnut Oil Refined",
+        "norm": "spectrum walnut oil"
+      },
+      {
+        "uid": "b2e305d862bdedd234ef40a8e8980180",
+        "eng": "SUNCOAST GOLD 100 Pure Macadamia Oil",
+        "norm": "suncoast gold macadamia oil"
+      },
+      {
+        "uid": "8b381caf9b89bef008b0779b0170c919",
+        "eng": "WAITROSE Walnut Oil",
+        "norm": "waitrose walnut oil"
+      }
+    ]
+ 

@@ -1,0 +1,863 @@
+[
+  
+   
+      {
+        "uid": "50fbb47a22b769153514ccd86bce4e5b",
+        "eng": "HONEST TO GOODNESS Organic White All Purpose Flour",
+        "norm": "honest to goodness organic white all purpose flour"
+      },
+      {
+        "uid": "df3d11ab13e086b3f0fceb62af673cd3",
+        "eng": "BOB'S RED MILL Gluten Free All-purpose Baking Flour",
+        "norm": "bobs red mill gluten free all purpose baking flour"
+      },
+      {
+        "uid": "d41c4ae02afa65b1c24de46104711407",
+        "eng": "ESSENTIAL WAITROSE Plain White Flour",
+        "norm": "essential waitrose plain white flour"
+      },
+      {
+        "uid": "3928db3622ee635dfec9300dfaa4ce75",
+        "eng": "BOB'S RED MILL Gf Organic Brown Rice Flour",
+        "norm": "bobs red mill organic brown rice flour"
+      },
+      {
+        "uid": "6c14a6ba1417bb4c9848cc2e8d7cef4d",
+        "eng": "CJ BEKSUL Medium Flour",
+        "norm": "cj beksul medium flour"
+      },
+      {
+        "uid": "8ccd0498278dd7e4d1bc6f51bc1de4ea",
+        "eng": "KNORR KINGSFORD'S Corn Starch Twin Pack",
+        "norm": "kingsfords corn starch"
+      },
+      {
+        "uid": "9bbcd5d8effdc207677840f9379fb644",
+        "eng": "KANGAROO Self Raising Flour",
+        "norm": "kangaroo self raising flour"
+      },
+      {
+        "uid": "ec59498b4c46ddb9a4cfe2dde9b114a3",
+        "eng": "BOB'S RED MILL Gf Natural Almond Flour - Skin On",
+        "norm": "bobs red mill almond flour"
+      },
+      {
+        "uid": "8cc71aaf4c90ce966929d6bb104ededb",
+        "eng": "WAITROSE Super Fine Grade Pasta Flour",
+        "norm": "waitrose super fine pasta flour"
+      },
+      {
+        "uid": "41fa1ab109649b1fe353e63e2231ccf2",
+        "eng": "BOB'S RED MILL Whole Wheat Flour",
+        "norm": "bobs red mill whole wheat flour"
+      },
+      {
+        "uid": "1eff87c4a13f49310b5366c6e4223bc8",
+        "eng": "NIPPON KITCHEN Japan High Gluten Flour",
+        "norm": "nippon kitchen high gluten flour"
+      },
+      {
+        "uid": "d5653ecc0e9862297fa42f522f25fba8",
+        "eng": "GREEN DOT DOT Green Dot Dot Almond Powder",
+        "norm": "green dot dot almond powder"
+      },
+      {
+        "uid": "3c75f7672e0cbdaa7ea8408871eafdcc",
+        "eng": "WAITROSE DUCHY Org Strong Malted Grain Bread Flour",
+        "norm": "waitrose duchy organic strong malted grain bread flour"
+      },
+      {
+        "uid": "8fb7750e0e648e3010643506983a188b",
+        "eng": "WHITE WINGS Flour",
+        "norm": "white wings flour"
+      },
+      {
+        "uid": "2ed984ee79ec9ccf2deb9909a835edd7",
+        "eng": "IMPERIAL BANQUET Tapioca Starch",
+        "norm": "imperial banquet tapioca starch"
+      },
+      {
+        "uid": "08d4eba90bfdbec82b67e439af734577",
+        "eng": "NIPPON KITCHEN Japan Low Gluten Flour",
+        "norm": "nippon kitchen low gluten flour"
+      },
+      {
+        "uid": "aca82831a0324a35c12ca9f90738e879",
+        "eng": "IDEAL Tapioca Starch",
+        "norm": "ideal tapioca starch"
+      },
+      {
+        "uid": "50d1ca1ff43f3b7494552d8892705788",
+        "eng": "WAITROSE DUCHY Organic Strong Wholemeal Flour",
+        "norm": "waitrose duchy organic strong wholemeal flour"
+      },
+      {
+        "uid": "4254a5b723e66980409ed318dad7baee",
+        "eng": "BOB'S RED MILL Gluten Free 1to1 Baking Flour",
+        "norm": "bobs red mill gluten free 1 to 1 baking flour"
+      },
+      {
+        "uid": "741ca332e36081bb92cc2344e2f69a04",
+        "eng": "WAITROSE Cornflour",
+        "norm": "waitrose cornflour"
+      },
+      {
+        "uid": "3a3d46cec39d8f3b3d0a650a7b21e259",
+        "eng": "PAN TANG Pure Water Chestnut Flour",
+        "norm": "pan tang pure water chestnut flour"
+      },
+      {
+        "uid": "232ff8d89b9c8ab2b19bb674d40829a6",
+        "eng": "IMPERIAL BANQUET Finest Rice Flour",
+        "norm": "imperial banquet rice flour"
+      },
+      {
+        "uid": "2e0c8a09e40e5c6a979a5cf648eabc8e",
+        "eng": "BOB'S RED MILL Organic Buckwheat Flour",
+        "norm": "bobs red mill organic buckwheat flour"
+      },
+      {
+        "uid": "97bb6ff4026dd0f15f59fc2f5aa3cad6",
+        "eng": "WAITROSE DUCHY Organic Strong White Flour",
+        "norm": "waitrose duchy organic strong white flour"
+      },
+      {
+        "uid": "5454b2ce3e197dd79f11809af9a7e309",
+        "eng": "ERAWAN Finest-rice Flour",
+        "norm": "erawan finest rice flour"
+      },
+      {
+        "uid": "6dc90655d0dc03c19889e6e6e23cc17f",
+        "eng": "IMPERIAL BANQUET Finest Glutinous Rice Flour",
+        "norm": "imperial banquet glutinous rice flour"
+      },
+      {
+        "uid": "33da95740af773088958b75dc2897b92",
+        "eng": "RICH Plain Flour",
+        "norm": "rich plain flour"
+      },
+      {
+        "uid": "3cc71169ef85885e035b812c5480a9fa",
+        "eng": "WAITROSE Canadian White Bread Flour",
+        "norm": "waitrose canadian white bread flour"
+      },
+      {
+        "uid": "db942468bd328941b27b4bf5d690339c",
+        "eng": "DIAMOND Fried Powder",
+        "norm": "diamond fried powder"
+      },
+      {
+        "uid": "ea35662ae911c6a99b37a2c5ab7bcb05",
+        "eng": "ERAWAN Finest-glutinous Flour",
+        "norm": "erawan finest glutinous flour"
+      },
+      {
+        "uid": "b59d672a3844d3cc352329bd4b972e25",
+        "eng": "DIAMOND High Gluten Flour",
+        "norm": "diamond high gluten flour"
+      },
+      {
+        "uid": "7bb8d78e05f0296e5040ed28f1ee4684",
+        "eng": "WAITROSE DUCHY Org Flour Self Raising Wht",
+        "norm": "waitrose duchy organic self raising white flour"
+      },
+      {
+        "uid": "3077ce06427cc980483b6d14f30ceb46",
+        "eng": "CJ BEKSUL Soft Flour",
+        "norm": "cj beksul soft flour"
+      },
+      {
+        "uid": "8fd8296f01a97ec539a7b12de2826994",
+        "eng": "KNORR KINGSFORD'S Corn Starch",
+        "norm": "kingsfords corn starch"
+      },
+      {
+        "uid": "e104e8019a0dbcfc307ac5c10ae1b942",
+        "eng": "GOLDEN STATUE Golden Statue Premium Bread Flour",
+        "norm": "golden statue premium bread flour"
+      },
+      {
+        "uid": "7e51946d3b855647925289bb9cd8b9d2",
+        "eng": "WAITROSE Strong White Bread Flour",
+        "norm": "waitrose strong white bread flour"
+      },
+      {
+        "uid": "c73554bfdc0b826a80ee3d17f5aee5ba",
+        "eng": "IDEAL Corn Starch",
+        "norm": "ideal corn starch"
+      },
+      {
+        "uid": "eb07b517b0350d7de42c638abf7e7130",
+        "eng": "CJ BEKSUL Strong Flour",
+        "norm": "cj beksul strong flour"
+      },
+      {
+        "uid": "e396884778e348b0bcf211ddbfff57d1",
+        "eng": "WAITROSE DUCHY Organic Flour Plain Wholemeal",
+        "norm": "waitrose duchy organic plain wholemeal flour"
+      },
+      {
+        "uid": "c1a9afe84218b7a1099e3e0e8f172b27",
+        "eng": "ESSENTIAL WAITROSE Strong Wholemeal Bread Flour",
+        "norm": "essential waitrose strong wholemeal bread flour"
+      },
+      {
+        "uid": "b944b2ba9e54579922a325144ec5fff4",
+        "eng": "AMERICAN ROSES American Roses Premium Cake Flour",
+        "norm": "american roses premium cake flour"
+      },
+      {
+        "uid": "3535415a8d76b0923332b57f61b17d59",
+        "eng": "KNORR KINGSFORD'S Corn Starch",
+        "norm": "kingsfords corn starch"
+      },
+      {
+        "uid": "dc1e084f3d5e169a47e00b7aaec54db9",
+        "eng": "GOLD MEDAL Gold Medal Flour",
+        "norm": "gold medal flour"
+      },
+      {
+        "uid": "ebbec4d9c143caa9b6d22072f89334d5",
+        "eng": "ESSENTIAL WAITROSE Self Raising Flour",
+        "norm": "essential waitrose self raising flour"
+      },
+      {
+        "uid": "8c117f0127fc9c3abc14950366e73e41",
+        "eng": "DIAMOND Low Gluten Flour",
+        "norm": "diamond low gluten flour"
+      },
+      {
+        "uid": "d7dbef4de7369dbf9ec90e18184c34a8",
+        "eng": "ROYAL SAKURA Japanese-style Bread Flour",
+        "norm": "royal sakura japanese style bread flour"
+      },
+      {
+        "uid": "123e8ee8bf1f860842d6c63f1ec32879",
+        "eng": "GRACE & MAYOR Ground Almonds",
+        "norm": "grace & mayor ground almonds"
+      },
+      {
+        "uid": "80f3b1a23edf36027174932248879b68",
+        "eng": "CHOLIA'S Whole Wheat Flour(chakki Atta)",
+        "norm": "cholias whole wheat flour"
+      },
+      {
+        "uid": "d26e23d400880da4db185312d33b7f4c",
+        "eng": "WAITROSE Leckford Plain White Flour",
+        "norm": "waitrose leckford plain white flour"
+      },
+      {
+        "uid": "9b81c8bb322bd424264f53a8b668d21e",
+        "eng": "DOVES FARM Organic Gluten Free Flour",
+        "norm": "doves farm organic gluten free flour"
+      },
+      {
+        "uid": "1aee2314dc0ea97c801d6f04d91126b8",
+        "eng": "\" NIPPON\" Tempura Powder",
+        "norm": "nippon tempura powder"
+      },
+      {
+        "uid": "c900735c38e39382c8eebe5f02695a6f",
+        "eng": "BOB'S RED MILL Stone Ground Whole Wheat Flour",
+        "norm": "bobs red mill stone ground whole wheat flour"
+      },
+      {
+        "uid": "2d5372ca2fb813e7b260b4aaab8256d5",
+        "eng": "WAITROSE DUCHY Organic Flour Plain White",
+        "norm": "waitrose duchy organic plain white flour"
+      },
+      {
+        "uid": "cee413740c2d093861ef0008c958f9b4",
+        "eng": "HONEST TO GOODNESS Organic Coconut Flour",
+        "norm": "honest to goodness organic coconut flour"
+      },
+      {
+        "uid": "062bbb644ff2d778408de457ca0beb1f",
+        "eng": "SELECT Corn Starch",
+        "norm": "select corn starch"
+      },
+      {
+        "uid": "f1ea6d36bc0db59867d5440bed0e7ba6",
+        "eng": "ESSENTIAL WAITROSE Plain White Flour",
+        "norm": "essential waitrose plain white flour"
+      },
+      {
+        "uid": "a96c5f434d45c3b0538ca5ec9a53b3ef",
+        "eng": "ESSENTIAL WAITROSE Semolina",
+        "norm": "essential waitrose semolina"
+      },
+      {
+        "uid": "54732f0abc9d90cfa81b64d03aeec912",
+        "eng": "GOLDEN STATUE Golden Statue Premium All Purpose Flour",
+        "norm": "golden statue premium all purpose flour"
+      },
+   
+      {
+        "uid": "721a01f7da608e89e963f78207c64707",
+        "eng": "BETTY CROCKER Supermoist Lemon Cake",
+        "norm": "betty crocker supermoist lemon cake mix"
+      },
+      {
+        "uid": "f43f5cec4e9014d25dccbad644c6787d",
+        "eng": "BETTY CROCKER Supermoist Devils Food Cake Mix",
+        "norm": "betty crocker supermoist devils food cake mix"
+      },
+      {
+        "uid": "4766397c451fdd871a6feca2172a8481",
+        "eng": "GOLDEN STATUE Golden Statue Milk Bread Premix",
+        "norm": "golden statue milk bread premix"
+      },
+      {
+        "uid": "4a02c593a95ad5be3314990927f87553",
+        "eng": "MORINAGA Pancake Mix",
+        "norm": "morinaga pancake mix"
+      },
+      {
+        "uid": "c22f5fa93b8c3e6df11b499beab8692d",
+        "eng": "BETTY CROCKER Banana Nut Muffin Mix",
+        "norm": "betty crocker banana nut muffin mix"
+      },
+      {
+        "uid": "165556def387bcfede1b4d6e740b0411",
+        "eng": "MORINAGA Pancake Mix (hotcake)",
+        "norm": "morinaga pancake mix"
+      },
+      {
+        "uid": "2aef900b0507138b29699e6ddd2f1471",
+        "eng": "NAGATANIEN Hotel New Otani Pancake Mix",
+        "norm": "nagatanien pancake mix"
+      },
+      {
+        "uid": "d28c0131b6b35be4d4438023017b94ea",
+        "eng": "BETTY CROCKER Pancake Mix",
+        "norm": "betty crocker pancake mix"
+      },
+      {
+        "uid": "40749427d3c4c941dd3d5d831c961cab",
+        "eng": "BETTY CROCKER Supermoist Yellow Cake Mix",
+        "norm": "betty crocker supermoist yellow cake mix"
+      },
+      {
+        "uid": "5ad3f81ff494c4d65ef62faace0b8760",
+        "eng": "BETTY CROCKER Bisquick-all Purpose Baking Mx",
+        "norm": "betty crocker bisquick baking mix"
+      },
+      {
+        "uid": "e9c4f3387f00a6e19934c9d53271b1ac",
+        "eng": "GOLDEN STATUE Golden Statue White Bread Premix",
+        "norm": "golden statue white bread premix"
+      },
+      {
+        "uid": "39dd076de8ae2f705123eaced895c9aa",
+        "eng": "WHITE WINGS Panjacks Pancake Mix",
+        "norm": "white wings panjacks pancake mix"
+      },
+      {
+        "uid": "2c6fa5c6aa923ef8a9a05fde3f3ec8b6",
+        "eng": "MORINAGA Hokkaido Pancake Mix (hotcake)",
+        "norm": "morinaga hokkaido pancake mix"
+      },
+      {
+        "uid": "7c13714954fc83966e00cd181a7995d6",
+        "eng": "MORINAGA Shittori Mocchiri Prem. Hotcake Mix",
+        "norm": "morinaga premium hotcake mix"
+      },
+      {
+        "uid": "565cf961d3f4b95f9637ee191548bb50",
+        "eng": "EASIYO Yog Mix-greek Sty Unsweetened",
+        "norm": "easiyo greek style yoghurt mix"
+      },
+      {
+        "uid": "56e1a89766fbe1f6d61081842fe6cfe7",
+        "eng": "CREATIVE NATURE Sticky Toffee Cake Mix",
+        "norm": "creative nature sticky toffee cake mix"
+      },
+      {
+        "uid": "4a6fe86faa956535e072247adb886c1e",
+        "eng": "DIAMOND Custard Powder",
+        "norm": "diamond custard powder"
+      },
+      {
+        "uid": "9cbfc035e0de3ae40b52df176ff39f91",
+        "eng": "CREATIVE NATURE Wholegrain Banana Bread Baking Mix",
+        "norm": "creative nature banana bread mix"
+      },
+      {
+        "uid": "b6e1628c530224643d41f3b5ef2bd41f",
+        "eng": "BETTY CROCKER Blueberry Muffin Mix",
+        "norm": "betty crocker blueberry muffin mix"
+      },
+      {
+        "uid": "97b5638632c4f31ccf49d06cb8202bb0",
+        "eng": "BETTY CROCKER Traditional Brownie Fudge",
+        "norm": "betty crocker brownie mix"
+      },
+      {
+        "uid": "cb7d7f1529331a7c77c2f6439ac9cd2a",
+        "eng": "BETTY CROCKER Cookie Mix Oatmeal Choco Chip",
+        "norm": "betty crocker oatmeal chocolate chip cookie mix"
+      },
+      {
+        "uid": "46609f0e563e10e7a554e65ff373cba9",
+        "eng": "ESSENTIAL WAITROSE Custard",
+        "norm": "essential waitrose custard"
+      },
+      {
+        "uid": "34a596c997addfda1793c3203fd0445b",
+        "eng": "BOB'S RED MILL Gf Pancake Mix",
+        "norm": "bobs red mill gluten free pancake mix"
+      },
+      {
+        "uid": "266643ba58a9d26f7e1840c90272406d",
+        "eng": "BETTY CROCKER Cookie Mix Choco Chip",
+        "norm": "betty crocker chocolate chip cookie mix"
+      },
+      {
+        "uid": "f146813507149595f5a9f92e2312d774",
+        "eng": "BETTY CROCKER Supermoist Choc Fudge Cake Mix",
+        "norm": "betty crocker supermoist chocolate fudge cake mix"
+      },
+      {
+        "uid": "58ce6a0befc43da590cf610f389bb8fe",
+        "eng": "MORINAGA Pancake Mix (hotcake)",
+        "norm": "morinaga pancake mix"
+      },
+      {
+        "uid": "68cc77fd25367f9eab6677484cf5893f",
+        "eng": "PONDAN Pondan Chocolate Pancake Mix",
+        "norm": "pondan chocolate pancake mix"
+      },
+      {
+        "uid": "756021824f9d4cdda6e2cc2ebd702fd4",
+        "eng": "GOLDEN STATUE Golden Statue Whole Wheat Bread Premix",
+        "norm": "golden statue whole wheat bread premix"
+      },
+      {
+        "uid": "738b8c0c21811e23045a76c1e75ceb9d",
+        "eng": "PONDAN Pondan Pandan Chiffon Cake Mix",
+        "norm": "pondan pandan chiffon cake mix"
+      },
+      {
+        "uid": "0684b900478bed92222d0224759acc08",
+        "eng": "BETTY CROCKER Cookie Mix Double Choco Chunk",
+        "norm": "betty crocker double chocolate chunk cookie mix"
+      },
+   
+      {
+        "uid": "7cf09f1beccc278359f837b0af414f3c",
+        "eng": "ARM & HAMMER Baking Soda(all Purpose)",
+        "norm": "arm & hammer baking soda"
+      },
+      {
+        "uid": "cc6f98cbe9f87f6938f44db02491fc6a",
+        "eng": "DIAMOND Instant Yeast",
+        "norm": "diamond instant yeast"
+      },
+      {
+        "uid": "de8900d1f5d5c66005f96d658b7a829a",
+        "eng": "IDEAL Baking Powder",
+        "norm": "ideal baking powder"
+      },
+      {
+        "uid": "8fed5dd34870a12b73e8b9764a01df48",
+        "eng": "BOB'S RED MILL Gf Baking Soda",
+        "norm": "bobs red mill gluten free baking soda"
+      },
+      {
+        "uid": "184684074fbb5e173cbbeb2b1575b58a",
+        "eng": "DR.OETKER Bicarbonate Of Soda Sachet",
+        "norm": "dr oetker bicarbonate of soda"
+      },
+      {
+        "uid": "052e0ce1ae57f4cb8cb3b706bc88b992",
+        "eng": "WAITROSE Baking Powder",
+        "norm": "waitrose baking powder"
+      },
+      {
+        "uid": "f0c94efbc8a568161aba13634fcc6c93",
+        "eng": "IDEAL Bi-carbonate Of Soda",
+        "norm": "ideal bicarbonate of soda"
+      },
+      {
+        "uid": "7da74d9e3e154d40c2668fa44d26baab",
+        "eng": "ALSA Baking Yeast",
+        "norm": "alsa baking yeast"
+      },
+      {
+        "uid": "398842852ae09b0d3571176b550f76a0",
+        "eng": "DR.OETKER Baking Powder Sachet",
+        "norm": "dr oetker baking powder"
+      },
+      {
+        "uid": "c9d434d4fd7a73cf04092dab52511fb0",
+        "eng": "SAF-INSTANT Dry Baker's Instant Yeast",
+        "norm": "saf instant dry yeast"
+      },
+      {
+        "uid": "9135f5a68805b99868bc2189e18bf811",
+        "eng": "IDEAL Active Dried Yeast",
+        "norm": "ideal active dried yeast"
+      },
+      {
+        "uid": "f4f78b08afdc460d2d2158b3c4c4a93d",
+        "eng": "ARM & HAMMER Baking Soda Shaker 340g",
+        "norm": "arm & hammer baking soda"
+      },
+      {
+        "uid": "7612f90d52ea0fb4049070eb53076c27",
+        "eng": "ARM & HAMMER Arm & Hammer Baking Soda 2.1kg",
+        "norm": "arm & hammer baking soda"
+      },
+      {
+        "uid": "af24d730ad31a6483e5ff9be11e5aa65",
+        "eng": "DR.OETKER Baking Powder",
+        "norm": "dr oetker baking powder"
+      },
+     
+      {
+        "uid": "8d6130f9899370dccef8b501a4cc29b4",
+        "eng": "HERSHEY'S Cocoa For Baking",
+        "norm": "hersheys cocoa powder"
+      },
+      {
+        "uid": "2f3cf63e942250fa119174de3815ae79",
+        "eng": "DR.OETKER Chocolate Chips Dark",
+        "norm": "dr oetker dark chocolate chips"
+      },
+      {
+        "uid": "731e6fd936a6fd1b1d2213ccecf0bd73",
+        "eng": "DR.OETKER Liquid Glucose (tube)",
+        "norm": "dr oetker liquid glucose"
+      },
+      {
+        "uid": "55fc9538d5dae52d791d30b5f22e7ed5",
+        "eng": "KARO Light Corn Syrup",
+        "norm": "karo light corn syrup"
+      },
+      {
+        "uid": "05083ae3cdf063b98971545bf40fc7a2",
+        "eng": "DR.OETKER Chocolate Chips Lux Milk",
+        "norm": "dr oetker milk chocolate chips"
+      },
+      {
+        "uid": "f54e2eddf061116ee35a7476abbd12ba",
+        "eng": "TAI KOO Caster Sugar",
+        "norm": "tai koo caster sugar"
+      },
+      {
+        "uid": "70417b8d80763424bd647cd2462aeec7",
+        "eng": "DR.OETKER Milk Chocolate Chunks",
+        "norm": "dr oetker milk chocolate chunks"
+      },
+      {
+        "uid": "e16f60a722678d143b7c68a75b486601",
+        "eng": "TAI KOO Icing Sugar",
+        "norm": "tai koo icing sugar"
+      },
+      {
+        "uid": "f56b85c0566fe1555ac7c90eba14abf8",
+        "eng": "DR.OETKER Extra Dark Chocolate Chunks",
+        "norm": "dr oetker extra dark chocolate chunks"
+      },
+      {
+        "uid": "02cbf344717803fea89fc592b2dbd87b",
+        "eng": "BLACK & GOLD Cocoa Powder",
+        "norm": "black & gold cocoa powder"
+      },
+    
+      {
+        "uid": "108f12e6b35987180bffcb5a78b70262",
+        "eng": "WAITROSE Ci Blue Gel Food Colouring",
+        "norm": "waitrose blue food colouring"
+      },
+      {
+        "uid": "8cf17ff9b63d4cda7091c8ac5c4555fd",
+        "eng": "DR.OETKER Extra Strong Food Colour Gel-green",
+        "norm": "dr oetker green food colouring"
+      },
+      {
+        "uid": "1e3359c3a87d19fa435d8f6df253c485",
+        "eng": "WAITROSE Ci Green Gel Food Colour",
+        "norm": "waitrose green food colouring"
+      },
+      {
+        "uid": "3912c96fe8cdc724da79e5448888ea3e",
+        "eng": "DR OETKER Madagascan Vanilla Extract",
+        "norm": "dr oetker vanilla extract"
+      },
+      {
+        "uid": "05b0fa1b86db6c74c3038810811c9c51",
+        "eng": "QUEEN Rainbow Clr Mltpk Food Colring",
+        "norm": "queen rainbow food colouring"
+      },
+      {
+        "uid": "73fba8a9279f0b8afae03423f2061035",
+        "eng": "EPICURE Vanilla Beans",
+        "norm": "epicure vanilla beans"
+      },
+      {
+        "uid": "352b7a8c9bae2c8bca3f97aaef36dcc6",
+        "eng": "QUEEN Natural Vanilla Bean Paste 65g",
+        "norm": "queen vanilla bean paste"
+      },
+      {
+        "uid": "d50d624895556312955b14fa164a2e2a",
+        "eng": "ESSENTIAL WAITROSE Ci Yellow Gel Food Colouring",
+        "norm": "essential waitrose yellow food colouring"
+      },
+      {
+        "uid": "a5faed23a43e63e49dde6b74bf21f545",
+        "eng": "BETTY CROCKER Vanilla Buttercream Icing",
+        "norm": "betty crocker vanilla buttercream icing"
+      },
+      {
+        "uid": "d92f1ff72f5b078332b5d1869e607797",
+        "eng": "CAPE FOODS Party Delights (green Fantasy)",
+        "norm": "cape foods cake decorations"
+      },
+      {
+        "uid": "5f7a56d051cf1cd35a9eb680cfe9efe2",
+        "eng": "QUEEN Natural Vanilla Concen Extract",
+        "norm": "queen vanilla extract"
+      },
+      {
+        "uid": "ea6d26f7c455e90ba49f562cb62a4192",
+        "eng": "DR.OETKER Regal Ice Ready Roll Icing Wht",
+        "norm": "dr oetker white ready rolled icing"
+      },
+      {
+        "uid": "59e6dc5e0e7ad068323d029c5a3062df",
+        "eng": "DR.OETKER Extra Strong Food Colour Gel-blue",
+        "norm": "dr oetker blue food colouring"
+      },
+      {
+        "uid": "64660edee6971a3c0f845288379d484c",
+        "eng": "RAYNER'S Vanilla Flavouring Essence",
+        "norm": "rayners vanilla essence"
+      },
+      {
+        "uid": "4aa40f4a49f309fd6bbd8fe0bee322c5",
+        "eng": "BETTY CROCKER Indulgent Chocolate Fudge Icing",
+        "norm": "betty crocker chocolate fudge icing"
+      },
+      {
+        "uid": "8da14a1fb269dcfa24c847bd343777fe",
+        "eng": "CAPE FOODS Cake Delights",
+        "norm": "cape foods cake decorations"
+      },
+      {
+        "uid": "044acd4954f532ca9ff3500b76532c72",
+        "eng": "DR.OETKER Extra Strong Food Colour Gel-yellow",
+        "norm": "dr oetker yellow food colouring"
+      },
+      {
+        "uid": "1df31130dcba3fa6bc520a1639e653b1",
+        "eng": "DR.OETKER Gel Food Colour Bright Red",
+        "norm": "dr oetker red food colouring"
+      },
+      {
+        "uid": "db14b637146ae091d4905e0a87d735bd",
+        "eng": "DR.OETKER Regal Ice Ready Roll Icing Colored",
+        "norm": "dr oetker coloured ready rolled icing"
+      },
+    
+      {
+        "uid": "655838469be6ec95d6f23e4506ace861",
+        "eng": "ROBERTSONS Gelatine",
+        "norm": "robertsons gelatine"
+      },
+      {
+        "uid": "1f7f31f45589b78de3dca67bde470e01",
+        "eng": "JELL-O Gelatin Dessert Mix - Berry Flavor",
+        "norm": "jell o berry gelatin"
+      },
+      {
+        "uid": "ff5cd601fed8d01e6c40e4349895728a",
+        "eng": "COMMUNITY CO. Strawberry Flavoured Jelly",
+        "norm": "community co strawberry jelly"
+      },
+      {
+        "uid": "e1868c9ee8d2fa3437ed30f6e95f4768",
+        "eng": "COMMUNITY CO. Raspberry Flavoured Jelly",
+        "norm": "community co raspberry jelly"
+      },
+      {
+        "uid": "421fb59d0088ec7951557eabecd98395",
+        "eng": "JELL-O Gelatin Dessert Mix - Lime Flavor",
+        "norm": "jell o lime gelatin"
+      },
+      {
+        "uid": "5249c9b2c00b5fa06a899a756a5ac074",
+        "eng": "DR.OETKER Platinum Grade Fine Leaf Gelatine",
+        "norm": "dr oetker leaf gelatine"
+      },
+      {
+        "uid": "1bc4f329f8de129e2bc12af67bcf4143",
+        "eng": "ROBERTSONS Jelly Powder Mango Flavour",
+        "norm": "robertsons mango jelly powder"
+      },
+      {
+        "uid": "b7314feae32b1007848592779af4c143",
+        "eng": "JELL-O Gelatin Dessert Mix - Lemon Flavor",
+        "norm": "jell o lemon gelatin"
+      },
+      {
+        "uid": "2ecf2dc88952a80e8ccb51fa89c99a79",
+        "eng": "JELL-O Gelatin Dessert Mix Raspberry Flavor",
+        "norm": "jell o raspberry gelatin"
+      },
+      {
+        "uid": "540d25355817bac2e4a5af2f26a59309",
+        "eng": "ROBERTSONS Jelly Powder Assorted Flavour (randomly Assign)",
+        "norm": "robertsons assorted jelly powder"
+      },
+      {
+        "uid": "c211d7202ac8cdf4233abade5d2bb93a",
+        "eng": "COMMUNITY CO. Lime Flavoured Jelly",
+        "norm": "community co lime jelly"
+      },
+    
+      {
+        "uid": "dd59cebcbd91666ebc488e65542ce13c",
+        "eng": "DAISY Coconut Milk",
+        "norm": "daisy coconut milk"
+      },
+      {
+        "uid": "602ae8c16688c8314a0db79013d9d45a",
+        "eng": "KARA Coconut Cream",
+        "norm": "kara coconut cream"
+      },
+      {
+        "uid": "8ef59ca5a201510b9f000baef8b758aa",
+        "eng": "AYAM BRAND Premium Coconut Milk",
+        "norm": "ayam brand coconut milk"
+      },
+      {
+        "uid": "4788c9bbdf39749a0c6ca49130942118",
+        "eng": "AYAM BRAND Light Coconut Milk",
+        "norm": "ayam brand light coconut milk"
+      },
+      {
+        "uid": "ecb9e5fe88edaf057c66a0ed9571b438",
+        "eng": "S&P Sejati Desiccated Coconut",
+        "norm": "s&p sejati desiccated coconut"
+      },
+      {
+        "uid": "bfe03d3851c3dee9d4de6e93ab0128d9",
+        "eng": "OSC Coconut Milk",
+        "norm": "osc coconut milk"
+      },
+      {
+        "uid": "faf1a2b143ee841fbfe0049f07784b6d",
+        "eng": "DAISY Coconut Milk",
+        "norm": "daisy coconut milk"
+      },
+      {
+        "uid": "20f4600f568956068ad5752b7443833a",
+        "eng": "NATURE'S CHARM All Natural Coconut Milk",
+        "norm": "natures charm coconut milk"
+      },
+      {
+        "uid": "682fc05abc01e53a2a1d7ece56f39824",
+        "eng": "OSC Coconut Milk",
+        "norm": "osc coconut milk"
+      },
+      {
+        "uid": "d9c1802c56fe2ddd1c9d40153d78c8a9",
+        "eng": "NATURE'S CHARM Coconut Whipping Cream",
+        "norm": "natures charm coconut whipping cream"
+      },
+      {
+        "uid": "e204379f3f4a0b3475f281ec28f6e070",
+        "eng": "SELECT Coconut Milk",
+        "norm": "select coconut milk"
+      },
+      {
+        "uid": "2d76cb04523cc8c1cb4127e9f2f4ca37",
+        "eng": "HONEST TO GOODNESS Organic Coconut Cream",
+        "norm": "honest to goodness organic coconut cream"
+      },
+      {
+        "uid": "bb0ffb77116adeb1177d1974f016c220",
+        "eng": "SELECT Coconut Milk",
+        "norm": "select coconut milk"
+      },
+      {
+        "uid": "cbb81ca0c4e54e6f6869b6f55e86162c",
+        "eng": "SUREE Thai Coconut Milk",
+        "norm": "suree coconut milk"
+      },
+   
+      {
+        "uid": "0703990dae40747ef41b5f4085e0c8d4",
+        "eng": "CASINO Apple Compote Pouch",
+        "norm": "casino apple compote"
+      },
+      {
+        "uid": "6fba3dc4f580cff25359e387c55a3097",
+        "eng": "WAITROSE Stem Ginger In Syrup",
+        "norm": "waitrose stem ginger in syrup"
+      },
+      {
+        "uid": "0004a118253be65496623c26ca3f7649",
+        "eng": "WAITROSE Almonds Blanched Whole",
+        "norm": "waitrose whole blanched almonds"
+      },
+      {
+        "uid": "e1356f9aac9fe7dbd218863f7734e349",
+        "eng": "WAITROSE Sesame Seeds",
+        "norm": "waitrose sesame seeds"
+      },
+      {
+        "uid": "d8d45b996007eef0e01b3fb60daadd34",
+        "eng": "WAITROSE Italian Cut Mixed Peel",
+        "norm": "waitrose mixed peel"
+      },
+      {
+        "uid": "54afcd7b8e56b094cd976a5fbe65de70",
+        "eng": "LIBBY'S Pumpkin Solid Pack",
+        "norm": "libbys pumpkin puree"
+      },
+      {
+        "uid": "3e71a1708a8c09f0ea882a4385c6225c",
+        "eng": "BLACK & GOLD Lemon Juice",
+        "norm": "black & gold lemon juice"
+      },
+      {
+        "uid": "bad5f8876651fd453ae6bcdc59bd3a63",
+        "eng": "BLUE DIAMOND Almond Sliced",
+        "norm": "blue diamond sliced almonds"
+      },
+   
+      {
+        "uid": "645bbd004c9aa98a025f0868b35b592b",
+        "eng": "NISSIN Nfm0038 Soft Panko Brand Rumb",
+        "norm": "nissin panko breadcrumbs"
+      },
+      {
+        "uid": "0a13531218de1988b72cf40f95e216ff",
+        "eng": "GOLDEN CHURN Golden Churn Pure Creamery Butter",
+        "norm": "golden churn butter"
+      },
+      {
+        "uid": "a717a31500602e059d5d6db74ee97b91",
+        "eng": "WAITROSE Panko Breadcrumbs",
+        "norm": "waitrose panko breadcrumbs"
+      },
+      {
+        "uid": "3f0dc7e8d9c920ff72c8fa93b5d33df3",
+        "eng": "IDEAL Bread Crumbs",
+        "norm": "ideal breadcrumbs"
+      },
+      {
+        "uid": "dd71901d92bfdf8f5171ace7f8cd6531",
+        "eng": "\" NIPPON\" Bread Crumbs",
+        "norm": "nippon breadcrumbs"
+      },
+      {
+        "uid": "318e60c152c33cc9a44b6ed920b69316",
+        "eng": "DIAMOND Bread Crumbs",
+        "norm": "diamond bread crumbs"
+      }
+    ]
+  
